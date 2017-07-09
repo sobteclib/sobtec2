@@ -1,2 +1,2 @@
 # sobtec2
-Book: Technological Sovereignity, volume 1
+Book: Technological Sovereignity, volume 2
