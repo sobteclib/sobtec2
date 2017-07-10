@@ -70,11 +70,9 @@ Para que ésta tecno-semilla brotara hubo que situarse en un terreno fértil con
 
 Hasta 1992 el estado mexicano no reconoció el derecho de los pueblos originarios a regirse por “usos y costumbres”. En 1994, cuando el movimiento neo-zapatista salió a la luz pública subvirtiendo la idea marxista de revolución nacional con una revolución por la autonomía, se reconoció a nivel mundial las reivindicaciones de autogobierno de los pueblos originarios del sur este mexicano con la creación y usos creativos y tácticos de las tecnologías de comunicación para estos fines. Para entender mejor esta última idea, volvamos al principio de esta historia, a nuestro cartel de bienvenida:
 
-"En esta comunidad no existe la propiedad privada.
-
-PROHIBIDA la compra-venta de terrenos comunales.
-
-Atentamente El Comisariado de Bienes Comunales de Ixtlan de Juárez".
+    "En esta comunidad no existe la propiedad privada.
+    PROHIBIDA la compra-venta de terrenos comunales.
+    Atentamente El Comisariado de Bienes Comunales de Ixtlan de Juárez".
 
 No se trata de una declaración de soberanía sino de autonomía. Aquí la construcción del poder no es desde la soberanía del pueblo, sino que es un poder que emana del territorio, ese bien común, donde no cabe la propiedad privada y donde las tecnologías tienen el papel de fortalecer esa autonomía, ese es el único mandato que debe respetar y defender la asamblea comunitaria.
 

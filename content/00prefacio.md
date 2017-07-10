@@ -1,4 +1,4 @@
-Soberanía tecnológica. ¿De qué estamos hablando?
+Soberanía tecnológica: ¿De qué estamos hablando?
 ================================================
 
 [*Margarita Padilla*](mailto:mpadilla@sindominio.net)
