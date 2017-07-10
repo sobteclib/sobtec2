@@ -1,7 +1,6 @@
 # Développons l’informatique paysanne, élevons des chatons
 
-Introduction
-------------
+## Introduction
 
 Ces dernières années, nous avons constaté une centralisation des usages
 du net entre un nombre très limité de fournisseurs de services en ligne
@@ -24,8 +23,7 @@ l’association Framasoft[^3] a vaillamment entrepris de « dégoogliser »
 Internet[^4] et d’essaimer cette initiative pour que nous puissions
 « reprendre le contrôle »[^5].
 
-Les dangers
------------
+## Les dangers
 
 ### Espionnage
 
@@ -108,8 +106,7 @@ sont des « boîtes noires » qui peuvent agir de façon malveillante
 Bref, ces sociétés nous enferment dans des cages dorées, certes, mais
 des cages malgré tout !
 
-Dégooglisons Internet
----------------------
+## Dégooglisons Internet
 
 Framasoft, à travers l’initiative « Degooglisons Internet », souhaite
 faire face à ces dangers menaçant nos vies numériques en proposant des
@@ -186,8 +183,7 @@ l’essaimage du code et diversifie les usages.
 Framasoft s’engage également à faciliter l’auto-hébergement et
 l’interopérabilité, afin de ne pas « enfermer » ses utilisateurs.
 
-Le projet C.H.A.T.O.N.S.
-------------------------
+## Le projet C.H.A.T.O.N.S.
 
 Face au succès remporté par sa campagne de degooglisation d’Internet,
 Framasoft a vu le nombre d’utilisateurs de ses services en ligne grimper
@@ -362,7 +358,7 @@ mesure où les convictions de chaque membre ne seront ni examinées ni
 sanctionnées tant qu'elle n'outrepassent pas le cadre législatif en
 vigueur.
 
-### AMIPO, expérience d’un CHATONS en construction à Orléans
+## AMIPO, expérience d’un CHATONS en construction à Orléans
 
 L’Association de Maintien de l’Informatique Paysanne Orléanaises (AMIPO)
 est une déclinaison des “AMAP” françaises (Association d’agriculteurs
@@ -410,11 +406,7 @@ souhaitons ainsi planter un maximum de graines dans la têtes de nos
 condisciples pour que les petits chatons de pixels gambadent sur des
 chemins libres et arborés.
 
-[^1]: Le premier document de Tim Berners-Lee pour persuader le CERN
-    qu’un système hypertexte global était tout à fait intéressant pour
-    le centre de recherche, c’est ce document qui préfigure le World
-    Wide Web que l’on connait aujourd’hui
-    https://www.w3.org/History/1989/proposal-msw.html
+[^1]: Le premier document de Tim Berners-Lee pour persuader le CERN qu’un système hypertexte global était tout à fait intéressant pour le centre de recherche, c’est ce document qui préfigure le World Wide Web que l’on connait aujourd’hui https://www.w3.org/History/1989/proposal-msw.html
 
 [^2]: https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet
 
@@ -426,8 +418,7 @@ chemins libres et arborés.
 
 [^6]: https://degooglisons-internet.org/alternatives
 
-[^7]: Internet libre, ou Minitel 2.0 ? Benjamin Bayart -
-    https://www.youtube.com/watch?v=AoRGoQ76PK8
+[^7]: Internet libre, ou Minitel 2.0 ? Benjamin Bayart. https://www.youtube.com/watch?v=AoRGoQ76PK8
 
 [^8]: https://chatons.org/
 
