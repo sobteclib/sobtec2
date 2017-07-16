@@ -13,6 +13,7 @@
 
 ## Parte 2: Ahondando en características de la soberanía tecnológica
 
+ * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/08leap.md)
  * [IRC, modelo de comunicacion no reapropriado por el capitalismo](content/09irc.md)
  * [Gamification](content/10gamification.md)
  * [Tecnologías apropiadas](content/11apropriadas.md)
