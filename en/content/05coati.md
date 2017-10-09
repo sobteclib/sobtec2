@@ -1,5 +1,5 @@
 ﻿
-# Simultaneous Interpreting Using Radio Frequencies
+# COATI: Simultaneous interpreting using radio frequencies
 
 **COATI – Colectivo para la Autogestión de las Tecnologías de la Interpretación**
 

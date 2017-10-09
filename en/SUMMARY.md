@@ -5,21 +5,20 @@
 
 ## Part 1: Technological sovereignty initiatives
 
- * [COATI: Traduccion simultanea usando radio frecuencias](content/05coati.md)
- * [Plataformas de leaks](content/06leaks.md)
+ * [COATI: Simultaneous interpreting using radio frequencies](content/05coati.md)
+ * [Whistleblowing: A double edged sword](content/06leaks.md)
 
 ## Part 2: Characterising technological sovereignty
 
- * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/08leap.md)
- * [IRC, modelo de comunicacion no reapropriado por el capitalismo](content/09irc.md)
- * [Gamification](content/10gamification.md)
- * [Cooperativas de soberania tecnologica](content/12cooperatives.md)
+ * [Keeping technological sovereignty: The case of Internet Relay Chat](content/09irc.md)
+ * [Digital Governance: Once upon a time...](content/10gamification.md)
+ * [Hacklabs to technological cooperatives](content/12cooperatives.md)
 
 ## Acknowledgements + Contributions
 
- * [Contribuciones](content/13contribuciones.md)
- * [Agradecimientos](content/14agradecimientos.md)
+ * [Contributions](content/13contributions.md)
+ * [Acknowledgements](content/14acknowledgements.md)
 
 * * *
 
- * [Contraportada](content/15contraportada.md)
+ * [Back cover](content/15back.md)
