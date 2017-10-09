@@ -1,4 +1,5 @@
-﻿# Whistleblowing, a double edged sword
+﻿
+# Whistleblowing, a double edged sword
 
 Whistleblowing is an ancient practice that has been called many names and is not ethically bound.  It can be the link between the source and the journalist, or between the snitch and the military.  In both cases, a reserved information goes in the hands of a person considered trustworthy, which transforms this information into an action.  Wikileaks and Snowden have made whistleblowing come back full powered, showing how digital communication can simplify the process and protect the integrity of communications between sources and recipients.  Anonymity and encrypted storage technologies have propelled this revolutionary framing.
 

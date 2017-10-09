@@ -1,4 +1,6 @@
-﻿# Keeping technological sovereignty: The case of Internet Relay Chat
+﻿
+# Keeping technological sovereignty: The case of Internet Relay Chat
+
 ## Maxigas
 
 New technologies sometimes manifest a critique of the existing conditions, but

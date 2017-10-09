@@ -1,4 +1,5 @@
-﻿# Hacklabs to technological cooperatives
+﻿
+# Hacklabs to technological cooperatives
 
 Techno-political collectives mix technical and political concerns.  A perfect
 example is Riseup which defines its mission as a provider of “online

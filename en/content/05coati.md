@@ -1,5 +1,4 @@
-﻿![](logo1.png)
-
+﻿
 # Simultaneous Interpreting Using Radio Frequencies
 
 **COATI – Colectivo para la Autogestión de las Tecnologías de la Interpretación**
