@@ -278,7 +278,7 @@ happily mundane.
 
 [^6]: https://www.youtube.com/watch?v=0jFpPN2xmSI
 
-[^7]: https://es.wikipedia.org/wiki/Singularidad\_tecnol%C3%B3gica
+[^7]: https://es.wikipedia.org/wiki/Singularidad_tecnol%C3%B3gica
 
 [^8]: Amazonians speak about .amazon, https://bestbits.net/amazon/
 
@@ -287,24 +287,24 @@ happily mundane.
 
 [^10]: https://gynepunk.hotglue.me/
 
-[^11]: https://en.wikipedia.org/wiki/Voja\_Antoni%C4%87
+[^11]: https://en.wikipedia.org/wiki/Voja_Antoni%C4%87
 
     https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou
 
     https://hackaday.io/projects/hacker/65061
 
-    https://twitter.com/voja\_antonic?lang=es
+    https://twitter.com/voja_antonic?lang=es
 
 [^12]: https://rverzola.wordpress.com
 
-    https://wiki.p2pfoundation.net/Roberto\_Verzola
+    https://wiki.p2pfoundation.net/Roberto_Verzola
 
 [^13]:
- http://www.eldiario.es/hojaderouter/internet/Onno\_W-\_Purbo-wokbolic-wajanbolic-internet-wifi\_0\_520048966.html
+ http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html
 
      https://twitter.com/onnowpurbo
 
-     https://www.youtube.com/watch?v=b\_7c\_XDmySw - Wokbolik, what's
+     https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's
     that?
 
 [^14]: *Talking to Vula: The Story of the Secret Underground Communications
@@ -316,11 +316,11 @@ happily mundane.
 
 [^15]: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 
-[^16]: https://en.wikipedia.org/wiki/The\_Coconut\_Revolution
+[^16]: https://en.wikipedia.org/wiki/The_Coconut_Revolution
 
 [^17]: https://degooglisons-internet.org
 
-[^18]: https://framabook.org/docs/NRC/Numerique\_ReprendreLeControle\_CC-By\_impress.pdf
+[^18]: https://framabook.org/docs/NRC/Numerique_ReprendreLeControle_CC-By_impress.pdf
 
 [^19]: http://sobtec.cat/
 
@@ -332,7 +332,7 @@ happily mundane.
 
 [^23]: http://latelierpaysan.org/Plans-et-Tutoriels
 
-[^24]:  *Weapons of Math Destruction: How Big Data Increases Inequality
-    and Threatens Democracy*, Cathy O'Neil, 2016.
+[^24]: *Weapons of Math Destruction: How Big Data Increases Inequality
+       and Threatens Democracy*, Cathy O'Neil, 2016.
 
-[^25]:  *http://terminatorstudies.org/map/*
+[^25]: http://terminatorstudies.org/map/
