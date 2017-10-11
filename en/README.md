@@ -160,7 +160,7 @@ For that we must offer more support to the small and medium-sized communities
 that develop appropriated technologies and TS, so that they can continue to
 provide technologies to those communities that need them.  Technologies that
 are as beautiful and unique as multicoloured butterflies.  A powerful example
-of that is the work of *Atelier Paysan* [^23] (‘the farmer's workshop’), a
+of that is the work of *Atelier Paysan* [^23] (“the farmer's workshop”), a
 network of farmers that has spent years designing machines to work the land
 and the fields, exchanging their designs and knowledge.
 
@@ -258,23 +258,15 @@ capitalism we must imagine futures that are not dystopian, futures where
 playing at creating our appropriated technologies is something common and
 happily mundane.
 
-[^1]: Speculative fiction workshop on feminist technologies, organised by
-    Cooptecniques during the 2017 edition of *Hack the Earth* in Calafou
-    (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
+[^1]: Speculative fiction workshop on feminist technologies, organised by Cooptecniques during the 2017 edition of *Hack the Earth* in Calafou (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
 
-[^2]: *Octavia's Brood: Science Fiction Stories from Social Justice
-    Movements*, Walidah Imarisha, adrienne maree brown, editors.
+[^2]: *Octavia's Brood: Science Fiction Stories from Social Justice Movements*, Walidah Imarisha, adrienne maree brown, editors.
 
-[^3]: *Sal de la maquina. Superar la adicción a las nuevas tecnologías*,
-    Sergio Legaz, author and Miguel Brieva, artist and member of the editorial
-    council of *Libros en acción*.
+[^3]: *Sal de la maquina. Superar la adicción a las nuevas tecnologías*, Sergio Legaz, author and Miguel Brieva, artist and member of the editorial council of *Libros en acción*.
 
 [^4]: https://www.youtube.com/watch?v=vNWAFApQDIc
 
-[^5]: Translators Note: La Bruja Avería (“The breakdown witch”) is a character
-    from the 1980s Spanish children's TV show *La Bola de Cristal* (The Crystal
-    Ball) which contained frequent puns abour electronics and anticapitalist
-    slogans.
+[^5]: Translators Note: La Bruja Avería (“The breakdown witch”) is a character from the 1980s Spanish children's TV show *La Bola de Cristal* (The Crystal Ball) which contained frequent puns abour electronics and anticapitalist slogans.
 
 [^6]: https://www.youtube.com/watch?v=0jFpPN2xmSI
 
@@ -282,37 +274,17 @@ happily mundane.
 
 [^8]: Amazonians speak about .amazon, https://bestbits.net/amazon/
 
-[^9]: Foxconn, The Machine is Your Lord and Your Master,
-    https://agone.org/centmillesignes/lamachineesttonseigneurettonmaitre/
+[^9]: Foxconn, The Machine is Your Lord and Your Master, https://agone.org/centmillesignes/lamachineesttonseigneurettonmaitre/
 
 [^10]: https://gynepunk.hotglue.me/
 
-[^11]: https://en.wikipedia.org/wiki/Voja_Antoni%C4%87
+[^11]: https://en.wikipedia.org/wiki/Voja_Antoni%C4%87,     https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou, https://hackaday.io/projects/hacker/65061, https://twitter.com/voja_antonic?lang=es, 
 
-    https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou
+[^12]: https://rverzola.wordpress.com, https://wiki.p2pfoundation.net/Roberto_Verzola
 
-    https://hackaday.io/projects/hacker/65061
+[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html , https://twitter.com/onnowpurbo ,   https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's that?
 
-    https://twitter.com/voja_antonic?lang=es
-
-[^12]: https://rverzola.wordpress.com
-
-    https://wiki.p2pfoundation.net/Roberto_Verzola
-
-[^13]:
- http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html
-
-     https://twitter.com/onnowpurbo
-
-     https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's
-    that?
-
-[^14]: *Talking to Vula: The Story of the Secret Underground Communications
-    Network of Operation Vula,* Tim Jenkin, 1995.  *The Vula Connection*,
-    documentary film about the story of Operation Vula, 2014:
-    https://www.youtube.com/watch?v=zSOTVfNe54A
-
-    Escape from Pretoria Prison: https://www.youtube.com/watch?v=0WyeAaYjlxE
+[^14]: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula,* Tim Jenkin, 1995.  *The Vula Connection*, documentary film about the story of Operation Vula, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A . Escape from Pretoria Prison: https://www.youtube.com/watch?v=0WyeAaYjlxE
 
 [^15]: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 
