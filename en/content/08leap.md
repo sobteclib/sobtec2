@@ -1,4 +1,6 @@
-﻿# Encrypting mails with usable tools: The mass adoption of encryption technologies
+﻿
+# Encrypting mails with usable tools: The mass adoption of encryption technologies
+
 ## Kali Kaneko
 
 Encryption is the application of mathematics to ensure that our information is
@@ -296,80 +298,32 @@ engage in the global conversation and raise your voice.
 
 Take care! I look forward to reading you securely in the intertubes.
 
-## References
+[^0]: There are several different properties that crytographic encryption solutions traditionally aspire to provide.  *Confidentiality* is obtained by encrypting messages, which in plain English means scrabbling them in order to avoid third parties (like a government, corporation or malicious person) to recover the content and read them.  *Authentication* is done by signing the content on one end and verifying the signatures on the other end to make sure that the message was really sent by the claimed author.  The way the encryption is done also allows to preserve content *integrity*, ensuring that no third party could change the message in transit.
 
-[^0] There are several different properties that crytographic encryption
-solutions traditionally aspire to provide.  *Confidentiality* is obtained by
-encrypting messages, which in plain English means scrabbling them in order to
-avoid third parties (like a government, corporation or malicious person) to
-recover the content and read them.  *Authentication* is done by signing the
-content on one end and verifying the signatures on the other end to make sure
-that the message was really sent by the claimed author.  The way the
-encryption is done also allows to preserve content *integrity*, ensuring that
-no third party could change the message in transit.
+[^1]: In the Cold War, the USA and its allies developed an elaborate series of export control regulations designed to prevent a wide range of Western technology from falling into the hands of others, particularly the Soviet bloc.  Export controls on encryption became a matter of public debate with the introduction of the personal computer.  Zimmermann’s PGP and its distribution on the internet in 1991 was considered the first major ‘individual level’ challenge to cryptography export controls, although ultimately, the popularization of e-commerce probably did play a much bigger role in the outcome.  https://en.wikipedia.org/wiki/Crypto_Wars
 
-[^1] In the Cold War, the USA and its allies developed an elaborate series of
-export control regulations designed to prevent a wide range of Western
-technology from falling into the hands of others, particularly the Soviet
-bloc.  Export controls on encryption became a matter of public debate with the
-introduction of the personal computer.  Zimmermann’s PGP and its distribution
-on the internet in 1991 was considered the first major ‘individual level’
-challenge to cryptography export controls, although ultimately, the
-popularization of e-commerce probably did play a much bigger role in the
-outcome.  https://en.wikipedia.org/wiki/Crypto_Wars
+[^2]: When Snowden first tried to contact the Guardian journalist Glenn Greenwald, cryptography hackers and privacy activists collectively experienced a harsh reality check that punched our little Web of Bubble: no security is effective without usability.  If an NSA analyst is forced to craft awful videos in order to teach a journalist how to install a tool called gpg4win, downloaded from an ugly website, do some scary copy/pastes and other such delights [shown in the 12 minute video]:(http://www.dailymail.co.uk/embed/video/1094895.html), we can strongly conclude that the usability, and general state of email encryption is **terribly broken**.  So, more than ten years after the seminal article, we can affirm that sadly, [Johnny cannot yet encrypt]:(https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf).
 
-[^2] When Snowden first tried to contact the Guardian journalist Glenn
-Greenwald, cryptography hackers and privacy activists collectively experienced
-a harsh reality check that punched our little Web of Bubble: no security is
-effective without usability.  If an NSA analyst is forced to craft awful
-videos in order to teach a journalist how to install a tool called gpg4win,
-downloaded from an ugly website, do some scary copy/pastes and other such
-delights
-[shown in the 12 minute video](http://www.dailymail.co.uk/embed/video/1094895.html),
-we can strongly conclude that the usability, and general state of email
-encryption is **terribly broken**.  So, more than ten years after the seminal
-article, we can affirm that
-sadly,
-[Johnny cannot yet encrypt](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf).
+[^3]: In other words: the long death of Jabber/XMPP.  It’s frustrating how, over and over again, the fragmentation of an open ecosystem leads to centralized solutions.  One can understand Signal developer and crypto anarchist Moxie Marlinspike’s rants against federation only in terms of the desire of deploying updates to millions of users without waiting for the long tail and the distributed consensus to catch up.  In the mobile messaging world Signal is right now the best thing we have, but it still represents a failure of the technosocial processes that prevented the open federation of communication infrastructures from becoming a reality today.
 
-[^3] In other words: the long death of Jabber/XMPP.  It’s frustrating how,
-over and over again, the fragmentation of an open ecosystem leads to
-centralized solutions.  One can understand Signal developer and crypto
-anarchist Moxie Marlinspike’s rants against federation only in terms of the
-desire of deploying updates to millions of users without waiting for the long
-tail and the distributed consensus to catch up.  In the mobile messaging world
-Signal is right now the best thing we have, but it still represents a failure
-of the technosocial processes that prevented the open federation of
-communication infrastructures from becoming a reality today.
+[^4]: And with the phone, the policy of mandatory real-name registration.  This practice is enforced by telecommuncations companies on behalf of states that pass anti-anonymity laws.
 
-[^4] And with the phone, the policy of mandatory real-name registration.  This
-practice is enforced by telecommuncations companies on behalf of states that
-pass anti-anonymity laws.
+[^5]: http://codev2.cc/download%2Bremix/Lessig-Codev2.pdf
 
-[^5] http://codev2.cc/download%2Bremix/Lessig-Codev2.pdf
+[^6]: Projects like [Pond]:(https://github.com/agl/pond), [Retroshare]:(http://retroshare.us/) or [Secushare]:(http://secushare.org/) might be good insights into what a post-email secure, distributed standard might look like.  Note that the Pond author recommends using the Signal app for practical purposes until his own software is more polished and reviewed.
 
-[^6] Projects
-like [Pond](https://github.com/agl/pond), [Retroshare](http://retroshare.us/)
-or [Secushare](http://secushare.org/) might be good insights into what a
-post-email secure, distributed standard might look like.  Note that the Pond
-author recommends using the Signal app for practical purposes until his own
-software is more polished and reviewed.
+[^7]: See, for instance [The Value of Online Privacy]:(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311) and [What is Privacy Worth?]:(https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf)
 
-[^7] See, for
-instance
-[The Value of Online Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311) and
-[What is Privacy Worth?](https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf)
+[^8]: https://github.com/micahflee/trollwot
 
-[^8] https://github.com/micahflee/trollwot
+[^9]: https://downloads.leap.se/publications/cans2016.pdf
 
-[^9] https://downloads.leap.se/publications/cans2016.pdf
+[^10]: https://mailpile.is
 
-[^10] https://mailpile.is
+[^11]: https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
 
-[^11] https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
-
-[^12] https://mailvelope.com
+[^12]: https://mailvelope.com
  
-[^13] https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
+[^13]: https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
 
-[^14] https://github.com/OpenTechFund/secure-email
+[^14]: https://github.com/OpenTechFund/secure-email

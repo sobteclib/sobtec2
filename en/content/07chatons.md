@@ -15,7 +15,7 @@ accumulation of information about us gives them immense power, turning us into
 many and complex: generalised surveillance, artificial intelligences fed by
 “*big data”*, the end of anonymity and private life, brakes on freedom of
 expression and access to information, censorship or loss of data following the
-closure of a service...  Fortunately, a band of irascible Gauls, meeting
+closure of a service…  Fortunately, a band of irascible Gauls, meeting
 around the Association Framasoft [^3] is bravely trying to “*de-googlize”* the
 Internet [^4] and extend this initiative so that we can “retake control” [^5].
 
@@ -83,8 +83,8 @@ your files if Dropbox were to close tomorrow?) and of your ability to switch
 easily between services (how would you recover your data from Facebook or
 Picasa and import it, with all the adjoining comments, into another service?).
 
-For applications, this means that **you are completely at the mercy of your
-service provider** when it comes to proliferation of advertisements, changes
+For applications, this means that you are completely at the mercy of your
+service provider when it comes to proliferation of advertisements, changes
 to the user interface, etc., and that you have hardly any control over the way
 an application works.  It is a “black box” that can exhibit malicious
 behaviour (sending spam SMS without your knowledge, executing malicious code,
@@ -240,11 +240,11 @@ reliability of the proposed services and build user trust.  The General Use
 Conditions should be perfectly clear, accessible and non-contradictory with
 the KITTENS charter.
 
-The host should implement a transparent user account management policy,
+ * The host should implement a transparent user account management policy,
 without discrimination, whether access is free or paid for.  It must respect
 the jurisdiction of the country in question.
 
-The host commits to allow all users to recover their personal data, encrypted
+ * The host commits to allow all users to recover their personal data, encrypted
 or not, except in the case of particular services based on the the momentary
 transfer of encrypted personal data. 
 
