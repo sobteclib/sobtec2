@@ -237,15 +237,13 @@ the Pandora’s box you want to open?
 
 [^2]: https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
 
-[^3]:
-https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
+[^3]: https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
 
 [^4]: In 2012, Paolo Gabriele and Claudio Sciarpelletti, working for the Pope, fed journalists with internal and reserved documents about the Vatican management.  This lead to Pope Benedict XVI to step down (an event that was not happening since 600 years).
 
 [^5]: GlobaLeaks https://globaleaks.org and SecureDrop https://securedrop.org
 
-[^6]:
-https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridiculous-rationale-for-publishing-the-trump-russia-dossier
+[^6]: https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridiculous-rationale-for-publishing-the-trump-russia-dossier
 
 [^7]: https://en.wikipedia.org/wiki/Kompromat
 
@@ -253,11 +251,9 @@ https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridicul
 
 [^9]: https://wildleaks.org/leaks-and-reports/
 
-[^10]:
-https://www.theguardian.com/world/2015/may/29/couchsurfing-rapist-dino-maglio-italian-police-officer-rape-padua
+[^10]: https://www.theguardian.com/world/2015/may/29/couchsurfing-rapist-dino-maglio-italian-police-officer-rape-padua
 
 [^11]: https://www.thenation.com/article/simona-levi/
 
-[^12]:
-https://www.occrp.org/en/daily/3776-mexicoleaks-journalists-fired-after-joining-whistleblowing-alliance
+[^12]: https://www.occrp.org/en/daily/3776-mexicoleaks-journalists-fired-after-joining-whistleblowing-alliance
 
