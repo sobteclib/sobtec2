@@ -1,9 +1,8 @@
-﻿
-# COATI: Simultaneous interpreting using radio frequencies
+﻿# COATI: Simultaneous interpreting using radio frequencies
 
-**COATI – Colectivo para la Autogestión de las Tecnologías de la Interpretación**
+## COATI: Colectivo para la Autogestión de las Tecnologías de la Interpretación
 
-## Introduction
+coati@pimienta.org
 
 > *“International solidarity and global protest is nothing new. From the European-wide revolutions of 1848, through the upheavals of 1917-18 following the Russian Revolution, to the lightning flashes of resistance nearly everywhere in 1968, struggle has always been able to communicate and mutually inspire globally. But what is perhaps unique to our times is the speed and ease with which we can communicate between struggles and the fact that globalisation has meant that many people living in very different cultures across the world now share a common enemy.”* – Do or Die, Issue 8, 1999
 
@@ -91,9 +90,4 @@ Since the Spider project went online, we have run a number of electronics worksh
 
 Sovereignty in interpreting technology has come to mean many things to us.  In the first instance, in order to extend access to interpreting technologies to resistance movements, it was necessary to reduce the costs, and develop high-quality alternative solutions that really work and are sustainable in the long-term.  However, that was not the only challenge.  A lot of political work still needs to be done to overcome people's resistance to using interpreting technology to open our meetings and gatherings up for speakers of other languages to participate on an equal footing.  There is a need to share skills and knowledge about the technical aspects of interpreting and how those can interact with different kinds of facilitation dynamics.  Open-source research and development that aims to maximise technological sovereignty must be accompanied by capacity building and political mobilisation, in order to increase people's awareness of why and how they should use the technology, as well as to empower them to really control and create their own solutions.
 
-For more information about COATI and the work we do please see:
-
-<https://coati.pimienta.org>
-
-Contact: <mailto:coati@pimienta.org>
-
+***For more information about COATI and the work we do please see:*** https://coati.pimienta.org

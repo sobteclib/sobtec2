@@ -53,8 +53,8 @@ desires, in order to be able to shape them.
 | **Example** | Audience measurement, Google Analytics, advertising tabs | Google PageRank, Digg, Wikipedia  | Number of friends on Facebook, Retweets on Twitter, notes and opinions | Recommendations on Amazon, behaviour based advertising | 
 | **Data** | Visits | Relationships | Likes | Tracking |
 | **Population** | Representative samples | Votes census, communities | Social networks, affinities, declarative | Implicit individual behaviours |
-| **Type of calculation** | Vote | Classification by merit | Benchmark | 
-| Principle | Popularity | Authority | Reputation | Prediction | Machine Learning |
+| **Type of calculation** | Vote | Classification by merit | Benchmark | Machine Learning |
+| Principle | Popularity | Authority | Reputation | Prediction | 
 
 *According to Domenique Cardon in “À quoi rêvent les algorithmes”.* [^4]
 
@@ -333,7 +333,7 @@ humans, nature and the inorganic world can cohabit peacefully.
 
 [^1] This title refers to the book by Cathy O’Neil: *Weapons of Math
     Destruction: How Big Data Increases Inequality and Threatens
-    Democracy*. Crown, 6th September 2016.
+    Democracy*. Crown, 2016.
 
 [^2] In this Isaac Asimov futuristic novel, the United States has converted to
     an "electronic democracy" where the computer Multivac selects a single
@@ -344,36 +344,36 @@ humans, nature and the inorganic world can cohabit peacefully.
 
 [^3] https://fr.wikipedia.org/wiki/Bestiaire
 
-[^4] Cardon, Dominique. A quoi rêvent les algorithmes. Nos vies à l’heure: Nos
-    vies à l’heure des big data. Le Seuil, 2015.
+[^4] Dominique Cardon: *A quoi rêvent les algorithmes. Nos vies à l’heure: Nos
+    vies à l’heure des big data*. Le Seuil, 2015.
 
-[^5] Morozov, Evgeny, and Pascale Haas. *Le mirage numérique: Pour une
+[^5] Evgeny Morozov and Pascale Haas: *Le mirage numérique: Pour une
     politique du Big Data*. Les Prairies Ordinaires, 2015.
 
 [^6] http://centenaire-shannon.cnrs.fr/chapter/la-theorie-de-information
 
 [^7] https://fr.wikipedia.org/wiki/PRISM_%28programme_de_surveillance%29
 
-[^8] Terry Gilliam: Brazil (1985) http://www.imdb.com/title/tt0088846/
+[^8] Terry Gilliam: Brazil (1985). http://www.imdb.com/title/tt0088846/
 
-[^9] Cathy O’Neil. Weapons of Math Destruction: How Big Data Increases
-    Inequality and Threatens Democracy. Crown, 6 septembre 2016
+[^9] Cathy O’Neil: *Weapons of Math Destruction: How Big Data Increases
+    Inequality and Threatens Democracy*. Crown, 2016.
 
 [^10] Some days later, he stipulated that the orders should come from the
-    keyboard of the termanal and gave Peterfly a week to disconnect from
-    IBM. In this time, Peterfly contracted engineers to build a camera-eye to
-    read the screen, send the information to the IBM brain where
+    keyboard of the terminal and gave Peterfly a week to disconnect from
+    IBM.  In this time, Peterffy contracted engineers to build a camera-eye to
+    read the screen, and send the information to the IBM brain where
     electromagnetic hands could take the orders and transmit them to the
     terminal via the keyboard.
 
-[^11] Sniper In Mahwah - Anthropology, market structure & the nature of
-    exchanges.  https://sniperinmahwah.wordpress.com/
+[^11] Sniper In Mahwah: Anthropology, market structure & the nature of
+    exchanges. https://sniperinmahwah.wordpress.com/
 
-[^12] The Flash Crash of 6th May 2010 analysed by Nanex :
-    http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html et
+[^12] The Flash Crash of 6th May 2010 analysed by Nanex:
+    http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html and
     https://www.youtube.com/watch?v=E1xqSZy9_4I
 
-[^13] Laumonier Alexandre. 5/6. Zones Sensibles Editions, 2014.
+[^13] Laumonier Alexandre: *5/6*. Zones Sensibles Editions, 2014.
     http://www.zonessensibles.org/livres/6-5/
 
 [^14]
@@ -386,21 +386,20 @@ https://www.washingtonpost.com/news/worldviews/wp/2013/04/23/syrian-hackersclaim
 
 [^16] https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-thetheory.html
 
-[^17] Capitalisation and everyday movements of crypto-currencies
+[^17] Capitalisation and everyday movements of crypto-currencies:
     http://coinmarketcap.com/
 
 [^18] https://www.ethereum.org/
 
 [^19] https://en.wikipedia.org/wiki/The_DAO_%28organization%29
 
-[^20] *Ethereum: Freenet or Skynet?* Primavera De Filippi, Berkman Center
-    Fellow.  https://cyber.harvard.edu/events/luncheon/2014/04/difilippi
+[^20] Primavera De Filippi: “Ethereum: Freenet or Skynet?”. Berkman Center, 2014. https://cyber.harvard.edu/events/luncheon/2014/04/difilippi
 
 [^21] http://www.theverge.com/2016/12/30/14128870/foxconn-robots-automation-appleiphone-china-manufacturing
 
 [^22] https://www.washingtonpost.com/news/innovations/wp/2016/05/16/meet-ross-thenewly-hired-legal-robot/
 
-[^23] Bernard Stiegler. *La Société automatique. L'avenir du travail.* Fayard, 2015.
+[^23] Bernard Stiegler: *La Société automatique. L'avenir du travail.* Fayard, 2015.
 http://www.philomag.com/les-livres/fiche-de-lecture/la-societe-automatique-1lavenir-du-travail-11454
 
 [^24] https://www.google.com/recaptcha/intro/index.html
@@ -412,20 +411,19 @@ http://www.philomag.com/les-livres/fiche-de-lecture/la-societe-automatique-1lave
 [^27]
 https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf
 
-[^28] A 61-million-person experiment in social influence and political mobilization
+[^28] A 61-million-person experiment in social influence and political mobilization:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
 
 [^29] https://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique
 
-[^30] Antoinette Rouvroy and Thomas Berns. "Gouvernementalité algorithmique et
+[^30] Antoinette Rouvroy and Thomas Berns: “Gouvernementalité algorithmique et
     perspectives d'émancipation: Le disparate comme condition d'individuation
-    par la relation?" Politics of algoritms. Web-metrics. *RESEAUX*, Vol.31,
-    n.177, pp. 163-196 (2013) Available at:
-    http://works.bepress.com/antoinette_rouvroy/47/
+    par la relation?”. Politics of algorithms.  Web-metrics.  *RESEAUX*, Vol.31,
+    n.177, pp. 163-196 (2013). http://works.bepress.com/antoinette_rouvroy/47/
 
 [^31] ifapa.me is a collective dedicated to research and subvert the effects
     of mathematization and quantification of daily life in necrocapitalist
-    societies. http://www.ifapa.me/
+    societies: http://www.ifapa.me/
 
 [^32] https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racialbias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973c5efb7ccfb0d_story.html?utm_term=.b7f5ab5df1f9
 
@@ -435,7 +433,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
 
 [^35] http://internetactu.blog.lemonde.fr/2017/01/21/peut-on-armer-la-transparencede-linformation/
 
-[^36] Documentary “Le secret des 7 soeurs”
+[^36] Documentary “Le secret des 7 soeurs”:
 http://secretdes7soeurs.blogspot.fr/
 
 [^37] http://www.fatml.org/resources/principles-for-accountable-algorithms
@@ -448,7 +446,7 @@ http://secretdes7soeurs.blogspot.fr/
 
 [^41] https://www-direction.inria.fr/actualite/actualites-inria/transalgo
 
-[^42] The Internet Engineering Task Force (IETF) http://www.ietf.org/
+[^42] The Internet Engineering Task Force (IETF): http://www.ietf.org/
 
 [^43] http://degooglisons-internet.org/
 

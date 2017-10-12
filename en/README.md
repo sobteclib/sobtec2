@@ -304,6 +304,6 @@ happily mundane.
 
 [^23]: http://latelierpaysan.org/Plans-et-Tutoriels
 
-[^24]: *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, Cathy O'Neil, 2016.
+[^24]: Cathy O'Neil: *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016.
 
 [^25]: http://terminatorstudies.org/map/
