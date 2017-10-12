@@ -260,6 +260,8 @@ understanding work, the commons, sustainability and economy.
 
 [^0]: As a reminder, free technologies, in a nutshell, are the technologies and services based on the freedom given by free/libre software and it’s philosophy:
 
+    foo bar baz
+
 * **Freedom 0**: The freedom to run the program for any purpose.
 
 * **Freedom 1**: The freedom to study how the program works, and change it to make it do what you wish.
