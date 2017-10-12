@@ -1,7 +1,7 @@
 ﻿
 # COATI: Simultaneous interpreting using radio frequencies
 
-## COATI: Colectivo para la Autogestión de las Tecnologías de la Interpretación
+## Colectivo para la Autogestión de las Tecnologías de la Interpretación
 
 coati@pimienta.org
 
@@ -92,3 +92,22 @@ Since the Spider project went online, we have run a number of electronics worksh
 Sovereignty in interpreting technology has come to mean many things to us.  In the first instance, in order to extend access to interpreting technologies to resistance movements, it was necessary to reduce the costs, and develop high-quality alternative solutions that really work and are sustainable in the long-term.  However, that was not the only challenge.  A lot of political work still needs to be done to overcome people's resistance to using interpreting technology to open our meetings and gatherings up for speakers of other languages to participate on an equal footing.  There is a need to share skills and knowledge about the technical aspects of interpreting and how those can interact with different kinds of facilitation dynamics.  Open-source research and development that aims to maximise technological sovereignty must be accompanied by capacity building and political mobilisation, in order to increase people's awareness of why and how they should use the technology, as well as to empower them to really control and create their own solutions.
 
 ***For more information about COATI and the work we do please see:*** https://coati.pimienta.org
+
+[^telephone]: http://www.pri.org/stories/2014-09-29/how-do-all-those-leaders-un-communicate-all-those-languages
+
+[^online]: All the modifications and schematics we use can be seen here:
+https://coati.pimienta.org/electronics
+
+[^multi-lingual]: Our written guidelines can be consulted here:
+https://coati.pimienta.org/documents/
+
+[^Romania]: Grai Collective, Romania: grai@riseup.net
+
+[^Poland]: Klekta Collective, Poland: klekta@riseup.net
+
+[^Bla]: Bla Collective (international): https://bla.potager.org 
+
+
+
+
+
