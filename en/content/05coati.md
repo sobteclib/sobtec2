@@ -19,7 +19,7 @@ Interpreting between two languages is an art as ancient as languages themselves 
 
 ## A history of alternative interpreting technologies
 
-The first attempt to use technology to facilitate this type of interpreting seems to have been at the Nuremberg trials after the Second World War, using a system based on the telephone [^telephone].  Since then, the technology, usually based on infrared transmission, has developed alongside international organisations such as the UN and the EU.  It is now very advanced, but extremely expensive and out of reach for most activist spaces and social movements.  Even if an event can afford to hire some equipment, the costs soon become astronomical if you want to work at any kind of scale.
+The first attempt to use technology to facilitate this type of interpreting seems to have been at the Nuremberg trials after the Second World War, using a system based on the telephone [^1].  Since then, the technology, usually based on infrared transmission, has developed alongside international organisations such as the UN and the EU.  It is now very advanced, but extremely expensive and out of reach for most activist spaces and social movements.  Even if an event can afford to hire some equipment, the costs soon become astronomical if you want to work at any kind of scale.
 
 The European and World Social Forums (ESF and WSF) that took place between 2001 and 2010 were international events on a massive scale, with up to 100,000 participants and hundreds of parallel meetings every day.  Initially, interpretation was very limited, due to costs, but some people quickly realised the importance of languages to the political process.  Babels, a network of volunteer interpreters, was born.
 
@@ -43,7 +43,7 @@ The first challenge was to overcome resistance to using alternative technologies
 
 An important part of the solution was simply treating the technology as an important issue.  We trained ourselves.  Wherever our equipment went, there was always a dedicated person responsible for operating it.  Many of the problems of the past were caused by alternative technology being treated as an afterthought so that no one had time to ensure it was working well.  We learnt as we went along.  We devoted a lot of time to identifying the causes of problems and modifying the equipment, adding small circuits to filter and boost signals, and improve the quality of the sound.
 
-The material built by the Greek collective came with no schematics, which was made this considerably harder.  Hours of reverse engineering were required before we could make modifications.  Now the equipment is almost 10 years old and we are beginning to face the challenge of designing and building new, open-source consoles from scratch.  We are very aware of the value of open-source design, and all of the electronic work we have done is fully documented and available online [^online].
+The material built by the Greek collective came with no schematics, which was made this considerably harder.  Hours of reverse engineering were required before we could make modifications.  Now the equipment is almost 10 years old and we are beginning to face the challenge of designing and building new, open-source consoles from scratch.  We are very aware of the value of open-source design, and all of the electronic work we have done is fully documented and available online [^2].
 
 ### Making people work with alternative technology
 
@@ -59,7 +59,7 @@ A large part of our work is therefore helping movements to build the capacity fo
 
 ### Speaking for interpreters
 
-Another important part of changing the political culture has been to raise the profile of language diversity among participants in international events.  Wherever we work we try to give a political and practical introduction to the equipment, and provide written guidelines on how to speak in multi-lingual meetings [^multi-lingual].  We encourage people to actively think about the language they use.  For example, we ask participants not to speak the majority language during the meeting, even if they could, because it marginalises those who have to rely on the interpreting, leaving them feeling embarrassed, uncultured, and consequently, less inclined to take part.  We have experimented with subverting the invisible interpreting model, placing the booths centre-stage and having speakers speak from the floor, thus making everyone aware of the processes involved.
+Another important part of changing the political culture has been to raise the profile of language diversity among participants in international events.  Wherever we work we try to give a political and practical introduction to the equipment, and provide written guidelines on how to speak in multi-lingual meetings [^3].  We encourage people to actively think about the language they use.  For example, we ask participants not to speak the majority language during the meeting, even if they could, because it marginalises those who have to rely on the interpreting, leaving them feeling embarrassed, uncultured, and consequently, less inclined to take part.  We have experimented with subverting the invisible interpreting model, placing the booths centre-stage and having speakers speak from the floor, thus making everyone aware of the processes involved.
 
 ### Designing flexible solutions to meet political needs
 
@@ -81,11 +81,11 @@ Compared to FM radio or other wireless transmissions, Spiders are cheap and very
 
 Years of experience went into developing and producing our own open-source version of the Spider, with many improvements, such as modular extensions you can use to add listeners in groups of up to twelve.
 
-We build our Spiders by hand, for our own use and for sale.  We also sell make-your-own kits at cost price.  All the schematics, parts references and complete building instructions are published online [^online] under the GNU General Public License.
+We build our Spiders by hand, for our own use and for sale.  We also sell make-your-own kits at cost price.  All the schematics, parts references and complete building instructions are published online [^2] under the GNU General Public License.
 
 ## Training new tech collectives
 
-Since the Spider project went online, we have run a number of electronics workshops, training people to build their own spiders.  We also know of at least one group, in Ukraine, that has built Spiders without any contact with us.  We invite technicians from other groups to join us at large events and see how the technology works in the field.  We have taken part in a number of skill-sharing weekends, helping new groups to get started.  We have participated in the creation of new collectives using Spiders and inventing their own interpreting solutions in Romania [^Romania] and Poland [^Poland], as well as an international collective, Bla [^Bla], which has Spiders and small radio kits that travel to different events around Europe.
+Since the Spider project went online, we have run a number of electronics workshops, training people to build their own spiders.  We also know of at least one group, in Ukraine, that has built Spiders without any contact with us.  We invite technicians from other groups to join us at large events and see how the technology works in the field.  We have taken part in a number of skill-sharing weekends, helping new groups to get started.  We have participated in the creation of new collectives using Spiders and inventing their own interpreting solutions in Romania [^4] and Poland [^5], as well as an international collective, Bla [^6], which has Spiders and small radio kits that travel to different events around Europe.
 
 ## Conclusions
 
@@ -93,19 +93,19 @@ Sovereignty in interpreting technology has come to mean many things to us.  In t
 
 ***For more information about COATI and the work we do please see:*** https://coati.pimienta.org
 
-[^telephone]: http://www.pri.org/stories/2014-09-29/how-do-all-those-leaders-un-communicate-all-those-languages
+[^1]: http://www.pri.org/stories/2014-09-29/how-do-all-those-leaders-un-communicate-all-those-languages
 
-[^online]: All the modifications and schematics we use can be seen here:
+[^2]: All the modifications and schematics we use can be seen here:
 https://coati.pimienta.org/electronics
 
-[^multi-lingual]: Our written guidelines can be consulted here:
+[^3]: Our written guidelines can be consulted here:
 https://coati.pimienta.org/documents/
 
-[^Romania]: Grai Collective, Romania: grai@riseup.net
+[^4]: Grai Collective, Romania: grai@riseup.net
 
-[^Poland]: Klekta Collective, Poland: klekta@riseup.net
+[^5]: Klekta Collective, Poland: klekta@riseup.net
 
-[^Bla]: Bla Collective (international): https://bla.potager.org 
+[^6]: Bla Collective (international): https://bla.potager.org 
 
 
 
