@@ -1,4 +1,5 @@
-﻿# Whistleblowing: A double edged sword
+﻿
+# Whistleblowing: A double edged sword
 
 Whistleblowing is an ancient practice that has been called many names and is
 not ethically bound.  It can be the link between the source and the
@@ -232,18 +233,14 @@ the Pandora’s box you want to open?
 
 ## References
 
-[^1]: The most inspiring whistleblower of the last years perhaps?
-    https://en.wikipedia.org/wiki/Chelsea_Manning
+[^1]: The most inspiring whistleblower of the last years perhaps? https://en.wikipedia.org/wiki/Chelsea_Manning
 
 [^2]: https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
 
 [^3]:
 https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
 
-[^4]: In 2012, Paolo Gabriele and Claudio Sciarpelletti, working for the Pope,
-    fed journalists with internal and reserved documents about the Vatican
-    management.  This lead to Pope Benedict XVI to step down (an event that
-    was not happening since 600 years).
+[^4]: In 2012, Paolo Gabriele and Claudio Sciarpelletti, working for the Pope, fed journalists with internal and reserved documents about the Vatican management.  This lead to Pope Benedict XVI to step down (an event that was not happening since 600 years).
 
 [^5]: GlobaLeaks https://globaleaks.org and SecureDrop https://securedrop.org
 
