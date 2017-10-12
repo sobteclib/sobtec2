@@ -1,5 +1,7 @@
 ﻿
-# Whistleblowing: A double edged sword
+# Whistleblowing
+
+## A double edged sword
 
 Whistleblowing is an ancient practice that has been called many names and is
 not ethically bound.  It can be the link between the source and the

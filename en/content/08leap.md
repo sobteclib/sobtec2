@@ -1,7 +1,7 @@
 ﻿
 # Encrypting mails with usable tools: The mass adoption of encryption technologies
 
-## Kali Kaneko
+***Kali Kaneko***
 
 Encryption is the application of mathematics to ensure that our information is
 *only* accessible to the persons or machines we decide to share it with.

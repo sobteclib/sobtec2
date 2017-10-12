@@ -3,7 +3,7 @@
 
 ## The case of Internet Relay Chat
 
-**Maxigas**
+***Maxigas***
 
 **New technologies sometimes manifest a critique of the existing conditions, but their empowering affordances are often lost as their features are progressively integrated to the requirements of capitalism during their subsequent development.**  The history of chat devices is a textbook example of critique and recuperation in technological cycles.  However, the social history and contemporary use of IRC (Internet Relay Chat) proves that such historical logic can be – and *is* – resisted in some exceptional cases.  This case study does *not* necessarily recommend IRC as a medium of communication for activists, but rather seeks to put forward some theses on the history of technology that could be found useful in certain situations. [^1]
 

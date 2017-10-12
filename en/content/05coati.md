@@ -1,7 +1,7 @@
 ﻿
 # COATI: Simultaneous interpreting using radio frequencies
 
-## Colectivo para la Autogestión de las Tecnologías de la Interpretación
+***Colectivo para la Autogestión de las Tecnologías de la Interpretación***
 
 coati@pimienta.org
 

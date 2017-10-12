@@ -1,5 +1,4 @@
-Technological Sovereignty: What are we talking about?
-=====================================================
+# Technological Sovereignty: What are we talking about?
 
 ***Margarita Padilla***
 
