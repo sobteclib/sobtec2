@@ -112,19 +112,19 @@ traditions have an already inherently environmental, sustainable and holistic
 foundation.  We need technologies that create well-being, beauty and
 community.
 
-## Re-appropriated Technologies from personal experience
+## Re-appropriated technologies from personal experience
 
 Over the past 10 years I have tried to carry the theory into practice, I have
 adapted and changed my ways, I have created protocols and free licenses that
-defend our Re-appropriated technologies.  I have tried to generate collective
+defend our re-appropriated technologies.  I have tried to generate collective
 workshops where people exchange experiences and skills and which could extend
 to productive activity that will cover basic needs and enrich the communities.
 
-I have discovered an existing market niche for Re-appropriated technologies:
+I have discovered an existing market niche for re-appropriated technologies:
 one way to describe it would be “in order to be productive and sustainable, a
 producer of organic walnuts or almonds has no intermediate solution between a
 nut-cracker and a super machine costing thousands of Euros.  Re-appropriated
-Technologies would occupy that space, adapting to the user and to their
+technologies would occupy that space, adapting to the user and to their
 environment”.
 
 Society as a whole, and the majority of social movements, have not defended

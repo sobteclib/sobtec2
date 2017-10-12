@@ -150,7 +150,7 @@ interactions with the device.  Habitual behaviour is manifested in a cycle.
 
 ## Give us our game back!
 
-We need to approach the concept of cognitive ergonomics ( from ancient Greek
+We need to approach the concept of cognitive ergonomics (from ancient Greek
 “ergon – nomos”, “rules of the labor”): thanks to the digital media, we can
 lower our cognitive load and, for example, and delegate to some device the
 task of remembering all the dates and numbers of our agenda.  A very useful
@@ -265,9 +265,9 @@ not always.  Training is more effective in that buttons will be pressed down
 more frequently if the positive reinforcement is not automatic, but possible
 or probable.  A common example with humans is provided by gamblers at slot
 machines almost everywhere: players know that they will not always win, if
-ever, yet they continue to chip in, because the operant conditioning (I can
-win) is more powerful than immediate frustration (I did not win this
-time).  Behavioural training is perhaps the greatest deceit in gamification,
+ever, yet they continue to chip in, because the operant conditioning (“I can
+win”) is more powerful than immediate frustration (“I did not win this
+time”).  Behavioural training is perhaps the greatest deceit in gamification,
 and it is standard to video games and in fact, any other type of game.
 
 The interaction with digital media needs not necessarily to be limited to a
@@ -346,15 +346,11 @@ behaviors.
 Finally, the fourth step is to compare our stories with those of others.  Very
 often we find that our compulsive habits are very much similar to those of our
 peers, but we also discover that there exists a great many ways to make a
-change - as long as we do really want it.
+change – as long as we do really want it.
 
-[^1]: “The Performance Society”, in Ippolita, In the Facebook Aquarium, INC,
-Amsterdam, 2015, p.  23.
+[^1]: “The Performance Society”, in Ippolita, In the Facebook Aquarium, INC, Amsterdam, 2015, p.  23.
 
-[^2]: Flow, or in the zone / in the groove.  See Mihály Csíkszentmihály, Flow:
-the Psychology of optimal experience, Harper & Row, New York 1990.
+[^2]: Flow, or in the zone / in the groove.  See Mihály Csíkszentmihály, Flow: the Psychology of optimal experience, Harper & Row, New York 1990.
 
-[^3]: A brief introduction can be found in McLeod, S. A. (2015).  Skinner:
-Operant Conditioning.  Retrieved from:
-https://www.simplypsychology.org/operant-conditioning.html The classic work is
-Skinner, B.  F.  (1953).  Science and human behavior.  http://www.bfskinner.org/newtestsite/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf
+[^3]: A brief introduction can be found in S. A. McLeod: Skinner: Operant Conditioning. 2015. https://www.simplypsychology.org/operant-conditioning.html The classic work is B. F. Skinner: Science and human behavior. 1953. http://www.bfskinner.org/newtestsite/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf
+

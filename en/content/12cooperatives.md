@@ -258,18 +258,15 @@ These challenges give a comprehensible vision of the times to come, and the
 creation of these autonomous zones opens possibilities to different ways of
 understanding work, the commons, sustainability and economy.
 
-[^0]: As a reminder, free technologies, in a nutshell, are the technologies
-      and services based on the freedom given by free/libre software and it’s
-      philosophy:
+[^0]: As a reminder, free technologies, in a nutshell, are the technologies and services based on the freedom given by free/libre software and it’s philosophy:
 
-    * **Freedom 0**: The freedom to run the program for any purpose.
-    * **Freedom 1**: The freedom to study how the program works, and change it to
-      make it do what you wish.
-    * **Freedom 2**: The freedom to redistribute and make copies so you can help
-      your neighbour.
-    * **Freedom 3**: The freedom to improve the program, and release your
-      improvements (and modified versions in general) to the public, so that
-      the whole community benefits.
+* **Freedom 0**: The freedom to run the program for any purpose.
+
+* **Freedom 1**: The freedom to study how the program works, and change it to make it do what you wish.
+
+* **Freedom 2**: The freedom to redistribute and make copies so you can help your neighbour.
+
+* **Freedom 3**: The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that the whole community benefits.
 
 [^1]: * http://riseup.net (USA)
     * http://autistici.org (ITA)

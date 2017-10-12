@@ -95,11 +95,9 @@ Sovereignty in interpreting technology has come to mean many things to us.  In t
 
 [^1]: http://www.pri.org/stories/2014-09-29/how-do-all-those-leaders-un-communicate-all-those-languages
 
-[^2]: All the modifications and schematics we use can be seen here:
-https://coati.pimienta.org/electronics
+[^2]: All the modifications and schematics we use can be seen here: https://coati.pimienta.org/electronics
 
-[^3]: Our written guidelines can be consulted here:
-https://coati.pimienta.org/documents/
+[^3]: Our written guidelines can be consulted here: https://coati.pimienta.org/documents/
 
 [^4]: Grai Collective, Romania: grai@riseup.net
 
