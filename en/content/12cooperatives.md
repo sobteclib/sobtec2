@@ -258,71 +258,23 @@ These challenges give a comprehensible vision of the times to come, and the
 creation of these autonomous zones opens possibilities to different ways of
 understanding work, the commons, sustainability and economy.
 
-[^0]: As a reminder, free technologies, in a nutshell, are the technologies and services based on the freedom given by free/libre software and it’s philosophy:
+[^0]: As a reminder, free technologies, in a nutshell, are the technologies and services based on the freedom given by free/libre software and it’s philosophy.  **Freedom 0**: The freedom to run the program for any purpose.  **Freedom 1**: The freedom to study how the program works, and change it to make it do what you wish.  **Freedom 2**: The freedom to redistribute and make copies so you can help your neighbour.  **Freedom 3**: The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that the whole community benefits.
 
-    foo bar baz
+[^1]: http://riseup.net (USA), http://autistici.org (ITA), http://www.free.de/ (GER), http://so36.net (GER), https://www.boum.org/ (FR), http://nodo50.org (ESP), http://pangea.org/ (ESP), https://www.immerda.ch/ (CH), https://mayfirst.org(USA)
 
-* **Freedom 0**: The freedom to run the program for any purpose.
+[^2]: https://github.com/AyuntamientoMadrid/consul  https://github.com/AjuntamentdeBarcelona/decidim
 
-* **Freedom 1**: The freedom to study how the program works, and change it to make it do what you wish.
+[^3]: Candela: https://github.com/amnesty/candela ; Gong: https://gong.org.es/projects/gor ; Oigame: https://github.com/alabs/oigame ; Nolotiro: https://github.com/alabs/nolotiro.org ;  Mecambio: http://www.mecambio.net/
 
-* **Freedom 2**: The freedom to redistribute and make copies so you can help your neighbour.
+[^4]: Dabne: http://dabne.net ; Xsto.info: http://xsto.info/ ; aLabs: https://alabs.org/ ; Semilla del software libre: http://semillasl.net/ ; Enreda: http://enreda.coop/ ; Gnoxys: http://gnoxys.net/ ; Grupo Ikusnet
 
-* **Freedom 3**: The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that the whole community benefits.
+[^5]: Some of the projects: http://sindominio.net (ES); http://autistici.org (IT); http://samizdat.net/ (FR); http://espora.org (MX); http://thing.net (USA)
 
-[^1]: * http://riseup.net (USA)
-    * http://autistici.org (ITA)
-    * http://www.free.de/ (GER)
-    * http://so36.net (GER)
-    * https://www.boum.org/(FR)
-    * http://nodo50.org (ESP)
-    * http://pangea.org/ (ESP)
-    * https://www.immerda.ch/ (CH)
-    * https://mayfirst.org(USA)
+[^6]: http://coop57.coop/ ; http://www.economiasolidaria.org ; https://madrid.mercadosocial.net/ ; http://tangente.coop/
 
-[^2]: * https://github.com/AyuntamientoMadrid/consul
-    * https://github.com/AjuntamentdeBarcelona/decidim
+[^7]: Asolif: http://www.asolif.es/ ; Esle: http://esle.eus/ ; Olatukoop: http://olatukoop.net
 
-[^3]: * Candela: https://github.com/amnesty/candela
-    * Gong: https://gong.org.es/projects/gor
-    * Oigame: https://github.com/alabs/oigame
-    * Nolotiro: https://github.com/alabs/nolotiro.org
-    * Mecambio: http://www.mecambio.net/
-
-[^4]: * Dabne: http://dabne.net 
-    * Xsto.info: http://xsto.info/ 
-    * aLabs: https://alabs.org/ 
-    * Semilla del software libre: http://semillasl.net/
-    * Enreda: http://enreda.coop/ 
-    * Gnoxys: http://gnoxys.net/
-    * Grupo Ikusnet
-
-[^5]: Some of the projects: 
-
-    * http://sindominio.net (ES)
-    * http://autistici.org (IT) 
-    * http://samizdat.net/ (FR) 
-    * http://espora.org (MX) 
-    * http://thing.net (USA)
-
-[^6]: * http://coop57.coop/ 
-    * http://www.economiasolidaria.org
-    * https://madrid.mercadosocial.net/ 
-    * http://tangente.coop/
-
-[^7]: * Asolif: http://www.asolif.es/
-    * Esle: http://esle.eus/ 
-    * Olatukoop: http://olatukoop.net
-
-[^8]: * Deconstruyendo: http://deconstruyendo.net/ 
-    * Interzonas: https://interzonas.info 
-    * Talaios: http://talaios.net 
-    * Shareweb: http://shareweb.es 
-    * Reciclanet: http://www.reciclanet.org 
-    * Buenaventura: http://www.buenaventura.cc/ 
-    * Itaca: http://www.itacaswl.com 
-    * Saregune: http://www.saregune.net 
-    * Cooptecniques: http://cooptecniques.net/
+[^8]: Deconstruyendo: http://deconstruyendo.net/ ; Interzonas: https://interzonas.info ; Talaios: http://talaios.net ; Shareweb: http://shareweb.es ; Reciclanet: http://www.reciclanet.org ; Buenaventura: http://www.buenaventura.cc/ ; Itaca: http://www.itacaswl.com ; Saregune: http://www.saregune.net ; Cooptecniques: http://cooptecniques.net/
 
 Some other cooperatives, groups or initiatives working around free/libre
 technology:
@@ -330,3 +282,4 @@ technology:
  * Latino América Kefir: https://kefir.red/ 
  * Vedetas: vedetas.org 
  * Cooperativa tierra comun: https://social.mayfirst.org/tierracomun
+
