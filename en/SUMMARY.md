@@ -1,7 +1,7 @@
 # Technologoical Sovereignty, vol. 2.
 
- * [Technological Sovereignty: What are we talking about?](content/00preface.md)
- * [Technological Sovereignty: Learning to love machines again](README.md)
+ * [Technological Sovereignty: What are we talking about?](content/01preface.md)
+ * [Technological Sovereignty: Learning to love machines again](content/02intro.md)
 
 ## Part 1: Technological sovereignty initiatives
 
