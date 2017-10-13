@@ -41,7 +41,7 @@ computer, the computer is already obsolete, dark-screened tablets, watches
 connected to the internet that count you while you run, menstruate and fuck.
 Devices populated by *apps* and “services” that underrate us.  “Long live
 evil, long live capital!” - *La bruja avería* [^5] as the incarnation of the
-Cassandra syndrome[^6].
+Cassandra syndrome [^6].
 
 We have to confront conversations that tend towards zero comprehension of how
 chilling a future where machines have achieved singularity would be [^7].  We
