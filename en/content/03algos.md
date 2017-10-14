@@ -275,7 +275,7 @@ transparency regarding all algorithms used by the forces of order [^40], or
 even INRIA's “TransAlgo” initiative [^41] which aspires to assess the
 accountability and transparency of information robots.
 
-## Sovereign Algorithmic Futurutopias
+## Sovereign algorithmic futurutopias
 
 So, how do we pass from an algorithmic beast we must suffer to a pet that we
 feed?  Let us compost some earthworms to draw the biotechnological
