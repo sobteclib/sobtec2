@@ -138,10 +138,10 @@ to spread outside the techie ghetto, half-baked and unmaintained tools that
 are unusable should be abandoned.  Arrogance about what users need to know or
 do before accomplishing the most basic task must be held under control.
 
-One example of broken tech is the Web of Trust system used for identifying
-genuine email addresses.  Didactic attempts to explain its necessity for safe
-encryption practices have failed along the years, perhaps because it was based
-on broken assumptions from its inception [^8].
+One example of broken tech is the Web of Trust system used for identifying the
+keys associated with a given email address.  Didactic attempts to explain its
+necessity for safe encryption practices have failed along the years, perhaps
+because it was based on broken assumptions from its inception [^8].
 
 ### Looking at possible solutions
 
