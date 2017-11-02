@@ -339,236 +339,162 @@ Bibliography {#bibliography .unnumbered}
 
 <div id="ref-Antonic2014a">
 
-Antonić, Voja. 2014. “Voja Antonic in Calafou.” Talk at Calafou.
-<https://calafou.org/en/content/voja-antonic-calafou>.
+Antonić, Voja. 2014. “Voja Antonic in Calafou.” Talk at Calafou.  <https://calafou.org/en/content/voja-antonic-calafou>.
 
 </div>
 
 <div id="ref-Bango2013a">
 
-Bango, Rey. 2013. “IRC Is Back: Here’s Your Starter Guide.” Online
-tutorial.
-<https://code.tutsplus.com/tutorials/irc-is-back-heres-your-starter-guide--net-31369>.
+Bango, Rey. 2013. “IRC Is Back: Here’s Your Starter Guide.” Online tutorial.  <https://code.tutsplus.com/tutorials/irc-is-back-heres-your-starter-guide--net-31369>.
 
 </div>
 
 <div id="ref-AI2017a">
 
-Beritelli, Laura, ed. 2017. *+Kaos: Ten Years Hacking and Media
-Activism*. Amsterdam: Institute for Network Cultures.
-<https://networkcultures.org/blog/publication/kaos-ten-years-of-hacking-and-media-activism/>.
+Beritelli, Laura, ed. 2017. *+Kaos: Ten Years Hacking and Media Activism*. Amsterdam: Institute for Network Cultures.  <https://networkcultures.org/blog/publication/kaos-ten-years-of-hacking-and-media-activism/>.
 
 </div>
 
 <div id="ref-Broughton2008a">
 
-Broughton, John. 2008. *Wikipedia: The Missing Manual*. 1st ed. O’Reilly
-Media.
+Broughton, John. 2008. *Wikipedia: The Missing Manual*. 1st ed. O’Reilly Media.
 
 </div>
 
 <div id="ref-Coleman2012a">
 
-Coleman, Gabriella. 2012. *Coding Freedom: The Ethics and Aesthetics of
-Hacking*. Princeton: Princeton University Press.
+Coleman, Gabriella. 2012. *Coding Freedom: The Ethics and Aesthetics of Hacking*. Princeton: Princeton University Press.
 
 </div>
 
 <div id="ref-Dagdelen2012a">
 
-Dagdelen, Demet. 2012. “Anonymous, Wikileaks and Operation Payback: A
-Path to Political Action Through Irc and Twitter.” Paper presented at
-the IPP2012: Big Data, Big Challenges?, Oxford Internet Institute,
-Oxford, UK.
-<http://ipp.oii.ox.ac.uk/sites/ipp.oii.ox.ac.uk/files/documents/Dagdelen2.pdf>.
+Dagdelen, Demet. 2012. “Anonymous, Wikileaks and Operation Payback: A Path to Political Action Through Irc and Twitter.” Paper presented at the IPP2012: Big Data, Big Challenges?, Oxford Internet Institute, Oxford, UK.  <http://ipp.oii.ox.ac.uk/sites/ipp.oii.ox.ac.uk/files/documents/Dagdelen2.pdf>.
 
 </div>
 
 <div id="ref-Doctorow2011a">
 
-Doctorow, Cory. 2011. “The Coming War on General Computation.” Talk at
-29C3, The 29th Chaos Communication Congress.
-<http://events.ccc.de/congress/2011/Fahrplan/events/4848.en.html>.
+Doctorow, Cory. 2011. “The Coming War on General Computation.” Talk at 29C3, The 29th Chaos Communication Congress.  <http://events.ccc.de/congress/2011/Fahrplan/events/4848.en.html>.
 
 </div>
 
 <div id="ref-Fuchs2012b">
 
-Fuchs, Christian. 2012. “Google Capitalism.” *TripleC: Cognition,
-Communication, Co-Operation* 10 (1): 42–48.
+Fuchs, Christian. 2012. “Google Capitalism.” *TripleC: Cognition, Communication, Co-Operation* 10 (1): 42–48.
 
 </div>
 
 <div id="ref-Gillespie2010a">
 
-Gillespie, Tarleton. 2010. “The Politics of ‘Platforms’.” *New Media &
-Society* 12 (3): 347–364.
-doi:[10.1177/1461444809342738](https://doi.org/10.1177/1461444809342738).
+Gillespie, Tarleton. 2010. “The Politics of ‘Platforms’.” *New Media & Society* 12 (3): 347–364.  doi:[10.1177/1461444809342738](https://doi.org/10.1177/1461444809342738).
 
 </div>
 
 <div id="ref-Griffith2015a">
 
-Griffith, Erin. 2015. “Bad News for Google Parent Alphabet: The ‘G’ Will
-Still Foot the Bill.” Article in Forbes Magazine.
-<http://fortune.com/2015/08/10/google-ads-money/>.
+Griffith, Erin. 2015. “Bad News for Google Parent Alphabet: The ‘G’ Will Still Foot the Bill.” Article in Forbes Magazine.  <http://fortune.com/2015/08/10/google-ads-money/>.
 
 </div>
 
 <div id="ref-Hache2014d">
 
-Haché, Alex. 2014. “Technological Sovereignty.” *Passarelle* 11 (11):
-165–171. <http://www.coredem.info/rubrique48.html>.
+Haché, Alex. 2014. “Technological Sovereignty.” *Passarelle* 11 (11): 165–171. <http://www.coredem.info/rubrique48.html>.
 
 </div>
 
 <div id="ref-IANS2013a">
 
-IANS. 2013. “There Will Be More Mobile Phones Than People by 2014: ITU.”
-News article in the Deccan Herald.
-<http://www.deccanherald.com/content/332274/there-more-mobile-phones-people.html>.
+IANS. 2013. “There Will Be More Mobile Phones Than People by 2014: ITU.”  News article in the Deccan Herald.  <http://www.deccanherald.com/content/332274/there-more-mobile-phones-people.html>.
 
 </div>
 
 <div id="ref-Archive2009a">
 
-Internet Archive. 2009. “GeoCities Special Collection 2009: Saving a
-Historical Record of Geocities.” Web page.
-<https://archive.org/web/geocities.php>.
+Internet Archive. 2009. “GeoCities Special Collection 2009: Saving a Historical Record of Geocities.” Web page.  <https://archive.org/web/geocities.php>.
 
 </div>
 
 <div id="ref-Ippolita2015a">
 
-Ippolita. 2015. *The Facebook Aquarium: The Resistible Rise of
-Anarcho-Capitalism*. Revised and updated English edition. 15. Amsterdam:
-Institute for Network Cultures.
-<http://networkcultures.org/blog/publication/no-15-in-the-facebook-aquarium-the-resistible-rise-of-anarcho-capitalism-ippolita/>.
+Ippolita. 2015. *The Facebook Aquarium: The Resistible Rise of Anarcho-Capitalism*. Revised and updated English edition. 15. Amsterdam: Institute for Network Cultures.  <http://networkcultures.org/blog/publication/no-15-in-the-facebook-aquarium-the-resistible-rise-of-anarcho-capitalism-ippolita/>.
 
 </div>
 
 <div id="ref-KurlanderSkellySalesin1996a">
 
-Kurlander, David, Tim Skelly, and David Salesin. 1996. “Comic Chat.” In
-*SIGGRAPH ’96: Proceedings of the 23rd Annual Conference on Computer
-Graphics and Interactive Techniques*, ed by. John Fujii, 225–236. New
-York: ACM; ACM.
-doi:[10.1145/237170.237260](https://doi.org/10.1145/237170.237260).
-<https://sci-hub.io/10.1145/237170.237260>.
+Kurlander, David, Tim Skelly, and David Salesin. 1996. “Comic Chat.” In *SIGGRAPH ’96: Proceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques*, ed by. John Fujii, 225–236. New York: ACM; ACM.  doi:[10.1145/237170.237260](https://doi.org/10.1145/237170.237260).  <https://sci-hub.io/10.1145/237170.237260>.
 
 </div>
 
 <div id="ref-LatzkoToth2010a">
 
-Latzko-Toth, Guillaume. 2010. “Metaphors of Synchrony: Emergence
-Differentiation of Online Chat Devices.” *Bulletin of Science,
-Technology & Society* 30 (5): 362–374.
-doi:[10.1177/0270467610380005](https://doi.org/10.1177/0270467610380005).
-<http://bst.sagepub.com/content/30/5/362.short>.
+Latzko-Toth, Guillaume. 2010. “Metaphors of Synchrony: Emergence Differentiation of Online Chat Devices.” *Bulletin of Science, Technology & Society* 30 (5): 362–374.  doi:[10.1177/0270467610380005](https://doi.org/10.1177/0270467610380005).  <http://bst.sagepub.com/content/30/5/362.short>.
 
 </div>
 
 <div id="ref-Levy1984a">
 
-Levy, Steven. 1984. *Hackers: Heroes of the Computer Revolution*. Anchor
-Press, Doubleday.
+Levy, Steven. 1984. *Hackers: Heroes of the Computer Revolution*. Anchor Press, Doubleday.
 
 </div>
 
 <div id="ref-LovinkRasch2013a">
 
-Lovink, Geert, and Miriam Rasch. 2013. *Unlike Us Reader: Social Media
-Monopolies and Their Alternatives*. INC Reader \#8. Institute of Network
-Cultures.
-<http://networkcultures.org/blog/publication/unlike-us-reader-social-media-monopolies-and-their-alternatives/>.
+Lovink, Geert, and Miriam Rasch. 2013. *Unlike Us Reader: Social Media Monopolies and Their Alternatives*. INC Reader \#8. Institute of Network Cultures.  <http://networkcultures.org/blog/publication/unlike-us-reader-social-media-monopolies-and-their-alternatives/>.
 
 </div>
 
 <div id="ref-Markoff2005a">
 
-Markoff, John. 2005. *What the Dormouse Said: How the Sixties Counter
-Culture Shaped the Personal Computer Industry*. London: Penguin.
-<http://libgen.io/book/index.php?md5=631E8A3A67AB0EA19ECD3DB0E689ADA1>.
+Markoff, John. 2005. *What the Dormouse Said: How the Sixties Counter Culture Shaped the Personal Computer Industry*. London: Penguin.  <http://libgen.io/book/index.php?md5=631E8A3A67AB0EA19ECD3DB0E689ADA1>.
 
 </div>
 
 <div id="ref-Maxigas2014b">
 
-Maxigas. 2014. “History of Real Time Chat Protocols.” *Relay\#70 Panel
-F* (February).
-<http://relay70.metatron.ai/history-of-real-time-chat-protocols.html>.
+Maxigas. 2014. “History of Real Time Chat Protocols.” *Relay\#70 Panel F* (February).  <http://relay70.metatron.ai/history-of-real-time-chat-protocols.html>.
 
 </div>
 
 <div id="ref-Maxigas2015a">
 
-———. 2015. “Peer Production of Open Hardware: Unfinished Artefacts and
-Architectures in the Hackerspaces.” Doctoral dissertation, Barcelona:
-Universitat Oberta de Catalunya, Internet Interdisciplinary Institute.
-<https://relay70.metatron.ai/maxigas_dissertation.pdf>.
+———. 2015. “Peer Production of Open Hardware: Unfinished Artefacts and Architectures in the Hackerspaces.” Doctoral dissertation, Barcelona: Universitat Oberta de Catalunya, Internet Interdisciplinary Institute.  <https://relay70.metatron.ai/maxigas_dissertation.pdf>.
 
 </div>
 
 <div id="ref-Stalder2013a">
 
-Stalder, Felix. 2013. “Between Democracy and Spectacle: The Front and
-the Back of the Social Web.” In *Unlike Us Reader: Social Media
-Monopolies and Their Alternatives*, ed by. Geert Lovink and Miriam
-Rasch. INC Reader \#8. Amsterdam: Institute of Network Cultures.
-<http://felix.openflows.com/node/223>.
+Stalder, Felix. 2013. “Between Democracy and Spectacle: The Front and the Back of the Social Web.” In *Unlike Us Reader: Social Media Monopolies and Their Alternatives*, ed by. Geert Lovink and Miriam Rasch. INC Reader \#8. Amsterdam: Institute of Network Cultures.  <http://felix.openflows.com/node/223>.
 
 </div>
 
 <div id="ref-Turner2006a">
 
-Turner, Fred. 2006. *From Counterculture to Cyberculture: Stewart Brand,
-the Whole Earth Network, and the Rise of Digital Utopianism*. First
-edition. Chicago: University of Chicago Press.
-<http://libgen.io/book/index.php?md5=6916B53A2F276602174090943602E3F2>.
+Turner, Fred. 2006. *From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*. First edition. Chicago: University of Chicago Press.  <http://libgen.io/book/index.php?md5=6916B53A2F276602174090943602E3F2>.
 
 </div>
 
 <div id="ref-Zandbergen2011a">
 
-Zandbergen, Dorien. 2011. “New Edge: Technology and Spirituality in the
-San Francisco Bay Area.” Dissertation, Leiden: University of Leiden.
-<https://openaccess.leidenuniv.nl/handle/1887/17671>.
+Zandbergen, Dorien. 2011. “New Edge: Technology and Spirituality in the San Francisco Bay Area.” Dissertation, Leiden: University of Leiden.  <https://openaccess.leidenuniv.nl/handle/1887/17671>.
 
 </div>
 
 </div>
 
-[^1]: A gentle introduction is Bango (2013), while activists may find
-    Beritelli (2017) useful for a jump start.
+[^1]: A gentle introduction is Bango (2013), while activists may find Beritelli (2017) useful for a jump start.
 
 [^2]: Free and Open Source Software.
 
-[^3]: “The legacy of the 20th century has accustomed us to think that
-    social control pertains only to the political, but it has long since
-    become primarily an economic question of commercial implications. It
-    is no coincidence that the NSA has made use of the collaboration
-    with Microsoft, Yahoo, Google, Facebook, Apple and so on, to obtain
-    data for the surveillance program PRISM.” (Ippolita 2015, 7)
+[^3]: “The legacy of the 20th century has accustomed us to think that social control pertains only to the political, but it has long since become primarily an economic question of commercial implications. It is no coincidence that the NSA has made use of the collaboration with Microsoft, Yahoo, Google, Facebook, Apple and so on, to obtain data for the surveillance program PRISM.” (Ippolita 2015, 7)
 
-[^4]: “Google is a profit-oriented, advertising-financed moneymaking
-    machine that turns users and their data into a commodity.” (Fuchs
-    2012, 47)
+[^4]: “Google is a profit-oriented, advertising-financed moneymaking machine that turns users and their data into a commodity.” (Fuchs 2012, 47)
 
-[^5]: The software and company that brought peer-to-peer file sharing
-    into the limelight and folded after a much publicised copyright
-    controversy (1999-2002).
+[^5]: The software and company that brought peer-to-peer file sharing into the limelight and folded after a much publicised copyright controversy (1999-2002).
 
-[^6]: Popular free web hosting service (1994-2009) that allowed users to
-    upload their own websites: “an important outlet for personal
-    expression on the Web for almost 15 years” according to the Internet
-    Archive (2009).
+[^6]: Popular free web hosting service (1994-2009) that allowed users to upload their own websites: “an important outlet for personal expression on the Web for almost 15 years” according to the Internet Archive (2009).
 
-[^7]: A speculative investment bubble (1996-2001) inflated by the growth
-    of the World Wide Web and burst because it was not clear how
-    companies offering online services could turn a profit on traffic.
+[^7]: A speculative investment bubble (1996-2001) inflated by the growth of the World Wide Web and burst because it was not clear how companies offering online services could turn a profit on traffic.
 
-[^8]: With the support of a postdoctoral grant from the Universitat
-    Oberta de Catalunya (UOC) and the sponsorship of the Central
-    European University Foundation, Budapest (CEUBPF) for a fellowship
-    at the Center for Media, Data and Society in the School of Public
-    Policy.
+[^8]: With the support of a postdoctoral grant from the Universitat Oberta de Catalunya (UOC) and the sponsorship of the Central European University Foundation, Budapest (CEUBPF) for a fellowship at the Center for Media, Data and Society in the School of Public Policy.
