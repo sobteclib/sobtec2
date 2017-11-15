@@ -1,5 +1,6 @@
 # Technologoical Sovereignty, vol. 2.
 
+ * [Dedication](content/00dedication.md)
  * [Technological Sovereignty: What are we talking about?](content/01preface.md)
  * [Technological Sovereignty: Learning to love machines again](content/02intro.md)
 
