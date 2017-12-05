@@ -22,8 +22,8 @@
 
 ## Credits
 
- * [Credits](content/13credits.md)
+ * [Credits](content/13contributions.md)
 
 * * *
 
- * [Back cover](content/15back.md)
+ * [Back cover](content/14back.md)
