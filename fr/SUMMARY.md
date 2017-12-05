@@ -11,7 +11,7 @@
 
 ## Remerciements + Contributions
 
- * …
+ * [Contributions](content/13contributions.md)
 
 * * *
 
