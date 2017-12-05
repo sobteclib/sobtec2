@@ -128,8 +128,8 @@ more just and sustainable communities, where all the participants know how to
 work with diversity and inclusion, and with an understanding of privilege and
 power dynamics.
 
-*The Coconut revolution [^16] and the ecology of freedom according to Murray
-Bookchin* reminds us that appropriated technologies are the ones that are
+*The Coconut revolution [^16] and the ecology of freedom* according to Murray
+Bookchin reminds us that appropriated technologies are the ones that are
 developed in a community that chooses the level, or grade, of technologies it
 needs, and takes into account the development processes and ways of doing
 things, in order to advance towards liberating technologies.
