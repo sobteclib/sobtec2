@@ -20,10 +20,9 @@
  * [From appropriate technologies to re-appropriated technologies](content/11rats.md)
  * [Hacklabs to technological cooperatives](content/12cooperatives.md)
 
-## Acknowledgements + Contributions
+## Credits
 
- * [Contributions](content/13contributions.md)
- * [Acknowledgements](content/14acknowledgements.md)
+ * [Credits](content/13credits.md)
 
 * * *
 
