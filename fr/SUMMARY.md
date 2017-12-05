@@ -1,5 +1,7 @@
 # La Souveraineté technologique, vol. 2.
 
+ * [Dedication](content/00devoument.md)
+
 ## Part 1: Initiative pour souveraineté technologique
 
  * [Algoritmos que no destruyen vs. armas de destruccion matematicas](content/03algos.md)

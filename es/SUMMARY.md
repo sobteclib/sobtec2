@@ -1,6 +1,7 @@
 # Soberanía tecnológica, vol. 2.
 
- * [Prefacio](content/00prefacio.md)
+ * [Dedicación](content/00dedicacion.md)
+ * [Prefacio](content/01prefacio.md)
  * [Introducción](README.md)
 
 ## Parte 1: Iniciativas de soberanía tecnológica
