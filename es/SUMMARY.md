@@ -4,7 +4,7 @@
  * [Prefacio](content/01prefacio.md)
  * [Introducción](README.md)
 
-## Parte 1: Iniciativas de soberanía tecnológica
+## Parte 1: Características de las iniciativas de soberanía tecnológica
 
  * [Algoritmos que no destruyen vs. armas de destruccion matematicas](content/03algos.md)
  * [Rhyzomatica, red comunitaria de telefonia mobil](content/04rhyzomatica.md)
@@ -12,7 +12,7 @@
  * [Plataformas de leaks](content/06leaks.md)
  * [Collectif d’Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires](content/07chatons.md)
 
-## Parte 2: Ahondando en características de la soberanía tecnológica
+## Parte 2: Iniciativas de soberanía tecnológica
 
  * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/08leap.md)
  * [IRC, modelo de comunicacion no reapropriado por el capitalismo](content/09irc.md)
