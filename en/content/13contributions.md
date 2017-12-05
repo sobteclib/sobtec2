@@ -22,7 +22,7 @@
 
  * Patrice Riemens
 
-**Copy editing**, ***Spanish***, “Technological Sovereignty: Learning to love machines again”:
+**Copy editing**, ***Spanish***, “FIXME”:
 
  * Ale Fernandez
 
