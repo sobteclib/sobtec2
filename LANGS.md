@@ -1,4 +1,3 @@
-# Languages
 
 * [Original](or/)
 * [English](en/)
