@@ -293,11 +293,11 @@ aliénant, il faut pouvoir imaginer des futurs qui ne soient pas
 dystopiques, des futurs où jouer à construire nos technologies
 appropriées soit commun et heureusement banal.
 
-[^1]: Atelier d'écriture spéculative sur les technologies féministes, organisé par Cooptecniques pendant* *l'édition 2017* de* *Hack the Earth *à Calafou* (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)*
+[^1]: Atelier d'écriture spéculative sur les technologies féministes, organisé par Cooptecniques pendant l'édition 2017 de Hack the Earth à Calafou (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
 
-[^2]: *Octavia's Brood: Science Fiction Stories from Social Justice Movements*, Walidah Imarisha, adrienne maree brown
+[^2]: Octavia's Brood: Science Fiction Stories from Social Justice Movements, Walidah Imarisha, adrienne maree brown
 
-[^3]: *Sal de la maquina.  Superar la adicción a las nuevas tecnologías, *Sergio Legaz, auteur et Miguel Brieva, dessinateur et membre du conseil éditorial de *Libros en acción*.
+[^3]: Sal de la maquina.  Superar la adicción a las nuevas tecnologías, Sergio Legaz, auteur et Miguel Brieva, dessinateur et membre du conseil éditorial de Libros en acción.
 
 [^4]: https://www.youtube.com/watch?v=vNWAFApQDIc
 
@@ -335,7 +335,7 @@ appropriées soit commun et heureusement banal.
      https://www.youtube.com/watch?v=b\_7c\_XDmySw - Wokbolik, what's
     that?
 
-[^15]: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula,* Tim Jenkin, 1995.* The Vula Connection: Film documentary about the story of Operation Vula *, 2014: [*https://www.youtube.com/watch?v=zSOTVfNe54A*](https://www.youtube.com/watch?v=zSOTVfNe54A)* *
+[^15]: Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula, Tim Jenkin, 1995. The Vula Connection: Film documentary about the story of Operation Vula , 2014: [https://www.youtube.com/watch?v=zSOTVfNe54A](https://www.youtube.com/watch?v=zSOTVfNe54A) 
 
     Escape from Pretoria https://www.youtube.com/watch?v=0WyeAaYjlxE
 
@@ -359,6 +359,6 @@ appropriées soit commun et heureusement banal.
 
 [^25]: https://fr.wikipedia.org/wiki/Proph%C3%A9tie\_autor%C3%A9alisatrice
 
-[^26]: Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, Cathy O'Neil, 2016.*
+[^26]: Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, Cathy O'Neil, 2016.
 
 [^27]: http://terminatorstudies.org/map/
