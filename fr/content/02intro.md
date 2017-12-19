@@ -46,7 +46,7 @@ personnes armées de boule de pétanque détruire les Iphones de toutes les
 
 Il faudrait que nous ayons d'autres technologies, meilleures que ce que
 nous appelons aujourd'hui « les technologies de l'information et de la
-communication »(TIC).  Un téléphone portable qui est un ordinateur, un
+communication » (TIC).  Un téléphone portable qui est un ordinateur, un
 ordinateur obsolète, des tablettes aux écrans noirs, des montres
 connectées à Internet qui prennent des mesures quand tu cours, quand tu
 as tes règles et quand tu fais l'amour.  Des dispositifs peuplés par des
@@ -124,7 +124,7 @@ propriétaire, revient moins cher, est plus facile et plus efficace
 \[...\].  La majorité d'entre nous considère naturelle l'ouverture d'une
 application logiciel, de la même manière que nous prenons pour argent
 comptant les lumières qui s'allument.  Nous ne pensons pas au capital
-humain nécessaire pour que cela en soit ainsi.  »[^16]
+humain nécessaire pour que cela en soit ainsi. »[^16]
 
 Cette recherche intitulée *Carreteras y Puentes* [^17] (*Routes et
 Ponts,* en français) analyse la façon dont les grandes entreprises
@@ -293,57 +293,41 @@ aliénant, il faut pouvoir imaginer des futurs qui ne soient pas
 dystopiques, des futurs où jouer à construire nos technologies
 appropriées soit commun et heureusement banal.
 
-[^1]: Atelier d'écriture spéculative sur les technologies féministes, organisé par Cooptecniques pendant l'édition 2017 de Hack the Earth à Calafou (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
+[^1]: Atelier d'écriture spéculative sur les technologies féministes, organisé par Cooptecniques pendant l'édition 2017 de Hack the Earth à Calafou. http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/
 
-[^2]: Octavia's Brood: Science Fiction Stories from Social Justice Movements, Walidah Imarisha, adrienne maree brown
+[^2]: Octavia's Brood: *Science Fiction Stories from Social Justice Movements*; Walidah Imarisha; adrienne maree brown.
 
 [^3]: Sal de la maquina.  Superar la adicción a las nuevas tecnologías, Sergio Legaz, auteur et Miguel Brieva, dessinateur et membre du conseil éditorial de Libros en acción.
 
 [^4]: https://www.youtube.com/watch?v=vNWAFApQDIc
 
-[^5]: La Bruja Avería est un personnage appartenant à l'émission pour enfants La Bola De Cristal, qui a été diffusée dans les années 80.  Ce personnage, joué par l'actrice Matilde Conesa, était un être maléfique qui voulait faire exploser les autres électroduendes.  Voir :https://www.youtube.com/watch?v=RnOBdhi3hnE
+[^5]: La Bruja Avería est un personnage appartenant à l'émission pour enfants La Bola De Cristal, qui a été diffusée dans les années 80.  Ce personnage, joué par l'actrice Matilde Conesa, était un être maléfique qui voulait faire exploser les autres électroduendes.  Voir: https://www.youtube.com/watch?v=RnOBdhi3hnE
 
 [^6]: https://www.youtube.com/watch?v=0jFpPN2xmSI
 
-[^7]: https://es.wikipedia.org/wiki/Singularidad\_tecnol%C3%B3gica
+[^7]: https://es.wikipedia.org/wiki/Singularidad_tecnol%C3%B3gica
 
-[^8]: Amazonians speak about .amazon, https://bestbits.net/amazon/
+[^8]: Amazonians speak about .amazon. https://bestbits.net/amazon/
 
-[^9]: Foxconn, The Machine is Your Lord and Your Master, https://agone.org/centmillesignes/lamachineesttonseigneurettonmaitre/
+[^9]: Foxconn, The Machine is Your Lord and Your Master. https://agone.org/centmillesignes/lamachineesttonseigneurettonmaitre/
 
 [^10]: https://www.plateforme-echange.org/IMG/pdf/dossier-st-fr-2014-07-05.pdf
 
-[^11]: ttps://gynepunk.hotglue.me/
+[^11]: https://gynepunk.hotglue.me/
 
-[^12]: https://en.wikipedia.org/wiki/Voja\_Antoni%C4%87
+[^12]: https://en.wikipedia.org/wiki/Voja_Antoni%C4%87     https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou    https://hackaday.io/projects/hacker/65061 https://twitter.com/voja\_antonic?lang=es
 
-    https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou
+[^13]: https://rverzola.wordpress.com https://wiki.p2pfoundation.net/Roberto_Verzola
 
-    https://hackaday.io/projects/hacker/65061
+[^14]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html https://twitter.com/onnowpurbo https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's that?
 
-    https://twitter.com/voja\_antonic?lang=es
+[^15]: Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula, Tim Jenkin, 1995. The Vula Connection: Film documentary about the story of Operation Vula, 2014. https://www.youtube.com/watch?v=zSOTVfNe54A Escape from Pretoria https://www.youtube.com/watch?v=0WyeAaYjlxE
 
-[^13]: https://rverzola.wordpress.com
-
-    https://wiki.p2pfoundation.net/Roberto\_Verzola
-
-[^14]: 
-    http://www.eldiario.es/hojaderouter/internet/Onno\_W-\_Purbo-wokbolic-wajanbolic-internet-wifi\_0\_520048966.html
-
-     https://twitter.com/onnowpurbo
-
-     https://www.youtube.com/watch?v=b\_7c\_XDmySw - Wokbolik, what's
-    that?
-
-[^15]: Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula, Tim Jenkin, 1995. The Vula Connection: Film documentary about the story of Operation Vula , 2014: [https://www.youtube.com/watch?v=zSOTVfNe54A](https://www.youtube.com/watch?v=zSOTVfNe54A) 
-
-    Escape from Pretoria https://www.youtube.com/watch?v=0WyeAaYjlxE
-
-[^16]: «Today, everybody uses open source code, including Fortune 500 companies, government, major software companies and startups.  Sharing, rather than building proprietary code, turned out to be cheaper, easier, and more efficient.  This increased demand puts additional strain on those who maintain this infrastructure, yet because these communities are not highly visible, the rest of the world has been slow to notice.  Most of us take opening a software application for granted, the way we take turning on the lights for granted.  We don’t think about the human capital necessary to make that happen.  In the face of unprecedented demand, the costs of not supporting our digital infrastructure are numerous.»
+[^16]: « Today, everybody uses open source code, including Fortune 500 companies, government, major software companies and startups.  Sharing, rather than building proprietary code, turned out to be cheaper, easier, and more efficient.  This increased demand puts additional strain on those who maintain this infrastructure, yet because these communities are not highly visible, the rest of the world has been slow to notice.  Most of us take opening a software application for granted, the way we take turning on the lights for granted.  We don’t think about the human capital necessary to make that happen.  In the face of unprecedented demand, the costs of not supporting our digital infrastructure are numerous. »
 
 [^17]: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 
-[^18]: https://en.wikipedia.org/wiki/The\_Coconut\_Revolution
+[^18]: https://en.wikipedia.org/wiki/The_Coconut_Revolution
 
 [^19]: https://degooglisons-internet.org
 
@@ -357,7 +341,7 @@ appropriées soit commun et heureusement banal.
 
 [^24]: http://latelierpaysan.org/Plans-et-Tutoriels
 
-[^25]: https://fr.wikipedia.org/wiki/Proph%C3%A9tie\_autor%C3%A9alisatrice
+[^25]: https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice
 
 [^26]: Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, Cathy O'Neil, 2016.
 

@@ -1,6 +1,8 @@
 ﻿
 # Hacklabs to technological cooperatives
 
+*Carolina*
+
 Techno-political collectives mix technical and political concerns.  A perfect
 example is Riseup which defines its mission as a provider of “online
 communication tools for people and groups working on liberatory social change.
@@ -262,7 +264,7 @@ understanding work, the commons, sustainability and economy.
 
 [^1]: http://riseup.net (USA) • http://autistici.org (ITA) • http://www.free.de/ (GER) • http://so36.net (GER) • https://www.boum.org/ (FR) • http://nodo50.org (ESP) • http://pangea.org/ (ESP) • https://www.immerda.ch/ (CH) • https://mayfirst.org(USA)
 
-[^2]: https://github.com/AyuntamientoMadrid/consul  https://github.com/AjuntamentdeBarcelona/decidim
+[^2]: https://github.com/AyuntamientoMadrid/consul • https://github.com/AjuntamentdeBarcelona/decidim
 
 [^3]: Candela: https://github.com/amnesty/candela • Gong: https://gong.org.es/projects/gor • Oigame: https://github.com/alabs/oigame • Nolotiro: https://github.com/alabs/nolotiro.org •  Mecambio: http://www.mecambio.net/
 
