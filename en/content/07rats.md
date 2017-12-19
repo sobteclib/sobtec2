@@ -353,7 +353,7 @@ http://books.google.es/books/about/The_Transfer_of_Technology_to_Developing.html
 
 [^9] Loband: http://www.loband.org/loband/
 
-[^10] Archuitecture for humanity: http://architectureforhumanity.org/
+[^10] Architecture for humanity: http://architectureforhumanity.org/
 
 [^11] Off-grid design:
 http://www.off-grid.net/energy-design-service-questionnaire-spanish/ 

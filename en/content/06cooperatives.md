@@ -262,26 +262,18 @@ understanding work, the commons, sustainability and economy.
 
 [^0]: As a reminder, free technologies, in a nutshell, are the technologies and services based on the freedom given by free/libre software and it’s philosophy.  **Freedom 0**: The freedom to run the program for any purpose.  **Freedom 1**: The freedom to study how the program works, and change it to make it do what you wish.  **Freedom 2**: The freedom to redistribute and make copies so you can help your neighbour.  **Freedom 3**: The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that the whole community benefits.
 
-[^1]: http://riseup.net (USA) • http://autistici.org (ITA) • http://www.free.de/ (GER) • http://so36.net (GER) • https://www.boum.org/ (FR) • http://nodo50.org (ESP) • http://pangea.org/ (ESP) • https://www.immerda.ch/ (CH) • https://mayfirst.org(USA)
+[^1]: Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • BOUM: https://www.boum.org/ (FR)  • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA)
 
-[^2]: https://github.com/AyuntamientoMadrid/consul • https://github.com/AjuntamentdeBarcelona/decidim
+[^2]: Consul: https://github.com/AyuntamientoMadrid/consul • Decidim: https://github.com/AjuntamentdeBarcelona/decidim
 
-[^3]: Candela: https://github.com/amnesty/candela • Gong: https://gong.org.es/projects/gor • Oigame: https://github.com/alabs/oigame • Nolotiro: https://github.com/alabs/nolotiro.org •  Mecambio: http://www.mecambio.net/
+[^3]: Candela: https://github.com/amnesty/candela • Gong: https://gong.org.es/projects/gor • Oigame: https://github.com/alabs/oigame • Nolotiro: https://github.com/alabs/nolotiro.org • Mecambio: https://www.mecambio.net/
 
-[^4]: Dabne: http://dabne.net • Xsto.info: http://xsto.info/ • aLabs: https://alabs.org/ • Semilla del software libre: http://semillasl.net/ • Enreda: http://enreda.coop/ • Gnoxys: http://gnoxys.net/ • Grupo Ikusnet
+[^4]: Dabne: https://dabne.net/ • Xsto.info: https://xsto.info/ • aLabs: https://alabs.org/ • Semilla del software libre: https://semillasl.net/ • Enreda: https://enreda.coop/ • Gnoxys: https://gnoxys.net/ • Cooperativa Jamgo: https://jamgo.coop/
 
-[^5]: Some of the projects: http://sindominio.net (ES)• http://autistici.org (IT)• http://samizdat.net/ (FR)• http://espora.org (MX)• http://thing.net (USA)
+[^5]: **Quelques projets**: Sindominio: https://sindominio.net/ (ES) • Autistici: https://autistici.org/ (IT) • Samizdat: https://samizdat.net/ (FR) • Espora: https://espora.org/ (MX) • Thing: https://thing.net/ (USA)
 
-[^6]: http://coop57.coop/ • http://www.economiasolidaria.org • https://madrid.mercadosocial.net/ • http://tangente.coop/
+[^6]: Redes Cooperativa: https://redescooperativa.com/intervencion-social/ • REAS: https://www.economiasolidaria.org/red_redes • Coop 57: https://coop57.coop/ • Economia Solidaria: https://www.economiasolidaria.org • Madrid Mercado Social: https://madrid.mercadosocial.net/ • Tangente coop: https://tangente.coop/
 
-[^7]: Asolif: http://www.asolif.es/ • Esle: http://esle.eus/ • Olatukoop: http://olatukoop.net
+[^7]: Asolif: https://www.asolif.es/ • Esle: https://esle.eus/ • Olatukoop: https://olatukoop.net
 
-[^8]: Deconstruyendo: http://deconstruyendo.net/ • Interzonas: https://interzonas.info • Talaios: http://talaios.net • Shareweb: http://shareweb.es • Reciclanet: http://www.reciclanet.org • Buenaventura: http://www.buenaventura.cc/ • Itaca: http://www.itacaswl.com • Saregune: http://www.saregune.net • Cooptecniques: http://cooptecniques.net/
-
-Some other cooperatives, groups or initiatives working around free/libre
-technology:
-
- * Latino América Kefir: https://kefir.red/ 
- * Vedetas: vedetas.org 
- * Cooperativa tierra comun: https://social.mayfirst.org/tierracomun
-
+[^8]: **Some other cooperatives, groups or initiatives working around free/libre technologies:** • Deconstruyendo: https://deconstruyendo.net/ • Interzonas: https://interzonas.info • Talaios: https://talaios.net/ • Shareweb: https://shareweb.es • Reciclanet: https://www.reciclanet.org • Buenaventura; https://www.buenaventura.cc/ • Itaca: https://www.itacaswl.com • Saregune: https://www.saregune.net • Cooptecniques: https://cooptecniques.net/ • **Latin America**: Kefir: https://kefir.red/ • Vedetas: vedetas.org • Tierra comun: https://tierracomun.org/ • Técnicas rudas: https://www.tecnicasrudas.org/

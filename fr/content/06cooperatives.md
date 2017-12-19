@@ -328,7 +328,7 @@ le travail, les biens communs, la soutenabilité et l'économie.
 
 [^6]: Redes Cooperativa: https://redescooperativa.com/intervencion-social/ • REAS: https://www.economiasolidaria.org/red_redes • Coop 57: https://coop57.coop/ • Economia Solidaria: https://www.economiasolidaria.org • Madrid Mercado Social: https://madrid.mercadosocial.net/ • Tangente coop: https://tangente.coop/
 
-[^7]: Asolif: https://www.asolif.es/ • Esle: https://esle.eus/ • Olatukoop: https://olatukoop.net • Autres coopératives, groupes ou initiatives qui travaillent avec des technologies libres.
+[^7]: Asolif: https://www.asolif.es/ • Esle: https://esle.eus/ • Olatukoop: https://olatukoop.net
 
-[^8]: Deconstruyendo: https://deconstruyendo.net/ • Interzonas: https://interzonas.info • Talaios: https://talaios.net/ • Shareweb: https://shareweb.es • Reciclanet: https://www.reciclanet.org • Buenaventura; https://www.buenaventura.cc/ • Itaca: https://www.itacaswl.com • Saregune: https://www.saregune.net • Cooptecniques: https://cooptecniques.net/ • **Amérique Latine**: Kefir: https://kefir.red/ • Vedetas: vedetas.org • Tierra comun: https://tierracomun.org/ • Técnicas rudas: https://www.tecnicasrudas.org/
+[^8]: **Autres coopératives, groupes ou initiatives qui travaillent avec des technologies libres:** • Deconstruyendo: https://deconstruyendo.net/ • Interzonas: https://interzonas.info • Talaios: https://talaios.net/ • Shareweb: https://shareweb.es • Reciclanet: https://www.reciclanet.org • Buenaventura; https://www.buenaventura.cc/ • Itaca: https://www.itacaswl.com • Saregune: https://www.saregune.net • Cooptecniques: https://cooptecniques.net/ • **Amérique Latine**: Kefir: https://kefir.red/ • Vedetas: vedetas.org • Tierra comun: https://tierracomun.org/ • Técnicas rudas: https://www.tecnicasrudas.org/
 
