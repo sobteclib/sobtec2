@@ -17,7 +17,7 @@
  * [A seed sprouts when it is sown in fertile soil](content/08rizomatica.md)
  * [COATI: Simultaneous interpreting using radio frequencies](content/09coati.md)
  * [Whistleblowing: A double edged sword](content/10leaks.md)
-  * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/11leap.md)
+ * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/11leap.md)
  * [Let's develop peasant computing, let's breed “kittens”](content/12chatons.md)
 
 ## Contributions
