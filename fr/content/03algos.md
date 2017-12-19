@@ -34,7 +34,7 @@ Chaque État materne un ogre terrifiant qui œuvre dans le renseignement. Celui 
 
 ### Qui mangent des données publiques 
 
-Les différentes strates administratives de la force publique cultivent également des jardins florissants de données aux saveurs multiples : biométriques, fiscales, environnementales, urbaines, professionnelles ou encore liées à la santé.
+Les différentes strates administratives de la force publique cultivent également des jardins florissants de données aux saveurs multiples: biométriques, fiscales, environnementales, urbaines, professionnelles ou encore liées à la santé.
 
 D’apparence neutres et objectives, les bêtes algorithmiques publiques seraient la solution aux inégalités de traitement face au libre arbitre de certains fonctionnaires. Elles peuvent néanmoins métamorphoser des familles entières en insectes kafkaïens accrochés à la machine à écrire du film *Brazil* [^8]. Ce sont elles en effet qui déterminent désormais où votre enfant doit aller à l’école, si vous pouvez bénéficier d’aides sociales, à quel travail vous devriez postuler, si votre cycle menstruel est prêt pour procréer.
 
@@ -108,11 +108,11 @@ Mièvreries mises à part, il faut peut-être également intercaler un interméd
 
 [^3]: https://fr.wikipedia.org/wiki/Bestiaire
 
-[^4]: Cardon, Dominique. A quoi rêvent les algorithmes. Nos vies à l’heure: Nos [^vies à l’heure des big data. Le Seuil, 2015.
+[^4]: Cardon, Dominique: *A quoi rêvent les algorithmes: Nos vies à l’heure des big data*. Le Seuil, 2015.
 
-[^5]: Morozov, Evgeny, et Pascale Haas. Le mirage numérique : Pour une politique du [^Big Data. Les Prairies Ordinaires, 2015.
+[^5]: Morozov, Evgeny, et Pascale Haas. *Le mirage numérique: Pour une politique du Big Data*. Les Prairies Ordinaires, 2015.
 
-[^6]: http://centenaire-shannon.cnrs.fr/chapter/la-theorie-de-information
+[^6]: https://centenaire-shannon.cnrs.fr/chapter/la-theorie-de-information
 
 [^7]: https://fr.wikipedia.org/wiki/PRISM_%28programme_de_surveillance%29
 
@@ -122,19 +122,19 @@ Mièvreries mises à part, il faut peut-être également intercaler un interméd
 
 [^10]: Quelques jours après, il stipule à Peterfly que les ordres doivent être impérativement saisis sur le clavier du terminal et lui donne une semaine pour débrancher l’IBM. Dans ce laps de temps, celui-ci va embaucher des ingénieurs et construire un oeil-caméra qui lit l’écran, envoie les informations au cerveau IBM auquel on a greffé des mains électromécaniques qui peuvent saisir les ordres sur le clavier du terminal Nasdaq.
 
-[^11]: Sniper In Mahwah - Anthropology, market structure & the nature of exchanges. https://sniperinmahwah.wordpress.com/
+[^11]: Sniper In Mahwah: Anthropology, market structure & the nature of exchanges. https://sniperinmahwah.wordpress.com/
 
 [^12]: Le Flash Crash du 6 mai 2010 analysé par Nanex: http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html et https://www.youtube.com/watch?v=E1xqSZy9_4I
 
-[^13]: Laumonier Alexandre. 5/6. Zones Sensibles Editions, 2014. http://www.zonessensibles.org/livres/6-5/
+[^13]: Laumonier Alexandre. 5/6. Zones Sensibles Editions, 2014. http://www.zones-sensibles.org/livres/6-5/
 
 [^14]: https://www.washingtonpost.com/news/worldviews/wp/2013/04/23/syrian-hackersclaim-ap-hack-that-tipped-stock-market-by-136-billion-is-it-terrorism/
 
-[^15]: Cette bête est tellement gourmande (une opération lui demande autant d’électricité qu’un foyer américain moyen pendant un jour et demi), qu’elle vit principalement en Chine et est maintenant très lente. http://motherboard.vice.com/read/bitcoin-is-unsustainable
+[^15]: Cette bête est tellement gourmande (une opération lui demande autant d’électricité qu’un foyer américain moyen pendant un jour et demi), qu’elle vit principalement en Chine et est maintenant très lente. https://motherboard.vice.com/read/bitcoin-is-unsustainable
 
 [^16]: https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-thetheory.html
 
-[^17]: Capitalisation et mouvements quotidiens des crypto-monnaies. http://coinmarketcap.com/
+[^17]: Capitalisation et mouvements quotidiens des crypto-monnaies. https://coinmarketcap.com/
 
 [^18]: https://www.ethereum.org/
 
@@ -142,7 +142,7 @@ Mièvreries mises à part, il faut peut-être également intercaler un interméd
 
 [^20]: Ethereum: Freenet or Skynet? Primavera De Filippi, Berkman Center Fellow. https://cyber.harvard.edu/events/luncheon/2014/04/difilippi
 
-[^21]: http://www.theverge.com/2016/12/30/14128870/foxconn-robots-automation-appleiphone-china-manufacturing
+[^21]: https://www.theverge.com/2016/12/30/14128870/foxconn-robots-automation-appleiphone-china-manufacturing
 
 [^22]: https://www.washingtonpost.com/news/innovations/wp/2016/05/16/meet-ross-thenewly-hired-legal-robot/
 
@@ -152,7 +152,7 @@ Mièvreries mises à part, il faut peut-être également intercaler un interméd
 
 [^25]: https://en.wikipedia.org/wiki/Turing_test
 
-[^26]: http://www.bizjournals.com/boston/blog/techflash/2015/01/massachusettswomans-lawsuit-accuses-google-of.html
+[^26]: https://www.bizjournals.com/boston/blog/techflash/2015/01/massachusettswomans-lawsuit-accuses-google-of.html
 
 [^27]: https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf
 
@@ -160,43 +160,43 @@ Mièvreries mises à part, il faut peut-être également intercaler un interméd
 
 [^29]: https://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique
 
-[^30]: Antoinette Rouvroy et Thomas Berns. "Gouvernementalité algorithmique et perspectives d'émancipation: le disparate comme condition d'individuation par la relation?" Politique des algorithmes. Les métriques du web. *RESEAUX*, Vol.31, n.177, pp. 163-196 (2013). http://works.bepress.com/antoinette_rouvroy/47/
+[^30]: Antoinette Rouvroy et Thomas Berns. "Gouvernementalité algorithmique et perspectives d'émancipation: le disparate comme condition d'individuation par la relation?" Politique des algorithmes. Les métriques du web. *RESEAUX*, Vol.31, n.177, pp. 163-196 (2013). https://works.bepress.com/antoinette_rouvroy/47/
 
-[^31]: ifapa.me is a collective dedicated to research and subvert the effects of mathematization and quantification of daily life in necrocapitalist societies. http://www.ifapa.me/
+[^31]: ifapa.me est un collectif dédié à la recherce et à subversion des effets de la mathématisation et quantification de la vie quotidienne dans les sociétés nécrocapitalistes. http://www.ifapa.me/
 
 [^32]: https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racialbias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973c5efb7ccfb0d_story.html?utm_term=.b7f5ab5df1f9
 
-[^33]: http://www.genderit.org/feminist-talk/algorithmic-discrimination-andfeminist-politics
+[^33]: https://www.genderit.org/feminist-talk/algorithmic-discrimination-andfeminist-politics
 
 [^34]: https://fr.wikipedia.org/wiki/Trois_lois_de_la_robotique
 
 [^35]: http://internetactu.blog.lemonde.fr/2017/01/21/peut-on-armer-la-transparencede-linformation/
 
-[^36]: Documentaire « Le secret des 7 soeurs » http://secretdes7soeurs.blogspot.fr/
+[^36]: Documentaire « Le secret des 7 soeurs ». https://secretdes7soeurs.blogspot.fr/
 
-[^37]: http://www.fatml.org/resources/principles-for-accountable-algorithms
+[^37]: https://www.fatml.org/resources/principles-for-accountable-algorithms
 
-[^38]: http://www.lemonde.fr/pixels/article/2016/09/28/intelligence-artificielleles-geants-du-web-lancent-un-partenariat-sur-l-ethique_5005123_4408996.html
+[^38]: https://www.lemonde.fr/pixels/article/2016/09/28/intelligence-artificielleles-geants-du-web-lancent-un-partenariat-sur-l-ethique_5005123_4408996.html
 
-[^39]: http://www.internetactu.net/2016/03/16/algorithmes-et-responsabilites/
+[^39]: https://www.internetactu.net/2016/03/16/algorithmes-et-responsabilites/
 
 [^40]: https://www.service-public.fr/particuliers/actualites/A11502
 
 [^41]: https://www-direction.inria.fr/actualite/actualites-inria/transalgo
 
-[^42]: The Internet Engineering Task Force (IETF®) http://www.ietf.org/
+[^42]: The Internet Engineering Task Force (IETF®) https://www.ietf.org/
 
-[^43]: http://degooglisons-internet.org/
+[^43]: https://degooglisons-internet.org/
 
-[^44]: http://chatons.org/
+[^44]: https://chatons.org/
 
-[^45]: http://yunohost.org/
+[^45]: https://yunohost.org/
 
 [^46]: https://cvdazzle.com/
 
-[^47]: http://www.lemonde.fr/pixels/article/2016/10/19/inquietudes-autour-de-lareconnaissance-faciale-aux-etats-unis_5016364_4408996.html
+[^47]: https://www.lemonde.fr/pixels/article/2016/10/19/inquietudes-autour-de-lareconnaissance-faciale-aux-etats-unis_5016364_4408996.html
 
 [^48]: https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbotgets-a-crash-course-in-racism-from-twitter
 
-[^49]: http://elizagen.org
+[^49]: http://elizagen.org/
 

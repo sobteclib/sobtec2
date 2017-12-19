@@ -1,6 +1,4 @@
-Des technologies appropriées
-
-aux technologies réappropriées[^1]
+# Des technologies appropriées aux technologies réappropriées [^1]
 
 ElleflâneL'investissement en ressources dans le développement des
 connaissances orientées directement vers la production ou le

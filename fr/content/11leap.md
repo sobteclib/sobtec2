@@ -1,6 +1,6 @@
-Chiffrer les e-mails avec des outils accessibles
+# Chiffrer les e-mails avec des outils accessibles
 
-Kali Kaneko
+*Kali Kaneko*
 
 L'adoption en masse des technologies de chiffrement
 

@@ -1,7 +1,6 @@
-Le lancement d'alerte<span id="anchor"></span>Le lancement d'alerte, une
-arme amicale à double tranchant
+# Le lancement d'alerte, une arme amicale à double tranchant
 
-Claudio Agosti
+*Claudio Agosti*
 
 <span id="anchor-1"></span>Le lancement d'alerte (w*histleblowing, *en
 anglais*) *est une pratique ancienne qui a été appelée de bien des
