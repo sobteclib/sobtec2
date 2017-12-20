@@ -2,77 +2,9 @@
 
 *Claudio Agosti*
 
-<span id="anchor-1"></span>Le lancement d'alerte (w*histleblowing, *en
-anglais*) *est une pratique ancienne qui a été appelée de bien des
-façons et qui n'est pas pas obligatoire d'un point de vue éthique. <span
-id="anchor-2"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. Elle peut-être le lien entre la source et le
-journaliste, ou entre l'indic et la police. <span
-id="anchor-3"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. <span id="anchor-2"></span><span id="anchor-1"></span>Le
-lancement d'alerte (w*histleblowing, *en anglais*) *est une pratique
-ancienne qui a été appelée de bien des façons et qui n'est pas pas
-obligatoire d'un point de vue éthique. Elle peut-être le lien entre la
-source et le journaliste, ou entre l'indic et la police. Dans les deux
-cas, une information arrive entre les mains d'une personne à qui on a
-donné sa confiance et qui transforme cette information en action. <span
-id="anchor-4"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. <span id="anchor-2"></span><span id="anchor-1"></span>Le
-lancement d'alerte (w*histleblowing, *en anglais*) *est une pratique
-ancienne qui a été appelée de bien des façons et qui n'est pas pas
-obligatoire d'un point de vue éthique. Elle peut-être le lien entre la
-source et le journaliste, ou entre l'indic et la police. <span
-id="anchor-3"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. <span id="anchor-2"></span><span id="anchor-1"></span>Le
-lancement d'alerte (w*histleblowing, *en anglais*) *est une pratique
-ancienne qui a été appelée de bien des façons et qui n'est pas pas
-obligatoire d'un point de vue éthique. Elle peut-être le lien entre la
-source et le journaliste, ou entre l'indic et la police. Dans les deux
-cas, une information arrive entre les mains d'une personne à qui on a
-donné sa confiance et qui transforme cette information en action.
-Wikileaks et Snowden ont rendu à l'alerte son pouvoir maximum, en
-montrant comment les communications numériques peuvent faciliter le
-processus d'alerte et protéger l'intégrité des communications entre les
-sources et les destinataires. <span id="anchor-5"></span><span
-id="anchor-1"></span>Le lancement d'alerte (w*histleblowing, *en
-anglais*) *est une pratique ancienne qui a été appelée de bien des
-façons et qui n'est pas pas obligatoire d'un point de vue éthique. <span
-id="anchor-2"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. Elle peut-être le lien entre la source et le
-journaliste, ou entre l'indic et la police. <span
-id="anchor-3"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. <span id="anchor-2"></span><span id="anchor-1"></span>Le
-lancement d'alerte (w*histleblowing, *en anglais*) *est une pratique
-ancienne qui a été appelée de bien des façons et qui n'est pas pas
-obligatoire d'un point de vue éthique. Elle peut-être le lien entre la
-source et le journaliste, ou entre l'indic et la police. Dans les deux
-cas, une information arrive entre les mains d'une personne à qui on a
-donné sa confiance et qui transforme cette information en action. <span
-id="anchor-4"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. <span id="anchor-2"></span><span id="anchor-1"></span>Le
-lancement d'alerte (w*histleblowing, *en anglais*) *est une pratique
-ancienne qui a été appelée de bien des façons et qui n'est pas pas
-obligatoire d'un point de vue éthique. Elle peut-être le lien entre la
-source et le journaliste, ou entre l'indic et la police. <span
-id="anchor-3"></span><span id="anchor-1"></span>Le lancement d'alerte
-(w*histleblowing, *en anglais*) *est une pratique ancienne qui a été
-appelée de bien des façons et qui n'est pas pas obligatoire d'un point
-de vue éthique. <span id="anchor-2"></span><span id="anchor-1"></span>Le
-lancement d'alerte (w*histleblowing, *en anglais*) *est une pratique
+## Le lancement d'alerte
+
+Le lancement d'alerte (whistleblowing, en anglais) est une pratique
 ancienne qui a été appelée de bien des façons et qui n'est pas pas
 obligatoire d'un point de vue éthique. Elle peut-être le lien entre la
 source et le journaliste, ou entre l'indic et la police. Dans les deux
@@ -85,68 +17,62 @@ sources et les destinataires. L'anonymisation et les technologies de
 stockage chiffrées ont rendu possible cette mise en scène
 révolutionnaire.
 
-<span id="anchor-6"></span>Je dis « mise en scène » car l'alerte n'a pas
-de valeur éthique en soi, et ce qui définit sa nature c'est la cause
-politique qui la motive. Donc si vous êtes une personne qui lutte seule
-contre une organisation très puissante, comme le département d'État
-américain, les services de renseignement, le système financier, ou le
-Vatican, on se souviendra de vous pour votre comportement héroïque,
-comme c'est le cas de Chelsea Manning \[1\], Bill Binney \[2\], Herve
-Falciani \[3\], Paolo Gabriele et Claudio Sciarpelletti \[4\]. Devenir
-célèbre dans ce milieu veut souvent dire que vous avez été pris, dénoncé
-ou que vous êtes en fuite, bien que ces dénouements ne s'appliquent pas
-à tous les lanceurs d'alerte, comme nous allons le voir.
+Je dis « mise en scène » car l'alerte n'a pas de valeur éthique en soi, et ce
+qui définit sa nature c'est la cause politique qui la motive. Donc si vous
+êtes une personne qui lutte seule contre une organisation très puissante,
+comme le département d'État américain, les services de renseignement, le
+système financier, ou le Vatican, on se souviendra de vous pour votre
+comportement héroïque, comme c'est le cas de Chelsea Manning [^1], Bill Binney
+[^2], Herve Falciani [^3], Paolo Gabriele et Claudio Sciarpelletti
+[^4]. Devenir célèbre dans ce milieu veut souvent dire que vous avez été pris,
+dénoncé ou que vous êtes en fuite, bien que ces dénouements ne s'appliquent
+pas à tous les lanceurs d'alerte, comme nous allons le voir.
 
-<span id="anchor-7"></span>Les informations que vous avez peuvent aider
-les citoyens à comprendre les dynamiques de pouvoir en place, mais les
-institutions peuvent elles-mêmes tirer profit de la situation. Si le but
-ultime de l'alerte est de faire que la société soit plus transparente,
-et ce dans son propre intérêt, cela peut sembler fascinant pour faire la
-révolution, mais cela peut aussi être assez irresponsable, pour d'autres
-raisons. Personne ne veut vraiment d'une société où chacun peut être un
-espion ou un indic potentiel.
+Les informations que vous avez peuvent aider les citoyens à comprendre les
+dynamiques de pouvoir en place, mais les institutions peuvent elles-mêmes
+tirer profit de la situation. Si le but ultime de l'alerte est de faire que la
+société soit plus transparente, et ce dans son propre intérêt, cela peut
+sembler fascinant pour faire la révolution, mais cela peut aussi être assez
+irresponsable, pour d'autres raisons. Personne ne veut vraiment d'une société
+où chacun peut être un espion ou un indic potentiel.
 
-<span id="anchor-8"></span>Une telle société ne ferait que renforcer les
-institutions au pouvoir. Les régimes où une personne reçoit une
-récompense pour « balancer » d'autres citoyens illustre cette déviance.
-De plus, n'importe quelle structure de pouvoir, même votre petite ONG ou
-groupe politique, bénéficie d'accords et de contrats qui sont maintenus
-privés car ils requièrent une certaine confidentialité. Il n'y a pas de
-résistance possible sans secrets bien gardées.
+Une telle société ne ferait que renforcer les institutions au pouvoir. Les
+régimes où une personne reçoit une récompense pour « balancer » d'autres
+citoyens illustre cette déviance.  De plus, n'importe quelle structure de
+pouvoir, même votre petite ONG ou groupe politique, bénéficie d'accords et de
+contrats qui sont maintenus privés car ils requièrent une certaine
+confidentialité. Il n'y a pas de résistance possible sans secrets bien
+gardées.
 
-<span id="anchor-9"></span>Transparence pour l’État (ou pour « celui qui
-a assez de pouvoir pour avoir une influence sur notre réalité ») et
-droit à la vie privée pour le reste d'entre nous ? Cela pourrait être
-une simplification sympathique, mais nous devrions alors respecter cette
-séparation dans toutes nos actions politiques et ne jamais, ne plus
-jamais, révéler une quelconque information d'ordre privée concernant
-d'autres citoyens.
+Transparence pour l’État (ou pour « celui qui a assez de pouvoir pour avoir
+une influence sur notre réalité ») et droit à la vie privée pour le reste
+d'entre nous? Cela pourrait être une simplification sympathique, mais nous
+devrions alors respecter cette séparation dans toutes nos actions politiques
+et ne jamais, ne plus jamais, révéler une quelconque information d'ordre
+privée concernant d'autres citoyens.
 
-<span id="anchor-10"></span>J'ai travaillé avec l'équipe de
-globaleaks.org à la création du logiciel pour sa plateforme. Nous
-rêvions de créer un « wikileaks portable » qui pourrait être lancé dans
-n'importe quelle ville, media ou entreprise. Après tout, les crimes des
-cols blancs et autres mauvaises conduites des entreprises ne peuvent
-être détectés ni compris sans l'aide d'un initié. Mon expérience
-provient de l'utilisation de ce logiciel pour différents groupes ayant
-des besoins différents. En partant de l'histoire fictive ci-dessous,
-nous verrons comment l'alerte numérique renforce l'action politique et
-ce qu'il faut prendre en compte lorsque l'on planifie une fuite
-d'informations.
+J'ai travaillé avec l'équipe de globaleaks.org à la création du logiciel pour
+sa plateforme. Nous rêvions de créer un « wikileaks portable » qui pourrait
+être lancé dans n'importe quelle ville, media ou entreprise. Après tout, les
+crimes des cols blancs et autres mauvaises conduites des entreprises ne
+peuvent être détectés ni compris sans l'aide d'un initié. Mon expérience
+provient de l'utilisation de ce logiciel pour différents groupes ayant des
+besoins différents. En partant de l'histoire fictive ci-dessous, nous verrons
+comment l'alerte numérique renforce l'action politique et ce qu'il faut
+prendre en compte lorsque l'on planifie une fuite d'informations.
 
-Il était une fois...
+## Il était une fois...
 
-<span id="anchor-11"></span>*Une rivière, de plus en plus polluée. Aux
-alentours, il y a des usines en fonctionnement et il est clair qu'elles
-rejettent des déchets chimiques. Il y a des règles, des contrôles
-fréquents, des mesures de précaution, mais tous les jours, la flore et
-la faune sont empoisonnées. Quelqu'un dans ces installations doit savoir
-mais vous ne connaissez personne qui y travaille. *
+Une rivière, de plus en plus polluée. Aux alentours, il y a des usines en
+fonctionnement et il est clair qu'elles rejettent des déchets chimiques. Il y
+a des règles, des contrôles fréquents, des mesures de précaution, mais tous
+les jours, la flore et la faune sont empoisonnées. Quelqu'un dans ces
+installations doit savoir mais vous ne connaissez personne qui y travaille.
 
 Votre groupe monte une campagne et sollicite des sources d'information,
 mais les critiques commencent car votre blog sous Wordpress pour
 recevoir les fuites n'est pas assez sécurisé. Par conséquent, vous
-lancez la bonne plateforme (SecureDrop ou GlobaLeaks \[5\]), à même de
+lancez la bonne plateforme (SecureDrop ou GlobaLeaks [^5]), à même de
 garantir l'anonymisation des sources et le chiffrement des informations
 échangées. Même la saisie du serveur ne doit pas compromettre la
 sécurité des sources ni celle de vos enquêtes en cours. Il s'agit d'une
@@ -172,7 +98,7 @@ rendant plus clair pourquoi c'est important pour l'environnement, en
 quoi le rôle de lanceur d'alerte est important, et ce pour qu'après
 quelques semaines, la première source se montre timidement .
 
-*Ce n'est que le début, et quand le premier article est publié, vous
+Ce n'est que le début, et quand le premier article est publié, vous
 savez que cette histoire sera lue par les employés de l'usine car elle
 parle de leur entreprise. Et vous réexpliquez pourquoi leur rôle est
 fondamental, comment ils peuvent envoyer des renseignements de façon
@@ -182,13 +108,13 @@ personnes avec différentes valeurs et savoirs, vous recevez un flot
 d'informations qui peuvent être transformées en scandale politique, en
 force, en actions. Après un certain temps, la société se mobilise et
 l'entreprise doit prendre ses responsabilités au regard de son impact
-environnemental. *
+environnemental. 
 
 Cet exemple peut s'appliquer à différents contexte où il existe des
 abus. Mais voyons si les résultats de ces fuites sont positifs et
 correctifs ou s'ils peuvent aussi être préjudiciables...
 
-Étapes pratiques
+## Étapes pratiques
 
 Supposons que vous êtes assez chanceux pour recevoir des documents
 anonymes qui détaillent un plan de lobbying pour influencer la nouvelle
@@ -206,7 +132,7 @@ laquelle des sources pouvaient télécharger des documents et d'autres
 personnes se chargeaient éventuellement, de manière bénévole, de son
 analyse, validation et publication. En 2007, c'était une manière de
 faire compréhensible. Cependant, les informations sont moins fiables
-quand Buzzfeed \[6\] adopte une méthode similaire en 2017, en publiant
+quand Buzzfeed [^6] adopte une méthode similaire en 2017, en publiant
 un rapport sur les Russes et Donald Trump mais dont les sources n'ont
 pas été vérifiées.
 
@@ -220,19 +146,19 @@ demander une vérification publique. Alors lorsqu'une information non
 vérifiée devient virale, l'effet est la polarisation immédiate de
 l'audience en deux groupes.
 
-La confiance est primordiale car il est possible qu'une fuite ne mène à
-aucun changement. Elle peut être ignorée, passée sous silence, diluée
-dans la vie quotidienne. Un document anonyme peut être publié, mais on
-attend qu'une personne de confiance, comme un journaliste de grand
-media, un activiste renommé ou un défenseur des droits humains, déclare
-: « *je connais la source, je m'en porte garant, je la protège* ».
+La confiance est primordiale car il est possible qu'une fuite ne mène à aucun
+changement. Elle peut être ignorée, passée sous silence, diluée dans la vie
+quotidienne. Un document anonyme peut être publié, mais on attend qu'une
+personne de confiance, comme un journaliste de grand media, un activiste
+renommé ou un défenseur des droits humains, déclare: « je connais la source,
+je m'en porte garant, je la protège ».
 
 Les fuites sont des informations qu'il faut utiliser comme des outils au
 service de la transparence. Elle peuvent aussi être des outils légitimes
 dans une enquête de la société civile, et ses résultats peuvent être
 analysés par les communautés académiques, scientifiques et politiques.
 
-L'alerte renforce les campagnes et les transforme en processus
+## L'alerte renforce les campagnes et les transforme en processus
 
 La meilleure méthode de vérification que nous connaissons jusqu'à
 présent est de diffuser des fuites qui ont été vérifiées par une enquête
@@ -278,7 +204,7 @@ construire des contenus libres sur comment fonctionne votre
 organisation. Ne vous adressez pas aux personnes, mais aux chiffres,
 concentrez-vous sur les résultats, les réussites et les statistiques.
 
-Le chemins dangereux qu'il ne faut pas emprunter
+## Le chemins dangereux qu'il ne faut pas emprunter
 
 Une initiative d'alerte a une plage d'existence dans le temps, il faut
 définir quel est son but, quelle est sa prochaine étape et comment
@@ -312,7 +238,7 @@ l'initiative. Ce qu'il faut dénoncer, c'est la corruption d'un système,
 pas la misère humaine. De plus, quiconque fait de la diffusion a la
 responsabilité de protéger les personnes vulnérables d'une exposition
 publique. Sinon, l'alerte ne fera que rendre possible un « Kompromat »
-\[7\], une série d'information qui va embarrasser quelqu'un ou être
+[^7], une série d'information qui va embarrasser quelqu'un ou être
 utilisée pour blacklister des individus. Chaque partie prenante peut
 s'en servir, il est donc important de partager de fortes valeurs
 éthiques pour pouvoir juger de la qualité démocratique des initiatives.
@@ -330,61 +256,48 @@ certains ex-salariés ressentent. Donner de la force à ces voix et
 transformer leurs histoires en changements, c'est un levier qu'il faut
 explorer peut être aujourd'hui plus que jamais.
 
-**Les réussites de l'adoption de GlobaLeaks**
+## Les réussites de l'adoption de GlobaLeaks
 
 Des expériences intéressantes ont été menées par des communautés sur
 toute la planète depuis 2012, et l'équipe de GlobaLeaks en garde des
-traces sous forme de liste \[8\]. Parmi les plus notables, il y a par
+traces sous forme de liste [^8]. Parmi les plus notables, il y a par
 exemple les alertes rassemblées par WildLeaks, une plateforme contre le
-braconnage des animaux \[9\], ou l'*Italian Investigative Reporting
-Project Italy *qui* *regroupe des preuves sur des cas de viols commis
-par un agent de police sur ses hôtes en *couchsurfing* \[10\]. Pour ce
+braconnage des animaux [^9], ou l'Italian Investigative Reporting
+Project Italy qui regroupe des preuves sur des cas de viols commis
+par un agent de police sur ses hôtes en couchsurfing [^10]. Pour ce
 qui est des cas de corruption, qui sont très nombreux, j'en mentionne
-quelques uns à titre d'information : le Spanish X-Net \[11\], une
+quelques uns à titre d'information: le Spanish X-Net [^11], une
 initiative qui a pu prouver la collusion entre la faillite des banques
 et celle de l’État espagnol, et à partir de laquelle une pièce de
 théâtre a été réalisée ; PubLeaks, dans laquelle est impliquée le plus
 grand media hollandais, et qui a donné lieu à un un livre qui rassemble
-les révélations reçues pendant 4 ans ; ou encore, MexicoLeaks \[12\],
+les révélations reçues pendant 4 ans ; ou encore, MexicoLeaks [^12],
 alerte si menaçante que des journalistes se sont fait licencier avant
 même que les fuites ne commencent à être révélées.
 
 Maintenant cela ne tient qu'à vous. Quelle boite de pandore allez-vous
-ouvrir ?
+ouvrir?
 
-Références
+[^1]: Peut-être le lanceur d'alerte le plus enthousiasmant de ces dernières années: https://en.wikipedia.org/wiki/Chelsea_Manning
 
-\[1\]Peut-être le lanceur d'alerte le plus enthousiasmant de ces
-dernières années https://en.wikipedia.org/wiki/Chelsea\_Manning
+[^2]: https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
 
-\[2\]
-https://en.wikipedia.org/wiki/William\_Binney\_(U.S.\_intelligence\_official)
+[^3]: https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
 
-\[3\]
-https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
+[^4]: En 2012, quelque figure travaillant pour le pape, Paolo Gabriele and Claudio Sciarpelletti, ont fourni à des journalistes des documents internes et secrets sur la gestion du Vatican. Un tel événement a poussé le Pape Benoit XVI à renoncer à sa charge (ce qui n'avait pas eu lieu depuis plus de 600 ans).
 
-\[4\] En 2012, quelque figure travaillant pour le pape, Paolo Gabriele
-and Claudio Sciarpelletti, ont fourni à des journalistes des documents
-internes et secrets sur la gestion du Vatican. Un tel événement a poussé
-le Pape Benoit XVI à renoncer à sa charge (ce qui n'avait pas eu lieu
-depuis plus de 600 ans).
+[^5]: GlobaLeaks: https://globaleaks.org and SecureDrop https://securedrop.org
 
-\[5\] GlobaLeaks https://globaleaks.org and SecureDrop
-https://securedrop.org
+[^6]: https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridiculous-rationale-for-publishing-the-trump-russia-dossier
 
-\[6\]
-<https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridiculous-rationale-for-publishing-the-trump-russia-dossier>
+[^7]: https://en.wikipedia.org/wiki/Kompromat
 
-\[7\] https://en.wikipedia.org/wiki/Kompromat
+[^8]: https://www.globaleaks.org/implementations
 
-\[8\] https://www.globaleaks.org/implementations
+[^9]: https://wildleaks.org/leaks-and-reports/
 
-\[9\] https://wildleaks.org/leaks-and-reports/
+[^10]: https://www.theguardian.com/world/2015/may/29/couchsurfing-rapist-dino-maglio-italian-police-officer-rape-padua
 
-\[10\]
-https://www.theguardian.com/world/2015/may/29/couchsurfing-rapist-dino-maglio-italian-police-officer-rape-padua
+[^11]: https://www.thenation.com/article/simona-levi/
 
-\[11\] https://www.thenation.com/article/simona-levi/
-
-\[12\]
-https://www.occrp.org/en/daily/3776-mexicoleaks-journalists-fired-after-joining-whistleblowing-alliance
+[^12]: https://www.occrp.org/en/daily/3776-mexicoleaks-journalists-fired-after-joining-whistleblowing-alliance

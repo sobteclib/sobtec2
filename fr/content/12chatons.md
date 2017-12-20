@@ -6,9 +6,9 @@ Ces dernières années, nous avons constaté une centralisation des usages
 du net entre un nombre très limité de fournisseurs de services en ligne
 incarnée par les désormais bien connus GAFAM (Google Apple Facebook
 Amazon Microsft). Cette concentration, complètement contradictoire avec
-les origines d’Internet pensé de façon décentralisée et distribuée[^1],
+les origines d’Internet pensé de façon décentralisée et distribuée [^1],
 a poussé Tim Berners Lee, le créateur du web, à formuler des
-propositions pour son avenir[^2]. Alors pourquoi faut-il s’en
+propositions pour son avenir [^2]. Alors pourquoi faut-il s’en
 préoccuper ? Tout simplement parce que les données, et particulièrement
 nos données personnelles, constituent le carburant économique de ces
 gros acteurs, et qu’une telle accumulation d’informations à notre sujet
@@ -19,9 +19,9 @@ artificielles alimentées par le « big data », fin de l’anonymat et de la
 vie privée, liberté d’expression et d’accès à l’information endiguée,
 censure ou pertes de données suite à la fermeture d’un service… Fort
 heureusement, une bande d’irréductibles gaulois réunis autour de
-l’association Framasoft[^3] a vaillamment entrepris de « dégoogliser »
-Internet[^4] et d’essaimer cette initiative pour que nous puissions
-« reprendre le contrôle »[^5].
+l’association Framasoft [^3] a vaillamment entrepris de « dégoogliser »
+Internet [^4] et d’essaimer cette initiative pour que nous puissions
+« reprendre le contrôle » [^5].
 
 ## Les dangers
 
@@ -113,7 +113,7 @@ faire face à ces dangers menaçant nos vies numériques en proposant des
 services libres, éthiques, décentralisés et solidaires. Ils dressent
 ainsi une liste des services et logiciels privateurs les plus couramment
 utilisés en mettant en regard des logiciels libres correspondant à ces
-usages et les services qu’eux mêmes proposent[^6].
+usages et les services qu’eux mêmes proposent [^6].
 
 En 2017, une quarantaine de services en ligne est proposée gratuitement
 aux internautes afin de couvrir une variété d’usages : stockage de
@@ -170,7 +170,7 @@ utilisateurs (tant que la réciproque sera vraie).
 
 L’intelligence d’Internet doit reposer sur chaque acteur du réseau dans
 une dynamique de partage de pair à pair, pour éviter de créer un Minitel
-2.0[^7].
+2.0 [^7].
 
 Pour assurer l’égalité de tous, citoyens comme entrepreneurs, les
 monopoles doivent non seulement être évités, mais empêchés de
@@ -193,11 +193,11 @@ L’association, animée par cinq permanents, vit principalement des dons
 et ne souhaite pas grossir pour rester à taille « humaine ».
 
 Pour prolonger cette dynamique et encourager la décentralisation des
-services, Framasoft a alors lancé l’initiative C.H.A.T.O.N.S.[^8]
+services, Framasoft a alors lancé l’initiative C.H.A.T.O.N.S. [^8]
 (Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et
 Solidaires) afin de rassembler différentes structures et initiatives qui
 hébergent des services, données et contenus à leur manière tout en
-respectant un manifeste et une charte communs[^9].\
+respectant un manifeste et une charte communs [^9].\
 Ces deux documents sont rédigés et modifiés collectivement par les
 membres du collectif, pour tenir compte de l'évolution tout autant des
 différentes structures que de l'environnement social, technique et légal
@@ -373,13 +373,13 @@ réunir un premier groupe de personnes motivées par l’idée de réfléchir
 de manière pratique au pourquoi du comment. De premiers prototypes de
 services installés sur des serveurs de récupération derrière un accès
 internet définitivement dissymétrique (plus de capacités de
-téléchargement que d’envoi avec l’ADSL[^10]), il s’agit de passer en
+téléchargement que d’envoi avec l’ADSL [^10]), il s’agit de passer en
 « production » sur des serveurs hébergés chez des prestataires à
-l’éthique synchrone avec nos valeurs de départ (Comme ARN[^11] en Alsace
-ou Tetaneutral[^12] à Toulouse).
+l’éthique synchrone avec nos valeurs de départ (Comme ARN [^11] en Alsace
+ou Tetaneutral [^12] à Toulouse).
 
 Cela implique de monter une structure juridique (en l’occurrence une
-association collégiale[^13], sans président ni bureau), ouvrir un compte
+association collégiale [^13], sans président ni bureau), ouvrir un compte
 en banque, organiser une soirée de lancement pour récolter des fonds,
 créer des contenus de sensibilisation et des formats d’ateliers dans une
 logique d’éducation populaire, s’accorder sur les technologies employées
@@ -395,7 +395,7 @@ L’AMIPO est ainsi partie pour proposer en premier lieu un service de
 fichiers, contacts et agendas, et ce gratuitement, avec la possibilité
 de disposer d’un espace plus important en adhérant à l’association. Les
 envies du collectif ne s’arrêtent pas là, il pourrait s’agir de proposer
-ensuite un service de VPN (Réseau Privé Virtuel[^14]), de travailler au
+ensuite un service de VPN (Réseau Privé Virtuel [^14]), de travailler au
 chiffrement de bout en bout afin que nous ne puissions pas non plus
 regarder les données qui nous sont confiées, puis d’être en capacité de
 proposer des services aux associations locales ou d’accompagner les

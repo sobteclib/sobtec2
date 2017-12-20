@@ -2,7 +2,7 @@
 
 *Kali Kaneko*
 
-L'adoption en masse des technologies de chiffrement
+## L'adoption en masse des technologies de chiffrement
 
 Le chiffrement est l'application mathématique qui s'assure que nos
 informations sont seulement accessibles pour les personnes ou les
@@ -14,22 +14,22 @@ chiffrées) ont à peu près 35 ans. Le logiciel référence, Pretty Good
 Privacy, souvent abrévié PGP, a mis en place un puissant chiffrement
 d'e-mail avec des garanties de confidentialité, d'authentification et
 d'intégrité largement disponibles pour les usagers et les développeurs
-depuis 1991 \[\^0\].
+depuis 1991 [^0].
 
 La relative popularité de PGP et sa standardisation ultérieure est
 souvent dépeinte comme une victoire par les *cipherpunks* (les
 activistes ayant recours à la cryptographie) de la première « guerre de
-la cryptographie » \[\^1\]. Alors, quels sont les obstacles à l'adoption
+la cryptographie » [^1]. Alors, quels sont les obstacles à l'adoption
 du chiffrement des e-mails par la critique et les masses ? Pourquoi
 Greenwald, le très respecté journaliste, n'a -t-il pas pu chiffrer un
 e-mail quand il fut contacté par sa source Snowden, l'analyste qui
-travaillait pour la NSA \[\^2\]?
+travaillait pour la NSA [^2]?
 
 Pour répondre à cette question, il nous faut d'abord regarder
 l'architecture des services Internet, puis, l'économie de la
 surveillance, et enfin, quelques échecs historiques d'utilisation.
 
-L'e-mail au temps de la surveillance capitaliste
+## L'e-mail au temps de la surveillance capitaliste
 
 L'e-mail est un protocole ouvert et fédéré qui a été recentralisé par
 les gros fournisseurs d'accès à Internet. Ces compagnies exploitent
@@ -47,7 +47,7 @@ personnes savent qu'il est possible de le faire. L' e-mail est devenu un
 autre exemple de technologie supposée être « simplement là ».
 L'explication de ce manque d'implication semble être qu'on ne peut pas
 gérer des infrastructures vitales pour s'amuser. Il se passe quelque
-chose de similaire avec la messagerie instantanée \[\^3\].
+chose de similaire avec la messagerie instantanée [^3].
 
 Perdre la bataille des architectures libres et fédérées, veut aussi dire
 perdre le contrôle des infrastructures de communication que nous
@@ -55,10 +55,10 @@ utilisons. L'augmentation des pratiques de monopole conduit à un manque
 d'interopérabilité entre les fournisseurs et cela crée une barrière pour
 l'entrée de nouveaux fournisseurs d'e-mail.
 
-La monoculture est en effet indispensable au contrôle centralisé : cela
+La monoculture est en effet indispensable au contrôle centralisé: cela
 signifie qu'une personne a seulement besoin de la coopération d'une
 autre personne pour compromettre les communications privées de millions
-de gens. L'e-mail n'est pas seulement une question de messages : c'est
+de gens. L'e-mail n'est pas seulement une question de messages: c'est
 aussi l'une des dernières lignes technologiques de défense sur Internet
 pour des alternatives localisées et respectueuses de la vie privée dans
 la provision d'identité. Les fournisseurs de messagerie électronique ont
@@ -69,7 +69,7 @@ données.
 Nous voyons de plus en plus comment les dispositifs mobiles, à la place
 des comptes e-mail, sont nécessaires à la communication *bootstrapping*
 avec nos contacts. Le téléphone est devenu la porte d'entrée des jardins
-fortifiés de Facebook dans de nombreux pays \[\^4\].
+fortifiés de Facebook dans de nombreux pays [^4].
 
 Les gouvernements et les entreprises se ruent sur le déploiement d'une
 surveillance invasive. Quand les grands pouvoirs investissent autant
@@ -81,8 +81,7 @@ nous être enlevé par la force. Sa criminalisation et sa disparition ont
 un profond impact sur notre capacité à exercer nos droits humains et à
 construire des sociétés démocratiques.
 
-Nous n'avons pas réussi à renforcer les capacités des citoyens par le
-chiffrement
+## Nous n'avons pas réussi à renforcer les capacités des citoyens par le chiffrement
 
 Stratégiquement, l' e-mail parait un choix bizarre aujourd'hui, dans un
 panorama mouvant au niveau technologique, qui conduit de plus en plus
@@ -99,11 +98,11 @@ encore un certain temps. Il est le moyen de communication asynchrone que
 nous avons et que nous devons protéger. Des millions d'e-mails sont
 encore envoyés chaque jour sans être cryptés, et des e-mails avec des
 expéditeurs non vérifiés sont encore utilisés pour des attaques
-d'hameçonnage dévastatrices \[\^15\].
+d'hameçonnage dévastatrices [^15].
 
 Il est difficile de savoir si nous faisons face à un simple problème
 d'utilisation, ou si au contraire, il s'agit d'un manque général
-d’intérêt à propos de : 1. l'e-mail comme un outil ; 2. la vie privée et
+d’intérêt à propos de: 1. l'e-mail comme un outil ; 2. la vie privée et
 la sécurité dans les communications en ligne ; ou 3. un mélange des
 deux.
 
@@ -116,7 +115,7 @@ qui soutiennent le chiffrement font des bénéfices à partir de l'analyse
 du trafic.
 
 Il a été démontré que les usagers sont prêts à payer un surcoût pour des
-services ou des applications qui respectent leur vie privée \[\^7\],
+services ou des applications qui respectent leur vie privée [^7],
 mais les fournisseurs d'e-mails qui les proposent doivent se battre avec
 les acteurs majeurs du marché qui exploitent les économies d'échelle
 pour offrir une base de 15GB de stockage « gratuite », une grande
@@ -130,7 +129,7 @@ Dans ce sens, toute tentative sérieuse visant à fournir des alternatives
 doit prendre en compte la soutenabilitié de projets technico-politiques
 comme celui de fournisseurs d'e-mails respectueux de la vie privée.
 
-**C'est aussi un problème d'« outils pour nerds »**
+## C'est aussi un problème d'« outils pour nerds »
 
 L'approche classique « *scratch your itch* » (« Grattez** **là où ça
 vous démange ») de la communauté du logiciel libre ne colle tout
@@ -176,9 +175,9 @@ Trust*,* dédié à identifier les adresses mails authentiques. Les
 tentatives didactiques pour expliquer la nécessité du chiffrement ont
 échoué ces dernières années, peut être à cause du fait que cette
 technologie s'est basée sur de fausses suppositions dès sa création
-\[\^8\].
+[^8].
 
-Vers de possibles solutions
+## Vers de possibles solutions
 
 Depuis l'ère post Snowden, de nombreux projets ont vu le jour.
 Ci-dessous, j'en mentionne un auquel je participe et d'autres que je
@@ -190,10 +189,10 @@ OpenPGP (http://openpgp.orgopenpgp.org/). Je fais aussi brièvement
 référence à quelques nouveaux silos qui essaient de rentabiliser le
 *crypto fuzz*.
 
-Bitmask et LEAP Encryption Access Project
+### Bitmask et LEAP Encryption Access Project
 
 LEAP est une organisation qui a pour but le développement de services de
-messagerie chiffrée faciles à développer et à utiliser \[\^9\]. LEAP met
+messagerie chiffrée faciles à développer et à utiliser [^9]. LEAP met
 en œuvre de façon opportuniste le chiffrement des e-mails, un processus
 transparent qui requiert seulement un petit effort cognitif de la part
 des utilisateurs, et des coûts de maintenance bas pour les fournisseurs.
@@ -222,9 +221,9 @@ projet Panoramix (<https://panoramix-project.eu/>), des fonctionnalités
 de routing anonyme pour lutter contre le trafic de données seront aussi
 ajoutées, afin de garantir un plus haut niveau de sécurité.
 
-**Jette tes métadonnées dans le Memory Hole**
+### Jette tes métadonnées dans le Memory Hole
 
-Dans un e-mail, les données sont le contenu : la lettre que vous
+Dans un e-mail, les données sont le contenu: la lettre que vous
 écrivez. Les métadonnées sont l'ensemble des éléments qui aident le
 contenu à arriver au destinataire ; c'est l'équivalent du timbre, de
 l'enveloppe, de l'adresse du destinataire et de l'expéditeur dans une
@@ -250,7 +249,7 @@ transfert.
 
 Demandez cette fonctionnalité dans un future proche !
 
-Autocrypt : un seul chiffrement, plein d'e-mails
+### Autocrypt: un seul chiffrement, plein d'e-mails
 
 Le projet Autocrypt (https://autocrypt.readthedocs.io) développe un
 chiffrement des e-mails qui peut être valable dans le cadre de son
@@ -272,8 +271,7 @@ métadonnées à l'e-mail qui stocke les clés de chiffrement associées aux
 utilisateurs, tout comme leurs préférences dans leurs habitudes de
 chiffrement.
 
-**La famille des webmails : des clients e-mail modernes construits sur
-des technologies web**
+### La famille des webmails: des clients e-mail modernes construits sur des technologies web
 
 Une interface webmail offre une expérience intuitive à l'utilisateur.
 Elle fonctionne dans n'importe quel navigateur. Les applications dans le
@@ -282,7 +280,7 @@ invérifiable, du stockage de données secrètes présentant une large
 surface ouverte aux attaques), mais elles permettent aussi une adoption
 par tous plus facile.
 
-Mailpile \[\^10\] est un service e-mail auto-hébergé. Son interface
+Mailpile [^10] est un service e-mail auto-hébergé. Son interface
 utilisateur a l'avantage d'être largement compatible avec les standards
 du web comme HTML5 et Javasripts. L'interface se connecte à un serveur
 dorsal qui est généralement installé sur une machine en local, mais qui
@@ -299,19 +297,19 @@ Une autre approche intéressante du système ouvert webmail est Whiteout,
 qui a fermé en 2015 avec plus de 10 000 utilisateurs. Leur logiciel
 libre améliorait les protocoles d'interopérabilité. Dans une note post
 mortem, ils partageaient quelques estimations de ce à quoi ressemblerait
-un marché viable des applications de chiffrement d'e-mails \[\^11\], et
+un marché viable des applications de chiffrement d'e-mails [^11], et
 aussi, la leçon apprise quant à la non validité du modèle des start ups
 pour faire face au problème de la surveillance.
 
-Mailvelope \[\^12\] peut être une option appropriée quand des compromis
+Mailvelope [^12] peut être une option appropriée quand des compromis
 doivent absolument être faits. Il s'agit d'une extension de navigateur
 qui vous permet d’utiliser le chiffrement e-mail OpenPGP avec les
 fournisseurs de messagerie majoritaires comme Gmail, Yahoo et Outlook.
 Les fournisseurs de messagerie libres populaires comme Rouncube (les
 messageries en ligne que proposent les projets comme Riseup ou
-Autistici) sont aussi compatibles le plug-in Mailvelope \[\^13\].
+Autistici) sont aussi compatibles le plug-in Mailvelope [^13].
 
-Des services de messagerie non e-mails
+### Des services de messagerie non e-mails
 
 Pour finir, je voudrais mentionner quelques initiatives qui gagnent du
 terrain chez les utilisateurs qui veulent un fournisseur de messagerie
@@ -336,9 +334,9 @@ partagé).
 
 Pour une revue détaillée d'autres initiatives, et une vue d'ensemble des
 projets qui permettent le chiffrement des e-mails, une comparaison
-poussée est disponible en ligne \[\^14\].
+poussée est disponible en ligne [^14].
 
-Les défis à venir
+## Les défis à venir
 
 La quête permanente pour réduire les interceptions de nos communications
 globales est encore en cours. Le défi est de reprendre collectivement le
@@ -353,125 +351,51 @@ plus automatique, demandant moins d'interventions de la part des
 utilisateurs, tout en assurant que ces derniers puissent décider qui a
 le droit de voir leurs messages quand ils voyagent à travers Internet.
 
-Cependant, les programmes ne s'écrivent pas tout seuls : je vous
-encourage à essayer tout particulièrement les services comme K9,
-Enigmail, Mailpile et Bitmask. Essayez-les. Essayez-en plusieurs.
-Essayez-les avec vos amis, avec vos familles. Engagez-vous dans leurs
-communautés, rejoignez leurs mailing listes et leurs canaux IRC.
-Apprenez-en plus sur leurs forces et leurs faiblesses. Faites remonter
-les problèmes quand ils surviennent, essayez de nouvelles versions,
-écrivez ou améliorez des traductions dans votre langue, commencez à
-héberger un nouveau fournisseur de messagerie si vous pouvez, et
-surtout, continuez à contribuer au processus de création collective.
-
-Si vous croyez au droit de chuchotage, engagez-vous dans le débat global
-et faîtes entendre votre voix.
+Cependant, les programmes ne s'écrivent pas tout seuls: je vous encourage à
+essayer tout particulièrement les services comme K9, Enigmail, Mailpile et
+Bitmask. Essayez-les. Essayez-en plusieurs.  Essayez-les avec vos amis, avec
+vos familles. Engagez-vous dans leurs communautés, rejoignez leurs mailing
+listes et leurs canaux IRC.  Apprenez-en plus sur leurs forces et leurs
+faiblesses. Faites remonter les problèmes quand ils surviennent, essayez de
+nouvelles versions, écrivez ou améliorez des traductions dans votre langue,
+commencez à héberger un nouveau fournisseur de messagerie si vous pouvez, et
+surtout, continuez à contribuer au processus de création collective. Si vous
+croyez au droit de chuchotage, engagez-vous dans le débat global et faîtes
+entendre votre voix.
 
 En attendant de vous lire de manière sécurisé dans les intertubes,
 faîtes attention à vous!
 
-Références
+[^0]: Il y a différentes propriétés que les solutions de chiffrement ont traditionnellement voulu fournir. La *Confidentialité* est obtenu par le chiffrement des messages, ce qui veut dire les découper de manière à ce qu'une tierce partie ne puisse pas comprendre leur contenu et de faire que retrouver le message original soit presque impossible par une tierce personne. L'*authentification* se fait en signant le contenu du message à un bout et en vérifiant la signature à l'autre bout pour s'assurer que le message a bien été envoyé par son auteur. La manière dont fonctionne le chiffrement permet aussi de préserver l'intégrité du contenu, en s'assurant qu'il n'y ait pas de tierce partie (comme un gouvernement, une entreprise ou des personnes malveillantes) qui ait changé le message pendant son transfert.
 
-\[\^0\] Il y a différentes propriétés que les solutions de chiffrement
-ont traditionnellement voulu fournir.
+[^1]: Pendant la guerre froide, les États-Unis et leurs alliés ont développé un corpus complexe de règles de contrôle à l'export pour empêcher un large éventail de technologies occidentales de tomber aux mains d'autres puissances, particulièrement du Bloc de l'Est. Les contrôles à l'exportation de la cryptographie deviennent un sujet d'intérêt pour le public avec l'introduction de l'ordinateur personnel.  Le PGP de Zimmermann se répand sur Internet en 1991 et devient le premier défi individuel aux contrôles à l'exportation de la cryptographie, et finalement, la popularisation du e-commerce à probablement joué un rôle majeur dans la lutte contre les restrictions.  https://en.wikipedia.org/wiki/Crypto_Wars
 
-La Confidentialité est obtenu par le chiffrement des messages, ce qui
-veut dire les découper de manière à ce qu'une tierce partie ne puisse
-pas comprendre leur contenu et de faire que retrouver le message
-original soit presque impossible par une tierce personne.
+[^2]: Quand Snowden essaya pour la première fois de contacter le journaliste du Guardian Glenn Greenwald, les hackers cryptographe et les activistes de la vie privée ont expérimenté collectivement une dure réalité qui a fait explosé notre petite bulle: il n'y a pas de sécurité efficace sans facilité d'utilisation. Si un analyste de la NSA est obligé de monter d'atroces vidéos pour enseigner à un journaliste comment installer un outil appelé GPG4win, téléchargé depuis un site pourri, faire quelques effrayants copier/coller et autres délices [que l'on peut voir dans la vidéo de 12 minutes: http://www.dailymail.co.uk/embed/video/1094895.html], on peut penser à raison que la facilité d'usage, et l'état général du chiffrement de message est « profondément mal en point ». Donc, 10 ans après l'article fondateur, on peut affirmer avec tristesse que Johny ne peut toujours pas chiffrer: https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf
 
-L'authentification se fait en signant le contenu du message à un bout et
-en vérifiant la signature à l'autre bout pour s'assurer que le message a
-bien été envoyé par son auteur. La manière dont fonctionne le
-chiffrement permet aussi de préserver l'intégrité du contenu, en
-s'assurant qu'il n'y ait pas de tierce partie (comme un gouvernement,
-une entreprise ou des personnes malveillantes) qui ait changé le message
-pendant son transfert.
+[^3]: En d'autres mots: la mort lente de Jabber/XMPP. C'est frustrant, quand encore et encore, la fragmentation d'un écosystème libre amène à des solutions centralisées. On peut comprendre les diatribes des développeurs de Signal et du crypto anarchiste Moxie Marlinspike contre les fédérations seulement en terme de volonté de déployer des mises à jours pour des millions d'utilisateurs sans passer par la longue file d'attente du consensus décentralisé. Dans les applications mobiles de messagerie, Signal est actuellement la meilleure chose que l'on ait, mais cela représente une anomalie du processus technologique qui empêche la fédération libre des infrastructures de communication de devenir une réalité aujourd'hui.
 
-\[\^1\] Pendant la guerre froide, les États-Unis et leurs alliés ont
-développé un corpus complexe de règles de contrôle à l'export pour
-empêcher un large éventail de technologies occidentales de tomber aux
-mains d'autres puissances, particulièrement du Bloc de l'Est. Les
-contrôles à l'exportation de la cryptographie deviennent un sujet
-d'intérêt pour le public avec l'introduction de l'ordinateur personnel.
-Le PGP de Zimmermann se répand sur Internet en 1991 et devient le
-premier défi individuel aux contrôles à l'exportation de la
-cryptographie, et finalement, la popularisation du e-commerce à
-probablement joué un rôle majeur dans la lutte contre les restrictions.
-https://en.wikipedia.org/wiki/Crypto\_Wars
+[^4]: Et avec le téléphone, la politique du nécessaire enregistrement avec un vrai nom. Les compagnies de télécommunication forcent ces pratiques au nom de la législation des États qui ont passé des lois contre l'anonymisation.
 
-\[\^2\] Quand Snowden essaya pour la première fois de contacter le
-journaliste du Guardian Glenn Greenwald, les hackers cryptographe et les
-activistes de la vie privée ont expérimenté collectivement une dure
-réalité qui a fait explosé notre petite bulle: il n'y a pas de sécurité
-efficace sans facilité d'utilisation. Si un analyste de la NSA est
-obligé de monter d'atroces vidéos pour enseigner à un journaliste
-comment installer un outil appelé GPG4win, téléchargé depuis un site
-pourri, faire quelques effrayants copier/coller et autres délices \[que
-l'on peut voir dans la vidéo de 12
-minutes\](<http://www.dailymail.co.uk/embed/video/1094895.html>), on
-peut penser à raison que la facilité d'usage, et l'état général du
-chiffrement de message est « profondément mal en point ». Donc, 10 ans
-après l'article fondateur, on peut affirmer avec tristesse que \[Johny
-ne peut toujours pas
-chiffrer\](https://people.eecs.berkeley.edu/\~tygar/papers/Why\_Johnny\_Cant\_Encrypt/OReilly.pdf).
+[^5]: http://codev2.cc/download%2Bremix/Lessig-Codev2.pdf
 
-\[\^3\] en d'autres mots: la mort lente de Jabber/XMPP. C'est frustrant,
-quand encore et encore, la fragmentation d'un écosystème libre amène à
-des solutions centralisées. On peut comprendre les diatribes des
-développeurs de Signal et du crypto anarchiste Moxie Marlinspike contre
-les fédérations seulement en terme de volonté de déployer des mises à
-jours pour des millions d'utilisateurs sans passer par la longue file
-d'attente du consensus décentralisé. Dans les applications mobiles de
-messagerie, Signal est actuellement la meilleure chose que l'on ait,
-mais cela représente une anomalie du processus technologique qui empêche
-la fédération libre des infrastructures de communication de devenir une
-réalité aujourd'hui.
+[^6]: Des projets comme Pond, Retroshare ou Secushare peuvent être de bons aperçus de ce que pourrait être une messagerie sécurisée, et standardisée. https://github.com/agl/pond • http://retroshare.us/ • http://secushare.org/ • Notons que l'auteur de Pond recommande l'usage de l'application Signal pour pratiquer jusqu'à ce que son propre logiciel soit plus au point et révisé.
 
-\[\^4\] Et avec le téléphone, la politique du nécessaire enregistrement
-avec un vrai nom. Les compagnies de télécommunication forcent ces
-pratiques au nom de la législation des États qui ont passé des lois
-contre l'anonymisation.
+[^7]: Voir par exemple The Value of Online Privacy et What is Privacy Worth?: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311 • https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf
 
-\[\^5\] http://codev2.cc/download%2Bremix/Lessig-Codev2.pdf
+[^8]: https://github.com/micahflee/trollwot
 
-\[\^6\] Des projets comme \[Pond\](https://github.com/agl/pond),
-\[Retroshare\](http://retroshare.us/) ou
-\[Secushare\](<http://secushare.org/>) peuvent être de bons aperçus de
-ce que pourrait être une messagerie sécurisée, et standardisée.
+[^9]: https://downloads.leap.se/publications/cans2016.pdf
 
-Notons que l'auteur de Pond recommande l'usage de l'application Signal
-pour pratiquer jusqu'à ce que son propre logiciel soit plus au point et
-révisé.
+[^10]: https://mailpile.is/
 
-\[\^7\] Voir par exemple \[The Value of Online
-Privacy\](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2341311)
-et \[What is Privacy
-Worth?\](https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf)
-
-\[\^8\] https://github.com/micahflee/trollwot
-
-\[\^9\] https://downloads.leap.se/publications/cans2016.pdf
-
-\[\^10\] https://mailpile.is
-
-\[\^11\]
+[^11]:
 https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
 
-\[\^12\] https://mailvelope.com
+[^12]: https://mailvelope.com/
 
-\[\^13\]
+[^13]:
 https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
 
-\[\^14\] <https://github.com/OpenTechFund/secure-email>
+[^14]: https://github.com/OpenTechFund/secure-email
 
-\[\^15\] L’**hameçonnage**, ***phishing*** ou **filoutage** est une
-technique utilisée par des fraudeurs pour obtenir des renseignements
-personnels dans le but de perpétrer une [usurpation
-d'identité](https://fr.wikipedia.org/wiki/Usurpation_d%27identité). La
-technique consiste à faire croire à la victime qu'elle s'adresse à un
-tiers de confiance — banque, administration, etc. — afin de lui soutirer
-des renseignements personnels :[mot de
-passe](https://fr.wikipedia.org/wiki/Mot_de_passe), numéro de [carte de
-crédit](https://fr.wikipedia.org/wiki/Carte_de_crédit), date de
-naissance, etc. Voir : https://fr.wikipedia.org/wiki/Hame%C3%A7onnage
+[^15]: L’*hameçonnage*, *phishing* ou *filoutage* est une technique utilisée par des fraudeurs pour obtenir des renseignements personnels dans le but de perpétrer une usurpation d'identité: https://fr.wikipedia.org/wiki/Usurpation_d%27identité. La technique consiste à faire croire à la victime qu'elle s'adresse à un tiers de confiance — banque, administration, etc. — afin de lui soutirer des renseignements personnels: mot de passe: https://fr.wikipedia.org/wiki/Mot_de_passe, numéro de carte de crédit: https://fr.wikipedia.org/wiki/Carte_de_crédit, date de naissance, etc. Voir: https://fr.wikipedia.org/wiki/Hame%C3%A7onnage

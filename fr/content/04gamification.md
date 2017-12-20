@@ -429,7 +429,6 @@ que nous le voulons vraiment.
 
 [^2]: *Flow, or in the zone / in the groove*. Voir Mihály Csíkszentmihályi, *Flow: the Psychology of optimal experience*, Harper & Row, New York, 1990.
 
-[^3]: Une brève introduction se trouve McLeod, S. A. (2015). Skinner: *Operant Conditioning*. https://www.simplypsychology.org/operant-conditioning.html La référence sur ce sujet est Skinner, B. F. (1953). *Science and human behavior*.
-http://www.bfskinner.org/newtestsite/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf
+[^3]: Une brève introduction se trouve McLeod, S. A. (2015). Skinner: *Operant Conditioning*. https://www.simplypsychology.org/operant-conditioning.html La référence sur ce sujet est Skinner, B. F. (1953). *Science and human behavior*. http://www.bfskinner.org/newtestsite/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf
 
 

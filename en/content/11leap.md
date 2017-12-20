@@ -23,7 +23,7 @@ To answer that, we have to look first at the architecture of internet
 services, then the economy of surveillance, and finally some historical
 usability failures.
 
-### Email in the times of surveillance capitalism
+## Email in the times of surveillance capitalism
 
 Email is an open, federated protocol that has been re-centralized by big
 service providers.  These companies exploit economies of scale that lead to
@@ -69,7 +69,7 @@ is being taken away by force.  Its criminalisation and disappearance has a
 profound impact on our capacity to exert our human rights and shape democratic
 societies.
 
-### We failed to empower people to encrypt
+## We failed to empower people to encrypt
 
 Strategically, email might seem an odd choice nowadays, in an ever changing
 technological landscape that leans more and more towards mobile applications,
@@ -108,7 +108,7 @@ In this sense, any serious attempt to provide alternatives must address the
 sustainability of technopolitical projects such as privacy-aware email
 providers.
 
-#### It's also a problem with tools for nerds
+### It's also a problem with tools for nerds
 
 The “scratch your itch” attitude of the Free Software community just doesn't
 cut it any more for mass adoption.  Self-discipline and quality are key for
@@ -143,7 +143,7 @@ keys associated with a given email address.  Didactic attempts to explain its
 necessity for safe encryption practices have failed along the years, perhaps
 because it was based on broken assumptions from its inception [^8].
 
-### Looking at possible solutions
+## Looking at possible solutions
 
 Many projects have blossomed in the post-Snowden era.  I mention here one I am
 contributing to, and others that I consider interesting, both in terms of
@@ -152,7 +152,7 @@ build interoperable solutions on the top of the existing email infrastructure
 using the [OpenPGP standard](http://openpgp.org/).  I also briefly mention
 some new silos that try to monetize on the crypto fuzz.
 
-#### Bitmask and the LEAP Encryption Access Project
+### Bitmask and the LEAP Encryption Access Project
 
 LEAP aims to develop encrypted email services that are easy to deploy and
 clients that are simple to use [^9].  LEAP implements opportunistic email
@@ -179,7 +179,7 @@ the [Panoramix project](https://panoramix-project.eu/), anonymous routing
 capabilities defending against traffic analysis will be added too, providing a
 greater level of privacy.
 
-#### Throw your metadata through the Memory Hole
+### Throw your metadata through the Memory Hole
 
 In an email, the data is the content: the letter that you write.  The metadata
 is everything that helps the content be routed to its intended recipient: it
@@ -201,7 +201,7 @@ By implementing this proposed standard, Memory Hole compliant email programs
 can protect a good amount of metadata from snooping and modification in
 transit.  Look for this feature in the near future!
 
-#### Autocrypt: Such crypto, much mail
+### Autocrypt: Such crypto, much mail
 
 The [Autocrypt project](https://autocrypt.readthedocs.io) develops email
 encryption that is convenient enough for mass adoption even if it cannot be as
@@ -219,7 +219,7 @@ the encryption of subsequent messages.  It adds metadata to the email that
 stores the encryption keys associated with users, as well as their relevant
 preferences about encryption behaviour.
 
-#### The Webmail family: Modern email clients built on web technologies
+### The Webmail family: Modern email clients built on web technologies
 
 A webmail interface offers an intuitive user experience.  It runs in the
 browser that is available on any desktop computer.  In-browser apps pose some
@@ -252,7 +252,7 @@ Outlook.  Popular free software webmail applications like Roundcube (the
 webmail offered by projects like Riseup or Autistici) also support the
 Mailvelope plugin [^13].
 
-#### Non-email messaging services
+### Non-email messaging services
 
 Last, I’d like to mention several initiatives that are gaining traction among
 users that seek secure email providers, but that cannot be considered as
@@ -273,7 +273,7 @@ For in-depth reviews of other initiatives, and a nice overview of projects
 that support email encryption, an extensive comparison is available online
 [^14].
 
-### Some remaining challenges
+## Some remaining challenges
 
 The quest for reducing the interception of our global communications is still
 ongoing.  The challenge is to collectively recover control over the email
@@ -302,7 +302,7 @@ Take care! I look forward to reading you securely in the intertubes.
 
 [^1]: In the Cold War, the USA and its allies developed an elaborate series of export control regulations designed to prevent a wide range of Western technology from falling into the hands of others, particularly the Soviet bloc.  Export controls on encryption became a matter of public debate with the introduction of the personal computer.  Zimmermann’s PGP and its distribution on the internet in 1991 was considered the first major ‘individual level’ challenge to cryptography export controls, although ultimately, the popularization of e-commerce probably did play a much bigger role in the outcome.  https://en.wikipedia.org/wiki/Crypto_Wars
 
-[^2]: When Snowden first tried to contact the Guardian journalist Glenn Greenwald, cryptography hackers and privacy activists collectively experienced a harsh reality check that punched our little Web of Bubble: no security is effective without usability.  If an NSA analyst is forced to craft awful videos in order to teach a journalist how to install a tool called gpg4win, downloaded from an ugly website, do some scary copy/pastes and other such delights [shown in the 12 minute video](http://www.dailymail.co.uk/embed/video/1094895.html), we can strongly conclude that the usability, and general state of email encryption is **terribly broken**.  So, more than ten years after the seminal article, we can affirm that sadly, [Johnny cannot yet encrypt](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf).
+[^2]: When Snowden first tried to contact the Guardian journalist Glenn Greenwald, cryptography hackers and privacy activists collectively experienced a harsh reality check that punched our little Web of Bubble: no security is effective without usability.  If an NSA analyst is forced to craft awful videos in order to teach a journalist how to install a tool called gpg4win, downloaded from an ugly website, do some scary copy/pastes and other such delights [shown in the 12 minute video: http://www.dailymail.co.uk/embed/video/1094895.html], we can strongly conclude that the usability, and general state of email encryption is **terribly broken**.  So, more than ten years after the seminal article, we can affirm that sadly, Johnny cannot yet encrypt: https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf.
 
 [^3]: In other words: the long death of Jabber/XMPP.  It’s frustrating how, over and over again, the fragmentation of an open ecosystem leads to centralized solutions.  One can understand Signal developer and crypto anarchist Moxie Marlinspike’s rants against federation only in terms of the desire of deploying updates to millions of users without waiting for the long tail and the distributed consensus to catch up.  In the mobile messaging world Signal is right now the best thing we have, but it still represents a failure of the technosocial processes that prevented the open federation of communication infrastructures from becoming a reality today.
 
@@ -310,9 +310,11 @@ Take care! I look forward to reading you securely in the intertubes.
 
 [^5]: http://codev2.cc/download%2Bremix/Lessig-Codev2.pdf
 
-[^6]: Projects like [Pond](https://github.com/agl/pond), [Retroshare](http://retroshare.us/) or [Secushare](http://secushare.org/) might be good insights into what a post-email secure, distributed standard might look like.  Note that the Pond author recommends using the Signal app for practical purposes until his own software is more polished and reviewed.
+[^6]: Projects like Pond, Retroshare or Secushare might be good insights into what a post-email secure, distributed standard might look like. https://github.com/agl/pond • http://retroshare.us/ • http://secushare.org/ • Note that the Pond author recommends using the Signal app for practical purposes until his own software is more polished and reviewed.
 
-[^7]: See, for instance [The Value of Online Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311) and [What is Privacy Worth?](https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf)
+[^7]: See, for instance The Value of Online Privacy and What is Privacy Worth?: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311 • https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf
+
+
 
 [^8]: https://github.com/micahflee/trollwot
 
