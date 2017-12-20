@@ -388,13 +388,11 @@ faîtes attention à vous!
 
 [^10]: https://mailpile.is/
 
-[^11]:
-https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
+[^11]: https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
 
 [^12]: https://mailvelope.com/
 
-[^13]:
-https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
+[^13]: https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
 
 [^14]: https://github.com/OpenTechFund/secure-email
 

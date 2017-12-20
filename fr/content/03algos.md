@@ -162,7 +162,7 @@ Mièvreries mises à part, il faut peut-être également intercaler un interméd
 
 [^30]: Antoinette Rouvroy et Thomas Berns. "Gouvernementalité algorithmique et perspectives d'émancipation: le disparate comme condition d'individuation par la relation?" Politique des algorithmes. Les métriques du web. *RESEAUX*, Vol.31, n.177, pp. 163-196 (2013). https://works.bepress.com/antoinette_rouvroy/47/
 
-[^31]: ifapa.me est un collectif dédié à la recherce et à subversion des effets de la mathématisation et quantification de la vie quotidienne dans les sociétés nécrocapitalistes. http://www.ifapa.me/
+[^31]: ifapa.me est un collectif dédié à la recherche et la subversion des effets de la mathématisation et de la quantification de la vie quotidienne dans les sociétés nécrocapitalistes. http://www.ifapa.me/
 
 [^32]: https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racialbias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973c5efb7ccfb0d_story.html?utm_term=.b7f5ab5df1f9
 

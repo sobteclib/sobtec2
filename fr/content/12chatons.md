@@ -430,6 +430,6 @@ chemins libres et arborés.
 
 [^12]: https://tetaneutral.net/
 
-[^13]: http://www.passerelleco.info/article.php?id\_article=103
+[^13]: http://www.passerelleco.info/article.php?id_article=103
 
-[^14]: https://fr.wikipedia.org/wiki/R%C3%A9seau\_priv%C3%A9\_virtuel
+[^14]: https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel
