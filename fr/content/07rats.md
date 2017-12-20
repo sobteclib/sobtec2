@@ -177,23 +177,23 @@ grue. Un type se présente. Il place des sangles et en les serrant fort,
 il laisse une légère marque sur la carrosserie de la remorque qui est en
 polycarbonate cellulaire. Je lui dis:
 
-> - Pardon, ce serait mieux de mettre un chiffon avant la sangle pour ne
-> pas faire de marque, comme ça, elle arrive en parfait état à mon client.
+\- Pardon, ce serait mieux de mettre un chiffon avant la sangle pour ne
+pas faire de marque, comme ça, elle arrive en parfait état à mon client.
 
-> - Ne t'en fais pas, c'est bien comme ça, me dit-il sans m'écouter.
+\- Ne t'en fais pas, c'est bien comme ça, me dit-il sans m'écouter.
 
 Je prends trente secondes avant de lui répondre.
 
-> - Hé, mettre un chiffon cela ne coûte rien.
+\- Hé, mettre un chiffon cela ne coûte rien.
 
-> - Mais oui, tu verras comme ceux du ferry ils vont te l'abîmer, ça c'est
-> rien, continue-t-il sans m'écouter.
+\- Mais oui, tu verras comme ceux du ferry ils vont te l'abîmer, ça c'est
+rien, continue-t-il sans m'écouter.
 
 Une minute de respiration, bon, je réfléchis, je suis la cliente, si je
 lui dis de mettre un chiffon, il doit le faire. Pourquoi être aussi
 buté?
 
-> - Excusez-moi mais c'est mieux si on met un chiffon.
+\- Excusez-moi mais c'est mieux si on met un chiffon.
 
 Et finalement il le fait en râlant.
 
