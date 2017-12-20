@@ -28,11 +28,11 @@ Toute histoire est un voyage dans le temps et dans l'espace, et le point
 de départ de cette histoire est une grande affiche de bienvenue qui dit
 ceci:
 
-    Dans cette communauté il n'y a pas de propriété privée.
-    
-    L'achat ou la vente de terrains communautaires sont INTERDITS.
-    
-    Cordialement, signé le Commissaire des biens communaux de Ixtlan de Juárez
+  Dans cette communauté il n'y a pas de propriété privée.
+  
+  L'achat ou la vente de terrains communautaires sont INTERDITS.
+  
+  Cordialement, signé le Commissaire des biens communaux de Ixtlan de Juárez
 
 # Antécédents historiques de Oaxaca [^1], des peuples autochtones et de la « communalité »
 
@@ -40,7 +40,7 @@ Oaxaca est le cinquième État le plus grand du Mexique, avec une
 population de 3,8 800 millions d'habitants, dont plus de la moitié vit
 dans des localités rurales de moins de 2500 habitants. Des 2445
 municipalités que compte le pays, 570 se trouvent sur le territoire de
-Oaxaca, et 418 sont régies selon le système des us et coutumes  [^2].
+Oaxaca, et 418 sont régies selon le système des us et coutumes [^2].
 Cela veut dire qu'à Oaxaca, 58 % de la superficie totale du territoire,
 est une propriété sociale de caractère communal. Dans ces localités, les
 autorités sont sous l'égide de l'assemblée communautaire qui incarne un
@@ -100,8 +100,8 @@ du gouvernement contre le mouvement des travailleurs dans l'éducation.
 Ce mouvement a donné naissance à l'Assemblée Populaire des Peuples de
 Oaxaca [^4] et parmi ses principales caractéristiques, on trouve la
 création de plusieurs radios communautaires et la réappropriation des
-médias étatiques  [^5]. Certaines sont devenues par la suite des
-entreprises communales de communication  [^6], avec comme objectif le
+médias étatiques [^5]. Certaines sont devenues par la suite des
+entreprises communales de communication [^6], avec comme objectif le
 renforcement de l'autonomie des localités et la contribution aux
 projections de vie des peuples autochtones, c'est-à-dire, leur
 auto-détermination.
@@ -109,7 +109,7 @@ auto-détermination.
 En 2012, plus de trente autorités municipales et communautés autochtones
 firent une demande formelle auprès du Secrétariat des Communications et
 du Transport (SCT) pour demander l'accès aux fréquences correspondantes
-à la bande GSM  [^3]. Cependant, la demande fut rejetée. Le cadre légal
+à la bande GSM [^3]. Cependant, la demande fut rejetée. Le cadre légal
 n'oblige pas les grandes compagnies de télécommunication à donner accès
 à des services de communication à des communautés rurales de moins de
 5000 habitants, même si l'organe régulateur de l’État est obligé, lui,
@@ -132,12 +132,12 @@ technologie s'est avérée peu adéquate dans ce contexte. Néanmoins, ces
 problématiques amenèrent Peter Bloom, fondateur de l'organisation
 Rhizomatica, à vouloir essayer un système de téléphonie mobile lorsqu'il
 se rendit au Mexique pour collaborer avec l'organisation Palabra Radio,
-à Oaxaca  [^7].
+à Oaxaca [^7].
 
 Au début de l'année 2011, Kino, un *hacker* avec de l'expérience dans
 les technologies pour les communautés autochtones en résistance,
 commença une recherche sur les besoins technologiques pour pouvoir créer
-ce réseau. En même temps, l'artiste mexicaine Minerva Cuevas  [^8],
+ce réseau. En même temps, l'artiste mexicaine Minerva Cuevas [^8],
 décida d'acheter un petit équipement de 3000 dollars pour créer une
 intervention politico-conceptuelle en Finlande, avec l'aide de Kino, et
 donna par la suite son équipement pour faire les premiers tests. Plus
@@ -249,8 +249,8 @@ politiques et éthiques nécessaires pour que ces nouveaux moyens de
 communication puissent continuer à exister sans porter préjudice aux
 communautés. Ces préoccupations ont été à la base de la création du
 « Diplôme communautaire pour les personnes promotrices de
-télécommunications et radiodiffusion », ainsi que d'un manuel  [^11] et
-d'un wiki  [^12] pour documenter la production des connaissances.
+télécommunications et radiodiffusion », ainsi que d'un manuel [^11] et
+d'un wiki [^12] pour documenter la production des connaissances.
 
 ## Souveraineté Technologique et Autonomie
 
@@ -311,11 +311,11 @@ d'usages créatifs et tactiques dans ce but. Pour mieux comprendre cette
 dernière idée, revenons au début de cette histoire, à notre affiche de
 bienvenue:
 
-    Dans cette communauté, il n'y a pas de propriété privée.
-    
-    L'achat ou la vente de terrains communautaires sont INTERDITS.
-    
-    Cordialement, signé le Commissaire des biens communaux de Ixtlan de Juárez
+  Dans cette communauté, il n'y a pas de propriété privée.
+  
+  L'achat ou la vente de terrains communautaires sont INTERDITS.
+  
+  Cordialement, signé le Commissaire des biens communaux de Ixtlan de Juárez
 
 Il ne s'agit pas là d'une déclaration de souveraineté mais bien
 d'autonomie. Ici, la construction du pouvoir n'est pas issue de la
@@ -342,9 +342,9 @@ perspective de la souveraineté technologique, nous ne rencontrons pas
 l'écho attendu ; la signification est différente. Apparemment, il s'agit
 d'un conflit, même si en réalité, c'est un point de rencontre: nous
 avons besoin de décoloniser le langage et comme le dit si bien Alex
-Haché: «* Si l'idée peut être racontée, cela signifie qu'elle peut
+Haché: « *Si l'idée peut être racontée, cela signifie qu'elle peut
 aussi pénétrer l'imaginaire social et produire un effet radical et
-transformateur* ».
+transformateur* ». [^13]
 
 Nous sommes dans un bon moment pour initier un dialogue entre
 souveraineté technologique et autonomie, comprise telle qu'elle est
@@ -363,15 +363,15 @@ https://es.wikipedia.org/wiki/Asamblea_Popular_de_los_Pueblos_de_Oaxaca
 
  [^5]: Un peu de cette vérité: http://www.corrugate.org/un-poquito-de-tanta-verdad.html
 
- [^6]: Loreto Bravo. "Empresas Comunales de Comunicación: Un camino hacia la sostenibilidad". *Media Development* 4/2015 WACC.  http://www.waccglobal.org/articles/empresas-comunales-de-comunicacion-un-camino-hacia-la-sostenibilidad
+ [^6]: Loreto Bravo. "Empresas Comunales de Comunicación: Un camino hacia la sostenibilidad". *Media Development* 4/2015 WACC. http://www.waccglobal.org/articles/empresas-comunales-de-comunicacion-un-camino-hacia-la-sostenibilidad
 
  [^7]: https://palabraradio.org/nosotras
 
- [^8]: Minerva Cuevas et œuvre en Finlande?????
+ [^8]: http://contemporaryartarchipelago.fi/exhibition/artwork/15
 
- [^9]: Puebla, Guerrero, Tlaxcala, Veracruz y Oaxaca
+ [^9]: Puebla, Guerrero, Tlaxcala, Veracruz et Oaxaca.
 
- [^10]: Liste de villages qui ont un réseau de téléphonie: Villa Talea de Castro (Sierra Juárez) • Santa María Yaviche (Sierra Juárez) • San Juan Yaee (Sierra Juárez) • San Idelfonso Villa Alta (Sierra Juárez) • San Juan Tabaa (Sierra Juárez) •  Secteur Cajonos: Santo Domingo Xagacia, San Pablo Yaganiza, San Pedro Cajonos, San Francisco Cajonos, San Miguel Cajonos, San Mateo Cajonos (Sierra Juárez) • San Bernardo Mixtepec (Valles Centrales) • Santa María Tlahuitoltepec (Mixe-Alto) • Santa María Alotepec (Mixe-Alto) • San Jerónimo Progreso (Mixteca) • Santiago Ayuquililla (Mixteca) • San Miguel Huautla (Mixteca) • Santa Inés de Zaragosa (Mixteca) • Santos Reyes Tepejillo (Mixteca).
+ [^10]: Liste de villages qui ont un réseau de téléphonie: Villa Talea de Castro (Sierra Juárez) • Santa María Yaviche (Sierra Juárez) • San Juan Yaee (Sierra Juárez) • San Idelfonso Villa Alta (Sierra Juárez) • San Juan Tabaa (Sierra Juárez) • Secteur Cajonos: Santo Domingo Xagacia, San Pablo Yaganiza, San Pedro Cajonos, San Francisco Cajonos, San Miguel Cajonos, San Mateo Cajonos (Sierra Juárez) • San Bernardo Mixtepec (Valles Centrales) • Santa María Tlahuitoltepec (Mixe-Alto) • Santa María Alotepec (Mixe-Alto) • San Jerónimo Progreso (Mixteca) • Santiago Ayuquililla (Mixteca) • San Miguel Huautla (Mixteca) • Santa Inés de Zaragosa (Mixteca) • Santos Reyes Tepejillo (Mixteca).
 
  [^11]:
 https://media.wix.com/ugd/68af39_c12ad319bb404b63bd9ab471824231b8.pdf
@@ -379,4 +379,4 @@ https://media.wix.com/ugd/68af39_c12ad319bb404b63bd9ab471824231b8.pdf
  [^12]: http://wiki.rhizomatica.org/
 
  [^13]:
-https://es.wikipedia.org/wiki/Soberan%C3%ADa_Tecnol%C3%B3gica\#cite_note-1
+https://es.wikipedia.org/wiki/Soberan%C3%ADa_Tecnol%C3%B3gica

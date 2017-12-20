@@ -295,7 +295,7 @@ don't find the echo we expected, because the meaning is different.  It appears
 to be a conflict, although in reality it is common ground: we need to
 decolonise the language and, as Alex Hache says: “Then, if the idea can be
 told, it also means that it can filter into the social imagination, producing
-a radical and transformative effect”.
+a radical and transformative effect”. [^13]
 
 We are in a good moment to open a dialogue between technological sovereignty
 and autonomy, understood as it is lived in this corner of the world, among the
@@ -325,5 +325,5 @@ indigenous peoples of South East Mexico.
 
 [^12]: http://wiki.rhizomatica.org/
 
-[^13]: https://es.wikipedia.org/wiki/Soberan%C3%ADa_Tecnol%C3%B3gica\#cite_note-1
+[^13]: https://es.wikipedia.org/wiki/Soberan%C3%ADa_Tecnol%C3%B3gica
 
