@@ -2,22 +2,21 @@
 
 *COATI, Collectif pour l'autogestion des technologies d'interprétation*
 
-Introduction
+## Introduction
 
-« *Ni la solidarité internationale ni les mouvements de protestation
-globaux ne sont des phénomènes nouveaux. Depuis les révolutions
-européennes de 1848, en passant par les révoltes de 1917-1918 après la
-révolution russe, jusqu'aux éclairs de résistance presque universels de
-1968, les luttes ont toujours su s'inspirer mutuellement et se parler à
-un niveau global. Ce qui constitue peut-être une nouveauté de nos
-époques c'est la facilité et la rapidité avec lesquelles nous pouvons
-communiquer d'une lutte à une autre, et le fait que la mondialisation
-implique que des personnes très différentes les unes des autres et
-appartenant à des cultures des quatre coins du monde se retrouvent face
-à un ennemi commun.* » (*Do or Die*, numéro 8, 1999)
+> « *Ni la solidarité internationale ni les mouvements de protestation globaux
+> ne sont des phénomènes nouveaux. Depuis les révolutions européennes de 1848,
+> en passant par les révoltes de 1917-1918 après la révolution russe,
+> jusqu'aux éclairs de résistance presque universels de 1968, les luttes ont
+> toujours su s'inspirer mutuellement et se parler à un niveau global. Ce qui
+> constitue peut-être une nouveauté de nos époques c'est la facilité et la
+> rapidité avec lesquelles nous pouvons communiquer d'une lutte à une autre,
+> et le fait que la mondialisation implique que des personnes très différentes
+> les unes des autres et appartenant à des cultures des quatre coins du monde
+> se retrouvent face à un ennemi commun.* » — *Do or Die*, numéro 8, 1999
 
-« *Notre résistance est aussi transnationale que le capital* » (Slogan
-du jour d'action global contre le capitalisme, 8 juin 1999)
+> « *Notre résistance est aussi transnationale que le capital* » — Slogan 
+> du jour d'action global contre le capitalisme, 8 juin 1999
 
 A mesure que l'économie est devenue transnationale, la résistance contre
 ses conséquences sociales et écologiques dramatiques en a fait de même.
@@ -30,7 +29,7 @@ questions linguistiques ont une influence sur les relations de pouvoir.
 De nombreuses réunions internationales se font dans les langues les plus
 « internationales », comme l'anglais, l'espagnol ou le français. De
 nombreuses personnes parlent ces langues, mais c'est surtout du fait de
-leur passé impérialiste : elles ont été imposées par la force, souvent
+leur passé impérialiste: elles ont été imposées par la force, souvent
 de manière brutale, à des peuples de cultures très diverses, en même
 temps qu'elles gommaient les langues locales et détruisaient la
 diversité culturelle. Elles peuvent être utiles pour communiquer, mais
@@ -57,7 +56,7 @@ Néanmoins, pour que l’interprétation soit praticable dans des réunions
 multilingues, il faut qu'elle soit simultanée, et l’interprétation
 simultanée multilingue ne se fait pas sans technologies.
 
-Histoire des technologies d’interprétation alternatives
+## Histoire des technologies d’interprétation alternatives
 
 Les premiers essais de moyens technologiques destinés à faciliter ce
 type d’interprétation remontent au procès de Nuremberg, après la Seconde
@@ -88,9 +87,9 @@ oblige à multiplier les ressources nécessaires à l’interprétation. De ce
 fait, les décisions prises sur l'interprétation ont une influence sur
 les dynamiques de travail d'une réunion. Le coût prohibitif des
 technologies commerciales et des interprètes impose des limites aux
-ressources disponibles pour un travail de fond : les décisions ne sont
+ressources disponibles pour un travail de fond: les décisions ne sont
 alors pas uniquement techniquement. Et même s'il y avait de l'argent
-pour payer un service, il s'agirait d'une dépense perdue : vous donnez
+pour payer un service, il s'agirait d'une dépense perdue: vous donnez
 de l'argent à une entreprise privée et ensuite, il disparaît.
 L'alternative est l'autogestion, l'investissement dans des personnes et
 du matériel de manière qui servent à augmenter les capacités et
@@ -144,8 +143,7 @@ logistiques et de l'administratif à régler, et cela nécessite des
 ressources et du temps. Les forums sociaux ont refusé de le comprendre,
 mais d'autres mouvements l'ont eux pris en compte.
 
-COATI : le collectif pour l'autogestion des technologies de
-l’interprétation
+## COATI: le collectif pour l'autogestion des technologies de l’interprétation
 
 Le COATI s'est crée à Barcelone en 2009, en rassemblant des personnes
 qui avaient participé à des mouvements anticapitalistes et
@@ -176,7 +174,7 @@ Néanmoins, nous nous sommes vite rendu compte que permettre l'accès aux
 technologies de l’interprétation allait exiger plus qu'une simple
 gestion de matériel et une réduction des coûts.
 
-Rendre la technologie alternative utile
+## Rendre la technologie alternative utile
 
 Le premier défi fut de dépasser les résistances à l'usage de
 technologies alternatives, qui venaient souvent d'expériences négatives.
@@ -208,13 +206,13 @@ que conscients de l'importance du code libre, c'est pour cela que le
 résultat de notre travail électronique est pleinement documenté et
 disponible en ligne.
 
-Faire que les technologies alternatives s'utilisent
+## Faire que les technologies alternatives s'utilisent
 
 Résoudre les problèmes techniques n'a pas été notre seul problème.
 Quelques unes des pires difficultés sont venues des cultures politiques
 et organisationnelles des mouvements eux-mêmes. De nombreux groupes se
 basent sur un modèle organisationnel relativement informel et résistent
-à la discipline requise pour l’interprétation simultanée : il faut
+à la discipline requise pour l’interprétation simultanée: il faut
 parler clairement et lentement ; parler dans un micro pour que le son
 arrive aux interprètes ; et les participants ne doivent pas
 s'interrompre les uns les autres. Les grands réseaux et les ONG ont
@@ -233,7 +231,7 @@ C'est pourquoi, un autre aspect important du travail du COATI a été de
 promouvoir la culture politique nécessaire pour que la technologie de
 l’interprétation alternative puisse véritablement fonctionner.
 
-L'interprétation bénévole
+## L'interprétation bénévole
 
 La technologie alternative peut être utilisée par des interprètes payés,
 et des interprètes bénévoles peuvent travailler dans des cabines
@@ -261,7 +259,7 @@ pour les activistes qui ont des compétences linguistiques, et dans les
 la formation, en associant en cabine des interprètes expérimentés et des
 activistes débutants.
 
-Parler à des interprètes
+## Parler à des interprètes
 
 Un autre élément important dans le changement de culture politique a été
 de conscientiser les participants à des réunions internationales à la
@@ -279,7 +277,7 @@ l'interprétation invisible, en mettant par exemple les cabines sur la
 scène et les orateurs en bas de la salle, pour que tout le monde voit en
 quoi consiste le processus.
 
-Concevoir des solutions flexibles qui couvrent les nécessités politiques
+## Concevoir des solutions flexibles qui couvrent les nécessités politiques
 
 L'interprétation pose nécessairement des limites sur ce qui est possible
 de faire lors de rencontres ou de réunions. L’interprétation simultanée
@@ -310,7 +308,7 @@ participants dans plus de 9 langues. Nous sommes actuellement en train
 d'élaborer un guide technique et politique pour la facilitation de
 réunions multilingues.
 
-**Le plus grand défi : la décentralisation **
+## Le plus grand défi: la décentralisation
 
 Durant les sept dernières années, nous avons travaillé avec de nombreux
 groupes et mouvements pour les aider avec les besoins linguistiques de
@@ -327,10 +325,10 @@ qu'un de nos projets les plus ambitieux a été de développer un matériel
 simple, facile à utiliser, basé sur du code ouvert que chacun peut
 construire.
 
-Le *spider *: un projet *hardware *au code libre
+## Le *spider*: un projet hardware au code libre
 
 L'équipement d'interprétation le plus simple est probablement le
-*spider* : un boîtier où l'on peut brancher un micro, avec des sorties
+*spider*: un boîtier où l'on peut brancher un micro, avec des sorties
 pour les casques du public. Les nombreux câbles qui sortent du boîtier
 dans toutes les directions font penser aux pattes d'une araignée, d'où
 son nom.
@@ -355,7 +353,7 @@ coûtant. Tous les schémas électroniques, avec les références de chaque
 composant et des instructions pour leur montage, sont publiés en ligne
 sous la licence Publique Générale de GNU.
 
-Former de nouveaux collectifs technologiques
+## Former de nouveaux collectifs technologiques
 
 Depuis la publication en ligne du projet *spider,* nous avons organisé
 des ateliers d'électronique, pour former à sa fabrication, et nous
@@ -367,12 +365,12 @@ de grands événements pour voir comment s'utilise notre matériel en
 situation. Nous avons également participé à des week-end de formations
 mutuelles qui ont servi pour que d'autres groupes commencent leur
 aventure. Nous avons aussi participé à la création de nouveaux
-collectifs, en Roumanie et en Pologne, qui utilisent des *spiders *et
+collectifs, en Roumanie et en Pologne, qui utilisent des *spiders* et
 essayent d'inventer leur propre solution, ainsi qu'à un collectif
 international, Bla, qui voyage à travers l'Europe avec des *spiders* et
 de petits émetteurs radio pour couvrir des événements.
 
-Conclusions
+## Conclusions
 
 La souveraineté dans les technologies d'interprétation signifie beaucoup
 pour nous. Dans un premier temps, pour favoriser l'accès des mouvements
@@ -393,8 +391,8 @@ renforcer la conscience du pourquoi et du comment de l'utilisation de ce
 type de technologie, et ainsi, renforcer les capacités à réellement
 contrôler et créer nos propres solutions.
 
-Pour en savoir plus sur le COATI et le travail que nous réalisons :
+Pour en savoir plus sur le COATI et le travail que nous réalisons:
 
-&lt;https://coati.pimienta.org&gt;
+https://coati.pimienta.org
 
-Contact: &lt;mailto:coati@pimienta.org&gt;
+coati@pimienta.org

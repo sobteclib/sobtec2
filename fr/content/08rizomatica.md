@@ -363,7 +363,7 @@ https://es.wikipedia.org/wiki/Asamblea_Popular_de_los_Pueblos_de_Oaxaca
 
  [^5]: Un peu de cette vérité: http://www.corrugate.org/un-poquito-de-tanta-verdad.html
 
- [^6]: Loreto Bravo. "Empresas Comunales de Comunicación: Un camino hacia la sostenibilidad". Media Development 4/2015 WACC.  http://www.waccglobal.org/articles/empresas-comunales-de-comunicacion-un-camino-hacia-la-sostenibilidad
+ [^6]: Loreto Bravo. "Empresas Comunales de Comunicación: Un camino hacia la sostenibilidad". *Media Development* 4/2015 WACC.  http://www.waccglobal.org/articles/empresas-comunales-de-comunicacion-un-camino-hacia-la-sostenibilidad
 
  [^7]: https://palabraradio.org/nosotras
 
