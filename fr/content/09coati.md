@@ -143,7 +143,7 @@ logistiques et de l'administratif à régler, et cela nécessite des
 ressources et du temps. Les forums sociaux ont refusé de le comprendre,
 mais d'autres mouvements l'ont eux pris en compte.
 
-## COATI: le collectif pour l'autogestion des technologies de l’interprétation
+## COATI: Le collectif pour l'autogestion des technologies de l’interprétation
 
 Le COATI s'est crée à Barcelone en 2009, en rassemblant des personnes
 qui avaient participé à des mouvements anticapitalistes et
@@ -308,7 +308,7 @@ participants dans plus de 9 langues. Nous sommes actuellement en train
 d'élaborer un guide technique et politique pour la facilitation de
 réunions multilingues.
 
-## Le plus grand défi: la décentralisation
+## Le plus grand défi: La décentralisation
 
 Durant les sept dernières années, nous avons travaillé avec de nombreux
 groupes et mouvements pour les aider avec les besoins linguistiques de
@@ -325,7 +325,7 @@ qu'un de nos projets les plus ambitieux a été de développer un matériel
 simple, facile à utiliser, basé sur du code ouvert que chacun peut
 construire.
 
-## Le *spider*: un projet hardware au code libre
+## Le *spider*: Un projet hardware au code libre
 
 L'équipement d'interprétation le plus simple est probablement le
 *spider*: un boîtier où l'on peut brancher un micro, avec des sorties
@@ -391,8 +391,6 @@ renforcer la conscience du pourquoi et du comment de l'utilisation de ce
 type de technologie, et ainsi, renforcer les capacités à réellement
 contrôler et créer nos propres solutions.
 
-Pour en savoir plus sur le COATI et le travail que nous réalisons:
+***Pour en savoir plus sur le COATI et le travail que nous réalisons:*** https://coati.pimienta.org
 
-https://coati.pimienta.org
 
-coati@pimienta.org
