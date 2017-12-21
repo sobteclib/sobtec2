@@ -1,6 +1,6 @@
 # Gouvernance numérique
 
-*Ippolita*
+***Ippolita***
 
 ## Il était une fois…
 

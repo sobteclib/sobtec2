@@ -1,6 +1,6 @@
 # Le lancement d'alerte, une arme amicale à double tranchant
 
-*Claudio Agosti*
+***Claudio Agosti***
 
 ## Le lancement d'alerte
 

@@ -1,6 +1,6 @@
 # Souveraineté technologique pour aimer à nouveau les machines
 
-*Alex Haché*
+***Alex Haché***
 
 > La grande boule de velours répond aux besoins d'un quartier ou d'une
 > communauté: elle est rose et très aimable mais elle est sans pitié.  Les

@@ -1,6 +1,6 @@
 # Des hacklabs aux coopératives de technologies
 
-*Carolina*
+***Carolina***
 
 Les collectifs techno-politiques mélangent le social et le politique. Un
 exemple est Riseup, qui se définit comme *fournisseur* « d'outils de

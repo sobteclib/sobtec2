@@ -1,5 +1,7 @@
 # Code is political, algorithms are weapons of math destruction [^1]
 
+***Benjamin Cadon***
+
 We hear a lot about them, but we never see them.  What are these algorithms?
 These invisible and tantalizing creatures that slip into our minds and inhabit
 our pockets.  What are their intentions?

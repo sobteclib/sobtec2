@@ -1,6 +1,6 @@
 # Garder la souveraineté technologique: Le cas de l'Internet Relay Chat
 
-*Maxigas*
+***Maxigas***
 
 Une technologie nouvelle manifeste parfois une critique du contexte qui
 la voit naître, mais elle perd souvent les possibilités d'émancipation

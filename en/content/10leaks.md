@@ -1,6 +1,8 @@
 ﻿
 # Whistleblowing
 
+***Claudio Agosti***
+
 ## A double edged sword
 
 Whistleblowing is an ancient practice that has been called many names and is

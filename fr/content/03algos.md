@@ -1,6 +1,6 @@
 # Le code est politique, les algorithmes sont des armes mathématiques de destruction [^1]
 
-*Benjamin Cadon*
+***Benjamin Cadon***
 
 On en entend beaucoup parler, on ne les voit jamais, que sont ces algorithmes, ces bêtes invisibles et insaisissables qui se faufilent dans nos cerveaux et habitent nos poches? Quels desseins les animent?
 

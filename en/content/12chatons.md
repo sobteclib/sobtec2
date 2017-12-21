@@ -1,5 +1,7 @@
 # Let's develop peasant computing, let's breed “kittens”
 
+***Framasoft + AMIPO***
+
 ## Introduction
 
 In recent years, we have witnessed the widespread concentration of internet

@@ -1,5 +1,7 @@
 # Développons l’informatique paysanne, élevons des chatons
 
+***Framasoft + AMIPO***
+
 ## Introduction
 
 Ces dernières années, nous avons constaté une centralisation des usages

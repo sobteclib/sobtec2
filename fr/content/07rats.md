@@ -1,6 +1,6 @@
 # Des technologies appropriées aux technologies réappropriées [^1]
 
-*Elleflâne*
+***Elleflâne***
 
 L'investissement en ressources dans le développement des
 connaissances orientées directement vers la production ou le

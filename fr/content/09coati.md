@@ -1,6 +1,6 @@
 # Interprétation simultanée transmise par radiofréquence
 
-*COATI, Collectif pour l'autogestion des technologies d'interprétation*
+***COATI, Collectif pour l'autogestion des technologies d'interprétation***
 
 ## Introduction
 

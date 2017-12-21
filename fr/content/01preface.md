@@ -1,6 +1,6 @@
 # Souveraineté technologique, de quoi parle-t-on?
 
-*Margarita Padilla*
+***Margarita Padilla***
 
 ## Qu'est-ce que c'est?
 

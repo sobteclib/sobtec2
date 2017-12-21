@@ -1,6 +1,6 @@
 # Une graine germe lorsqu'on la sème dans une terre fertile
 
-*Loreto Bravo*
+***Loreto Bravo***
 
 C'est l'histoire de la téléphonie mobile autonome et communautaire des
 peuples autochtones de Oaxaca, une techno-graine qui habite un
