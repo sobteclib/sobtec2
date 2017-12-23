@@ -1,5 +1,4 @@
-De las tecnologías apropiadas\
-a las Tecnologías Re-Apropiadas[^1]\
+De las tecnologías apropiadas a las Tecnologías Re-Apropiadas [^1]\
 \
 
 La inversión de recursos en el desarrollo de conocimientos orientados
