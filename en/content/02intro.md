@@ -7,15 +7,15 @@
 > does not see evil, and that they will be safe, but it knows very well.  It
 > invented it.  The ball rrrrumbles as it rolls.  It invented it. [^1]
 
-Science fiction narratives build possible futures, multiverses, and generally
-they build on what has not (yet) come to be.  Each time an “activist imagines
-the world they are fighting for: a world without violence, without capitalism,
-without racism, without sexism, without prisons, etc. they are developing a
-speculative fiction” [^2].  Narratives that unite us in our circles of
-affinities and resistance.  Narratives that allow us to assault “the machine”
-[^3] and start an exodus within it.  Exercising our capacity to speculate
-about new, utopian worlds is a proposal for together rethinking
-*evil\_electronics, evil\_internet, evil\_mobile 'phones, evil\_satellites*.
+Science fiction narratives build possible futures, *multiverses*, and
+generally they build on what has not (yet) come to be.  Each time an “activist
+imagines the world they are fighting for: a world without violence, without
+capitalism, without racism, without sexism, without prisons, etc. they are
+developing a speculative fiction” [^2].  Narratives that unite us in our
+circles of affinities and resistance.  Narratives that allow us to assault
+“the machine” [^3] and start an exodus within it.  Exercising our capacity to
+speculate about new, utopian worlds is a proposal for together rethinking
+*evil_electronics, evil_internet, evil_mobile 'phones, evil_satellites*.
 
 Giant balls of pink velvet that you can no longer ignore.  Discovering new
 forms, naming them, dreaming of other, possible technologies.  Technological
@@ -284,11 +284,11 @@ happily mundane.
 
 [^12]: https://rverzola.wordpress.com, https://wiki.p2pfoundation.net/Roberto_Verzola
 
-[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html , https://twitter.com/onnowpurbo ,   https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's that?
+[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html • https://twitter.com/onnowpurbo •  https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's that?
 
-[^14]: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula,* Tim Jenkin, 1995.  *The Vula Connection*, documentary film about the story of Operation Vula, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A . Escape from Pretoria Prison: https://www.youtube.com/watch?v=0WyeAaYjlxE
+[^14]: Tim Jenkin: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula,* 1995.  *The Vula Connection*, documentary film about the story of Operation Vula, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A • Escape from Pretoria Prison: https://www.youtube.com/watch?v=0WyeAaYjlxE
 
-[^15]: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
+[^15]: Nadia Eghbal: *Road and Bridges – The Unseen Labor Behind Our Digital Infrastructure*, Ford Foundation, 2016: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 
 [^16]: https://en.wikipedia.org/wiki/The_Coconut_Revolution
 
