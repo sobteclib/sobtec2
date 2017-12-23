@@ -56,7 +56,7 @@ desires, in order to be able to shape them.
 | **Data** | Visits | Relationships | Likes | Tracking |
 | **Population** | Representative samples | Votes census, communities | Social networks, affinities, declarative | Implicit individual behaviours |
 | **Type of calculation** | Vote | Classification by merit | Benchmark | Machine Learning |
-| Principle | Popularity | Authority | Reputation | Prediction | 
+| **Principle** | Popularity | Authority | Reputation | Prediction | 
 
 *According to Domenique Cardon in “À quoi rêvent les algorithmes”.* [^4]
 

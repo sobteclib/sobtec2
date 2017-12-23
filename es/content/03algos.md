@@ -52,8 +52,13 @@ evaluar nuestra reputación y para rastrear nuestras afinidades. Por
 último se esconden de nuestra mirada para predecir mejor el menor de
 nuestros deseos, y poder condicionarlos.
 
-  ------------------ ------------------------------------------------------- ------------------------------------- ------------------------------------------------------------------------ -----------------------------------------------------
-  ------------------ ------------------------------------------------------- ------------------------------------- ------------------------------------------------------------------------ -----------------------------------------------------
+| | **A un lado** | **Por encima** | **Dentro** | **Por debajo** |
+| --- | --- | --- | ---| --- |
+| **Ejemplos** | Medición de audiencia, Google Analytics, pestañas de publicitarias | Google PageRank, Digg, Wikipedia  | Número de amigos en Facebook, Retweets de Twitter, notas y opiniones | Recomendaciones de Amazon, behaviour publicidad comportamentales | 
+| **Datos** | Visitas | Relación | Likes | Huellas/Rastos |
+| **Población** | Muestras representativas | Voto censitario, comunidades | Redes sociales, declarativo | Implicit Comportamientos individuales implícitos |
+| **Fórma de cálculo** | Voto | Clasificación por mérito | Benchmark | Machine Learning |
+| **Principio** | Popularidad | Autoridad | Reputación | Predicción | 
 
 *Tabla de Dominique Cardon en «À quoi rêvent les algorithmes» [^4] (¿Con
 qué sueñan los algoritmos?)*
@@ -111,11 +116,11 @@ hombres vociferando y sudando, pero sólo encontró un ordenador IBM
 conectado a una terminal oficial del Nasdaq [^10]. Así fue como los
 algoritmos se lanzaron a los mercados financieros.
 
-Hoy en día, el *algotrading (trading *con algoritmos*) *se ha
-generalizado, y* *los parpadeos algorítmicos serenos de las redes
+Hoy en día, el *algotrading* (*trading* con algoritmos) se ha
+generalizado, y los parpadeos algorítmicos serenos de las redes
 informáticas han remplazado a los corredores de bolsa *(traders)*
 neuróticos. Pero estas criaturas digitales de la finanzas se han visto
-sobrepasado por los *algotraders *de alta frecuencias. Estos se
+sobrepasado por los algotraders de alta frecuencias. Estos se
 desplazan a la velocidad de la luz, construyendo caminos para llegar a
 la orden de compra y venta más rápidamente que los otros [^11], y
 consiguen así un beneficio en cada operación. Se cobijan dentro de los
@@ -267,7 +272,7 @@ algoritmo bueno responda a lo siguiente:
     que puedan engendrar modificaciones en su funcionamiento.
 
 En esta búsqueda de una moral y ética algorítmica, también es necesario
-mencionar las API (*Application Public Interface*), quienes permiten que
+mencionar las API (*Application Programming Interface*), quienes permiten que
 las criaturas digitales vayan cazando datos de otros servidores y
 servicios, o por el contrario que puedan colocar contenidos o cebos.
 Estas API suelen usar patente de software anti código abierto
@@ -366,98 +371,96 @@ humanidad micro-ficciones adaptadas a su contexto político y cultural,
 con el propósito de construir realidades armoniosas dónde cohabitarán en
 paz los algoritmos, los humanos, la naturaleza y el mundo inorgánico.
 
-[^1]: 
+[^1]: Este título hace referencia al libro de Cathy O’Neil. *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown, 6 de septiembre de 2016.
 
-[^2]: 
+[^2]: En esta novela futurista de Isaac Asimov, Estados Unidos se han convertido a una «democracia electrónica» donde el ordenador Multivac selecciona una sola persona para responder a una serie de preguntas. Multivac utilizará las respuestas y otros datos para determinar cuáles serían los resultados de una elección, evitando la necesidad de que se realice una elección real: https://en.wikipedia.org/wiki/Franchise_%28short_story%29
 
-[^3]: 
+[^3]: https://fr.wikipedia.org/wiki/Bestiaire
 
-[^4]: 
+[^4]: Dominique Cardon: *A quoi rêvent les algorithmes? Nos vies à l’heure – Nos vies à l’heure des big data*. Le Seuil, 2015.
 
-[^5]: 
+[^5]: Evgeny Morozov, y Pascale Haas: Le mirage numérique – Pour une politique du Big Data. Les Prairies Ordinaires, 2015.
 
-[^6]: 
+[^6]: http://centenaire-shannon.cnrs.fr/chapter/la-theorie-de-information
 
-[^7]: 
+[^7]: https://fr.wikipedia.org/wiki/PRISM_(programme_de_surveillance)
 
-[^8]: 
+[^8]: Terry Gilliam: *Brazil*. 1985. http://www.imdb.com/title/tt0088846/
 
-[^9]: 
+[^9]: Cathy O’Neil: *Weapons of Math Destruction – How Big Data Increases Inequality and Threatens Democracy. Crown, 6 de septiembre de 2016.
 
-[^10]: 
+[^10]: Unos días más tarde, el inspector le ordena a Peterfly que ingrese las órdenes tecleando manualmente en la terminal y le otorgan una semana para desconectar la IBM. En este lapso de tiempo, contratará a ingenieros y construirá una cámara de ojo capaz de leer la pantalla, que envía información al cerebro de IBM a la que ha injertado manos electromecánicas que pueden teclear las órdenes a toda velocidad en la terminal Nasdaq.
 
-[^11]: 
+[^11]: Sniper In Mahwah: Anthropology, market structure & the nature of exchanges: https://sniperinmahwah.wordpress.com/
 
-[^12]: 
+[^12]: El Flash Crash del 6 mayo de 2010 analizado por Nanex: http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html y https://www.youtube.com/watch?v=E1xqSZy9_4I
 
-[^13]: 
+[^13]: Alexandre Laumonier. *5/6*. Zones Sensibles Editions, 2014. http://www.zones-sensibles.org/livres/6-5/
 
-[^14]: 
+[^14]: https://www.washingtonpost.com/news/worldviews/wp/ 2013/04/23/syrian-hackers-claim-ap-hack-that-tipped-stock-market-by-136billion-is-it-terrorism/
 
-[^15]: 
+[^15]: Esta criatura es tan costosa (una operación le demanda tanta electricidad como un hogar americano medio en un día y medio), que vive principalmente en China y ahora es muy lenta: http://motherboard.vice.com/read/bitcoin-isunsustainable
 
-[^16]: 
+[^16]: https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html
 
-[^17]: 
+[^17]: Capitalización y movimientos cotidianos de las crypto-monedas: http://coinmarketcap.com/
 
-[^18]: 
+[^18]: https://www.ethereum.org/
 
-[^19]: 
+[^19]: https://en.wikipedia.org/wiki/The_DAO_(organization)
 
-[^20]: 
+[^20]: Primavera De Filippi (Berkman Center Fellow): Ethereum – Freenet or Skynet?: https://cyber.harvard.edu/events/luncheon/2014/04/difilippi
 
-[^21]: 
+[^21]: http://www.theverge.com/2016/12/30/14128870/foxconn-robotsautomation-apple-iphone-china-manufacturing
 
-[^22]: 
+[^22]: https://www.washingtonpost.com/news/innovations/wp/2016/05/16/meet-ross-the-newly-hired-legal-robot/
 
-[^23]: 
+[^23]: Bernard Stiegler: *La Société automatique – L'avenir du travail*. Fayard, 2015. http://www.philomag.com/les-livres/fiche-de-lecture/la-societeautomatique-1-lavenir-du-travail-11454
 
-[^24]: 
+[^24]: https://www.google.com/recaptcha/intro/index.html
 
-[^25]: 
+[^25]: https://en.wikipedia.org/wiki/Turing_test
 
-[^26]: 
+[^26]: http://www.bizjournals.com/boston/blog/techflash/2015/01/massachusetts-womans-lawsuit-accuses-google-of.html
 
-[^27]: 
+[^27]: https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf
 
-[^28]: 
+[^28]: A 61-million-person experiment in social influence and political mobilization: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
 
-[^29]: 
+[^29]: https://fr.wikipedia.org/wiki/Singularité_technologique
 
-[^30]: 
+[^30]: Antoinette Rouvroy y Thomas Berns: Gouvernementalité algorithmique et perspectives d'émancipation – Le disparate comme condition d'individuation par la relation? Politique des algorithmes. Les métriques du web. *RESEAUX*, Vol.31, n.177, pp. 163-196, 2013. http://works.bepress.com/antoinette_rouvroy/47/
 
-[^31]: 
+[^31]: ifapa.me es un colectivo dedicado a la investigación y en subvertir los efectos de la matematizacióna y cuantificación de la vida diaria en la sociedades necrocapitalista: http://www.ifapa.me/
 
-[^32]: 
+[^32]: https://www.washingtonpost.com/opinions/big-data-may-bereinforcing-racial-bias-in-the-criminal-justice-system/2017/02/10/d63de518ee3a-11e6-9973-c5efb7ccfb0d_story.html?utm_term=.b7f5ab5df1f9
 
-[^33]: 
+[^33]: https://www.genderit.org/feminist-talk/algorithmic-discrimination-andfeminist-politics
 
-[^34]: 
+[^34]: https://fr.wikipedia.org/wiki/Trois_lois_de_la_robotique
 
-[^35]: 
+[^35]: http://internetactu.blog.lemonde.fr/2017/01/21/peut-on-armer-la-transparence-de-linformation/
 
-[^36]: 
+[^36]: Documental *Le secret des 7 soeurs*: http://secretdes7soeurs.blogspot.fr/
 
-[^37]: 
+[^37]: http://www.lemonde.fr/pixels/article/2016/09/28/intelligence-artificielle-les-geants-du-web-lancent-un-partenariatsur-l-ethique_5005123_4408996.html
 
-[^38]: 
+[^38]: http://www.internetactu.net/2016/03/16/algorithmes-etresponsabilites/
 
-[^39]: 
+[^39]: https://www.service-public.fr/particuliers/actualites/A11502
 
-[^40]: 
+[^40]: https://www-direction.inria.fr/actualite/actualites-inria/transalgo
 
-[^41]: 
+[^41]: The Internet Engineering Task Force (IETF ®): http://www.ietf.org/
 
-[^42]: 
+[^42]: http://degooglisons-internet.org/
 
-[^43]: 
+[^43]: https://chatons.org/
 
-[^44]: 
+[^44]: https://cvdazzle.com/
 
-[^45]: 
+[^45]: http://www.lemonde.fr/pixels/article/2016/10/19/inquietudes-autourde-la-reconnaissance-faciale-aux-etats-unis_5016364_4408996.html
 
-[^46]: 
+[^46]: https://www.theguardian.com/technology/2016/mar/24/tay-microsoftsai-chatbot-gets-a-crash-course-in-racism-from-twitter
 
-[^47]: 
-
-
+[^47]: http://elizagen.org

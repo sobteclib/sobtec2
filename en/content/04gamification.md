@@ -1,7 +1,7 @@
 ﻿
 # Digital governance
 
-***Ippolita***
+
 
 ## Once upon a time...
 
