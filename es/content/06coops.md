@@ -1,4 +1,6 @@
-De los hacklabs a las cooperativas de tecnología
+# De los hacklabs a las cooperativas de tecnología
+
+***Carolina***
 
 Los colectivos tecnopolíticos mezclan lo social y lo político. Un
 ejemplo es Riseup, que «*proporciona herramientas de comunicación online
@@ -8,27 +10,26 @@ autogestión mediante el control de nuestro propios medios de
 comunicación*.». En estos momentos, el entorno tecnopolítico está
 formados por múltiples tipos de organizaciones, desde redes informales
 de hacktivistas, comunidades de software libre, fundaciones,
-*start*-*ups* invirtiendo en la llamada tecnología cívica e incluso
+*start-ups* invirtiendo en la llamada tecnología cívica e incluso
 instituciones públicas y ayuntamientos.
 
 Hace unos años, la soberanía tecnológica se entendía como el desarrollo
-de tecnologías libres \[0\] por y para la sociedad civil. Fortaleciendo
+de tecnologías libres [^0] por y para la sociedad civil. Fortaleciendo
 y haciendo autosuficiente a una sociedad a través del desarrollo de
 software, hardware, servicios e infraestructura que cubría las
 necesidades sociales basándose en la ética del software libre y la
-autogestión. Ahora, en pleno auge del* *código abierto (*open source*),
+autogestión. Ahora, en pleno auge del código abierto (*open source*),
 la situación es confusa, grandes empresas lo están promocionando para
 beneficio propio y han roto el contrato social entre desarrollo
 tecnológico y responsabilidad social.
 
-En este texto, la intención es repensar el papel que tienen o podrían
-tener las cooperativas, como actores socioeconómicos, en la recuperación
-de este contrato social. Para ello, partiré de la
+En este texto, la intención es repensar el papel que tienen o podrían tener
+las cooperativas, como actores socioeconómicos, en la recuperación de este
+contrato social. Para ello, partiré de la amplia esfera de colectivos
+tecnopolíticos [^1] para después centrarme en la evolución de las
+cooperativas de tecnología en el Estado español.
 
-amplia esfera de colectivos tecnopolíticos \[1\] para después centrarme
-en la evolución de las cooperativas de tecnología en el Estado español.
-
-Una galaxia de iniciativas
+## Una galaxia de iniciativas
 
 Tenemos fundaciones comprometidas con el desarrollo de soluciones y
 servicios de código abierto y software libre (FSF, Mozilla, Blender,
@@ -51,28 +52,25 @@ empresas y cooperativas, de manera que se garanticen sistemas robustos y
 fiables para la promoción de una democracia abierta.
 
 Las cooperativas de tecnología se encuentran en la intersección de lo
-mencionado anteriormente.
-
-Dado que, por un lado tienen un objetivo económico que permita la
-sostenibilidad de sus proyectos y por otro, el objetivo político y
-social de la tecnología. En general, la mayoría de los clientes de las
-cooperativas suelen venir del tercer sector (ONG, asociaciones,
+mencionado anteriormente. Dado que, por un lado tienen un objetivo económico
+que permita la sostenibilidad de sus proyectos y por otro, el objetivo
+político y social de la tecnología. En general, la mayoría de los clientes de
+las cooperativas suelen venir del tercer sector (ONG, asociaciones,
 colectivos), quienes piden asesoría y desarrollo personalizado de sus
-productos. Algunos ejemplos de estos desarrollos son: Candela (una
-aplicación de gestión de activistas para Amnistía Internacional), GONG
-(un gestor de proyectos de las ONG), Oigame (una plataforma de
-peticiones en línea), Nolotiro (una plataforma para el intercambio de
-cosas), Mecambio (un repositorio de alternativas para un consumo
-responsable).
+productos. Algunos ejemplos de estos desarrollos son: Candela (una aplicación
+de gestión de activistas para Amnistía Internacional), GONG (un gestor de
+proyectos de las ONG), Oigame (una plataforma de peticiones en línea),
+Nolotiro (una plataforma para el intercambio de cosas), Mecambio (un
+repositorio de alternativas para un consumo responsable).
 
-Creando una cooperativa
+## Creando una cooperativa
 
 Ahora contaré la historia concreta de cómo fundamos Dabne, una de las
 cooperativas de software libre, entre otras que simultáneamente se
-estaban constituyendo \[4\].
+estaban constituyendo [^4].
 
 En los años 90, cuando Internet empezó a ser accesible, había algunos
-proyectos \[5\] que empezaban a pensar en qué nuevas posibilidades abría
+proyectos [^5] que empezaban a pensar en qué nuevas posibilidades abría
 Internet de cara a repensar las identidades, la autoorganización en
 línea traspasando fronteras, la creación de un cerebro colectivo. Los
 *hacklabs*, en las okupas o en otros espacios, eran sitios donde
@@ -94,21 +92,15 @@ comparten una serie de valores con la ética del software libre, y en
 nuestro caso teníamos una serie de acuerdos informales, de imaginario
 común, que se puede condensar en:
 
-Queríamos ganarnos la vida pero no a cualquier coste.
-
-Queríamos ser parte del proceso de toma de decisiones.
-
-Queríamos transparencia.
-
-Queríamos definir nuestros propios objetivos y cambiarlos cuando fuera
+ * Queríamos ganarnos la vida pero no a cualquier coste.
+ * Queríamos ser parte del proceso de toma de decisiones.
+ * Queríamos transparencia.
+ * Queríamos definir nuestros propios objetivos y cambiarlos cuando fuera
 necesario.
-
-Queríamos que se tratara a todo el mundo de una manera justa.
-
-Queríamos seguir experimentando, aprendiendo, divirtiéndonos y
+ * Queríamos que se tratara a todo el mundo de una manera justa.
+ * Queríamos seguir experimentando, aprendiendo, divirtiéndonos y
 promoviendo el software libre.
-
-Queríamos colaborar y cooperar con otros sin ser esclavas de nuestro
+ * Queríamos colaborar y cooperar con otros sin ser esclavas de nuestro
 trabajo.
 
 Con todo esto en mente, empezamos a averiguar cómo funcionaba el mundo
@@ -167,7 +159,7 @@ centráramos a menudo en la asesoría a grupos/empresas no-técnicos,
 siendo capaces de ajustar ritmos, explicarnos y también si no teníamos
 los conocimientos de saber decir no o buscar soluciones alternativas.
 
-Construyendo comunidades y redes
+## Construyendo comunidades y redes
 
 Las cooperativas son a menudo frágiles. Pero el trabajo colaborativo, la
 creación de comunidades y el formar parte de redes existentes las
@@ -177,7 +169,7 @@ A través de la Unión de Cooperativas (UMCTA) entramos en contacto con
 cooperativas medioambientales, agroecológicas, de trabajo social,
 consultoras, quienes compartían sus saberes y experiencias. Ser
 cooperativa también implicó entrar en la red de economía social y
-solidaria \[6\].
+solidaria [^6].
 
 En aquel entonces, se estaba fundando Coop57-Madrid, una cooperativa de
 servicios financieros éticos y solidarios, con el objetivo de financiar
@@ -214,10 +206,10 @@ dinero, ambos difíciles de manejar en cooperativas con recursos
 limitados.
 
 El tiempo está demostrando que se siguen fundando nuevas cooperativas y
-colectivos \[8\] alrededor de las tecnologías, así que la rueda sigue
+colectivos [^8] alrededor de las tecnologías, así que la rueda sigue
 girando.
 
-El análisis DAFO para cooperativas
+## El análisis DAFO para cooperativas
 
 Desarrollaremos un análisis DAFO o SWOT (Strength Weakness Opportunities
 Threats, en inglés) de las cooperativas tecnológicas:
@@ -225,80 +217,59 @@ Threats, en inglés) de las cooperativas tecnológicas:
 **Fortalezas**, se refiere a las características internas de la
 cooperativa que proporcionan ventajas:
 
-Un equipo pequeño puede cambiar y adaptarse rápidamente.
-
-Entorno de trabajo flexible.
-
-Posibilidad de toma de decisiones y definición de los objetivos de la
+ * Un equipo pequeño puede cambiar y adaptarse rápidamente.
+ * Entorno de trabajo flexible.
+ * Posibilidad de toma de decisiones y definición de los objetivos de la
 empresa.
-
-Capital inicial mínimo.
-
-Ritmo de trabajo propio.
-
-Buena imagen de empresa.
-
-Creatividad.
-
-Curiosidad.
-
-Diversión.
+ * Capital inicial mínimo.
+ * Ritmo de trabajo propio.
+ * Buena imagen de empresa.
+ * Creatividad.
+ * Curiosidad.
+ * Diversión.
 
 **Debilidades** se refiere a las características internas de la
 cooperativa que proporcionan desventajas:
 
-Saturación de trabajo.
-
-Implicación permanente (las 24 horas, los 7 días de la semana).
-
-Ninguna experiencia en gestión de empresas.
-
-Perfiles no especializados.
-
-Dificultad para crecer.
-
-Comunicación.
-
-Falta de colchón financiero.
-
-Falta de asesoramiento legal.
+ * Saturación de trabajo.
+ * Implicación permanente (las 24 horas, los 7 días de la semana).
+ * Ninguna experiencia en gestión de empresas.
+ * Perfiles no especializados.
+ * Dificultad para crecer.
+ * Comunicación.
+ * Falta de colchón financiero.
+ * Falta de asesoramiento legal.
 
 **Oportunidades** se refiere a factores externos de la cooperativas que
 podrían convertirse en ventajas:
 
-Capacidad de desarrollar ideas y proyecto propios.
-
-Capacidad de elegir socios y proyectos.
-
-Posibilidad de formar parte de distintas redes y comunidades.
-
-Posibilidad de dar respuesta a necesidades concretas y poco comunes.
+ * Capacidad de desarrollar ideas y proyecto propios.
+ * Capacidad de elegir socios y proyectos.
+ * Posibilidad de formar parte de distintas redes y comunidades.
+ * Posibilidad de dar respuesta a necesidades concretas y poco comunes.
 
 **Amenazas** son factores externos a la cooperativa que puedes causar
 problemas:
 
-Agotamiento y *burn out.*
+ * Agotamiento y *burn out.*
+ * Desconcierto ante el futuro.
+ * Incapacidad de estar al día en temas técnicos.
+ * Reducción de precios.
 
-Desconcierto ante el futuro.
-
-Incapacidad de estar al día en temas técnicos.
-
-Reducción de precios.
-
-Y algunas cuestiones siguen abiertas
+## Y algunas cuestiones siguen abiertas
 
 Las cooperativas pueden crear zonas autónomas mientras se enfrentan a
 determinados retos:
 
-Economía: ¿Cómo dar forma a una economía del procomún, social y de apoyo
-mutuo?
+ * **Economía**: ¿Cómo dar forma a una economía del procomún, social y de
+   apoyo mutuo?
 
-Autoorganización: ¿Cómo ser sostenible a largo plazo, mientras se
-cuestionan verdades incuestionables como el consenso, horizontalidad,
-participación, liderazgo?
+ * **Autoorganización**: ¿Cómo ser sostenible a largo plazo, mientras se
+   cuestionan verdades incuestionables como el consenso, horizontalidad,
+   participación, liderazgo?
 
-Libertad tecnológica: ¿Cómo luchar por el software libre, los derechos
-digitales, conocimientos abierto y *copyleft*?
+ * **Libertad tecnológica**: ¿Cómo luchar por el software libre, los derechos
+   digitales, conocimientos abierto y *copyleft*?
 
 Pasan los años y parece que las cooperativas tecnológicas son sostenible
 gracias a fuertes lazos personales, claves a la hora de generar
@@ -306,7 +277,7 @@ confianza y asumir nuevos retos pero puede ser una limitación cuando se
 trata de crecer. Además, la situación de precariedad y inseguridad
 económica hace difícil incorporar a gente nueva. Con todo, siempre hay
 un momento en el que un proyecto crece y con él, debe crecer el equipo,
-cómo o …. ¿quizás no?
+cómo o … ¿quizás no?
 
 Entonces, ¿quién debería ser parte de la cooperativa? ¿Debería tener
 conocimientos técnicos concretos?¿Debería tener un perfil versátil?¿Los
@@ -323,135 +294,20 @@ Todos estos retos ofrecen una visión de los tiempos por venir, y la
 creación de zonas autónomas abren nuevas posibilidades a la hora de
 pensar el trabajo, el procomún, la sostenibilidad y la economía.
 
-Notas al pie:
+[^0]: Definición de software libre:  **Libertad 0**: La libertad de usar el programa, con cualquier propósito (uso).  **Liberdad 1**: La libertad de estudiar cómo funciona el programa y modificarlo, adaptándolo a las propias necesidades (estudio).  *Liberdad 2**: La libertad de distribuir copias del programa, con lo cual se puede ayudar a otras usuarias (distribución). **Liberdad 3**: La libertad de mejorar el programa y hacer públicas esas mejoras a las demás, de modo que toda la comunidad se beneficie (mejora).
 
-\[0\] Definición de software libre:
+[^1]: Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • BOUM: https://www.boum.org/ (FR)  • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA)
 
-0 - La libertad de usar el programa, con cualquier propósito (uso).
+[^2]: Consul: https://github.com/AyuntamientoMadrid/consul • Decidim: https://github.com/AjuntamentdeBarcelona/decidim
 
-1- La libertad de estudiar cómo funciona el programa y modificarlo,
-adaptándolo a las propias necesidades (estudio).
+[^3]: Candela: https://github.com/amnesty/candela • Gong: https://gong.org.es/projects/gor • Oigame: https://github.com/alabs/oigame • Nolotiro: https://github.com/alabs/nolotiro.org • Mecambio: https://www.mecambio.net/
 
-2- La libertad de distribuir copias del programa, con lo cual se puede
-ayudar a otras usuarias (distribución).
+[^4]: Dabne: https://dabne.net/ • Xsto.info: https://xsto.info/ • aLabs: https://alabs.org/ • Semilla del software libre: https://semillasl.net/ • Enreda: https://enreda.coop/ • Gnoxys: https://gnoxys.net/ • Cooperativa Jamgo: https://jamgo.coop/
 
-3- La libertad de mejorar el programa y hacer públicas esas mejoras a
-las demás, de modo que toda la comunidad se beneficie (mejora).
+[^5]: **Algunos proyectos:**: Sindominio: https://sindominio.net/ (ES) • Autistici: https://autistici.org/ (IT) • Samizdat: https://samizdat.net/ (FR) • Espora: https://espora.org/ (MX) • Thing: https://thing.net/ (USA)
 
-\[1\]
+[^6]: Redes Cooperativa: https://redescooperativa.com/intervencion-social/ • REAS: https://www.economiasolidaria.org/red_redes • Coop 57: https://coop57.coop/ • Economia Solidaria: https://www.economiasolidaria.org • Madrid Mercado Social: https://madrid.mercadosocial.net/ • Tangente coop: https://tangente.coop/
 
-http://riseup.net (USA)
+[^7]: Asolif: https://www.asolif.es/ • Esle: https://esle.eus/ • Olatukoop: https://olatukoop.net
 
-http://autistici.org (ITA)
-
-http://www.free.de/ (GER)
-
-http://so36.net (GER)
-
-https://www.boum.org/(FR)
-
-http://nodo50.org (ESP)
-
-http://pangea.org/ (ESP)
-
-https://www.immerda.ch/ (CH)
-
-https://mayfirst.org(USA)
-
-\[2\]
-
-https://github.com/AyuntamientoMadrid/consul
-
-<https://github.com/AjuntamentdeBarcelona/decidim>
-
-\[3\]
-
-Candela: https://github.com/amnesty/candela
-
-Gong: https://gong.org.es/projects/gor
-
-Oigame: https://github.com/alabs/oigame
-
-Nolotiro: <https://github.com/alabs/nolotiro.org>
-
-Mecambio: http://www.mecambio.net/
-
-\[4\]
-
-Dabne - http://dabne.net
-
-Xsto.info - http://xsto.info/
-
-aLabs - https://alabs.org/
-
-Semilla del software libre - http://semillasl.net/
-
-Enreda - http://enreda.coop/
-
-Gnoxys - http://gnoxys.net/
-
-Grupo Ikusnet
-
-Cooperativa Jamgo: http://jamgo.coop/es/category/equipo/
-
-\[5\] Algunos proyectos:
-
-http://sindominio.net (ES)
-
-http://autistici.org (IT)
-
-http://samizdat.net/ (FR)
-
-http://espora.org (MX)
-
-[h](http://thing.net/)[ttp://thing.net](http://thing.net/) (USA)
-
-\[6\]
-
-http://coop57.coop/
-
-http://www.economiasolidaria.org
-
-https://madrid.mercadosocial.net/
-
-<http://tangente.coop/>
-
-\[7\]
-
-Asolif http://www.asolif.es/
-
-Esle - http://esle.eus/
-
-Olatukoop - http://olatukoop.net
-
-Otras cooperativas, grupos o iniciativas trabajando con tecnología libre
-
-\[8\] Deconstruyendo - http://deconstruyendo.net/
-
-Interzonas - https://interzonas.info
-
-Talaios - http://talaios.net
-
-Shareweb - http://shareweb.es
-
-Reciclanet - http://www.reciclanet.org
-
-Buenaventura - http://www.buenaventura.cc/
-
-Itaca - http://www.itacaswl.com
-
-Saregune - http://www.saregune.net
-
-Cooptecniques - http://cooptecniques.net/
-
-América Latina
-
-Kefir: <https://kefir.red/>
-
-Vedetas: [https://](https://kefir.red/)vedetas.org
-
-Tierra común: https://tierracomun.org/
-
-Técnicas rudas: http://www.tecnicasrudas.org/
-
-
+[^8]: **Otras cooperativas, grupos o iniciativas trabajando con tecnología libre:** • Deconstruyendo: https://deconstruyendo.net/ • Interzonas: https://interzonas.info • Talaios: https://talaios.net/ • Shareweb: https://shareweb.es • Reciclanet: https://www.reciclanet.org • Buenaventura; https://www.buenaventura.cc/ • Itaca: https://www.itacaswl.com • Saregune: https://www.saregune.net • Cooptecniques: https://cooptecniques.net/ • **Latin America**: Kefir: https://kefir.red/ • Vedetas: vedetas.org • Tierra comun: https://tierracomun.org/ • Técnicas rudas: https://www.tecnicasrudas.org/

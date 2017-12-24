@@ -1,5 +1,6 @@
-De las tecnologías apropiadas a las Tecnologías Re-Apropiadas [^1]\
-\
+# De las tecnologías apropiadas a las Tecnologías Re-Apropiadas [^1]
+
+***Elleflâne***
 
 La inversión de recursos en el desarrollo de conocimientos orientados
 directamente a la producción o desarrollo de nuevos procesos y
@@ -373,8 +374,6 @@ países e individuos pobres deben recordar que tienen la posibilidad de
 tener voz propia y la responsabilidad de hacer que se respete su poder
 de decisión en su evolución económica y social en un mundo
 interdependiente.
-
-### Referencias
 
 \[1\] Tecnología apropiada
 **http://es.wikipedia.org/wiki/Tecnolog%C3%ADa\_adecuada**\

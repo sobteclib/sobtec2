@@ -184,7 +184,7 @@ Yet, time has shown that new people are founding cooperatives and collectives
 I will recap dimensions introduced previously using a Strength Weakness
 Opportunities Threats (SWOT) analysis where:
 
-Strengths refers to characteristics and internal factors of the cooperative or
+**Strengths** refers to characteristics and internal factors of the cooperative or
 project that give it an advantage over others:
 
  * Small team can change and adapt quickly
@@ -197,7 +197,7 @@ project that give it an advantage over others:
  * Curiosity
  * Have fun
 
-Weaknesses refers to characteristics of the cooperative or project that puts
+**Weaknesses** refers to characteristics of the cooperative or project that puts
 it at a disadvantage relative to others:
 
  * Strain of working
@@ -209,7 +209,7 @@ it at a disadvantage relative to others:
  * No financial cushion
  * No legal counselling
 
-Opportunities refers to external factors of the environment that the
+**Opportunities** refers to external factors of the environment that the
 cooperative or project could exploit to its advantage:
 
  * Able to develop own ideas & projects
@@ -217,7 +217,7 @@ cooperative or project could exploit to its advantage:
  * Be part of different networks & communities
  * Capacity to respond to concrete and uncommon needs and desires
 
-Threats are external elements in the environment that could cause trouble for
+**Threats** are external elements in the environment that could cause trouble for
 the cooperative or project:
 
  * Exhaustion and burn out

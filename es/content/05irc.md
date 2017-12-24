@@ -394,12 +394,12 @@ Monopolies and Their Alternatives*. INC Reader #8. Institute of
 Network Cultures.
 <http://networkcultures.org/blog/publication/unlike-us-reader-social-media-monopolies-and-their-alternatives/>
 
-Maxigas. 2014. History of Real Time Chat Protocols. *Relay #70 Panel F*
+Maxigas. 2014. History of Real Time Chat Protocols. Relay #70 Panel F
 (febrero).
 <http://relay70.metatron.ai/history-of-real-time-chat-protocols.html>.
 
 ———. 2015. Peer Production of Open Hardware: Unfinished Artefacts and
-Architectures in the Hackerspaces. *Tesis doctoral, Barcelona*:
+Architectures in the Hackerspaces. Tesis doctoral, Barcelona:
 Universitat Oberta de Catalunya, Internet Interdisciplinary Institute.
 <https://research.metatron.ai/maxigas_dissertation.pdf>.
 
@@ -413,7 +413,7 @@ and Their Alternatives*, ed. Geert Lovink y Miriam Rasch. INC Reader
 
 [^2]: NdT: Directiva 2006/24/CE del Parlamento Europeo y del Consejo, de 15 de marzo de 2006 , sobre la conservación de datos generados o tratados en relación con la prestación de servicios de comunicaciones electrónicas de acceso público o de redes públicas de comunicaciones y por la que se modifica la Directiva 2002/58/CE
 
-[^3]: *«Google es una máquina de hacer dinero con fines de lucro y financiada con publicidad que convierte a los usuarios y sus datos en una mercancía*.»(Fuchs, 2012, 47)
+[^3]: *«Google es una máquina de hacer dinero con fines de lucro y financiada con publicidad que convierte a los usuarios y sus datos en una mercancía*.» (Fuchs, 2012, 47)
 
 [^4]: Se hace referencia a los sindicatos del crimen organizado en la serie anime de Black Lagoon.
 
