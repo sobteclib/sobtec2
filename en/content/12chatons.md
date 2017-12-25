@@ -163,6 +163,7 @@ allow a fairer Internet, we help to distribute codes and diversify usage.
 
 Framasoft is thus committed to facilitating self-hosting and interoperability,
 so that its users don’t get “locked in”.
+
 ## The K.I.T.T.E.N.S. project[^9]
 
 In the light of the success of their “de-googlize” the Internet campaign,
@@ -311,7 +312,7 @@ The neutrality of KITTENS is therefore a political neutrality, as the
 convictions of members will be neither examined nor sanctioned, so long as
 they keep within the framework of current applicable laws. 
 
-#### AMIPO, an experience of a KITTENS construction in Orleans
+### AMIPO, an experience of a KITTENS construction in Orleans
 
 AMPIRO, (“L’Association de Maintien de l’Informatique Paysanne Orléanaises,”
 the Association for the Maintenance of Computing for Farmers in Orleans) is a

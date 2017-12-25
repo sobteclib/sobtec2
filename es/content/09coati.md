@@ -1,25 +1,19 @@
-Interpretación simultánea transmitida por radiofrecuencia
+# Interpretación simultánea transmitida por radiofrecuencia
 
-COATI - Colectivo para la Autogestión de las Tecnologías de la
-Interpretación
+***Colectivo para la Autogestión de las Tecnologías de la Interpretación***
 
-Introducción
+> *«Ni la solidaridad internacional ni las protestas globales son fenómenos
+> nuevos. Desde las revoluciones europeas de 1848, pasando por las revueltas
+> de 1917-18 tras la revolución rusa, hasta los destellos de resistencia casi
+> universales en 1968, las luchas siempre han sabido inspirarse mutuamente y
+> comunicarse a nivel global. Lo que quizás sí sea novedad en nuestros tiempos
+> es la facilidad y rapidez con las que podemos comunicarnos de una lucha a
+> otra, y el que la globalización ha supuesto que personas muy diversas
+> pertenecientes a culturas distintas de todo el planeta tengan ahora un
+> enemigo en común.»* — Do or Die, número 8, 1999
 
-«Ni la solidaridad internacional ni las protestas globales son fenómenos
-nuevos. Desde las revoluciones europeas de 1848, pasando por las
-revueltas de 1917-18 tras la revolución rusa, hasta los destellos de
-resistencia casi universales en 1968, las luchas siempre han sabido
-inspirarse mutuamente y comunicarse a nivel global. Lo que quizás sí sea
-novedad en nuestros tiempos es la facilidad y rapidez con las que
-podemos comunicarnos de una lucha a otra, y el que la globalización ha
-supuesto que personas muy diversas pertenecientes a culturas distintas
-de todo el planeta tengan ahora un enemigo en común.» (Do or Die, número
-8, 1999)
-
-«Nuestra resistencia es tan transnacional como el capital»
-
-(Lema del día de acción global contra el capitalismo, 8 de junio de
-1999)
+> *«Nuestra resistencia es tan transnacional como el capital»*<br/> — Lema del
+> día de acción global contra el capitalismo, 8 de junio de 1999
 
 A medida que la economía se ha ido volviendo más transnacional, también
 lo ha hecho la resistencia contra sus devastadoras consecuencias
@@ -59,19 +53,19 @@ para que la interpretación sea practicable en reuniones multilingües
 debe ser simultánea; y la interpretación simultánea multilingüe no se
 puede hacer sin tecnología.
 
-Historia de las tecnologías de interpretación alternativas
+## Historia de las tecnologías de interpretación alternativas
 
-Los primeros intentos de utilizar medios tecnológicos para facilitar
-este tipo de interpretación se remontan a los juicios de Nuremberg tras
-la Segunda Guerra Mundial, con un sistema basado en la telefonía. Desde
-aquellos comienzos, la tecnología, por lo general basada en transmisión
-por infrarrojos, ha ido desarrollándose a la par que organizaciones
-internacionales como la ONU y la Unión Europea. Hoy é,stas usan
-tecnologías muy maduras pero extremadamente caras, y por tanto, fuera
-del alcance de la mayoría de espacios activistas y movimientos sociales.
-A veces para una reunión se puede alquilar algún de equipo de éstas
-características, pero cuando queremos trabajar a una escala más
-ambiciosa los costes se vuelven prohibitivos.
+Los primeros intentos de utilizar medios tecnológicos para facilitar este tipo
+de interpretación se remontan a los juicios de Nuremberg tras la Segunda
+Guerra Mundial, con un sistema basado en la telefonía [^1]. Desde aquellos
+comienzos, la tecnología, por lo general basada en transmisión por
+infrarrojos, ha ido desarrollándose a la par que organizaciones
+internacionales como la ONU y la Unión Europea. Hoy é,stas usan tecnologías
+muy maduras pero extremadamente caras, y por tanto, fuera del alcance de la
+mayoría de espacios activistas y movimientos sociales.  A veces para una
+reunión se puede alquilar algún de equipo de éstas características, pero
+cuando queremos trabajar a una escala más ambiciosa los costes se vuelven
+prohibitivos.
 
 Los Foros Sociales Europeo y Mundial (FSE y FSM), que se realizaron
 entre 2001 y 2010, fueron actos internacionales que llegaron a contar
@@ -145,8 +139,7 @@ administrativas, y todo esto requiere recursos y dedicación. Aunque los
 Foros Sociales se negaron a entender todo esto, otros movimientos sí lo
 han entendido.
 
-COATI - el Colectivo para la Autogestión de las Tecnologías de la
-Interpretación
+## COATI: El Colectivo para la Autogestión de las Tecnologías de la Interpretación
 
 COATI se formó en Barcelona en 2009, reuniendo a personas que habían
 participado en movimientos anticapitalistas y antiglobalización.
@@ -174,7 +167,7 @@ tecnológico empezando de cero cada vez. Sin embargo, pronto vimos que el
 aumentar el acceso a la tecnología de la interpretación iba a exigir más
 que simplemente gestionar el material y reducir los costes.
 
-Hacer que la tecnología alternativa sirva a la gente
+### Hacer que la tecnología alternativa sirva a la gente
 
 El primer reto fue superar las resistencias al uso de tecnologías
 alternativas, causadas por experiencias negativas anteriores. El sistema
@@ -204,7 +197,7 @@ consolas de «código abierto». Somos muy conscientes del valor que tiene
 el código abierto, por lo que, el resultado de todo nuestro trabajo
 electrónico está plenamente documentado y disponible en línea.
 
-Hacer que la gente se sirva de la tecnología alternativa
+### Hacer que la gente se sirva de la tecnología alternativa
 
 Solventar los problemas técnicos no fue nuestro único reto. Algunas de
 las peores dificultades venían de las culturas políticas y organizativas
@@ -228,7 +221,7 @@ Por lo tanto, otro aspecto importante del trabajo de COATI ha sido
 fomentar la cultura política necesaria para que la tecnología de
 interpretación alternativa pueda funcionar de verdad.
 
-Interpretación voluntaria
+### Interpretación voluntaria
 
 La tecnología alternativa puede ser utilizada también por intérpretes
 pagadxs, e intérpretes voluntarixs pueden trabajar en cabinas
@@ -254,23 +247,22 @@ equipos de intérpretes que coordinamos siempre intentamos incorporar un
 elemento de formación, sentando en una misma cabina a intérpretes con
 experiencia y a activistas que recién empiezan.
 
-Comunicar sobre la interpretación
+### Comunicar sobre la interpretación
 
-Otro elemento importante en el cambio de cultura política ha sido
-concienciar a lxs participantes de actos internacionales sobre la
-diversidad lingüística. Dondequiera que trabajemos, siempre intentamos
-hacer una presentación práctica y política del equipo, y entregamos
-orientaciones escritas sobre cómo hablar en una reunión multilingüe.
-Animamos a que se reflexione sobre el idioma que unx usa, a que piensen
-en cómo evitar hablar un idioma mayoritario, si se tiene la opción, para
-no marginalizar a quienes dependen de la interpretación y pueden sentir
-una sensación de vergüenza e incultura, y mostrarse menos dispuestos a
-participar. También hemos experimentado con modos de trastocar la
-interpretación invisible, poniendo las cabinas en el podio y a los
-oradores abajo en la sala, para que todo el mundo vea claramente en qué
-consiste el proceso.
+Otro elemento importante en el cambio de cultura política ha sido concienciar
+a lxs participantes de actos internacionales sobre la diversidad
+lingüística. Dondequiera que trabajemos, siempre intentamos hacer una
+presentación práctica y política del equipo, y entregamos orientaciones
+escritas sobre cómo hablar en una reunión multilingüe [^3].  Animamos a que se
+reflexione sobre el idioma que unx usa, a que piensen en cómo evitar hablar un
+idioma mayoritario, si se tiene la opción, para no marginalizar a quienes
+dependen de la interpretación y pueden sentir una sensación de vergüenza e
+incultura, y mostrarse menos dispuestos a participar. También hemos
+experimentado con modos de trastocar la interpretación invisible, poniendo las
+cabinas en el podio y a los oradores abajo en la sala, para que todo el mundo
+vea claramente en qué consiste el proceso.
 
-Diseñar soluciones flexibles que cubran las necesidades políticas
+### Diseñar soluciones flexibles que cubran las necesidades políticas
 
 La interpretación necesariamente pone límites a lo que se puede hacer en
 una reunión o un encuentro, y la interpretación simultánea se aviene más
@@ -298,7 +290,7 @@ experimentales con más de 400 participantes y nueve idiomas. Ahora
 estamos elaborando una guía técnica y política para la facilitación de
 reuniones multilingües.
 
-El mayor reto: la descentralización
+### El mayor reto: la descentralización
 
 En estos últimos siete años hemos trabajado con muchos grupos y
 movimientos para ayudarles con los requisitos lingüísticos de sus actos
@@ -313,7 +305,7 @@ tecnología. Por eso, uno de nuestros proyectos más ambicioso ha sido el
 desarrollo de material sencillo, fácil de usar, de código abierto, que
 unx mismx puede fabricar.
 
-El spider - un proyecto de hardware de código abierto
+## El spider: Un proyecto de hardware de código abierto
 
 Probablemente, el equipo de interpretación más sencillo sea el
 «*spider*»: una cajita a la que se enchufa un micrófono, con salidas
@@ -335,28 +327,28 @@ de código abierto del *spider*, que incorpora varias mejoras sobre
 versiones anteriores, por ejemplo, extensiones para añadir grupos de
 oyentes de doce en doce.
 
-Fabricamos nuestros *spiders* a mano para uso propio y para vender.
-También, existen kits para fabricarlos a precio de coste. Todos los
-esquemas electrónicos, con las referencias de cada componente e
-instrucciones para su fabricación están publicados en línea bajo la
-Licencia Pública General de GNU.
+Fabricamos nuestros *spiders* a mano para uso propio y para vender.  También,
+existen kits para fabricarlos a precio de coste. Todos los esquemas
+electrónicos, con las referencias de cada componente e instrucciones para su
+fabricación están publicados en línea [^2] bajo la Licencia Pública General de
+GNU.
 
-Formar nuevos colectivos tecnológicos
+## Formar nuevos colectivos tecnológicos
 
 Desde que el proyecto Spider se publicó en línea hemos organizado varios
-talleres de electrónica, para formar en la fabricación de *spiders*, y
-sabemos de al menos un grupo (en Ucrania) que ha construido sus propios
-*spiders* con tan sólo la información disponible en línea, y sin
-contacto con nosotrxs. También trabajamos con técnicos de otros grupos,
-invitándoles a eventos mayores para que vean cómo se usa el equipo en
-situación real. Hemos participado en varios fines de semana de formación
-mutua, que han servido para que otros grupos comenzasen su andadura; y
-hemos participado en la creación de nuevos colectivos que utilizan
-*spiders* e inventan sus propias soluciones en Rumanía y Polonia, además
-de un colectivo internacional, Bla, que usa *spiders* y pequeños equipos
-de radio y viajan a distintos eventos por Europa.
+talleres de electrónica, para formar en la fabricación de *spiders*, y sabemos
+de al menos un grupo (en Ucrania) que ha construido sus propios *spiders* con
+tan sólo la información disponible en línea, y sin contacto con
+nosotrxs. También trabajamos con técnicos de otros grupos, invitándoles a
+eventos mayores para que vean cómo se usa el equipo en situación real. Hemos
+participado en varios fines de semana de formación mutua, que han servido para
+que otros grupos comenzasen su andadura; y hemos participado en la creación de
+nuevos colectivos que utilizan *spiders* e inventan sus propias soluciones en
+Rumanía [^4] y Polonia [^5], además de un colectivo internacional, Bla [^6],
+que usa *spiders* y pequeños equipos de radio y viajan a distintos eventos por
+Europa.
 
-Conclusiones
+## Conclusiones
 
 La soberanía en tecnología de interpretación ha llegado a significar
 muchas cosas para nosotrxs. En primer lugar, para aumentar el acceso de
@@ -375,5 +367,17 @@ capacitación y movilización políticas, de modo que aumente la conciencia
 del cómo y el porqué se deben usar este tipo de tecnologías, y empoderar
 a la gente a que verdaderamente controle y cree sus propias soluciones.
 
-Si quieres más información sobre COATI y nuestro trabajo, la encuentras
-en: enlace web
+***Si quieres más información sobre COATI y nuestro trabajo, la encuentras
+en:*** https://coati.pimienta.org
+
+[^1]: http://www.pri.org/stories/2014-09-29/how-do-all-those-leaders-un-communicate-all-those-languages
+
+[^2]: Todas las modificaciones y esquemas que usamos pueden ser vistas aquí: https://coati.pimienta.org/electronics
+
+[^3]: Nuestas pautas escritas pueden consultarse aquí: https://coati.pimienta.org/documents/
+
+[^4]: Grai Collective, Romania: grai@riseup.net
+
+[^5]: Klekta Collective, Poland: klekta@riseup.net
+
+[^6]: Bla Collective (internacional): https://bla.potager.org 

@@ -165,7 +165,7 @@ which is made of multiwall polycarbonate.  I said to him:
 
 > “Hey, put a cloth, it's no trouble.”
 
-> “You'll see how much they mark it in the ferry.  This is nothing” He is
+> “You'll see how much they mark it in the ferry.  This is nothing.”  He is
 > still not listening to me.
 
 > A minute of deep breathing, and I think, I am the client, if I tell him to
@@ -195,10 +195,10 @@ technologies be manufactured in a workshop with totally patriarchal ways and
 attitudes?  I think not.  It makes no sense.
 
 It is necessary to put technology at the centre of life, speak of cranks and
-pistons, as we would speak of kitchen recipes.  That is what Jineology does
-[^33], it does not separate the object from the subject, it mixes them within
-a healthy relationship, not as something external, but as something that is
-mutable and can always be improved upon.
+pistons, as we would speak of kitchen recipes.  That is what Jineology
+does [^33], it does not separate the object from the subject, it mixes them
+within a healthy relationship, not as something external, but as something
+that is mutable and can always be improved upon.
 
 Another nuance of re-appropriated technologies lies in how they are applied.
 If we take similes from everyday life, we can simply make our bed, or we can
@@ -335,80 +335,69 @@ remember that they have the possibility to have their own voice, and take
 responsibility for ensuring that their decision making power in terms of their
 own economic and social evolution is respected in this interdependent world.
 
-[^0] There is a longer version of this text available in Spanish
-here:
-http://elleflane.colectivizaciones.org/wp-content/uploads/2017/02/Tecnologias_reapropiadas2017.pdf
+[^0]: There is a longer version of this text available in Spanish here: http://elleflane.colectivizaciones.org/wp-content/uploads/2017/02/Tecnologias_reapropiadas2017.pdf
 
-[^1] Appropriate technology:
-https://en.wikipedia.org/wiki/Appropriate_technology
+[^1]: Appropriate technology: https://en.wikipedia.org/wiki/Appropriate_technology
 
-[^2] E.F. Schumacher: *Small is beautiful*.
+[^2]: E.F. Schumacher: *Small is beautiful*.
 
-[^5] 2B1: http://en.wikipedia.org/wiki/2B1_conference
+[^5]: 2B1: http://en.wikipedia.org/wiki/2B1_conference
 
-[^6] Simputer: http://en.wikipedia.org/wiki/Simputer
+[^6]: Simputer: http://en.wikipedia.org/wiki/Simputer
 
-[^7] ILDIS OnDis:
-http://books.google.es/books/about/The_Transfer_of_Technology_to_Developing.html
+[^7]: ILDIS OnDis: http://books.google.es/books/about/The_Transfer_of_Technology_to_Developing.html
 
-[^8] Wind-up radio: http://en.wikipedia.org/wiki/Human_power
+[^8]: Wind-up radio: http://en.wikipedia.org/wiki/Human_power
 
-[^9] Loband: http://www.loband.org/loband/
+[^9]: Loband: http://www.loband.org/loband/
 
-[^10] Architecture for humanity: http://architectureforhumanity.org/
+[^10]: Architecture for humanity: http://architectureforhumanity.org/
 
-[^11] Off-grid design:
-http://www.off-grid.net/energy-design-service-questionnaire-spanish/ 
+[^11]: Off-grid design: http://www.off-grid.net/energy-design-service-questionnaire-spanish/
 
-[^12] Soft Energy: http://en.wikipedia.org/wiki/Soft_energy_technology
+[^12]: Soft Energy: http://en.wikipedia.org/wiki/Soft_energy_technology
 
-[^13] Light Up World Foundation: http://lutw.org/
+[^13]: Light Up World Foundation: http://lutw.org/
 
-[^14] Safety Lamp: http://tecno.sostenibilidad.org
+[^14]: Safety Lamp: http://tecno.sostenibilidad.org
 
-[^15] Briquette http://en.wikipedia.org/wiki/Biomass_briquettes**
+[^15]: Briquette http://en.wikipedia.org/wiki/Biomass_briquettes**
 
-[^16] Legacy Foundation: http://www.legacyfound.org/
+[^16]: Legacy Foundation: http://www.legacyfound.org/
 
-[^17] Pot-in-pot refrigerator:
-http://www.mienergiagratis.com/energias/mucho-mas/mas-proyectos/item/66-p000028.html**
+[^17]: Pot-in-pot refrigerator: http://www.mienergiagratis.com/energias/mucho-mas/mas-proyectos/item/66-p000028.html**
 
-[^18] Hippo Water Roller: http://www.hipporoller.org/
+[^18]: Hippo Water Roller: http://www.hipporoller.org/
 
-[^19] LifeStraw: http://eartheasy.com/lifestraw
+[^19]: LifeStraw: http://eartheasy.com/lifestraw
 
-[^20] BiPu: http://en.wikipedia.org/wiki/BiPu
+[^20]: BiPu: http://en.wikipedia.org/wiki/BiPu
 
-[^21] Orange Pilot.
+[^21]: Orange Pilot.
 
-[^22] Reed beds: http://www.wte-ltd.co.uk/reed_bed_sewage_treatment.html**
+[^22]: Reed beds: http://www.wte-ltd.co.uk/reed_bed_sewage_treatment.html**
 
-[^23] Whirlwind: http://www.whirlwindwheelchair.org/
+[^23]: Whirlwind: http://www.whirlwindwheelchair.org/
 
-[^24] Cloth Filter: http://en.wikipedia.org/wiki/Cloth_filter
+[^24]: Cloth Filter: http://en.wikipedia.org/wiki/Cloth_filter
 
-[^25] Slow design: http://en.wikipedia.org/wiki/Slow_design
+[^25]: Slow design: http://en.wikipedia.org/wiki/Slow_design
 
-[^26] UNIDO, United Nations Industrial Development Organisation:
-http://unido.org/
+[^26]: UNIDO, United Nations Industrial Development Organisation: http://unido.org/
 
-[^27] *A Guide for the Perplexed*:
-http://www.appropedia.org/A_Guide_for_the_Perplexed
+[^27]: *A Guide for the Perplexed*: http://www.appropedia.org/A_Guide_for_the_Perplexed
 
-[^28] Alternative technology: http://www.ata.org.au/
+[^28]: Alternative technology: http://www.ata.org.au/
 
-[^29] Eco-village: http://www.ic.org/pnp/cdir/2000/08ecovillage.php**
+[^29]: Eco-village: http://www.ic.org/pnp/cdir/2000/08ecovillage.php**
 
-[^30] StewartFrances: *Technology and underdevelopement*, 1983.
+[^30]: StewartFrances: *Technology and underdevelopement*, 1983.
 
-[^31] Isaías Flit: *Tecnologías apropiadas o manejo apropiado de las
-tecnologías*.
+[^31]: Isaías Flit: *Tecnologías apropiadas o manejo apropiado de las tecnologías*.
 
-[^32] Fuad-Luke Alistair: *Slow Design' - un paradigma para vivir de manera
-sostenible?*.
+[^32]: Fuad-Luke Alistair: *Slow Design' - un paradigma para vivir de manera sostenible?*.
 
-[^33]
-https://comitesolidaridadrojava.wordpress.com/2015/02/19/por-que-jineology-reconstruir-las-ciencias-hacia-una-vida-comunitaria-y-libre/
+[^33]: https://comitesolidaridadrojava.wordpress.com/2015/02/19/por-que-jineology-reconstruir-las-ciencias-hacia-una-vida-comunitaria-y-libre/
 
-[^34] Heberto Tapias García: *Tecnología adecuada*.
+[^34]: Heberto Tapias García: *Tecnología adecuada*.
 

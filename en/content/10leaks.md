@@ -1,9 +1,8 @@
-﻿
-# Whistleblowing
-
-***Claudio Agosti***
+﻿# Whistleblowing
 
 ## A double edged sword
+
+***Claudio Agosti***
 
 Whistleblowing is an ancient practice that has been called many names and is
 not ethically bound.  It can be the link between the source and the

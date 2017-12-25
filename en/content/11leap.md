@@ -1,5 +1,6 @@
-﻿
-# Encrypting mails with usable tools: The mass adoption of encryption technologies
+﻿# Encrypting mails with usable tools
+
+## The mass adoption of encryption technologies
 
 ***Kali Kaneko***
 
@@ -108,7 +109,7 @@ In this sense, any serious attempt to provide alternatives must address the
 sustainability of technopolitical projects such as privacy-aware email
 providers.
 
-### It's also a problem with tools for nerds
+## It's also a problem with tools for nerds
 
 The “scratch your itch” attitude of the Free Software community just doesn't
 cut it any more for mass adoption.  Self-discipline and quality are key for
@@ -149,7 +150,7 @@ Many projects have blossomed in the post-Snowden era.  I mention here one I am
 contributing to, and others that I consider interesting, both in terms of
 working software and evolving protocols.  My focus is on initiatives that
 build interoperable solutions on the top of the existing email infrastructure
-using the [OpenPGP standard](http://openpgp.org/).  I also briefly mention
+using the OpenPGP standard [^15].  I also briefly mention
 some new silos that try to monetize on the crypto fuzz.
 
 ### Bitmask and the LEAP Encryption Access Project
@@ -170,14 +171,13 @@ registration and billing.
 On the client side, the Bitmask application runs in the background.  It acts
 as a proxy for the same email programs that users are already familiar with.
 Alternatively, another interface is available that runs in the browser
-(through a customised version of [Pixelated](https://pixelated-project.org/)).
-Bitmask finds the relevant encryption keys for email addresses automatically,
-and works across different devices.  All data (including the encryption key
-database and the email itself) is end-to-end encrypted, which means that
-service providers have no access to the contents.  As part of
-the [Panoramix project](https://panoramix-project.eu/), anonymous routing
-capabilities defending against traffic analysis will be added too, providing a
-greater level of privacy.
+(through a customised version of Pixelated [^16].  Bitmask finds the relevant
+encryption keys for email addresses automatically, and works across different
+devices.  All data (including the encryption key database and the email
+itself) is end-to-end encrypted, which means that service providers have no
+access to the contents.  As part of the Panoramix project [^17], anonymous
+routing capabilities defending against traffic analysis will be added too,
+providing a greater level of privacy.
 
 ### Throw your metadata through the Memory Hole
 
@@ -192,7 +192,7 @@ transit.  Intermediaries who act as postmen can see your address, the
 recipient, date, subject line and even the path the message took to its
 destination.
 
-The [Memory Hole project](https://modernpgp.org/memoryhole) aims to fix this
+The [Memory Hole project]() aims to fix this
 problem by stashing metadata in the contents of the e-mail in a standardized
 way.  This means to hide as much metadata as possible inside the “protected”
 envelope from intermediaries such as service providers or spy agencies.
@@ -203,7 +203,7 @@ transit.  Look for this feature in the near future!
 
 ### Autocrypt: Such crypto, much mail
 
-The [Autocrypt project](https://autocrypt.readthedocs.io) develops email
+The [Autocrypt project]() develops email
 encryption that is convenient enough for mass adoption even if it cannot be as
 secure as traditional email encryption.
 
@@ -302,7 +302,7 @@ Take care! I look forward to reading you securely in the intertubes.
 
 [^1]: In the Cold War, the USA and its allies developed an elaborate series of export control regulations designed to prevent a wide range of Western technology from falling into the hands of others, particularly the Soviet bloc.  Export controls on encryption became a matter of public debate with the introduction of the personal computer.  Zimmermann’s PGP and its distribution on the internet in 1991 was considered the first major ‘individual level’ challenge to cryptography export controls, although ultimately, the popularization of e-commerce probably did play a much bigger role in the outcome.  https://en.wikipedia.org/wiki/Crypto_Wars
 
-[^2]: When Snowden first tried to contact the Guardian journalist Glenn Greenwald, cryptography hackers and privacy activists collectively experienced a harsh reality check that punched our little Web of Bubble: no security is effective without usability.  If an NSA analyst is forced to craft awful videos in order to teach a journalist how to install a tool called gpg4win, downloaded from an ugly website, do some scary copy/pastes and other such delights [shown in the 12 minute video: http://www.dailymail.co.uk/embed/video/1094895.html], we can strongly conclude that the usability, and general state of email encryption is **terribly broken**.  So, more than ten years after the seminal article, we can affirm that sadly, Johnny cannot yet encrypt: https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf
+[^2]: When Snowden first tried to contact the Guardian journalist Glenn Greenwald, cryptography hackers and privacy activists collectively experienced a harsh reality check that punched our little Web of Bubble: no security is effective without usability.  If an NSA analyst is forced to craft awful videos in order to teach a journalist how to install a tool called gpg4win, downloaded from an ugly website, do some scary copy/pastes and other such delights (shown in the 12 minute video: http://www.dailymail.co.uk/embed/video/1094895.html ), we can strongly conclude that the usability, and general state of email encryption is *terribly broken*.  So, more than ten years after the seminal article, we can affirm that sadly, Johnny cannot yet encrypt: https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf
 
 [^3]: In other words: the long death of Jabber/XMPP.  It’s frustrating how, over and over again, the fragmentation of an open ecosystem leads to centralized solutions.  One can understand Signal developer and crypto anarchist Moxie Marlinspike’s rants against federation only in terms of the desire of deploying updates to millions of users without waiting for the long tail and the distributed consensus to catch up.  In the mobile messaging world Signal is right now the best thing we have, but it still represents a failure of the technosocial processes that prevented the open federation of communication infrastructures from becoming a reality today.
 
@@ -313,8 +313,6 @@ Take care! I look forward to reading you securely in the intertubes.
 [^6]: Projects like Pond, Retroshare or Secushare might be good insights into what a post-email secure, distributed standard might look like. https://github.com/agl/pond • http://retroshare.us/ • http://secushare.org/ • Note that the Pond author recommends using the Signal app for practical purposes until his own software is more polished and reviewed.
 
 [^7]: See, for instance The Value of Online Privacy and What is Privacy Worth?: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311 • https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf
-
-
 
 [^8]: https://github.com/micahflee/trollwot
 
@@ -329,3 +327,15 @@ Take care! I look forward to reading you securely in the intertubes.
 [^13]: https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
 
 [^14]: https://github.com/OpenTechFund/secure-email
+
+[^15]: https://openpgp.org/
+
+[^16]: https://pixelated-project.org/
+
+[^17]: https://panoramix-project.eu/
+
+[^18]: https://modernpgp.org/
+
+[^19]: https://autocrypt.readthedocs.io/
+
+

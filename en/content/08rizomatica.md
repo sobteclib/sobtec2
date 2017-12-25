@@ -270,7 +270,9 @@ significant role in the process.  In order to better understand the idea of auto
 we return to the beginnings of this story, to our welcome sign:
 
     In this community private property does not exist.
+
     The buying and selling of communal lands is PROHIBITED.
+    
     Signed the Comisariat of Common Goods of Ixtlan de Juárez.
 
 This is not a declaration of sovereignty, but of autonomy.  Here the

@@ -1,44 +1,43 @@
-\#Cifrar los correos electrónicos con herramientas accesibles
+# Cifrar los correos electrónicos con herramientas accesibles
 
-\#\#La adopción masiva de las tecnologías de cifrado
+## La adopción masiva de las tecnologías de cifrado
 
-Kali Kaneko
+***Kali Kaneko***
 
 El cifrado es la aplicación de la matemática que asegura que nuestras
-informaciones son \*solamente\* accesibles para las personas o las
+informaciones son *solamente* accesibles para las personas o las
 máquinas con quienes hemos decidido compartirlas. El cifrado tiene una
 larga historia. Los protocolos para enviar informaciones cifradas sin
 ponerse de acuerdo con previo aviso con la otra parte a través de un
 secreto común (para descifrar los datos cifrados) tiene algo más de 35
-años. El software de referencia Pretty Good Privacy*, *abreviado PGP,
+años. El software de referencia *Pretty Good Privacy*, abreviado PGP,
 puso en marcha un cifrado potente de correos electrónicos con garantías
 de confidencialidad, de autenticación y de integridad ampliamente
-disponible para las usuarias y los desarrolladores, desde 1991\[\^0\].
+disponible para las usuarias y los desarrolladores, desde 1991 [^0].
 
 La relativa popularidad de PGP y su estandarización ulterior es, a
 menudo, retratada como una victoria de los *cypherpunks* (los activistas
 de la criptografía) durante las primeras "Guerras Criptográficas"
-\[\^1\]. Ahora bien,¿cuáles son los obstáculos para la adopción del
+[^1]. Ahora bien,¿cuáles son los obstáculos para la adopción del
 cifrado de los correos electrónicos para las grandes masas críticas?
 ¿Por qué Greenwald, el respetado periodista, no pudo cifrar un correo
 electrónico cuando fue contactado por la fuente Snowden, el analista que
-trabajaba para la NSA\[\^2\]?
+trabajaba para la NSA [^2]?
 
 Para responder a estas cuestiones, es necesario analizar, en primer
 lugar, la arquitectura de los servicios de Internet. Y en segundo lugar,
-observar la economía de la vigilancia;para finalmente, examinar algunos
+observar la economía de la vigilancia; para finalmente, examinar algunos
 fracasos históricos de usabilidad.
 
-\#\#\# El correo electrónico en los tiempos de la vigilancia capitalista
+## El correo electrónico en los tiempos de la vigilancia capitalista
 
 El correo electrónico es un protocolo abierto y federado que ha sido
 re-centralizado por los grandes proveedores de acceso. Estas compañías
-explotan la economía de escala que conduce a la *commoditization*[^1]
-del correo electrónico. Las externalizaciones negativas de esta
-*commoditization* del correo electrónico incluyen la carrera de
-armamentos para evitar que la industria del *spam* envíe grandes
-volúmenes de correos electrónicos no deseados *—*a veces, fraudulentos—
-a las usuarias.
+explotan la economía de escala que conduce a la *commoditization* [^100] del
+correo electrónico. Las externalizaciones negativas de esta *commoditization*
+del correo electrónico incluyen la carrera de armamentos para evitar que la
+industria del *spam* envíe grandes volúmenes de correos electrónicos no
+deseados – a veces, fraudulentos – a las usuarias.
 
 En los comienzos de Internet cualquiera podía montar un servidor de
 correo electrónico. En la última década, por el contrario, hemos
@@ -48,7 +47,7 @@ su propio servidor de correo electrónico, sino que cada vez menos
 personas saben que es posible hacerlo. El correo electrónico se
 convirtió en otro ejemplo de tecnología que se supone «debe estar allí».
 El mensaje parece ser que no se gestionan infraestructuras vitales para
-divertirse. Lo mismo pasa con la mensajería instantánea\[\^3\].
+divertirse. Lo mismo pasa con la mensajería instantánea [^3].
 
 Perder la batalla de las arquitecturas libres, federadas quiere decir
 también perder el control de las infraestructuras de comunicación que
@@ -68,25 +67,25 @@ interfaz anónima o seudónima, y todavía pueden negarse a rastrear o
 vender sus datos, etc.
 
 Cada vez más observamos cómo los dispositivos móviles, en lugar de las
-cuentas de correo electrónico, son necesarios en la *bootstrapping *de
+cuentas de correo electrónico, son necesarios en la *bootstrapping* de
 la comunicación con sus contactos. El teléfono se ha convertido en la
 puerta de entrada a los jardines fortificados de Facebook en muchos
-países \[\^4\]. El abogado y defensor de la privacidad, Lawrence Lessig,
+países [^4]. El abogado y defensor de la privacidad, Lawrence Lessig,
 advirtió que el Big Regulatory Loop se está cerrando entre la Industria
-y el Estado \[\^5\], una gran hazaña para aquellos *“gigantes agotados
+y el Estado [^5], una gran hazaña para aquellos *“gigantes agotados
 de carne y acero”* de los que no solíamos temer.
 
 Los gobiernos y las corporaciones se están apresurando en el despliegue
 de una vigilancia invasiva. Cuando los grandes poderes invierten tanto
 dinero para erosionar los derechos fundamentales de los individuos y de
-las comunidades para decidir la forma de su comunicación, construir —y
-utilizar— herramientas para la confidencialidad es un imperativo moral.
+las comunidades para decidir la forma de su comunicación, construir — y
+utilizar — herramientas para la confidencialidad es un imperativo moral.
 El derecho a secretear* *es un derecho irrevocable y fundamental que se
 nos está quitando por la fuerza. Su criminalización y su desaparición
 tiene un profundo impacto sobre nuestra capacidad de ejercer nuestros
 derechos humanos y forjar sociedades democráticas.
 
-\#\#\# Hemos fracasado en empoderar a la gente en el uso del cifrado
+## Hemos fracasado en empoderar a la gente en el uso del cifrado
 
 Estratégicamente hablando, el correo electrónico parece una elección
 rara, hoy en día, en un panorama en movimiento a nivel tecnológico y que
@@ -122,7 +121,7 @@ comprometería sus ingresos. Incluso los proveedores que apoyan el
 cifrado obtienen beneficios en el mercado del análisis del tráfico.
 
 Está demostrado que las usuarias están dispuestas a pagar extra por
-servicios o aplicaciones que respetan su privacidad \[\^7\], pero los
+servicios o aplicaciones que respetan su privacidad [^7], pero los
 proveedores de correo electrónico que hacen esto deben luchar con los
 principales actores del mercado, quienes explotan las economías de
 escala para proporcionar una base de almacenamiento «gratis» de 15 GB,
@@ -136,7 +135,7 @@ En este sentido, cualquier tentativa seria de crear una alternativa debe
 abordar la sostenibilidad de proyectos tecnopolíticos, tales como de los
 proveedores de correos electrónicos conscientes de la privacidad.
 
-**\#\#\#\#También es un problema de herramientas para *****nerds***** **
+## También es un problema de herramientas para *nerds*
 
 La actitud «*scratch your itch»* (rascarse dónde pica) de la comunidad
 del software libre no pega simplemente en la óptica de su adopción
@@ -157,7 +156,7 @@ muestra hasta qué punto unos símbolos arbitrarios son normalizados.
 
 Sin embargo, la simplificación excesiva a costa de esconder
 irrevocablemente la complejidad a las usuarias no es la única opción
-disponible —y es, a menudo, contraproducente—. Se puede soñar con una
+disponible — y es, a menudo, contraproducente. Se puede soñar con una
 interfaz que simplifique la vida cotidiana, pero, al mismo tiempo, que
 permita a las usuarias explorar otras posibilidades, a medida que estos
 van aprendiendo más.
@@ -177,24 +176,23 @@ of Thrust *que se utiliza para identificar las auténticas direcciones
 electrónicas. Los intentos didácticos de explicar por qué esto es
 necesario para una práctica segura del cifrado han fracasado en los
 últimos años, tal vez porque esta tecnología se ha basado en
-suposiciones falsas desde su creación\[\^8\].
+suposiciones falsas desde su creación [^8].
 
-\#\#\#Hacia posibles soluciones
+## Hacia posibles soluciones
 
-Muchos proyectos han aparecido desde la era post-Snowden. Me refiero
-aquí de uno en el cual participo, y otros que considero interesantes,
-tanto como software de trabajo, como protocolos evolutivos. Mi
-perspectiva se centra en iniciativas que crean soluciones de
-interoperatividad por encima de la infraestructura de correo electrónico
-existente y que utilizan \[el estándar OpenPGP\] (http://openpgp.org/).
-También mencionaré brevemente algunos nuevos silos que tratan de hacer
-el crypto-fuzz más rentable.
+Muchos proyectos han aparecido desde la era post-Snowden. Me refiero aquí de
+uno en el cual participo, y otros que considero interesantes, tanto como
+software de trabajo, como protocolos evolutivos. Mi perspectiva se centra en
+iniciativas que crean soluciones de interoperatividad por encima de la
+infraestructura de correo electrónico existente y que utilizan el estándar
+*OpenPGP* [^15].  También mencionaré brevemente algunos nuevos silos que
+tratan de hacer el crypto-fuzz más rentable.
 
-\#\#\#\#Bitmask y el proyecto LEAP Encryption Access
+### Bitmask y el proyecto LEAP Encryption Access
 
 LEAP tiene como objetivo desarrollar servicios de mensajería cifrados
-que son fáciles de implementar y clientes que son simples de usar \[\^
-9\]. LEAP implementa el cifrado de correo electrónico oportunista, que
+que son fáciles de implementar y clientes que son simples de usar  [^
+9]. LEAP implementa el cifrado de correo electrónico oportunista, que
 es un proceso transparente que requiere sólo un pequeño esfuerzo
 cognitivo de las usuaraos y bajos costes de mantenimiento para los
 proveedores. El software LEAP puede atraer a muchos proveedores
@@ -209,21 +207,19 @@ comunicación segura para ayudar a los proveedores a gestionar los
 registros de usuarias y la facturación.
 
 Del lado de las usuarias, la aplicación de Bitmask se ejecuta en segundo
-plano. Actúa como un proxy para los mismos programas de correo
-electrónico de los que las usuarias ya están familiarizadas. Otra
-alternativa, existe una interfaz disponible y se ejecuta en el software
-de acceso a Internet (a través de una versión personalizada de
-\[Pixelated\] <https://pixelated-project.org/>). Bitmask encuentra la
-clave de cifrado para una dirección de correo electrónico
-automáticamente y se ejecuta en diferentes máquinas. Todos los datos
-(incluida la base de datos de claves de cifrado y el correo electrónico
-en sí) son cifrados de principio a fin, lo que significa que el
-proveedor de mensajería no tiene acceso al contenido. En el proyecto
-\[Panoramix\] (<https://panoramix-project.eu/>), también se agregarán
-capacidades de enrutamiento anónimas que se defienden contra el tráfico
-de datos para garantizar un mayor nivel de seguridad.
+plano. Actúa como un proxy para los mismos programas de correo electrónico de
+los que las usuarias ya están familiarizadas. Otra alternativa, existe una
+interfaz disponible y se ejecuta en el software de acceso a Internet (a través
+de una versión personalizada de *Pixelate* [^16]. Bitmask encuentra la clave
+de cifrado para una dirección de correo electrónico automáticamente y se
+ejecuta en diferentes máquinas. Todos los datos (incluida la base de datos de
+claves de cifrado y el correo electrónico en sí) son cifrados de principio a
+fin, lo que significa que el proveedor de mensajería no tiene acceso al
+contenido. En el proyecto *Panoramix* [^17], también se agregarán capacidades
+de enrutamiento anónimas que se defienden contra el tráfico de datos para
+garantizar un mayor nivel de seguridad.
 
-\#\#\#\#Tirar tus metadatos en Memory Hole
+### Tirar tus metadatos en Memory Hole
 
 En un correo electrónico, los datos son el contenido: la carta que
 escribes. Metadatos es el conjunto de cosas que ayudan al contenido a
@@ -236,11 +232,10 @@ metadatos permanecen visibles en la operación. Los intermediarios que
 actúan como carteros pueden ver la dirección, remitente, fecha, asunto e
 incluso la ruta del mensaje al destinatario.
 
-El proyecto \[Memory Hole\] (<https://modernpgp.org/memoryhole>) tiene
-como objetivo resolver este problema poniendo los metadatos en el
-contenido del correo electrónico de una manera estandarizada. Esto
-significa ocultar tantos metadatos como sea posible en un sobre
-«protegido» de los intermediarios, como proveedores de mensajería o
+El proyecto *Memory Hole* [^18] tiene como objetivo resolver este problema
+poniendo los metadatos en el contenido del correo electrónico de una manera
+estandarizada. Esto significa ocultar tantos metadatos como sea posible en un
+sobre «protegido» de los intermediarios, como proveedores de mensajería o
 agencias de espionaje.
 
 Al implementar este estándar propuesto, todo programa de correo
@@ -248,12 +243,11 @@ electrónico compatible con Memory Hole puede proteger una gran parte de
 metadatos de las intromisiones y de las modificaciones durante su
 transferencia. ¡Busca esta funcionalidad en un futuro cercano!
 
-\#\#\#\#Autocrypt: un cifrado, muchos correos electrónicos
+### Autocrypt: Un cifrado, muchos correos electrónicos
 
-El proyecto \[Autocrypt\] (https://autocrypt.readthedocs.io) desarrolla
-un cifrado de correos electrónicos que puede ser válido para la adopción
-masiva, incluso sin ser tan seguro como el cifrado tradicional de
-correos electrónicos.
+El proyecto *Autocrypt* [^19] desarrolla un cifrado de correos electrónicos
+que puede ser válido para la adopción masiva, incluso sin ser tan seguro como
+el cifrado tradicional de correos electrónicos.
 
 El proyecto es impulsado por un grupo muy diverso de desarrolladores de
 aplicaciones de correo electrónico, de *hackers* e investigadores que
@@ -270,8 +264,7 @@ metadatos al correo electrónico que almacena las claves de cifrado
 asociadas a las usuarias y sus notables preferencias en términos de sus
 hábitos de cifrado.
 
-\#\#\#\#La familia del *webmail*: modernos clientes de correo
-electrónico basados en tecnologías web
+### La familia del *webmail*: Modernos clientes de correo electrónico basados en tecnologías web
 
 Una interfaz *webmail* proporciona a las usuarias una experiencia
 intuitiva. Se ejecuta en el navegador disponible en cualquier máquina.
@@ -280,7 +273,7 @@ Las aplicaciones en el navegador plantean ciertos problemas de seguridad
 secretos con una gran área abierta para ataques, etc.), pero también
 permiten una adopción más fácil para todos.
 
-Mailpile \[\^ 10\] es un servicio de correo electrónico autoalojado. Su
+Mailpile [^10] es un servicio de correo electrónico autoalojado. Su
 interfaz de usuaria se beneficia de ser compatible con estándares web
 como HTML5 y Javasripts. La interfaz se conecta a un *backend* que
 normalmente está en el dispositivo local, pero también puede ejecutarse
@@ -298,19 +291,19 @@ Otro sistema abierto de *webmail* interesante en este enfoque es
 Whiteout, que cerró en 2015, con más de 10 000 usuarias. Su software
 libre implementó los protocolos interoperativos. En una nota
 post-mortem, compartieron algunos cálculos de cómo sería un mercado
-viable de cifrado de correo electrónico viable \[\^11\], y aunque la
+viable de cifrado de correo electrónico viable [^11], y aunque la
 lección aprendida bien podría ser que el modelo de empresa *startup* no
 es válido para abordar el problema de la vigilancia.
 
-Mailvelope \[\^ 12\] puede ser una opción apropiada cuando se deben
+Mailvelope [^ 12] puede ser una opción apropiada cuando se deben
 hacer concesiones sí o sí. Se trata de una extensión de navegador que le
 permite usar el cifrado de correo electrónico OpenPGP con la mayoría de
 los proveedores de correo como Gmail, Yahoo y Outlook. Los populares
 proveedores de correo gratuito como Rouncube (la mensajería en línea que
 proponen proyectos como Riseup o Autistici) también apoyan el *plugin*
-Mailvelope\[\^13\].
+Mailvelope [^13].
 
-\#\#\#\#Servicios de mensajería más allá del correo electrónico
+### Servicios de mensajería más allá del correo electrónico
 
 Por último, me gustaría mencionar algunas iniciativas que están ganando
 terreno entre las usuarias que quieren un proveedor de correo
@@ -334,9 +327,9 @@ previamente compartido).
 
 Para una revisión detallada de otras iniciativas, y una interesante
 visión general de los proyectos que permiten el cifrado de correo
-electrónico, está disponible una amplia comparación en línea\[\^14\].
+electrónico, está disponible una amplia comparación en línea [^14].
 
-\#\#\# Algunos retos pendientes
+## Algunos retos pendientes
 
 La búsqueda para reducir que intercepten nuestras comunicaciones
 globales todavía está en curso. El desafío es recuperar colectivamente
@@ -365,105 +358,44 @@ la voz.
 
 ¡Cuídese! Espero poder leeros con seguridad en los *intertubes.*
 
-\#\#Referencias
+[^0]: Hay diferentes propiedades que las soluciones de cifrado han querido tradicionalmente proporcionar. La **confidencialidad** se logra cifrando los mensajes, lo que significa mezclarlos para que un tercero no pueda entender su contenido y hacer que el mensaje original sea casi imposible de ser recuperado por un tercero. La **autenticación** se hace firmando el contenido del mensaje en un extremo y verificando la firma en el otro extremo para asegurar que el mensaje ha sido enviado por su autor. La forma en que funciona el cifrado también preserva la **integridad** del contenido, asegurando que no haya terceros (como instituciones gubernamentales, comerciantes o personas malintencionadas) que hayan cambiado el mensaje durante la transferencia.
 
-\[\^0\] Hay diferentes propiedades que las soluciones de cifrado han
-querido tradicionalmente proporcionar.
+[^1]: Durante la Guerra Fría, Estados Unidos y sus aliados desarrollaron un complejo corpus de reglas de control de exportaciones para evitar que una amplia gama de tecnologías occidentales cayera en manos de otras potencias, particularmente del Bloque Soviético. Los controles de exportación de la criptografía se convierten en un tema de interés para el público con la introducción de la computadora personal.  El PGP de Zimmermann se difundió en Internet en 1991 y se convirtió en el primer desafío individual a los controles de exportación para la criptografía y, en última instancia, la popularización del comercio electrónico probablemente desempeñó un papel importante en la lucha contra las restricciones. https://en.wikipedia.org/wiki/Crypto_Wars
 
-La c**onfidencialidad** se logra cifrando los mensajes, lo que significa
-mezclarlos para que un tercero no pueda entender su contenido y hacer
-que el mensaje original sea casi imposible de ser recuperado por un
-tercero.
+[^2]: Cuando Snowden intentó, por primera vez, ponerse en contacto con el periodista de The Guardian, Glenn Greenwald, los *hackers* criptógrafos y los activistas de privacidad experimentamos colectivamente una dura realidad que hizo explotar nuestra pequeña burbuja: ninguna seguridad es efectiva sin usabilidad. Si un analista de la NSA se ve obligado a montar vídeos atroces para enseñar a un periodista cómo instalar una herramienta llamada GPG4win, descargado de un sitio feo, haciendo algunos copiar / pegar espantosos, y otras delicias (que se pueden ver en el vídeo de 12 minutos: http://www.dailymail.co.uk/embed/video/1094895.html ), hace pensar razonablemente que la usabilidad, y el estado general del cifrado de mensajes está «profundamente roto». Así, 10 años después del artículo fundacional, se puede decir con tristeza que *Johny todavía no puede cifrar*: https://people.eecs.berkeley.edu/*~tygar/papers/Why*_Johnny*_Cant*_Encrypt/OReilly.pdf
 
-La **autenticación** se hace firmando el contenido del mensaje en un
-extremo y verificando la firma en el otro extremo para asegurar que el
-mensaje ha sido enviado por su autor. La forma en que funciona el
-cifrado también preserva la **integridad** del contenido, asegurando que
-no haya terceros (como instituciones gubernamentales, comerciantes o
-personas malintencionadas) que hayan cambiado el mensaje durante la
-transferencia.
+[^3]: En otras palabras: la lenta muerte de Jabber/XMPP. Es frustrante cuando, una y otra vez, la fragmentación de un ecosistema abierto conduce a soluciones centralizadas. Se puede entender como las diatribas del desarrollador de Signal y crypto-anarquista, Moxie Marlinspike, contra las federaciones sólo en términos de la voluntad de desplegar actualizaciones para millones de usuarias sin pasar por la larga cola del consenso descentralizado. En aplicaciones de mensajería móvil, Signal es actualmente lo mejor que tenemos, pero esto representa una anomalía del proceso tecnológico que impide que la federación libre de infraestructuras de comunicación se convierta en realidad actualmente.
 
-\[\^1\]Durante la Guerra Fría, Estados Unidos y sus aliados
-desarrollaron un complejo corpus de reglas de control de exportaciones
-para evitar que una amplia gama de tecnologías occidentales cayera en
-manos de otras potencias, particularmente del Bloque Soviético. Los
-controles de exportación de la criptografía se convierten en un tema de
-interés para el público con la introducción de la computadora personal.
-El PGP de Zimmermann se difundió en Internet en 1991 y se convirtió en
-el primer desafío individual a los controles de exportación para la
-criptografía y, en última instancia, la popularización del comercio
-electrónico probablemente desempeñó un papel importante en la lucha
-contra las restricciones. https://en.wikipedia.org/wiki/Crypto\_Wars
+[^4]: Y con el teléfono, la política de registro obligatorio del nombre real. Esta práctica es aplicada por las empresas de telecomunicaciones en nombre de los Estados que promulgan leyes anti-anonimato.
 
-\[\^2\]Cuando Snowden intentó, por primera vez, ponerse en contacto con
-el periodista de The Guardian, Glenn Greenwald, los *hackers*
-criptógrafos y los activistas de privacidad experimentamos
-colectivamente una dura realidad que hizo explotar nuestra pequeña
-burbuja: ninguna seguridad es efectiva sin usabilidad. Si un analista de
-la NSA se ve obligado a montar vídeos atroces para enseñar a un
-periodista cómo instalar una herramienta llamada GPG4win, descargado de
-un sitio feo, haciendo algunos copiar / pegar espantosos, y otras
-delicias \[que se pueden ver en el vídeo de 12 minutos\]
-(<http://www.dailymail.co.uk/embed/video/1094895.html>), hace pensar
-razonablemente que la usabilidad, y el estado general del cifrado de
-mensajes está «profundamente roto». Así, 10 años después del artículo
-fundacional, se puede decir con tristeza que \[Johny todavía no puede
-cifrar\].(https://people.eecs.berkeley.edu/\~tygar/papers/Why\_Johnny\_Cant\_Encrypt/OReilly.pdf)
+[^5]: http://codev2.cc/download%2Bremix/Lessig-Codev2.pdf
 
-\[\^3\]En otras palabras: la lenta muerte de Jabber/XMPP. Es frustrante
-cuando, una y otra vez, la fragmentación de un ecosistema abierto
-conduce a soluciones centralizadas. Se puede entender como las diatribas
-del desarrollador de Signal y crypto-anarquista, Moxie Marlinspike,
-contra las federaciones sólo en términos de la voluntad de desplegar
-actualizaciones para millones de usuarias sin pasar por la larga cola
-del consenso descentralizado. En aplicaciones de mensajería móvil,
-Signal es actualmente lo mejor que tenemos, pero esto representa una
-anomalía del proceso tecnológico que impide que la federación libre de
-infraestructuras de comunicación se convierta en realidad actualmente.
+[^6]: Proyectos como Pond, Retroshare o Secushare pueden ser una buena idea de lo que podría parecer un estándar distribuido y seguro de post-correo electrónico. https://github.com/agl/pond • http://retroshare.us/ • http://secushare.org/ • Tenga en cuenta que el autor de Pond recomienda utilizar la aplicación de Signal para fines prácticos hasta que su propio software esté más pulido y revisado.
 
-\[\^4\]Y con el teléfono, la política de registro obligatorio del nombre
-real. Esta práctica es aplicada por las empresas de telecomunicaciones
-en nombre de los Estados que promulgan leyes anti-anonimato.
+[^7]: Ver, por ejemplo, The Value of Online Privacy y What is Privacy Worth?: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311 • https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf
 
-\[\^5\] http://codev2.cc/download%2Bremix/Lessig-Codev2.pdf
+[^8]: https://github.com/micahflee/trollwot
 
-\[\^6\] Proyectos como \[Pond\] (https://github.com/agl/pond),
-\[Retroshare\] (http://retroshare.us/) o \[Secushare\]
-(<http://secushare.org/>) pueden ser una buena idea de lo que podría
-parecer un estándar distribuido y seguro de post-correo electrónico.
+[^9]: https://downloads.leap.se/publications/cans2016.pdf
 
-Tenga en cuenta que el autor de Pond recomienda utilizar la aplicación
-de Signal para fines prácticos hasta que su propio software esté más
-pulido y revisado.
+[^10]: https://mailpile.is
 
-\[\^7\]Ver, por ejemplo, \[The Value of Online
-Privacy\](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2341311)
-y \[What is Privacy
-Worth?\](https://www.cmu.edu/dietrich/sds/docs/loewenstein/WhatPrivacyWorth.pdf)
+[^11]: https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
 
-\[\^8\] https://github.com/micahflee/trollwot
+[^12]: https://mailvelope.com
 
-\[\^9\] https://downloads.leap.se/publications/cans2016.pdf
+[^13]: https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
 
-\[\^10\] https://mailpile.is
+[^14]: https://github.com/OpenTechFund/secure-email
 
-\[\^11\]
-https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
+[^15]: https://openpgp.org/
 
-\[\^12\] https://mailvelope.com
+[^16]: https://pixelated-project.org/
 
-\[\^13\]
-https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
+[^17]: https://panoramix-project.eu/
 
-\[\^14\] https://github.com/OpenTechFund/secure-email
+[^18]: https://modernpgp.org/
 
-[^1]: *NdT: En lenguaje de los negocios, commoditization (en inglés) es
-    un proceso por el cual un bien que ha tenido un valor económico y se
-    distingue en términos de atributos, termina por convertirse en una
-    simple comodidad estandarizada sin especificaciones para los
-    consumidores. No se debe confundir con la mercantilización
-    (commodification, en inglés) que es la transformación de cosas no
-    vendibles en cosas vendibles.
-    https://fr.wikipedia.org/wiki/Banalisation*
+[^19]: https://autocrypt.readthedocs.io/
 
-
+[^100]: *NdT: En lenguaje de los negocios, commoditization (en inglés) es un proceso por el cual un bien que ha tenido un valor económico y se distingue en términos de atributos, termina por convertirse en una simple comodidad estandarizada sin especificaciones para los consumidores. No se debe confundir con la mercantilización (commodification, en inglés) que es la transformación de cosas no vendibles en cosas vendibles.* https://fr.wikipedia.org/wiki/Banalisation

@@ -98,7 +98,7 @@ encore un certain temps. Il est le moyen de communication asynchrone que
 nous avons et que nous devons protéger. Des millions d'e-mails sont
 encore envoyés chaque jour sans être cryptés, et des e-mails avec des
 expéditeurs non vérifiés sont encore utilisés pour des attaques
-d'hameçonnage dévastatrices [^15].
+d'hameçonnage dévastatrices [^100].
 
 Il est difficile de savoir si nous faisons face à un simple problème
 d'utilisation, ou si au contraire, il s'agit d'un manque général
@@ -179,15 +179,13 @@ technologie s'est basée sur de fausses suppositions dès sa création
 
 ## Vers de possibles solutions
 
-Depuis l'ère post Snowden, de nombreux projets ont vu le jour.
-Ci-dessous, j'en mentionne un auquel je participe et d'autres que je
-considère intéressants, à la fois en tant que logiciels de travail et
-protocoles évolutifs. Ma perspective se centre sur des initiatives qui
-construisent des solutions d'interopérabilité au-delà de
-l'infrastructure existante d'e-mails et qui utilisent le standard
-OpenPGP (http://openpgp.orgopenpgp.org/). Je fais aussi brièvement
-référence à quelques nouveaux silos qui essaient de rentabiliser le
-*crypto fuzz*.
+Depuis l'ère post Snowden, de nombreux projets ont vu le jour.  Ci-dessous,
+j'en mentionne un auquel je participe et d'autres que je considère
+intéressants, à la fois en tant que logiciels de travail et protocoles
+évolutifs. Ma perspective se centre sur des initiatives qui construisent des
+solutions d'interopérabilité au-delà de l'infrastructure existante d'e-mails
+et qui utilisent le standard OpenPGP [^15]. Je fais aussi brièvement référence
+à quelques nouveaux silos qui essaient de rentabiliser le *crypto fuzz*.
 
 ### Bitmask et LEAP Encryption Access Project
 
@@ -211,15 +209,14 @@ Du côté des utilisateurs, l'application Bitmask fonctionne en toile de
 fond. Elle fait office de proxy pour le même programme de messagerie que
 l'utilisateur a l'habitude d'utiliser. De manière alternative, une autre
 interface est disponible et fonctionne dans le navigateur (à travers une
-version personnalisée de Pixelated, <https://pixelated-project.org/>).
-Bitmask trouve automatiquement la clé de chiffrement pour une adresse
-e-mail, et fonctionne sur différentes machines. Toutes les données (y
-compris la base de données des clés de chiffrement et l'e-mail en
-lui-même) sont chiffrées de bout en bout, ce qui veut dire que le
-fournisseur de messagerie n'a pas accès aux contenus. Dans le cadre du
-projet Panoramix (<https://panoramix-project.eu/>), des fonctionnalités
-de routing anonyme pour lutter contre le trafic de données seront aussi
-ajoutées, afin de garantir un plus haut niveau de sécurité.
+version personnalisée de Pixelated [^16].  Bitmask trouve automatiquement la
+clé de chiffrement pour une adresse e-mail, et fonctionne sur différentes
+machines. Toutes les données (y compris la base de données des clés de
+chiffrement et l'e-mail en lui-même) sont chiffrées de bout en bout, ce qui
+veut dire que le fournisseur de messagerie n'a pas accès aux contenus. Dans le
+cadre du projet Panoramix [^17], des fonctionnalités de routing anonyme pour
+lutter contre le trafic de données seront aussi ajoutées, afin de garantir un
+plus haut niveau de sécurité.
 
 ### Jette tes métadonnées dans le Memory Hole
 
@@ -235,12 +232,11 @@ restent visibles dans l'opération. Les intermédiaires qui font office de
 facteurs peuvent voir votre adresse, l'expéditeur, la date, le sujet et
 même le chemin parcouru par le message jusqu'à son destinataire.
 
-Le projet Memory Hole (Trou de Mémoire, en français,
-<https://modernpgp.org/memoryhole>), a pour objectif de régler ce
-problème en mettant les métadonnées dans le contenu de l'e-mail de
+Le projet Memory Hole (Trou de Mémoire, en français) [^18], a pour objectif de
+régler ce problème en mettant les métadonnées dans le contenu de l'e-mail de
 manière standardisée. En d'autres termes, il s'agit de cacher autant de
-métadonnées possible dans l'enveloppe « protégée » des intermédiaires,
-comme les fournisseurs de messagerie ou les agences d'espionnage.
+métadonnées possible dans l'enveloppe « protégée » des intermédiaires, comme
+les fournisseurs de messagerie ou les agences d'espionnage.
 
 En mettant en place ce standard proposé, tous les programmes d'e-mails
 compatibles avec Memory Hole peuvent protéger un bon nombre de
@@ -251,10 +247,9 @@ Demandez cette fonctionnalité dans un future proche !
 
 ### Autocrypt: un seul chiffrement, plein d'e-mails
 
-Le projet Autocrypt (https://autocrypt.readthedocs.io) développe un
-chiffrement des e-mails qui peut être valable dans le cadre de son
-adoption en masse, même s'il n'est pas aussi sécurisé que le chiffrement
-des e-mails classique.
+Le projet Autocrypt [^19] développe un chiffrement des e-mails qui peut être
+valable dans le cadre de son adoption en masse, même s'il n'est pas aussi
+sécurisé que le chiffrement des e-mails classique.
 
 Le projet est piloté par un groupe très diversifié de développeurs
 d'application de messagerie, de hackers et de chercheurs, qui sont prêts
@@ -396,4 +391,14 @@ faîtes attention à vous!
 
 [^14]: https://github.com/OpenTechFund/secure-email
 
-[^15]: L’*hameçonnage*, *phishing* ou *filoutage* est une technique utilisée par des fraudeurs pour obtenir des renseignements personnels dans le but de perpétrer une usurpation d'identité: https://fr.wikipedia.org/wiki/Usurpation_d%27identité. La technique consiste à faire croire à la victime qu'elle s'adresse à un tiers de confiance — banque, administration, etc. — afin de lui soutirer des renseignements personnels: mot de passe: https://fr.wikipedia.org/wiki/Mot_de_passe, numéro de carte de crédit: https://fr.wikipedia.org/wiki/Carte_de_crédit, date de naissance, etc. Voir: https://fr.wikipedia.org/wiki/Hame%C3%A7onnage
+[^15]: https://openpgp.org/
+
+[^16]: https://pixelated-project.org/
+
+[^17]: https://panoramix-project.eu/
+
+[^18]: https://modernpgp.org/
+
+[^19]: https://autocrypt.readthedocs.io/
+
+[^100]: L’*hameçonnage*, *phishing* ou *filoutage* est une technique utilisée par des fraudeurs pour obtenir des renseignements personnels dans le but de perpétrer une usurpation d'identité: https://fr.wikipedia.org/wiki/Usurpation_d%27identité. La technique consiste à faire croire à la victime qu'elle s'adresse à un tiers de confiance — banque, administration, etc. — afin de lui soutirer des renseignements personnels: mot de passe: https://fr.wikipedia.org/wiki/Mot_de_passe, numéro de carte de crédit: https://fr.wikipedia.org/wiki/Carte_de_crédit, date de naissance, etc. Voir: https://fr.wikipedia.org/wiki/Hame%C3%A7onnage

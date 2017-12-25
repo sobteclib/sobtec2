@@ -1,4 +1,4 @@
-# De las tecnologías apropiadas a las Tecnologías Re-Apropiadas [^1]
+# De las tecnologías apropiadas a las Tecnologías Re-Apropiadas [^0]
 
 ***Elleflâne***
 
@@ -50,9 +50,9 @@ cabo, ¿qué comunidad no necesita que una tecnología sea eficiente, se
 comprenda y se adapte a su contexto medioambiental, cultural y económico
 propio?
 
-Conceptos que se entrelazan
+## Conceptos que se entrelazan
 
-Una Tecnología Apropiada (*Appropiated Technology* \[1\]), significa una
+Una Tecnología Apropiada (*Appropiated Technology* [^1]), significa una
 tecnología adecuada y también apropiada, copiada, obtenida. Las
 tecnologías apropiadas pueden ser *high* o *low* *tech*, se construyen y
 distribuyen con licencias libres, GNU GPL, software libre y de código
@@ -62,7 +62,7 @@ comunicación, salud y educación,
 
 El término originalmente surge del movimiento medioambiental anglosajón
 durante la crisis energética de 1973. En el libro *Small is beautifull*
-\[2\] el economista británico, E.F. Schumacher, promueve el valor de la
+[^2] el economista británico, E.F. Schumacher, promueve el valor de la
 tecnología como salud, belleza y permanencia. En ese sentido, una
 tecnología apropiada describe aquella tecnología que mejor se adecua a
 situaciones medioambientales, culturales y económicas, requiere pocos
@@ -84,7 +84,7 @@ disponibles de forma local, fácilmente comprada y usada por gente con
 escasos recursos, los cuales pueden liderar aumentos productivos
 mientras minimizan su dislocación social.
 
-El «*Slow Design»* \[25\] es un enfoque holístico del diseño que tiene
+El «*Slow Design»* [^25] es un enfoque holístico del diseño que tiene
 en cuenta la mayor gama de factores materiales y sociales, más los
 impactos relevantes a corto y largo plazo. En *Slow Design*, un
 paradigma para vivir de manera «sostenible», Alistair Fuad-Lucas,
@@ -135,7 +135,7 @@ cotidianidad, nuestras tradiciones ancestrales que inherentemente ya
 tienen una base medioambiental, sostenible y holística. Tecnologías para
 crear bienestar, belleza y comunidad.
 
-Las Tecnologías Re-apropiadas desde la experiencia personal
+## Las Tecnologías Re-apropiadas desde la experiencia personal
 
 En los últimos diez años, he intentado llevar la teoría a la práctica,
 he ido adaptándome y cambiando de forma, he creado protocolos y
@@ -178,19 +178,20 @@ y tenían que llevárselo en grúa. Aparece un señor. Le coloca unas
 cinchas que al ser apretadas marcan un pequeño bollo la chapa del
 remolque que es de policarbonato celular. Le digo:
 
- —Disculpa, mejor le ponemos un trapo detrás de las cinchas para que no
-se marque, así llega perfecto a mi cliente.\
-—No te preocupes, esto ya está bien. ¡Esto ya está bien!— me dice sin
-escucharme.\
-Me doy treinta segundos para contestarle.\
-—Oye, poner un trapo no cuesta nada.\
-—¡Qué va!, ya verás como te lo bollarán los del ferry, esto no es
-nada.—Sigue sin escucharme.\
-Un minuto de respiración, bueno a ver... reflexiono, soy la clienta, si
-le digo que ponga el trapo pues lo tiene que poner.¿Por qué tanta
-cabezonería?\
-—Disculpa, mejor le ponemos un trapo.\
-Finalmente a regañadientes lo hace.
+> – Disculpa, mejor le ponemos un trapo detrás de las cinchas para que no se
+> marque, así llega perfecto a mi cliente.
+
+> – No te preocupes, esto ya está bien. ¡Esto ya está bien! – me dice sin escucharme. Me doy treinta segundos para contestarle.
+
+> — Oye, poner un trapo no cuesta nada.
+
+> – ¡Qué va!, ya verás como te lo bollarán los del ferry, esto no es nada. –
+> Sigue sin escucharme.
+
+> Un minuto de respiración, bueno a ver... reflexiono, soy la clienta, si le
+> digo que ponga el trapo pues lo tiene que poner. ¿Por qué tanta cabezonería?
+
+> – Disculpa, mejor le ponemos un trapo. Finalmente a regañadientes lo hace.
 
 **Situación B:** Se me estropeó el coche en medio de la montaña con un
 frío tremendo y estuve esperando a que llegara la grúa. Apareció una
@@ -215,7 +216,7 @@ formas totalmente patriarcales? Yo creo que no, carece de sentido.
 
 Para ello es necesario poner la tecnología en el centro de la vida,
 hablar de los pistones y las bielas, como hablamos de las recetas de
-cocina. Esto es lo que hace la Jineology \[3\], no separa el objeto del
+cocina. Esto es lo que hace la Jineology [^33], no separa el objeto del
 sujeto, los mezcla dentro de una relación sana, no como algo externo,
 sino como algo siempre mejorable y mutable.
 
@@ -233,19 +234,19 @@ Aprender estos pequeños hábitos no cuesta tanto. Llegar a incorporar las
 ciencias que mejoran la vida como hábito, no es necesario solo hacer,
 sino saber porque lo hacemos así...
 
-**Nombrando algunas Tecnologías Re-Apropiadas**
+## Nombrando algunas Tecnologías Re-Apropiadas
 
 En el campo de la Construcción existe una amplia diversidad de técnicas,
 el Adobe, Súper Adobe, la Tierra Clavada, el Ladrillo Holandés y la
 Mazorca, entre otras. Todas se elaboran con materiales *in situ*,
-relativamente baratos. Arquitectura para la humanidad \[10\] sigue
+relativamente baratos. Arquitectura para la humanidad [^10] sigue
 principios consistentes con la tecnología apropiada, orientando a
 personas afectadas por desastres naturales.
 
 En el ámbito de la energía, el término «energía suave» (*soft energy*)
-de Amory Lovins \[12\], describe energía renovable y apropiada. Éstas
+de Amory Lovins [^12], describe energía renovable y apropiada. Éstas
 suelen introducirse en comunidades aisladas y lugares con pequeñas
-necesidades de energía. Existen los diseños *off-grid *\[11\], no
+necesidades de energía. Existen los diseños *off-grid *[^11], no
 conectados a la red eléctrica. Los altos costos de inversión inicial y
 la formación sobre su mantenimiento deben tenerse en cuenta. Se utilizan
 placas solares, caras inicialmente, pero simples, aerogeneradores o
@@ -256,10 +257,10 @@ los combustibles fósiles. El Biogas es otra fuente potencial de energía,
 particularmente donde existe un abundante suministro de desperdicio de
 materia orgánica.
 
-En Iluminación, la Light Up World Foundation \[13\] utiliza LED y las
+En Iluminación, la Light Up World Foundation [^13] utiliza LED y las
 fuentes de energía renovables, como celdas solares, para proveer de luz
 a personas con pocos recursos en áreas remotas, sustituyendo las
-peligrosas lámparas de queroseno. La Lámpara de Botella Segura \[14\] es
+peligrosas lámparas de queroseno. La Lámpara de Botella Segura [^14] es
 una lámpara de queroseno diseñada en Sri Lanka, que cuenta con una tapa
 de metal y dos lados planos, para evitar que ruede en caso de ser
 golpeada.
@@ -269,19 +270,19 @@ con los métodos tradicionales, se utilizan tecnologías intermedias por
 ejemplo la Peladora de Maní en Malasia. En Cocina, las cocinas justas,
 los reductores de humo y las estufas eficientes, producen ahorro de
 tiempo, evitan la deforestación y generan beneficios para la salud.
-*Briquette* \[15\], desarrollados por la fundación Legacy \[16\], pueden
+*Briquette* [^15], desarrollados por la fundación Legacy [^16], pueden
 transformar la basura orgánica en combustible. Las cocinas solares son
 apropiadas para algunas zonas, dependiendo del clima y del estilo
 culinario.
 
-En Refrigeración, el Refrigerador pot-in-pot \[17\] es una invención
+En Refrigeración, el Refrigerador pot-in-pot [^17] es una invención
 africana que permite mantener las cosas frías sin electricidad por mucho
 más tiempo. Esto supone un gran beneficio para las familias que la
 utilizan , por ejemplo, las chicas que venden conchas frescas en el
 mercado pueden ir al colegio dejando las conchas en el aparato y después
 ir al mercado.
 
-En Agua, el *Hippo Water Roller* \[18\], permite cargar más agua con
+En Agua, el *Hippo Water Roller* [^18], permite cargar más agua con
 menos esfuerzo. El Cosechador de Agua de Lluvia, requiere un método
 apropiado de almacenamiento, especialmente en áreas secas, y el Colector
 de Niebla, es excelente para zonas donde la lluvia es escasa. En el
@@ -302,19 +303,19 @@ comunidades pobres. Las semillas aplastadas de Moringa oleifera o
 impurezas son fácilmente removidas por sedimentación y filtración. El
 filtro de cerámica elaborado con arcilla mezclada con materia orgánica
 como el café, se encuentra en muchos hogares de Sudamérica. El
-*LifeStraw* \[19\] es un pequeño dispositivo que permite al usuario
+*LifeStraw* [^19] es un pequeño dispositivo que permite al usuario
 beber directamente agua sucia. Los filtros de ropa o la desinfección
 solar son precisos para su uso en pequeña escala, se requieren pocas
 jarras o botellas.
 
-En Accesibilidad, la silla de ruedas *Whirlwind* \[23\] provee la
+En Accesibilidad, la silla de ruedas *Whirlwind* [^23] provee la
 movilidad deseable para personas que no pueden comprar las sillas usadas
-en los países desarrollados. En el ámbito de Sanidad, BiPu \[20\] es un
+en los países desarrollados. En el ámbito de Sanidad, BiPu [^20] es un
 sistema portátil de letrina apropiado para desastres. El proyecto Orange
-Pilot \[21\] fue una solución para la crisis sanitaria de barrios
+Pilot [^21] fue una solución para la crisis sanitaria de barrios
 urbanos, el bajo costo de letrinas desarrolladas en las villas de
 Bangladesh, combatieron los problemas de salud ocasionados por la
-defecación abierta. Así también las camas Reed \[22\] para purificar las
+defecación abierta. Así también las camas Reed [^22] para purificar las
 aguas residuales. La sanidad ecológica, se ocupa de los desechos
 humanos, con el objetivo de proteger la salud humana y el medio
 ambiente, con el uso del agua para el lavado de manos (y anos),
@@ -327,23 +328,23 @@ microbiológicas. Existen varias tecnologías apropiadas que benefician la
 salud pública; particularmente, en el uso de agua limpia en la sanidad.
 
 Finalmente, en el ámbito de las tecnologías de la información y
-comunicación, tenemos el 2B1 \[5\] y el Simputer \[6\] computadoras
+comunicación, tenemos el 2B1 [^5] y el Simputer [^6] computadoras
 orientadas a países en desarrollo, su principal ventaja es el bajo
 costo, la resistencia al polvo, fidelidad y uso del lenguaje de destino.
-ILDIS OnDisc \[7\] usa CDs y DVDs en áreas sin una conexión a Internet
-confiable ni dinero suficiente. Wind-up \[8\] de Jhai Foundation, donde
+ILDIS OnDisc [^7] usa CDs y DVDs en áreas sin una conexión a Internet
+confiable ni dinero suficiente. Wind-up [^8] de Jhai Foundation, donde
 la radio, la computadora y el sistema de comunicación son autónomos. Los
 teléfonos móviles también pueden ser Tecnologías Re-apropiadas en
 lugares donde la infraestructura comercial no puede o no quiere asegurar
-una amplia cobertura. Loband \[9\], web desarrollada por Aidworld, quita
+una amplia cobertura. Loband [^9], web desarrollada por Aidworld, quita
 todas los contenidos intensivos de amplitudes de banda ancha y convierte
 a un simple texto; incrementa la velocidad del procesador y es apropiado
 para el uso de conexiones bajas de Internet.
 
-Conclusiones
+## Conclusiones
 
 No hay una tecnología adecuada en términos absolutos. Según la ONUDI
-\[26\] se trata de «la tecnología que más contribuye a los objetivos
+[^26] se trata de «la tecnología que más contribuye a los objetivos
 económicos, sociales, y de preservación del medio ambiente, teniendo en
 cuenta las metas del desarrollo, los recursos y las condiciones de
 aplicación en cada territorio».
@@ -375,62 +376,55 @@ tener voz propia y la responsabilidad de hacer que se respete su poder
 de decisión en su evolución económica y social en un mundo
 interdependiente.
 
-\[1\] Tecnología apropiada
-**http://es.wikipedia.org/wiki/Tecnolog%C3%ADa\_adecuada**\
-\[2\] Small is beautifull, E.F. Schumacher,
+[^0]: Está disponible una versión ampliada de este artículo en el siguiente enlace: http://elleflane.colectivizaciones.org/wp-content/uploads/2017/02/Tecnologias_reapropiadas2017.pdf
 
-\[3\] https://en.wikipedia.org/wiki/Jineology
+[^1]: Tecnología apropiada: http://es.wikipedia.org/wiki/Tecnolog%C3%ADa_adecuada
 
-\[5\] 2B1 **http://en.wikipedia.org/wiki/2B1\_conference**\
-\[6\] Simputer **http://en.wikipedia.org/wiki/Simputer**
+[^2]: E.F. Schumacher: *Small is beautiful*.
 
-\[7\] ILDIS OnDis
-**http://books.google.es/books/about/The\_Transfer\_of\_Technology\_to\_Developing.html**
+[^5]: 2B1: http://en.wikipedia.org/wiki/2B1_conference\
 
-\[8\] Wind-up rdio **http://en.wikipedia.org/wiki/Human\_power**
+[^6]: Simputer: http://en.wikipedia.org/wiki/Simputer
 
-\[9\] Loband **http://www.loband.org/loband/**
+[^7]: ILDIS OnDis: http://books.google.es/books/about/The_Transfer_of_Technology_to_Developing.html
 
-\[10\] Arquitectura para la humanidad
-**http://architectureforhumanity.org/**
+[^8]: Wind-up radio: http://en.wikipedia.org/wiki/Human_power
 
-\[11\] Diseño off-grid
-**http://www.off-grid.net/energy-design-service-questionnaire-spanish/**\
-\[12\] Soft Energy
-**http://en.wikipedia.org/wiki/Soft\_energy\_technology**
+[^9]: Loband http://www.loband.org/loband/
 
-\[13\] Light Up World Foundation **http://lutw.org/**
+[^10]: Arquitectura para la humanidad: http://architectureforhumanity.org/
 
-\[14\] Lámpara de botella segura **http://tecno.sostenibilidad.org**\
-\[15\] Briquette **http://en.wikipedia.org/wiki/Biomass\_briquettes**
+[^11]: Diseño off-grid: http://www.off-grid.net/energy-design-service-questionnaire-spanish/\
 
-\[16\] Fundacion Legacy **http://www.legacyfound.org**
+[^12]: Soft Energy: http://en.wikipedia.org/wiki/Soft_energy_technology
 
-\[17\] Refrigerador pot-in-pot
-**http://www.mienergiagratis.com/energias/mucho-mas/mas-proyectos/item/66-p000028.html**
+[^13]: Light Up World Foundation: http://lutw.org/
 
-\[18\] Hippo Water Roller **http://www.hipporoller.org/**
+[^14]: Lámpara de botella segura: http://tecno.sostenibilidad.org\
 
-\[19\] LifeStraw **http://eartheasy.com/lifestraw**
+[^15]: Briquette: http://en.wikipedia.org/wiki/Biomass_briquettes
 
-\[20\] BiPu **http://en.wikipedia.org/wiki/BiPu**
+[^16]: Fundacion Legacy: http://www.legacyfound.org
 
-\[21\] Orange Pilot\
-\[22\] Camas Reed
-**http://www.wte-ltd.co.uk/reed\_bed\_sewage\_treatment.html**
+[^17]: Refrigerador pot-in-pot: http://www.mienergiagratis.com/energias/mucho-mas/mas-proyectos/item/66-p000028.html
 
-\[23\] Whirlwind **http://www.whirlwindwheelchair.org/**
+[^18]: Hippo Water Roller: http://www.hipporoller.org/
 
-\[24\] Cloth Filter **http://en.wikipedia.org/wiki/Cloth\_filter**
+[^19]: LifeStraw: http://eartheasy.com/lifestraw
 
-\[25\] Slow desig **http://en.wikipedia.org/wiki/Slow\_design**
+[^20]: BiPu: https://en.wikipedia.org/wiki/BiPu
 
-\[26\] ONUDI, Organización de las Naciones Unidas para el Desarrollo
-Industrial http://unido.org
+[^21]: Orange Pilot.
 
-\[33\]
+[^22]: Camas Reed: http://www.wte-ltd.co.uk/reed_bed_sewage_treatment.html
+
+[^23]: Whirlwind: http://www.whirlwindwheelchair.org/
+
+[^24]: Cloth Filter: https://en.wikipedia.org/wiki/Cloth_filter
+
+[^25]: Slow design: http://en.wikipedia.org/wiki/Slow_design
+
+[^26]: ONUDI, Organización de las Naciones Unidas para el Desarrollo Industrial: http://unido.org
+
+[^33]:
 https://comitesolidaridadrojava.wordpress.com/2015/02/19/por-que-jineology-reconstruir-las-ciencias-hacia-una-vida-comunitaria-y-libre/
-
-[^1]: Está disponible una versión ampliada de este artículo en el
-    siguiente enlace:
-    <http://elleflane.colectivizaciones.org/wp-content/uploads/2017/02/Tecnologias_reapropiadas2017.pdf>

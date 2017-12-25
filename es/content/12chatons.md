@@ -1,16 +1,16 @@
-Desarrollemos la informática campesina, criemos «gatitos»* [^1]*
-----------------------------------------------------------------
+# Desarrollemos la informática campesina, criemos «gatitos»  [^1]
 
-Introducción
-------------
+***Framasoft + AMIPO***
+
+## Introducción
 
 En los últimos años, hemos observado una centralización de prácticas en
 la red entre un número muy limitado de proveedores de servicios en línea
 representados por los ya conocidos GAFAM (Google, Apple, Facebook,
 Amazon, Microsoft). Esta concentración, completamente contradictoria con
 los orígenes de Internet pensada de manera descentralizada y
-distribuida[^2], empujó a Tim Berners Lee, el creador de la web, a
-formular propuestas para el futuro[^3]. Entonces, ¿por qué es necesario
+distribuida [^2], empujó a Tim Berners Lee, el creador de la web, a
+formular propuestas para el futuro [^3]. Entonces, ¿por qué es necesario
 preocuparse por esto? Simplemente porque los datos, y particularmente
 nuestros datos personales, constituyen el carburante económico de estos
 grandes actores y que semejante acumulación de información sobre
@@ -21,12 +21,11 @@ artificiales alimentadas por el «*big data*», el fin del anonimato y de
 la vida privada, freno a la libertad de expresión y de acceso a la
 información, censura o pérdida de datos debidos al cierre de
 servicios...Afortunadamente, una banda de irreductibles galos reunidos
-alrededor de la asociación Framasoft[^4] están intentando de
-«*desgooglizar*» Internet[^5] y extender esta iniciativa para que
-podamos de nuevo «tomar el control»[^6].
+alrededor de la asociación Framasoft [^4] están intentando de
+«*desgooglizar*» Internet [^5] y extender esta iniciativa para que
+podamos de nuevo «tomar el control» [^6].
 
-Los peligros
-------------
+## Los peligros
 
 ### Espionaje
 
@@ -103,22 +102,21 @@ malintencionada (enviar mensajes sin consentimiento, ejecutar código
 indeseable, etc.). En resumen, estas empresas nos encierran en jaulas de
 oro, sin duda, pero ¡en jaulas de todos modos!
 
-Desgooglizar Internet
----------------------
+## Desgooglizar Internet
 
 Mediante la iniciativa «Desgooglicemos Internet», Framasoft desea hacer
 frente a estos peligros que amenazan nuestras vidas digitales
 proponiendo servicios libres, éticos, descentralizados y solidarios.
 Elaboran una lista de los servicios y software propietarios más
 utilizados, desarrollando alternativas con software libre que puedan
-cubrir estos usos[^7].
+cubrir estos usos [^7].
 
 En 2017, cerca de cuarenta servicios en línea se han ofrecido
 gratuitamente a los internautas para: almacenamiento de archivos en la
 nube, agenda, contactos, edición colaborativa de documentos,
 videoconferencia, cuestionarios, cartografía, mapa mental, reunión y
 sondeo, listas de difusión, red social, libros en línea, motor de
-búsqueda, juego educativo, gestión de proyectos...La lista es larga pero
+búsqueda, juego educativo, gestión de proyectos… La lista es larga pero
 «la vía es libre».
 
 ### Libertad
@@ -144,7 +142,7 @@ el rechazo a las discriminaciones. Framasoft se compromete, así, a no
 explotar los datos de los usuarios de sus servicios, y a promover una
 web abierta e igualitaria.
 
-Solidaridad
+### Solidaridad
 
 Los servicios propuestos por Framasoft promueven un modelo económico
 fundado sobre la mutualización de los costos, el intercambio de
@@ -165,7 +163,7 @@ usuarias (mientras que se den relaciones de reciprocidad verdaderas).
 
 La inteligencia de Internet descansa sobre cada actor de la red gracias
 a una dinámica de compartir entre pares evitando crear un nuevo Minitel
-2.0[^8].
+2.0 [^8].
 
 Para asegurar la igualdad de todos, ciudadanos o empresarios, se deben
 no solo evitar los monopolios, sino también impedir que se acaparen los
@@ -178,8 +176,7 @@ permitiendo un internet más igualitario.
 Asimismo, Framasoft se compromete a facilitar el auto-alojamiento y la
 interoperatividad, con el objetivo de no «encerrar» a sus usuarios.
 
-El proyecto C.H.A.T.O.N.S.
---------------------------
+## El proyecto C.H.A.T.O.N.S.
 
 Frente al éxito conseguido en su campaña Desgooglizar Internet,
 Framasoft ha visto aumentar vertiginosamente el número de usuarias de
@@ -190,11 +187,11 @@ miembros permanentes, se sostiene principalmente gracias a donaciones y
 no desea crecer para poder mantener su tamaño «humano».
 
 Para prolongar esta dinámica y fomentar la descentralización de los
-servicios, Framasoft ha lanzado la iniciativa C.H.A.T.O.N.S.[^9]
+servicios, Framasoft ha lanzado la iniciativa C.H.A.T.O.N.S. [^9]
 (Colectivos de Alojamiento Alternativos, Transparentes, Abiertos,
 Neutros y Solidarios) con el objetivo de que diferentes estructuras e
 iniciativas que alojan servicios, datos y contenidos a su manera se
-reúnan y adopten un manifiesto y una carta de valores comunes[^10].
+reúnan y adopten un manifiesto y una carta de valores comunes [^10].
 
 Estos documentos son escritos y modificados colectivamente por los
 miembros del colectivo, y tienen en cuenta la evolución de las
@@ -236,9 +233,9 @@ esta nueva organización en el colectivo. Uno o varios miembros pueden
 reservarse el derecho a pedir la expulsión de otro miembro, siempre y
 cuando, se den las siguientes condiciones:
 
--   sostener su propuesta con argumentos convincentes y conocidos por
-    todos los miembros;
--   aceptar un voto colectivo, con o sin debate contradictorio.
+ - sostener su propuesta con argumentos convincentes y conocidos por todos los
+    miembros;
+ - aceptar un voto colectivo, con o sin debate contradictorio.
 
 Conscientes de que no es posible garantizar el respeto al conjunto de
 los valores listados en la Carta de los CHATONS sin poner en peligro la
@@ -259,25 +256,25 @@ la vida privada de los usuarios utilizando los servicios del colectivo.
 Los miembros del colectivo se comprometen a respetar la Carta de
 valores, cuyos principios se enumeran a continuación.
 
-Transparencia, no discriminación y datos personales
+ * Transparencia, no discriminación y datos personales
 
-La honestidad es la palabra clave de estos compromisos, para asentar la
+ * La honestidad es la palabra clave de estos compromisos, para asentar la
 fiabilidad de los servicios propuestos y la confianza de los usuarios en
 estos últimos. Las condiciones generales de utilización (CGU) deben ser
 perfectamente claras, accesibles y no contradictorias con la Carta de
 CHATONS.
 
-El proveedor de alojamiento debe asumir y llevar una política abierta de
+ * El proveedor de alojamiento debe asumir y llevar una política abierta de
 gestión de cuentas de usuarios: sin discriminación, que el acceso sea
 gratuito o de pago, y con respeto a la jurisdicción del país en
 cuestión.
 
-El proveedor de alojamiento se compromete a dejar la posibilidad para
+ * El proveedor de alojamiento se compromete a dejar la posibilidad para
 todos los usuarios de poder recuperar sus datos personales, cifrados o
 no, salvo en el caso de servicios particulares basados en la
 transferencia efímera y cifrada de las informaciones personales.
 
-Apertura, economía, protección
+#### Apertura, economía, protección
 
 Los servicios propuestos deben satisfacer algunas exigencias técnicas.
 Los servidores deben principalmente basarse en soluciones de software
@@ -314,7 +311,7 @@ ser utilizadas con fines administrativos o técnicos. Las herramientas
 estadísticas deberán, ellas también, ser libres y cumplir con las
 condiciones del Colectivo.
 
-Solidaridad y difusión
+#### Solidaridad y difusión
 
 Los miembros de CHATONS se deben asistencia y ayuda mutua, a través de
 una lista de discusión o por cualquier otro medio disponible, incluida
@@ -333,7 +330,7 @@ deben ser compartidos y pueden pasar por formaciones, sesiones
 informativas públicas, colocación de paradas durante manifestaciones,
 intervenciones en conferencias, publicación de folletos, etc.
 
-Neutralidad
+#### Neutralidad
 
 Los servicios de un miembro de CHATONS no podrán ser alojados por un
 actor que, por reputación, no promueva la neutralidad de la red. Los
@@ -348,7 +345,7 @@ neutralidad política en la medida en que las convicciones de cada
 miembro no serán examinadas ni sancionadas, siempre y cuando, no excedan
 el marco legislativo vigente.
 
-AMIPO, experiencia de un CHATONS en construcción en Orléans
+### AMIPO, experiencia de un CHATONS en construcción en Orléans
 
 La Asociación de Mantenimiento de la Informática Campesina de Orléans
 (AMIPO, por sus siglas en francés de Association de Maintien de
@@ -364,13 +361,13 @@ La iniciativa C.H.A.T.O.N.S. empieza reuniendo un grupo de personas
 motivadas por la intención de reflexionar de manera práctica sobre el
 porqué del cómo. Desde los primeros prototipos de servicios instalados
 en servidores reciclados conectados a un internet definitivamente
-asimétrico (mayor capacidad de descarga que de subida con el ADSL[^11]),
+asimétrico (mayor capacidad de descarga que de subida con el ADSL [^11]),
 se intenta pasar a un modo «producción» en servidores alojados por
-proveedores éticos, en consonancia con nuestros valores (Como ARN[^12]
-en Alsace o Tetaneutral[^13] en Toulouse).
+proveedores éticos, en consonancia con nuestros valores (Como ARN [^12]
+en Alsace o Tetaneutral [^13] en Toulouse).
 
 Esto implica montar una estructura jurídica (en este caso una asociación
-colegiada[^14], sin presidente, ni oficina), abrir una cuenta bancaria,
+colegiada [^14], sin presidente, ni oficina), abrir una cuenta bancaria,
 organizar una jornada de lanzamiento para recolectar fondos, crear
 contenidos de sensibilización y realizar talleres dentro de la lógica de
 educación popular, llegar a acuerdos sobre las tecnologías empleadas y
@@ -382,11 +379,11 @@ particularmente las salvedades, proponer tiempos y canales de
 comunicación para responder a las cuestiones de los usuarios...
 
 Así la AMIPO tiene como objetivo ofrecer, en primer lugar , un servicio
-de «*nube* personal» (basado en NextCloud[^15]) que permite hacer
+de «*nube* personal» (basado en NextCloud [^15]) que permite hacer
 inventarios de sus archivos, contactos y agendas, y esto gratuitamente,
 con la posibilidad de disponer de un espacio más importante adhiriéndose
 a la asociación. Las ganas del colectivo no terminan ahí, se podría
-proponer a continuación un servicio de VPN (Red Privada Virtual[^16]),
+proponer a continuación un servicio de VPN (Red Privada Virtual [^16]),
 trabajar en el cifrado de extremo a extremo de modo que no podamos ver
 los datos que se nos confían, luego proponer servicios a las
 asociaciones locales o acompañar los proyectos cooperativos en sus
@@ -394,21 +391,12 @@ prácticas informáticas.
 
 Con nuestros dedos callosos de rudos campesinos informáticos, deseamos
 así sembrar el máximo posible de semillas en las cabezas de nuestros
-condiscípulos para que los pequeños *chatons *(gatitos) de píxeles
+condiscípulos para que los pequeños *chatons* (gatitos) de píxeles
 correteen en caminos libres y arbolados.
 
-[^1]: NdT: En el original en francés juego de palabras, chatons* se
-    traduce como* “*gatitos” y también es el* nombre del colectivo de
-    alojamientos alternativos, trasparentes, abiertos, neutros y
-    solidarios C.H.A.T.O.N.S*, (por sus siglas, *Collectif des
-    Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et
-    Solidaires).
+[^1]: NdT: En el original en francés juego de palabras, chatons se traduce como “*gatitos*” y también es el nombre del colectivo de alojamientos alternativos, trasparentes, abiertos, neutros y solidarios C.H.A.T.O.N.S. (por sus siglas, *Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires*).
 
-[^2]: El primer documento de Tim Berners-Lee para convencer a CERN que
-    un sistema de hipertexto global era bastante interesante para el
-    centro de investigación, este es el documento que prefigura la World
-    Wide Web que hoy conocemos:
-    https://www.w3.org/History/1989/proposal-msw.html
+[^2]: El primer documento de Tim Berners-Lee para convencer a CERN que un sistema de hipertexto global era bastante interesante para el centro de investigación, este es el documento que prefigura la World Wide Web que hoy conocemos: https://www.w3.org/History/1989/proposal-msw.html
 
 [^3]: https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet
 
@@ -420,8 +408,7 @@ correteen en caminos libres y arbolados.
 
 [^7]: https://degooglisons-internet.org/alternatives
 
-[^8]: Internet libre, ou Minitel 2.0 ? Benjamin Bayart -
-    https://www.youtube.com/watch?v=AoRGoQ76PK8
+[^8]: Benjamin Bayart: Internet libre, ou Minitel 2.0?: https://www.youtube.com/watch?v=AoRGoQ76PK8
 
 [^9]: https://chatons.org/
 
@@ -433,8 +420,8 @@ correteen en caminos libres y arbolados.
 
 [^13]: https://tetaneutral.net/
 
-[^14]: http://www.passerelleco.info/article.php?id\_article=103
+[^14]: http://www.passerelleco.info/article.php?id_article=103
 
 [^15]: https://nextcloud.com/
 
-[^16]: https://fr.wikipedia.org/wiki/R%C3%A9seau\_priv%C3%A9\_virtuel
+[^16]: https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel

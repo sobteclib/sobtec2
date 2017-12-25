@@ -1,4 +1,6 @@
-Whistleblowing: Filtrar información sensible, un arma de doble filo
+# Whistleblowing: Filtrar información sensible, un arma de doble filo
+
+***Claudio Agosti***
 
 *Whistleblowing* es una antigua práctica a la cual se le ha dado muchos
 nombres y que no tiene un valor moral en sí misma. Puede ser el vínculo
@@ -17,8 +19,8 @@ motiva. Por lo tanto, si eres sólo una persona yendo contra una poderosa
 organización, como el departamento de estado de Estados Unidos, la
 comunidad de inteligencia, el sistema financiero o el Vaticano, puede
 que seas recordado por tu comportamiento heroico, como Chelsea Manning
-\[1\], Bill Binney \[2\], Herve Falciani \[3\], Paolo Gabriele and
-Claudio Sciarpelletti \[4\]. Aunque volverse famoso en este campo suele
+[^1], Bill Binney [^2], Herve Falciani [^3], Paolo Gabriele and
+Claudio Sciarpelletti [^4]. Aunque volverse famoso en este campo suele
 significar que te han cogido, denunciado o que estas huyendo, como
 veremos, por suerte, no todos los *whistleblowers *corren la misma
 suerte.
@@ -43,7 +45,7 @@ separación en todas nuestras acciones políticas y nunca jamás exponer
 ningún tipo de información privada de otros ciudadanos.
 
 Trabajé con el equipo Globleaks.org en la creación de su plataforma de
-software.* *Nuestro sueño era crear un «wikileaks móvil» que podría
+software. Nuestro sueño era crear un «wikileaks móvil» que podría
 implementarse en todas las ciudades, los medios de comunicación y
 empresas públicas. Porque al fin y al cabo, sin infiltrados los crímenes
 de guante blanco, y otros malos comportamientos de empresas, no pueden
@@ -53,18 +55,18 @@ la siguiente historia ficticia , analizaremos como el *whistleblowing*
 digital puede potenciar tus acciones políticas y qué temas deberías
 tener en cuenta al planear tus iniciativas de filtración.
 
-Érase una vez...
+## Érase una vez...
 
-*Había un río que estaba siendo muy contaminado. Una instalación operaba
+Había un río que estaba siendo muy contaminado. Una instalación operaba
 cerca y estaba muy claro que estaba vertiendo residuos químicos. Hay
 reglas, controles periódicos, leyes, pero al final del día, la flora y
 la fauna seguían siendo envenenadas. Alguien de dentro debe saber algo,
-pero no conoces a nadie que trabaje en la instalación.*
+pero no conoces a nadie que trabaje en la instalación.
 
-*Tu equipo crea una campaña y solicita fuentes, pero las críticas
+Tu equipo crea una campaña y solicita fuentes, pero las críticas
 comienzan porque tu blog de wordpress no tiene propiedades de seguridad
 suficientemente fuertes para recibir las filtraciones. Por lo tanto,
-implementas una plataforma decente (securedrop or globalleaks \[5\]) que
+implementas una plataforma decente (securedrop or globalleaks [^5]) que
 incorpore la privacidad por defecto en su diseño y que pueda garantizar
 el anonimato de la fuente y el cifrado para la información que se
 intercambia. Incluso una incautación del servidor no pondría en peligro
@@ -76,7 +78,7 @@ grandes que incluyen también abogados del medio ambiente, reporteros
 locales y algún analista extranjero. De esta manera, aunque una persona
 sea detenida, la iniciativa podrá seguir su curso. Pero a pesar de todos
 estos esfuerzos, ya han pasado dos meses y siguen sin haber recibido
-ninguna filtración.*
+ninguna filtración.
 
 Tristemente, estamos encerrados en nuestra burbuja, nuestros círculos.
 Nos comunicamos con nuestra audiencia intencionada y a pesar de nuestros
@@ -104,7 +106,7 @@ Este ejemplo puede darse en diferentes contextos en los que pueden
 cometerse algún tipo de abuso. Veamos ahora si los resultados de filtrar
 información son siempre positivos o si podrían también ser dañinos.
 
-Medidas prácticas
+## Medidas prácticas
 
 Imagina que tienes suerte y recibes un documento anónimo detallando el
 plan de un *lobby* para influenciar a su favor una nueva ley sobre la
@@ -119,7 +121,7 @@ ingenua de transparencia radical no intermediada por nadie. Hace diez
 años, Wikileaks solía funcionar así. Era una plataforma donde las
 fuentes podían subir documentos y otros lectores realizaban su análisis,
 su investigación y su publicación. En 2007, podía ser un comportamiento
-comprensible, hasta que Buzzfeed \[6\] hizo lo mismo en 2017, publicando
+comprensible, hasta que Buzzfeed [^6] hizo lo mismo en 2017, publicando
 un reporte no contrastado sobre las conexiones entre Rusia y Donald
 Trump.
 
@@ -139,7 +141,7 @@ Puede ser ignorada, silenciada, aceptada como parte de la vida. Un
 documento anónimo debería ser publicado, pero se espera que una persona
 de confianza, como un reportero de un medio de comunicación influyente,
 un activista visible o un defensor de los derechos humanos declare:
-*«Conozco la fuente, apoyo la fuente, protejo la fuente».*
+«Conozco la fuente, apoyo la fuente, protejo la fuente».
 
 Las filtraciones son información que puedes considerar herramientas
 viables para crear transparencia. También pueden ser herramientas
@@ -149,7 +151,7 @@ científicas o políticas. Los cambios no se provocan con la tecnología
 únicamente. Por encima de las propiedades definidas por la tecnología,
 debes implementar vuestros valores políticos y éticos.
 
- Campañas como procesos propulsados por el Whistleblowing
+## Campañas como procesos propulsados por el Whistleblowing
 
 El mejor método de validación que conocemos hasta ahora, trata de
 publicar sólo filtraciones contrastadas por investigaciones
@@ -198,7 +200,7 @@ de tu enemigo y sigue creando datos abiertos sobre cómo funciona tu
 iniciativa. No te dirijas a la gente, sino a los números, concéntrate en
 los resultados, los logros y las estadísticas.
 
-Caminos peligrosos con los cuales deberías tener cuidado
+## Caminos peligrosos con los cuales deberías tener cuidado
 
 Una iniciativa tiene cierto tiempo de existencia, debe definir hacia a
 donde apunta, cuál es su siguiente hito, y cómo pretende conseguirlo.
@@ -228,21 +230,19 @@ intenciones.
 
 Atacar al individuo es una conducta fascista y debe ser rechazada. Lo
 que se tiene que exponer es la corrupción de un sistema, no la miseria
-de la vida. Si no el *whistleblowing *permitirá* *un “Kompromat” \[7\],
+de la vida. Si no el *whistleblowing* permitirá un “Kompromat” [^7],
 en el cual se publica una pieza de información que puede avergonzar a
 alguien o ser usada para extorsionar a individuos. Todas las facciones
 presentes pueden hacerlo, por ello, es importante fomentar valores
 éticos fuertes para juzgar el grado de calidad democrático de las
 iniciativas.
 
-En teoría, una iniciativa de *whistleblowing *tiene la intención de
+En teoría, una iniciativa de *whistleblowing* tiene la intención de
 empoderar al grupo débil, y exponer a una organización opresora
 oscurantista. Pero como lo que define el poder, la opresión y los
 secretos depende altamente del contexto y las evaluaciones subjetivas,
 raramente pueden ser usados para evaluar o valorar una iniciativa de
 filtración de información.
-
-Casos exitosos dentro de GlobaLeaks
 
 Como conclusión, de verdad creo que el *whistleblowing* puede hacer buen
 uso de la insatisfacción laboral así como de los remordimientos éticos
@@ -250,58 +250,53 @@ que muchas personas ex-trabajadoras experimentan. Ser capaz de empoderar
 estas voces y transformar sus historias en transformación social y
 política es un eje de acción que debemos explorar ahora más que nunca.
 
+## Casos exitosos dentro de GlobaLeaks
+
 Desde 2012, varias comunidades alrededor del mundo han generado
 experimentaciones interesantes que el equipo de GlobaLeaks está mapeando
-\[8\]. Algunos de los más notables son las presentaciones hechas por
-WildLeaks, una plataforma en contra de la caza de animales \[9\] y el
+[^8]. Algunos de los más notables son las presentaciones hechas por
+WildLeaks, una plataforma en contra de la caza de animales [^9] y el
 Italian Investigative Reporting Project Italy (IRPI) recogiendo pruebas
 acerca de violaciones cometidas por personas haciendo *Couch-surffing*
-\[10\]. La X-Net \[11\] en Catalunya ha demostrado la complicidad activa
+[^10]. La X-Net [^11] en Catalunya ha demostrado la complicidad activa
 de los banqueros de Caja Madrid y Bankia en la bancarrota del estado
 español y las políticas de austeridad derivadas de ella. Han
 implementado la plataforma, orquestado la campaña, colectado, analizado
 y publicado los datos y además lo han contado todo en una obra de teatro
-llamada *Hazte banquero *\[12\].* *PubLeaks, con la participación del
+llamada *Hazte banquero* [^12]. PubLeaks, con la participación del
 medio de comunicación más importante de Holanda, han publicado un libro
-con todas las revelaciones recibidas en 4 años, y MexicoLeaks \[13\],
+con todas las revelaciones recibidas en 4 años, y MexicoLeaks [^13],
 fue cancelada antes de poder iniciar su ruta ya los reporteros fueron
 despedidos antes de que llegaran las primeras filtraciones. Ahora está
 en tus manos. ¿Qué caja de Pandora quieres abrir?
 
-Referencias
+[^1]: Quizás la whistleblower mas inspiradora de los últimos años:   https://en.wikipedia.org/wiki/Chelsea_Manning
 
-\[1\] The most inspiring whistleblower of the last years perhaps?
-https://en.wikipedia.org/wiki/Chelsea\_Manning
+[^2]:
+https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
 
-\[2\]
-https://en.wikipedia.org/wiki/William\_Binney\_(U.S.\_intelligence\_official)
-
-\[3\]
+[^3]:
 https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
 
-\[4\] In 2012 some figure working for the Pope, Paolo Gabriele and
-Claudio Sciarpelletti, feed journalists with internal and reserved
-document about the Vatican management. Such event lead to Pope Benedict
-XVI to step down (an event that was not happening since 600 years)
+[^4]: En 2012 Paolo Gabriele y Claudio Sciarpelletti, trabajando para el Papa, filtraron a periodistas documentos internos y reservados acerca de la gestión del Vaticano. Esto llevó al Papa Benedicto XVI a renunciar (un evento que no sucedía hace 600 años).
 
-\[5\] GlobaLeaks https://globaleaks.org and SecureDrop
-https://securedrop.org
+[^5]: GlobaLeaks: https://globaleaks.org y SecureDrop: https://securedrop.org
 
-\[6\]
+[^6]:
 <https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridiculous-rationale-for-publishing-the-trump-russia-dossier>
 
-\[7\] https://en.wikipedia.org/wiki/Kompromat
+[^7]: https://en.wikipedia.org/wiki/Kompromat
 
-\[8\] https://www.globaleaks.org/implementations
+[^8]: https://www.globaleaks.org/implementations
 
-\[9\] https://wildleaks.org/leaks-and-reports/
+[^9]: https://wildleaks.org/leaks-and-reports/
 
-\[10\]
+[^10]:
 https://www.theguardian.com/world/2015/may/29/couchsurfing-rapist-dino-maglio-italian-police-officer-rape-padua
 
-\[11\] https://www.thenation.com/article/simona-levi/
+[^11]: https://www.thenation.com/article/simona-levi/
 
-\[12\] https://xnet-x.net/hazte-banquero/
+[^12]: https://xnet-x.net/hazte-banquero/
 
-\[13\]
+[^13]:
 https://www.occrp.org/en/daily/3776-mexicoleaks-journalists-fired-after-joining-whistleblowing-alliance
