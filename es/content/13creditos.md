@@ -1,8 +1,8 @@
-# Contribuciones
+# Créditos
 
-**Editora**: Spideralex
+**Edición**: Spideralex
 
-**Gráficos y maquetación**: Ariel Acevedo
+**Diseño y maquetación**: Foockinho
 
 **Repositorios Git:** Maxigas
 
@@ -10,24 +10,23 @@
 
  * ***Castellano***: Ana A. Romero, Djaván Adler, Germán
  * ***Francés***: Bruno Lakmeche, Lunar
- * ***Ingles***: Kate Wilson
+ * ***Inglés***: Kate Wilson
 
-**Revisión traducciones**:
+**Revisión de traducciones**:
 
  * ***Castellano***: Spideralex and Ana Lanita
  * ***Francés***: Viviana Varin
- * ***Ingles***: Maxigas
+ * ***Inglés***: Maxigas
 
-**Revisión traducciones**, ***Ingles***, “Digital Governance”:
+**Revisión del artículo en inglés “Gobernanza digital”**:
 
  * Patrice Riemens
-
-**Copy editing**, ***Castellano***, “FIXME”:
+ 
+**Revisión del artículo en castellano “Soberanía tecnológica para volver a querer las máquinas”**:
 
  * Ale Fernandez
 
-También nos gustaría agradecer a todos las autoras por su paciencia y
-hermoso trabajo:
+Querríamos asimismo agradecer a todas las autoras por su paciencia y maravilloso trabajo:
 
  * Alex Hache
  * Benjamin Cadon
@@ -42,7 +41,7 @@ hermoso trabajo:
  * Margarita Padilla
  * Maxigas
 
-Por apoyar, estimular, inspirar e impulsar este libro, muchas gracias a:
+Por respaldar, estimular, inspirar e impulsar este libro, gracias a:
 
  * Ritimo [^0]
  * Erika Campelo
@@ -50,7 +49,7 @@ Por apoyar, estimular, inspirar e impulsar este libro, muchas gracias a:
  * Sophie Toupin, Dhyta and Bobby por ponernos en contacto con los pioneros
  * Jara Rocha, Paula Velez y Anamhoo por las conversaciones acerca de tecnologías apropiadas
 
-Y por último, gracias a la comunidad de Calafou [^1].
+Y finalmente, un enorme agradecimiento a la comunidad de Calafou [^1].
 
 [^0]: https://www.ritimo.org/
 

@@ -1,4 +1,4 @@
-# Contributions
+# Crédits
 
 **Édition**: Spideralex
 
@@ -18,11 +18,11 @@
  * ***Espagnol***: Viviana Varin
  * ***Anglais***: Spideralex and Ana Lanita
 
-**Révision**, ***anglais***, “Digital governance”:
+**Révision**, ***anglais***, “Gouvernance numérique”:
 
  * Patrice Riemens
 
-**Révision**, ***espagnol***, “FIXME”:
+**Révision**, ***espagnol***, “Souveraineté technologique pour aimer à nouveau les machines”:
 
  * Ale Fernandez
 

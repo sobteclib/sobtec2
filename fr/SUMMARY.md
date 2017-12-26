@@ -1,4 +1,4 @@
-# La Souveraineté technologique, vol. 2.
+# Crédits
 
  * [Dévoument](content/00devoument.md)
  * [Préface: Souveraineté technologique, de quoi parle-t-on?](content/01preface.md)
@@ -20,9 +20,9 @@
  * [Chiffrer les e-mails avec des outils accessibles](content/11leap.md)
  * [Développons l’informatique paysanne, élevons des chatons](content/12chatons.md)
 
-## Remerciements + Contributions
+## Remerciements + Crédits
 
- * [Contributions](content/13contributions.md)
+ * [Crédits](content/13credits.md)
 
 * * *
 

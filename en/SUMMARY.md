@@ -20,9 +20,9 @@
  * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/11leap.md)
  * [Let's develop peasant computing, let's breed “kittens”](content/12chatons.md)
 
-## Contributions
+## Credits
 
- * [Contributions](content/13contributions.md)
+ * [Credits](content/13credits.md)
 
 * * *
 

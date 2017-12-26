@@ -22,7 +22,7 @@
 
 ## Agradecimientos + Contribuciones
 
- * [Contribuciones](content/13contribuciones.md)
+ * [Contribuciones](content/13creditos.md)
  * [Agradecimientos](content/14agradecimientos.md)
 
 * * *

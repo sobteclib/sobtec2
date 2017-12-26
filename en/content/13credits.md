@@ -1,8 +1,8 @@
-# Contributions
+# Credits
 
 **Editor:** Spideralex
 
-**Graphics and layout:** Ariel Acevedo
+**Design and layout:** Ariel Acevedo
 
 **Git repositories:** Maxigas
 
@@ -22,7 +22,7 @@
 
  * Patrice Riemens
 
-**Copy editing**, ***Spanish***, “FIXME”:
+**Copy editing**, ***Spanish***, “Technological Sovereignty: Learning to love machines again”:
 
  * Ale Fernandez
 
