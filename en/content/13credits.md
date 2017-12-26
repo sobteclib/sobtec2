@@ -8,9 +8,9 @@
 
 **Translation**:
 
+ * ***English***: Kate Wilson
  * ***French***: Bruno Lakmeche, Lunar
  * ***Spanish***: Ana A. Romero, Djaván Adler, Germán
- * ***English***: Kate Wilson
 
 **Copy editing**:
 
