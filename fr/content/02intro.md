@@ -79,6 +79,8 @@ amener à la folie ou le suicide [^9], voire tuer dans les féminicides des
 frontières et des zones économiques spéciales, pour alimenter un
 écosystème technologique global dystopique.
 
+* * *
+
 La souveraineté technologique (ST) qui nous plaît c'est celle qui pense,
 développe, distribue et rêve des technologies qui apportent du bien-être
 et du bien vivre, celle qui ne perpétue ni ne crée d'injustice.  Une
