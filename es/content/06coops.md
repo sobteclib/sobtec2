@@ -2,6 +2,8 @@
 
 ***Carolina***
 
+![](../../contrib/gfx/illustrations/hacktocoops-halfsize.png)
+
 Los colectivos tecnopolíticos mezclan lo social y lo político. Un
 ejemplo es Riseup, que «*proporciona herramientas de comunicación online
 para gente y grupos que trabajan en un cambio social libertario. Somos

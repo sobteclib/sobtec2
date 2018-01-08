@@ -2,6 +2,8 @@
 
 ***Elleflâne***
 
+![](../../contrib/gfx/illustrations/tecnoaprop-halfsize.png)
+
 La inversión de recursos en el desarrollo de conocimientos orientados
 directamente a la producción o desarrollo de nuevos procesos y
 productos, convierte a la tecnología actual que consumimos, en un bien

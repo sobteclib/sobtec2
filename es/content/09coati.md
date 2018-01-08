@@ -2,6 +2,8 @@
 
 ***Colectivo para la Autogestión de las Tecnologías de la Interpretación***
 
+![](../../contrib/gfx/illustrations/coati-halfsize.png)
+
 > *«Ni la solidaridad internacional ni las protestas globales son fenómenos
 > nuevos. Desde las revoluciones europeas de 1848, pasando por las revueltas
 > de 1917-18 tras la revolución rusa, hasta los destellos de resistencia casi

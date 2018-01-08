@@ -2,6 +2,8 @@
 
 ***Maxigas***
 
+![](../../contrib/gfx/illustrations/irc-halfsize.png)
+
 **De vez en cuando las nuevas tecnologías manifiestan una crítica de las
 condiciones existentes, pero muchas veces se pierden sus prestaciones
 empoderadoras porque sus funciones son progresivamente integradas a los

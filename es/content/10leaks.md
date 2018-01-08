@@ -1,6 +1,10 @@
-# Whistleblowing: Filtrar información sensible, un arma de doble filo
+# Whistleblowing
+
+## Filtrar información sensible, un arma de doble filo
 
 ***Claudio Agosti***
+
+![](../../contrib/gfx/illustrations/whistleblowing-halfsize.png)
 
 *Whistleblowing* es una antigua práctica a la cual se le ha dado muchos
 nombres y que no tiene un valor moral en sí misma. Puede ser el vínculo

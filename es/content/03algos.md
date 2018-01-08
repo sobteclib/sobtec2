@@ -2,6 +2,8 @@
 
 ***Benjamin Cadon***
 
+![](../../contrib/gfx/illustrations/algoritmos-halfsize.png)
+
 Se escucha mucho hablar de ellos, pero jamás se los ve. ¿Qué son esos
 algoritmos, estas criaturas invisibles e inasequibles que se deslizan en
 nuestros cerebros y habitan en nuestros bolsillos? ¿Qué propósitos los animan?

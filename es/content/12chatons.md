@@ -2,6 +2,8 @@
 
 ***Framasoft + AMIPO***
 
+![](../../contrib/gfx/illustrations/chatons-halfsize.png)
+
 ## Introducción
 
 En los últimos años, hemos observado una centralización de prácticas en

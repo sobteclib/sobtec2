@@ -2,6 +2,8 @@
 
 ***Alex Haché***
 
+![](../../contrib/gfx/illustrations/intro-halfsize.png)
+
 > La gran bola de terciopelo responde a las necesidades de un barrio o
 > una comunidad: es rosa y muy amable pero no tiene piedad. Las personas
 > piensan que la pelota no reconoce a las malas y que se van a salvar,

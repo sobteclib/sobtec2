@@ -2,6 +2,8 @@
 
 ***Margarita Padilla***
 
+![](../../contrib/gfx/illustrations/prefacio-halfsize.png)
+
 ## Qué es
 
 Querido lector/a, queremos conversar sobre la soberanía tecnológica, un

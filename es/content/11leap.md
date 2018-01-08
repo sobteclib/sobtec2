@@ -4,6 +4,8 @@
 
 ***Kali Kaneko***
 
+![](../../contrib/gfx/illustrations/leap-halfsize.png)
+
 El cifrado es la aplicación de la matemática que asegura que nuestras
 informaciones son *solamente* accesibles para las personas o las
 máquinas con quienes hemos decidido compartirlas. El cifrado tiene una

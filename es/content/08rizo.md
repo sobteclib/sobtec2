@@ -2,6 +2,8 @@
 
 ***Loreto Bravo***
 
+![](../../contrib/gfx/illustrations/rhyzomatica-halfsize.png)
+
 Esta es la historia de la telefonía celular autónoma y comunitaria de
 los pueblos originarios de Oaxaca, una tecno-semilla que habita un
 ecosistema comunal. Un puente ético-político entre la comunidad *hacker*

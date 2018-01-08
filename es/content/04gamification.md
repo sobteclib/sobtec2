@@ -2,6 +2,8 @@
 
 ***Ippolita***
 
+![](../../contrib/gfx/illustrations/digital-governance-halfsize.png)
+
 ## Érase una vez…
 
 Érase una vez una ciudad en las orillas de un lago entre montañas.  La
