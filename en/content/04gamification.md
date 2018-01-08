@@ -2,6 +2,8 @@
 
 **Ippolita**
 
+![](../../contrib/gfx/illustrations/digital-governance-halfsize.png)
+
 ## Once upon a time...
 
 There was a city on the shores of a mountain lake.  The city was very dirty

@@ -1,7 +1,8 @@
-﻿
-# COATI: Simultaneous interpreting using radio frequencies
+﻿# COATI: Simultaneous interpreting using radio frequencies
 
 ***Colectivo para la Autogestión de las Tecnologías de la Interpretación***
+
+![](../../contrib/gfx/illustrations/coati-halfsize.png)
 
 > *“International solidarity and global protest is nothing new. From the
 > European-wide revolutions of 1848, through the upheavals of 1917-18

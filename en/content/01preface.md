@@ -2,7 +2,7 @@
 
 ***Margarita Padilla***
 
-mpadilla@sindominio.net
+![](../../contrib/gfx/illustrations/prefacio-halfsize.png)
 
 What is technological sovereignty?
 ----------------------------------

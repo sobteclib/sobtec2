@@ -4,6 +4,8 @@
 
 ***Claudio Agosti***
 
+![](../../contrib/gfx/illustrations/whistleblowing-halfsize.png)
+
 Whistleblowing is an ancient practice that has been called many names and is
 not ethically bound.  It can be the link between the source and the
 journalist, or between the snitch and the military.  In both cases, a reserved

@@ -2,6 +2,8 @@
 
 ***Framasoft + AMIPO***
 
+![](../../contrib/gfx/illustrations/chatons-halfsize.png)
+
 ## Introduction
 
 In recent years, we have witnessed the widespread concentration of internet

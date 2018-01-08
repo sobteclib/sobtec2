@@ -2,6 +2,8 @@
 
 ***Elleflâne***
 
+![](../../contrib/gfx/illustrations/tecnoaprop-halfsize.png)
+
 Increased investment in knowledge related to technology development means that
 much of the technology we use today are commercial goods.  Acquisition and
 transfer of technological knowledge ceases to be an informal process of the

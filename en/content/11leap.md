@@ -4,6 +4,8 @@
 
 ***Kali Kaneko***
 
+![](../../contrib/gfx/illustrations/leap-halfsize.png)
+
 Encryption is the application of mathematics to ensure that our information is
 *only* accessible to the persons or machines we decide to share it with.
 Encryption has a long history.  Protocols for sending encrypted information
