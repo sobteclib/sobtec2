@@ -2,6 +2,8 @@
 
 ***Benjamin Cadon***
 
+![](../../contrib/gfx/illustrations/algoritmos-halfsize.png)
+
 On en entend beaucoup parler, on ne les voit jamais, que sont ces algorithmes, ces bêtes invisibles et insaisissables qui se faufilent dans nos cerveaux et habitent nos poches? Quels desseins les animent?
 
 D’un point de vu formel, un algorithme n’est qu’une inoffensive suite d’opérations alimentée par des données qui produit un résultat. Néanmoins, ils automatisent la résolution d’un ensemble de problèmes complexes[^2] et certains sont ainsi devenus des Intelligences Artificielles élevées, grâce à des entreprises qui les gavent des données qu’on a bien voulu leur donner gratuitement.

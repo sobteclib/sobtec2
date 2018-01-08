@@ -2,6 +2,8 @@
 
 ***Margarita Padilla***
 
+![](../../contrib/gfx/illustrations/prefacio-halfsize.png)
+
 ## Qu'est-ce que c'est?
 
 Cher.ère lecteur·trice, dans ce dossier, nous allons parler de

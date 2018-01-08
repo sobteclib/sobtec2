@@ -1,8 +1,10 @@
 # Chiffrer les e-mails avec des outils accessibles
 
+## L'adoption en masse des technologies de chiffrement
+
 ***Kali Kaneko***
 
-## L'adoption en masse des technologies de chiffrement
+![](../../contrib/gfx/illustrations/leap-halfsize.png)
 
 Le chiffrement est l'application mathématique qui s'assure que nos
 informations sont seulement accessibles pour les personnes ou les

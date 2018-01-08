@@ -2,6 +2,8 @@
 
 ***Framasoft + AMIPO***
 
+![](../../contrib/gfx/illustrations/chatons-halfsize.png)
+
 ## Introduction
 
 Ces dernières années, nous avons constaté une centralisation des usages

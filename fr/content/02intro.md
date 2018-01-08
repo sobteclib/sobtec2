@@ -2,6 +2,8 @@
 
 ***Alex Haché***
 
+![](../../contrib/gfx/illustrations/intro-halfsize.png)
+
 > La grande boule de velours répond aux besoins d'un quartier ou d'une
 > communauté: elle est rose et très aimable mais elle est sans pitié.  Les
 > gens pensent que la boule ne reconnaît pas les mauvaises personnes des

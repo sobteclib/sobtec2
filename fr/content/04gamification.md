@@ -2,6 +2,8 @@
 
 ***Ippolita***
 
+![](../../contrib/gfx/illustrations/digital-governance-halfsize.png)
+
 ## Il était une fois…
 
 Il était une fois une ville sur les rives d'un lac de montagne. La ville

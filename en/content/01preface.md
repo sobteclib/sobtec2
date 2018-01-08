@@ -4,8 +4,7 @@
 
 ![](../../contrib/gfx/illustrations/prefacio-halfsize.png)
 
-What is technological sovereignty?
-----------------------------------
+## What is technological sovereignty?
 
 Dear Reader, we would like to talk about technological sovereignty, a
 concept that perhaps still means nothing to you.
@@ -59,8 +58,7 @@ sovereignty is the individual (you know, that young, handsome,
 intelligent, successful, white man... above all, because he does not
 exist).
 
-Where does it happen
---------------------
+## Where does it happen
 
 As with all other sovereignty, technological sovereignty is made in
 communities.
@@ -162,8 +160,7 @@ Therefore, in addition to all the practical things that you can do, your
 point of view can make the communities stronger, and in that way, you
 are already contributing.
 
-Why is this important?
-----------------------
+## Why is this important?
 
 Antonio Rodríquez de las Heras says that technology is to culture what
 the body is to life.
@@ -195,8 +192,7 @@ Which is why it is so important to keep open the collective question
 about what technological horizons we desire and how we are building
 them.
 
-How to value it
----------------
+## How to value it
 
 In the boom of the financial crisis and a culture of obligatory business
 ventures, the technology industry, on which the power of communities is
@@ -236,8 +232,7 @@ photo lives, and is therefore extracting value without contributing to the
 commons, etc.  Everything costs something.  We should therefore perhaps think
 of this kind of “gratuity” as indirect costs that will hit somewhere else.
 
-What can you do
----------------
+## What can you do
 
 No one lives in absolute technological sovereignty.  Sovereignty is a road to
 be walked.  However, we cannot accept that, since we cannot do everything, we

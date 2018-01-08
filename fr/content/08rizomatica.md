@@ -2,6 +2,8 @@
 
 ***Loreto Bravo***
 
+![](../../contrib/gfx/illustrations/rhyzomatica-halfsize.png)
+
 C'est l'histoire de la téléphonie mobile autonome et communautaire des
 peuples autochtones de Oaxaca, une techno-graine qui habite un
 écosystème communal. Un pont éthico-politique entre la communauté

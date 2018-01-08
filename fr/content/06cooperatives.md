@@ -2,6 +2,8 @@
 
 ***Carolina***
 
+![](../../contrib/gfx/illustrations/hacktocoops-halfsize.png)
+
 Les collectifs techno-politiques mélangent le social et le politique. Un
 exemple est Riseup, qui se définit comme *fournisseur* « d'outils de
 communication en ligne pour les personnes et les groupes qui militent en

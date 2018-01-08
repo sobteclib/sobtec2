@@ -2,6 +2,8 @@
 
 ***Elleflâne***
 
+![](../../contrib/gfx/illustrations/tecnoaprop-halfsize.png)
+
 L'investissement en ressources dans le développement des
 connaissances orientées directement vers la production ou le
 développement de nouveaux processus et produits, transforme la

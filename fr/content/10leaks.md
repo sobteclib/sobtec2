@@ -4,6 +4,8 @@
 
 ***Claudio Agosti***
 
+![](../../contrib/gfx/illustrations/whistleblowing-halfsize.png)
+
 Le lancement d'alerte (whistleblowing, en anglais) est une pratique
 ancienne qui a été appelée de bien des façons et qui n'est pas pas
 obligatoire d'un point de vue éthique. Elle peut-être le lien entre la

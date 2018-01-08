@@ -2,6 +2,8 @@
 
 ***COATI, Collectif pour l'autogestion des technologies d'interprétation***
 
+![](../../contrib/gfx/illustrations/coati-halfsize.png)
+
 ## Introduction
 
 > « *Ni la solidarité internationale ni les mouvements de protestation globaux
