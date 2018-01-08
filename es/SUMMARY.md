@@ -20,11 +20,10 @@
  * [Cifrar los correos electrónicos con herramientas accesibles](content/11leap.md)
  * [Desarrollemos la informática campesina, criemos «gatitos»](content/12chatons.md)
 
-## Agradecimientos + Créditos
+## Créditos
 
  * [Créditos](content/13creditos.md)
- * [Agradecimientos](content/14agradecimientos.md)
 
 * * *
 
- * [Contraportada](content/15contraportada.md)
+ * [Contraportada](content/14back.md)
