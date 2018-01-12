@@ -13,6 +13,6 @@ We deserve to have other technologies, something better than what we nowadays ca
 
 * [Original](or/README.md)
 * [English](en/README.md)
-* [Castellano](es/README.md)
-* [Français](fr/README.md)
+* [Spanish](es/README.md)
+* [French](fr/README.md)
 
