@@ -5,7 +5,7 @@ We deserve to have other technologies, something better than what we nowadays ca
 ## Releases
 
 * [HTML](https://sobtec.gitbooks.io/sobtec2/content/en/)
-* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_en.pdf)
+* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/web/sobtech2-EN-with-covers-web-150dpi-2018-01-10-v2.pdf)
 * [EPUB](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_en.epub)
 * [MOBI](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_en.mobi)
 

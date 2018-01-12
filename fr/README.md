@@ -5,7 +5,7 @@ Nous méritons d’autres technologies, quelque chose de mieux que ce que nous a
 ## Parutions
 
 * [HTML](https://sobtec.gitbooks.io/sobtec2/content/fr/)
-* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_fr.pdf)
+* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/web/sobtech2-FR-with-covers-web-150dpi-2018-01-10-v2.pdf)
 * [EPUB](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_fr.epub)
 * [MOBI](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_fr.mobi)
 
