@@ -4,10 +4,10 @@ Nos merecemos otras tecnologías, algo mejor que lo que hoy en día llamamos «T
 
 ## Descargos
 
-* [HTML](https://sobtec.gitbooks.io/sobtec2/content/en/)
-* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_en.pdf)
-* [EPUB](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_en.epub)
-* [MOBI](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_en.mobi)
+* [HTML](https://sobtec.gitbooks.io/sobtec2/content/es/)
+* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_es.pdf)
+* [EPUB](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_es.epub)
+* [MOBI](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_es.mobi)
 
 ## Traducciones
 
