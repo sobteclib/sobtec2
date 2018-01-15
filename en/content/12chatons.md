@@ -307,7 +307,7 @@ KITTENS services cannot be hosted by an actor who, by reputation, does not
 promote the neutrality of the Net.  Data packages should be transmitted by
 KITTENS services without discrimination, which means the content, source or
 destination should not be examined.  No communications protocol can be given
-priority in the way informaiton is distributed.  And no data can have its
+priority in the way information is distributed.  And no data can have its
 content arbitrarily altered.
 
 The neutrality of KITTENS is therefore a political neutrality, as the
@@ -322,7 +322,7 @@ part of the French “AMAP” (Association of Organic Agriculturists who provide
 their fruit and vegetables directly to subscribers), with the idea of finding
 good bytes in a local association, rather than on the American “supermarket”.
 A “farmer” is defined as anyone who works for self-sufficiency and contributes
-to developing the environment and the countryside…
+to developing the environment and the countryside
 
 Signing up to a local KITTENS initiative starts with bringing together a group
 of people motivated by the idea of practical reflections about the *why* of
