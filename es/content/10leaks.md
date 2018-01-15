@@ -276,18 +276,15 @@ en tus manos. ¿Qué caja de Pandora quieres abrir?
 
 [^1]: Quizás la whistleblower mas inspiradora de los últimos años:   https://en.wikipedia.org/wiki/Chelsea_Manning
 
-[^2]:
-https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
+[^2]: https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
 
-[^3]:
-https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
+[^3]: https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-years-herve-falciani
 
 [^4]: En 2012 Paolo Gabriele y Claudio Sciarpelletti, trabajando para el Papa, filtraron a periodistas documentos internos y reservados acerca de la gestión del Vaticano. Esto llevó al Papa Benedicto XVI a renunciar (un evento que no sucedía hace 600 años).
 
-[^5]: GlobaLeaks: https://globaleaks.org y SecureDrop: https://securedrop.org
+[^5]: GlobaLeaks y SecureDrop: https://globaleaks.org • https://securedrop.org
 
-[^6]:
-<https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridiculous-rationale-for-publishing-the-trump-russia-dossier>
+[^6]: https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/10/buzzfeeds-ridiculous-rationale-for-publishing-the-trump-russia-dossier
 
 [^7]: https://en.wikipedia.org/wiki/Kompromat
 
@@ -295,12 +292,10 @@ https://www.theguardian.com/news/2015/nov/27/hsbc-whistleblower-jailed-five-year
 
 [^9]: https://wildleaks.org/leaks-and-reports/
 
-[^10]:
-https://www.theguardian.com/world/2015/may/29/couchsurfing-rapist-dino-maglio-italian-police-officer-rape-padua
+[^10]: https://www.theguardian.com/world/2015/may/29/couchsurfing-rapist-dino-maglio-italian-police-officer-rape-padua
 
 [^11]: https://www.thenation.com/article/simona-levi/
 
 [^12]: https://xnet-x.net/hazte-banquero/
 
-[^13]:
-https://www.occrp.org/en/daily/3776-mexicoleaks-journalists-fired-after-joining-whistleblowing-alliance
+[^13]: https://www.occrp.org/en/daily/3776-mexicoleaks-journalists-fired-after-joining-whistleblowing-alliance

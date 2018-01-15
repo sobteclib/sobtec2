@@ -1,4 +1,6 @@
-# Mantener la soberanía tecnológica: El caso del Internet Relay Chat
+# Mantener la soberanía tecnológica
+
+## El caso del Internet Relay Chat
 
 ***Maxigas***
 

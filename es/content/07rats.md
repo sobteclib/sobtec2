@@ -428,5 +428,4 @@ interdependiente.
 
 [^26]: ONUDI, Organización de las Naciones Unidas para el Desarrollo Industrial: http://unido.org
 
-[^33]:
-https://comitesolidaridadrojava.wordpress.com/2015/02/19/por-que-jineology-reconstruir-las-ciencias-hacia-una-vida-comunitaria-y-libre/
+[^33]: https://comitesolidaridadrojava.wordpress.com/2015/02/19/por-que-jineology-reconstruir-las-ciencias-hacia-una-vida-comunitaria-y-libre/

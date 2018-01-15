@@ -22,7 +22,7 @@ criptografía) durante las primeras "Guerras Criptográficas" [^1]. Ahora bien,
 ¿cuáles son los obstáculos para la adopción del cifrado del correo electrónico
 por parte de una gran masa crítica? ¿Por qué Greenwald, el respetado
 periodista, no consiguió cifrar un correo electrónico cuando fue contactado
-por su fuente, Snowden, el analista que trabajaba para la NSA[^2]?
+por su fuente, Snowden, el analista que trabajaba para la NSA [^2]?
 
 Para responder a estas cuestiones, es necesario analizar primero la
 arquitectura de los servicios de Internet; en segundo lugar, mirar a la
@@ -164,7 +164,7 @@ Un ejemplo de tecnología rota es el sistema de Web of Trust que se utiliza
 para identificar las claves asociadas a una dirección de correo. Los intentos
 didácticos de explicar por qué esto es necesario para una práctica segura del
 cifrado han fracasado en los últimos años, tal vez porque esta tecnología se
-ha basado en premisas incorrectas desde su creación[^8].
+ha basado en premisas incorrectas desde su creación [^8].
 
 ### Hacia posibles soluciones 
 
@@ -283,7 +283,7 @@ concesiones sí o sí. Se trata de una extensión para el navegador que permite
 usar el cifrado de OpenPGP con la mayoría de los proveedores de correo como
 Gmail, Yahoo y Outlook. Algunas aplicaciones populares de webmail con Software
 Libre como Roundcube (el webmail que ofrecen proyectos como Riseup o
-Autistici) también soportan el plugin de Mailvelope[^13].
+Autistici) también soportan el plugin de Mailvelope [^13].
 
 #### Servicios de mensajería que NO son correo electrónico
 
@@ -308,7 +308,7 @@ previamente compartido).
 
 Para una revisión detallada de otras iniciativas, y una interesante visión
 general de los proyectos que ofrecen cifrado para el correo electrónico, hay
-una amplia comparativa disponible en línea[^14].
+una amplia comparativa disponible en línea [^14].
 
 ### Algunos retos pendientes
   
