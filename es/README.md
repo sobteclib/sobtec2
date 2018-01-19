@@ -11,10 +11,10 @@ Nos merecemos otras tecnologías, algo mejor que lo que hoy en día llamamos «T
 
 ## Traducciones
 
-* [Original](or/README.md)
-* [Inglés](en/README.md)
-* [Castellano](es/README.md)
-* [Francés](fr/README.md)
+* [Original](https://sobtec.gitbooks.io/sobtec2/content/or/)
+* [Inglés](https://sobtec.gitbooks.io/sobtec2/content/en/)
+* Castellano
+* [Francés](https://sobtec.gitbooks.io/sobtec2/content/fr/)
 
 
 

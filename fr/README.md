@@ -11,10 +11,10 @@ Nous méritons d’autres technologies, quelque chose de mieux que ce que nous a
 
 ## Traductions
 
-* [Original](or/README.md)
-* [Anglais](en/README.md)
-* [Espagnol](es/README.md)
-* [Français](fr/README.md)
+* [Original](https://sobtec.gitbooks.io/sobtec2/content/or/)
+* [Anglais](https://sobtec.gitbooks.io/sobtec2/content/en/)
+* [Espagnol](https://sobtec.gitbooks.io/sobtec2/content/es/)
+* Français
 
 
 

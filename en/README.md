@@ -11,8 +11,8 @@ We deserve to have other technologies, something better than what we nowadays ca
 
 ## Translations
 
-* [Original](or/README.md)
-* [English](en/README.md)
-* [Spanish](es/README.md)
-* [French](fr/README.md)
+* [Original](https://sobtec.gitbooks.io/sobtec2/content/or/)
+* English
+* [Spanish](https://sobtec.gitbooks.io/sobtec2/content/es/)
+* [French](https://sobtec.gitbooks.io/sobtec2/content/fr/)
 
