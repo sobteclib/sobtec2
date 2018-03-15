@@ -1,6 +1,6 @@
-# Soberanía tecnológica, vol. 2.
+# Soberanía tecnológica, vol. 2
 
- * [Dedicación](content/00dedicacion.md)
+ * [Dedicatoria](content/00dedicacion.md)
  * [Prefacio](content/01prefacio.md)
  * [Introducción](content/02intro.md)
 
