@@ -2,32 +2,33 @@
 
 **Editor:** Spideralex
 
-**Design and layout:** Ariel Acevedo
+**Design en layout:** Ariel Acevedo
 
 **Git repositories:** Maxigas
 
-**Translation**:
+**Vertaling**:
 
- * ***English***: Kate Wilson
- * ***French***: Bruno Lakmeche, Lunar
- * ***Spanish***: Ana A. Romero, Djaván Adler, Germán
+ * ***Engels***: Kate Wilson
+ * ***Frans***: Bruno Lakmeche, Lunar
+ * ***Nederlands***: Kel, Ivom, Winston, Patrice Riemens, Lara 
+ * ***Spaans***: Ana A. Romero, Djaván Adler, Germán
 
-**Copy editing**:
+**Redactie**:
 
- * ***English***: Maxigas
- * ***French***: Viviana Varin
- * ***Spanish***: Spideralex and Ana Lanita
+ * ***Engels***: Maxigas
+ * ***Frans***: Viviana Varin
+ * ***Nederalands***: Ivom 
+ * ***Spaans***: Spideralex en Ana Lanita
 
-**Copy editing**, ***English***, “Digital Governance”:
+**Redactie**, ***Engels***, “Digital Governance”:
 
  * Patrice Riemens
 
-**Copy editing**, ***Spanish***, “Technological Sovereignty: Learning to love machines again”:
+**Redactie**, ***Spaans***, “Technological Sovereignty: Learning to love machines again”:
 
  * Ale Fernandez
 
-We would also like to thanks all the authors for their patience and
-beautiful work:
+Duizendmaal dank aan alle auters voor hun geduld en fantastisch werk:
 
  * Alex Hache
  * Benjamin Cadon
@@ -42,8 +43,9 @@ beautiful work:
  * Margarita Padilla
  * Maxigas
 
-For supporting, stimulating, inspiring and pushing forward this book,
-many thanks to:
+Voor alle ondersteuning, aanmoedigingen, inspratie 
+en om te zorgen dat het er uiteindelijk van kwam,
+veel dank aan: 
 
  * Ritimo [^0]
  * Erika Campelo
@@ -51,7 +53,7 @@ many thanks to:
  * Sophie Toupin, Dhyta and Bobby for contacts with pioneers
  * Jara Rocha, Paula Velez and Anamhoo for conversations about appropriated technologies
 
-And last but not least, thanks to the community of Calafou [^1].
+En natuurlijk ook zeer veel dank aan de community of Calafou [^1].
 
 [^0]: https://www.ritimo.org/
 
