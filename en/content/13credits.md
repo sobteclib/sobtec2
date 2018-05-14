@@ -2,33 +2,32 @@
 
 **Editor:** Spideralex
 
-**Design en layout:** Ariel Acevedo
+**Design and layout:** Ariel Acevedo
 
 **Git repositories:** Maxigas
 
-**Vertaling**:
+**Translation**:
 
- * ***Engels***: Kate Wilson
- * ***Frans***: Bruno Lakmeche, Lunar
- * ***Nederlands***: Kel, Ivom, Winston, Patrice Riemens, Lara 
- * ***Spaans***: Ana A. Romero, Djaván Adler, Germán
+ * ***English***: Kate Wilson
+ * ***French***: Bruno Lakmeche, Lunar
+ * ***Spanish***: Ana A. Romero, Djaván Adler, Germán
 
-**Redactie**:
+**Copy editing**:
 
- * ***Engels***: Maxigas
- * ***Frans***: Viviana Varin
- * ***Nederalands***: Ivom 
- * ***Spaans***: Spideralex en Ana Lanita
+ * ***English***: Maxigas
+ * ***French***: Viviana Varin
+ * ***Spanish***: Spideralex and Ana Lanita
 
-**Redactie**, ***Engels***, “Digital Governance”:
+**Copy editing**, ***English***, “Digital Governance”:
 
  * Patrice Riemens
 
-**Redactie**, ***Spaans***, “Technological Sovereignty: Learning to love machines again”:
+**Copy editing**, ***Spanish***, “Technological Sovereignty: Learning to love machines again”:
 
  * Ale Fernandez
 
-Duizendmaal dank aan alle auters voor hun geduld en fantastisch werk:
+We would also like to thanks all the authors for their patience and
+beautiful work:
 
  * Alex Hache
  * Benjamin Cadon
@@ -43,9 +42,8 @@ Duizendmaal dank aan alle auters voor hun geduld en fantastisch werk:
  * Margarita Padilla
  * Maxigas
 
-Voor alle ondersteuning, aanmoedigingen, inspratie 
-en om te zorgen dat het er uiteindelijk van kwam,
-veel dank aan: 
+For supporting, stimulating, inspiring and pushing forward this book,
+many thanks to:
 
  * Ritimo [^0]
  * Erika Campelo
@@ -53,8 +51,9 @@ veel dank aan:
  * Sophie Toupin, Dhyta and Bobby for contacts with pioneers
  * Jara Rocha, Paula Velez and Anamhoo for conversations about appropriated technologies
 
-En natuurlijk ook zeer veel dank aan de community of Calafou [^1].
+And last but not least, thanks to the community of Calafou [^1].
 
 [^0]: https://www.ritimo.org/
 
 [^1]: https://www.calafou.org/
+
