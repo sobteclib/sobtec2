@@ -17,7 +17,7 @@
 
  * ***Engels***: Maxigas
  * ***Frans***: Viviana Varin
- * ***Nederalands***: Ivom 
+ * ***Nederlands***: Kel 
  * ***Spaans***: Spideralex en Ana Lanita
 
 **Redactie**, ***Engels***, “Digital Governance”:
