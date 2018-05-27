@@ -2,7 +2,7 @@
 
 **Editor:** Spideralex
 
-**Design en layout:** Ariel Acevedo
+**Ontwerp en layout:** Ariel Acevedo
 
 **Git repositories:** Maxigas
 
@@ -19,10 +19,6 @@
  * ***Frans***: Viviana Varin
  * ***Nederlands***: Kel 
  * ***Spaans***: Spideralex en Ana Lanita
-
-**Redactie**, ***Engels***, “Digital Governance”:
-
- * Patrice Riemens
 
 **Redactie**, ***Spaans***, “Technological Sovereignty: Learning to love machines again”:
 
