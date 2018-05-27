@@ -320,7 +320,7 @@ technology**.
 
 *The lack of backlogs helped to build technological sovereignty for
 Internet users for a decade and later sheltered peer producers from the
-capitalist requirements of exploitation and repression.* Those who care
+capitalist requirements of exploitation and repression.* Those who cared
 about IRC had to navigate a terrain of changing social conditions –
 including rifts in the technological landscape and paradigm shifts in
 political economy – which recontextualised the significance of technical
