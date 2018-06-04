@@ -26,4 +26,4 @@
 
 * * *
 
- * [Back cover](content/14back.md)
+ * [Achterpagina](content/14back.md)

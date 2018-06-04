@@ -6,13 +6,13 @@
 
 ## Wat is technologische soevereiniteit?
 
-Beste lezers, we willen het graag hebben over technologische soevereiniteit, een concept dat misschien nog steeds niets voor jou betekent.
+Beste lezers, we zouden het hier graag hebben over technologische soevereiniteit, een concept dat misschien nog weinig voor jouw betekent.
 
-Wikipedia zegt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent beslissingsbevoegdheid hebben, de macht om wetgeving te maken zonder deze van een ander te ontvangen. Het zegt ook dat het onmogelijk is om dit concept te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definieert de kwestie van soevereiniteit, wat het is en wat het zal worden, en op elk moment, wie soeverein is.
+Wikipedia zegt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent in staat te zijn om te zelfstandig te beslissen, de macht te hebben om wetten te maken zonder dat die te worden opgelegd door anderen. Het is onmogelijk om soevereiniteit te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definiëert de kwestie van soevereiniteit, wat het is en wat het zal worden, en op elk moment, wie soeverein is.
 
 Als we de soevereiniteitskwestie overhevelen naar de technologieën, dan wordt de vraag die we willen bespreken: wie heeft de macht om hierover beslissingen te nemen? Over hun ontwikkeling, over hun gebruik, over toegang en over distributie, over aanbod en consumptie, over het prestige dat ze hebben en hun vermogen om ons te boeien ...
 
-Ik denk dat er met machtsvragen geen eenvoudige antwoorden zijn. Toch zijn er wenselijke en gewenste horizonten. Met deze publicatie hopen we even te pauzeren en na te denken over de technologische horizon die we uitstippelen, kritisch te oordelen en vooral onze ideeën te delen.
+Ik denk dat er aangaande de vraag rodn machts geen eenvoudige antwoorden zijn te geven. Toch zijn er wenselijke en gewenste horizonten. Met deze publicatie hopen we even te pauzeren en na te denken over de technologische horizon die we uitstippelen, kritisch te oordelen en vooral onze ideeën te delen.
 
 In informele gesprekken over technologieën zeggen vrienden vaak dingen als "dat begrijp ik gewoon niet", "daar ben ik niet zo goed in"... Dus probeer ik de focus te verleggen naar een ander, meer politiek terrein. Ik ben er vast van overtuigd dat wat een enkeling wel of niet weet, niet echt zo'n belangrijk onderdeel is van een algemene benadering van technologieën.
 

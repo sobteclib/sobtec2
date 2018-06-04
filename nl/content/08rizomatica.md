@@ -4,49 +4,50 @@
 
 ![](../../contrib/gfx/illustrations/rhyzomatica-halfsize.png)
 
-Dit is het verhaal van de autonome en de gemeenschap mobiele telefoon netwerk van de de inheemse bevolking van Oaxaca, een techno-zaad dat een gemeenschappelijk ecosysteem bewoont; een ethisch-politieke brug tussen de hackergemeenschap van de vrije software beweging en de gemeenschappen van inheemse volkeren in Oaxaca, in de Zuidoost-Mexico.
-Het is een dialoog tussen het concept van technologische soevereiniteit en de begrippen autonomie en zelfbeschikking, waarbij de commons en dekolonisatie ontmoeten; een versie van de geschiedenis van het autonome en de gemeenschap mobiele telefoon project aangestuurd door de Rhizomatica collectief en vandaag beheerd door de organisatie Telecomunicaciones Indígenas Comunitarias A.C. (Telecommunicatie in de autochtone gemeenschap).
+Dit is het verhaal van een autonome gemeenschap die is ontstond rond een mobiele telefoon netwerk van de de inheemse bevolking van Oaxaca, een techno-zaad dat een gemeenschappelijk ecosysteem bewoont; een ethisch-politieke brug tussen de hackergemeenschap van de vrije software beweging en de gemeenschappen van inheemse volkeren in Oaxaca, in de Zuidoost-Mexico.
+Het vormt de dialoog tussen het concept van technologische soevereiniteit en de begrippen autonomie en zelfbeschikking, waarbij de commons en dekolonisatie elkaar ontmoeten; een versie van de geschiedenis van autonomie en door de gemeenschap gerund mobiele telefoon project dat wordt aangestuurd door het Rhizomatica collectief en dat vandaag de dag beheerd door de organisatie Telecomunicaciones Indígenas Comunitarias A.C. (Autochtone Telecommunicatie Gemeenschap).
 
-*Alles begon met een droom die vernoemd en gedeeld werd en een realiteit.*
+*Alles begon met een droom die uit kwam.*
 
-Ik herinner me dat we nog maar vijf jaar geleden, toen we spraken over het creëren van een autonoom en de gemeenschap mobiele telefoon netwerk, onze kring van vrienden die woonde in de stad keek ons in ongeloof aan.
-Toen dit idee echter werd verwoord in de bergen van de Sierra Juárez, in Oaxaca, in het hart van een gemeenschapsradio project, kreeg het een nieuwe betekenis.
+Ik herinner me dat nog maar vijf jaar geleden, toen werd gesproken over het creëren van een autonoom en gemeenschappelijk mobiele telefoon netwerk, dat mijn directe vriendenkring in de stad waar ik toen wooonde met vol ongeloof aankeken.
+Terwijl toen dit idee ter sprake kwam in de Sierra Juárez het bergebied in Oaxaca, in het hart van een gemeenschapsradio project, kreeg het een nieuwe betekenis.
 
-Elk verhaal is een reis in tijd en ruimte, en het begin van dit verhaal is een enorm welkomstbord dat leest:
-				-  In deze gemeenschap bestaat geen privé-eigendom.
-				-  De aan- en verkoop van gemeenschappelijke gronden is VERBINTENIS.
-				-  Ondertekend door het Comisariaat van Gemeenschappelijke Goederen van Ixtlan de Juárez.
+Elk verhaal is een reis in tijd en ruimte, en het begin van dit verhaal is groot uithangbord dat leest:
+
+	In deze gemeenschap bestaat geen privé-eigendom.
+
+	De aan- en verkoop van gemeenschappelijke gronden is VERBODEN.
+
+	Ondertekend door het Comisariaat van Gemeenschappelijke Goederen van Ixtlan de Juárez.
 
 <!-- \[FOTO\] -->
 
-## Historische achtergrond van Oaxaca [^1], de inheemse volken en 'gemeenschappelijkheid'.
-Oaxaca is de op vier na grootste staat van het land met 3 inwoners.
-miljoen 800 duizend inwoners, waarvan meer dan de helft op het platteland woont dorpen met minder dan 2.500 inwoners.
-Van de 2.445 gemeenten in Mexico,
-570 bevinden zich op Oaksisch grondgebied, en 418 worden beheerst door het systeem van gebruik en tradities [^2].
-Dat betekent dat 58 procent van de totale oppervlakte van Oaxaca bestaat uit sociaal eigendom of commons.
-Op deze gebieden vallen de autoriteiten onder het gemeenschapsvergadering, die de uitoefening van rechtstreekse en participerende bevoegdheden vertegenwoordigt democratie en een door de Mexicaanse politiek erkende vorm van zelfbestuur constitutie.
-In deze regio leven zestien inheemse volken naast elkaar, dat tevens de staat is met de grootste etnische en linguïstische diversiteit in het land.
+## Historische achtergrond van Oaxaca [^1], de inheemse volken en "communaliteit".
+Oaxaca is de op vier na grootste staat van het land met 3 miljoen 800 duizend inwoners, waarvan meer dan de helft op het platteland woont dorpen met minder dan 2.500 inwoners.
+Van de 2.445 gemeenten in Mexico, bevinden zich 570 op Oaxacasche grondgebied, en 418 worden beheerst door het systeem van gebruik en tradities [^2].
+Dat wil zeggen dat 58 procent van de totale oppervlakte van Oaxaca bestaat uit sociaal eigendom of commons.
+In deze gebieden vallen de autoriteiten onder de bevoegdheid van de gemeenschapsvergadering, die de uitoefening van rechtstreekse en participatieve bevoegdheden democratische vertegenwoordigt en waarvan de legitimiteit in de Mexicaanse grondwet is vastgeschreven als vorm van zelfbestuur.
+In deze regio leven zestien inheemse volken naast elkaar, en omvat tevens de grootste etnische en linguïstische diversiteit in het land.
 
-Oaxaca is ook de staat met de meeste biodiversiteit, als gevolg van de geologische de complexiteit van de regio, waar drie lange en diepe bergketens, de West-Somalra Madre, de Sierra Sur en de Sierra Norte, beter bekend als de Sierra Juárez, kruis.
-Vanwege dit geografische ongeluk heeft de Europese veroveraars nooit helemaal in staat geweest om deze volkeren die in staat waren om hun aangepaste vormen van zelfbestuur in stand te houden en
-na verloop van tijd opnieuw geconfigureerd om aan de huidige context te voldoen.
+Oaxaca is ook de staat met de meeste biodiversiteit, als gevolg van de geologische complexiteit van de regio, die wordt omgeven door drie lange en hoge bergketens: de westelijk gelegen Sierra Madre, de Sierra Sur en de Sierra Norte, beter bekend als de Sierra Juárez.
+Vanwege deze geografische omstandigheid zijn de Europese veroveraars uit de 15de eeuw nooit volledig in staat geweest door te drigen tot dit gebied en zo zijn deze volkeren er ingeslaagd om hun eigen vormen van zelfbestuur in stand te houden en zijn ze na verloop van tijd opnieuw omgevormd om aan de huidige context te voldoen.
 
-In het midden van de jaren '70 en begin van de jaren '80 ontstond er een sociale beweging tussen de de inheemse bevolking van Oaxaca en het zuidoosten van Mexico in reactie op de het door de regering gestimuleerde ontwikkelingsbeleid en de noodzaak om zich te verzetten tegen het plukken van land, het weggooien van hulpbronnen en gedwongen verstuivingen.
-Deze beweging eiste respect voor hun manier van leven, talen en spiritualiteit.
-Op deze manier bouwden en verdedigden zij autonomie en het concept van "gemeenschappelijkheid" als een manier om het leven op deze gebieden uit te leggen, verder ontwikkeld en dorpen.
-In die jaren bouwden ze hun eerste gemeentelijke bedrijven voor bosbouwprojecten, projecten voor het bottelen van bronwater, ecotoerisme en de commercialisering en export van verbruiksgoederen, evenals een groot aantal gemeenschapsradio's.
-Vandaag de dag blijft deze sociale beweging worstelen om te verdedigen het grondgebied tegen mijnbouw- en winningsondernemingen die willen toetreden de regio.
+In het midden van de jaren '70 en begin van de jaren '80 ontstond er een sociale beweging tussen de de inheemse bevolking van Oaxaca en het zuidoosten van Mexico als reactie op het door de regering gestimuleerde ontwikkelingsbeleid en de noodzaak om zich te verzetten tegen landroof, de verkwisting van natuurlijke hulpbronnen en gedwongen verhuizingen.
+De beweging ijverde voor respect voor hun manier van leven, het taalgebruik en haar spiritualiteit.
+Zodoende bouwden en verdedigden ze verder concepten als autonomie en "communaliteit" op haar eigen manier om het leven in deze gebieden verder te verduidelijken.
+In die jaren bouwden ze verder voort aan gemeenschappelijke bedrijven voor bosbouw, projecten voor het bottelen van bronwater, ecotoerisme en de commercialisering en export van verbruiksgoederen, evenals een groot aantal gemeenschapsradio's. (nvdv: hier wordt mogelijk 27MC radio bedoeld in de originele spaanse tekst is daarover niets terug te vinden)
+Vandaag de dag strijdt deze sociale beweging om het behoud van het grondgebied te vrijwaren tegen  mijnbouw- en winningsondernemingen.
 
-Deze strijd geeft leven aan wat de antropoloog Elena Nava heeft genoemd "inheemse analysetheorieën", waarin inheemse denkers zoals Jaime Martinez Luna (Zapoteco) en Floriberto Díaz Gómez (Mixe) wilden het leven in gemeenschap te begrijpen voorbij westerse academische definities.
-Deze Denkers vroegen zich af: "Wat is een gemeenschap voor ons, de inheemse volkeren?  Het is een ruimte van gemeenschappelijk eigendom, gemeenschappelijke mondelinge geschiedenis, gemeenschappelijk taal, een eigen organisatievorm en een gemeenschappelijk systeem voor het zoeken naar rechtvaardigheid.
-Zij noemden deze "Communiteit" als een manier van zijn, leven en het gevoel, rekening houdend met de moeder aarde en het beoefenen van consensus in vergaderingen als hoogste besluitvormingsorgaan, waarbij een systeem van standpunten en verantwoordelijkheden op basis van kosteloze dienstverlening, ontwikkeling van collectief werk als daad van solidariteit en wederkerigheid en het festival, de riten en de ceremonies als uitdrukking van het gemeengoed.
+Deze strijd komt tot leven door dat wat antropologe Elena Nava al eerder aanhaalde als "inheemse analysetheorieën", waar inheemse denkers zoals Jaime Martinez Luna (Zapoteco) en Floriberto Díaz Gómez (Mixe) het leven in gemeenschap wilden proberen te begrijpen buiten de westerse academische definities.
+Deze denkers vroegen zich af: "Wat betekent het idee gemeenschap voor ons, als inheemse volkeren?"  Het resultaat was dat het werd gedefiniëerd als ruimte van gemeenschappelijk eigendom, gemeenschappelijke orale geschiedenis, gemeenschappelijke taal, de eigen organisatievorm en een gemeenschappelijk systeem voor het zoeken naar rechtvaardigheid.
+FIXME
+Zij zagen deze "Communaliteit" als een uitvloesel van zijn, leven en het emotionele, rekening houdend met de moeder aarde en het beoefenen van consensus in vergaderingen als hoogste besluitvormingsorgaan, waarbij een systeem van standpunten en verantwoordelijkheden op basis van kosteloze dienstverlening, ontwikkeling van collectief werk als daad van solidariteit en wederkerigheid en het festival, de riten en de ceremonies als uitdrukking van het gemeengoed.
 
 ## Communautaire radio's als gemeenschappelijke communicatiebedrijven
 
-In 2006 maakte Oaxaca een opstand door die ontploft werd door de onderdrukking van de onderwijswerknemersbeweging.
-Deze beweging gaf leven aan de Popular Vergadering van de volkeren van Oaxaca [^4] en een van haar belangrijkste Kenmerkend was de oprichting van verschillende gemeenschapsradiostations en de overname van staatscommunicatiemedia [^5].
-Sommige van deze werden later Gemeenschappelijke Communicatie Bedrijven [^6] met het oog op de versterking van de autonomie van de plaatsen en bijdragen tot de verwezenlijking van de inheemse bevolking de doelstellingen en levensopvattingen van mensen, in de vorm van zelfbeschikking.
+In 2006 kwam Oaxaca in opstand die uiteindelijk resulteerde in repressie van de onderwijswerknemersbeweging.
+Deze beweging leidde de gemeenschapsvergadering van de volkeren van Oaxaca [^4] en een van haar belangrijkste kenmerken was de oprichting van verschillende gemeenschapsradiostations en de overname van staatscommunicatiemedia [^5].
+Enkelen onder hen vormden zich later om tot Communale Communicatie Bedrijven [^6] met het oog op de versterking van de autonomie van de plaatsen en bijdragen tot de verwezenlijking van de inheemse bevolking de doelstellingen en levensopvattingen van mensen, in de vorm van zelfbeschikking.
 
 In 2012 waren er meer dan 30 gemeentelijke overheden en inheemse gemeenschappen een formeel verzoekschrift gericht aan de secretaris voor Communicatie en Vervoer (SCT) door haar Spaanse initialen) om toegang tot GSM-bandfrequenties terug te vorderen [^3].
 Dit verzoek werd echter afgewezen.
