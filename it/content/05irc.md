@@ -174,7 +174,7 @@ Zandbergen, Dorien. 2011. “New Edge: Technology and Spirituality in the San Fr
 
 [^4]: “Google è una macchina orientata al profitto e finanziata dalla pubblicitá che trasforma gli utenti e i loro dati in una merce.” (Fuchs 2012, 47)
 
-[^5]: Il software e l’azienda che portarono il file sharing peer-to-peer sotto i riflettori sono fallite dopo una molto pubblicizzata controversia sul copyright (1999-2002).
+[^5]: Il software e l’azienda che hanno portato la condivisione di file peer-to-peer sotto i riflettori sono fallite dopo una molto pubblicizzata controversia sul copyright (1999-2002).
 
 [^6]: Servizio gratuito di web hosting popolare (1994-2009) che permetteva agli utenti di caricare i propri siti web: “un importante sbocco per l’espressione personale sul Web per almeno 15 anni” secondo Internet Archive (2009).
 
