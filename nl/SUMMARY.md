@@ -1,15 +1,15 @@
-# Technologische soevereiniteit, deel 2
+# Technologische Soevereiniteit, deel 2
 
  * [Dankwoord](content/00dedication.md)
  * [Voorwoord: Technologische Sovereiniteit - Waar hebben we het over?](content/01preface.md)
- * [Introductie: Technologische Sovereiniteit - Learning to love machines again](content/02intro.md)
+ * [Inleiding: Technologische Sovereiniteit - Hoe kunnen we terug leren houden van machines?](content/02intro.md)
 
 ## Deel 1: De karakterisering van initiatieven van Technologische Sovereiniteit
 
  * [Code is political, algorithms are weapons of math destruction](content/03algos.md)
  * [Digital Governance: Er was eens...](content/04gamification.md)
- * [Technologische Soevereiniteit behouden: Het geval Internet Relay Chat](content/05irc.md)
- * [Hacklabs to technological cooperatives](content/06cooperatives.md) 
+ * [Het behoud van Technologische Soevereiniteit : Het geval Internet Relay Chat](content/05irc.md)
+ * [Van hacklabs tot tech-coöperatieven](content/06cooperatives.md) 
  * [From appropriate technologies to re-appropriated technologies](content/07rats.md)
 
 ## Deel 2: initiatieven van Technologische Sovereiniteit
