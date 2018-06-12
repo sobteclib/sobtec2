@@ -15,7 +15,8 @@
 > cultures across the world now share a common enemy.”* – Do or Die, Issue 8,
 > 1999
 
-> *“Our resistance is as transnational as capital”*<br/> – Slogan of the global day of action against capitalism, June 18, 1999
+> *“Our resistance is as transnational as capital”*
+> – Slogan of the global day of action against capitalism, June 18, 1999
 
 As the economy has become increasingly transnational, so too has resistance to
 its devastating social and ecological consequences.  International resistance
