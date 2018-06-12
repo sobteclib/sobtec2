@@ -1,54 +1,40 @@
-﻿
-# COATI: Gelijktijdige vertolking met gebruikmaking van radiofrequenties
+﻿# COATI: Synchrone vertolking met behulp van radiofrequenties
 
 ***Colectivo para la Autogestión de las Tecnologías de la Interpretación***
 
 ![](../../contrib/gfx/illustrations/coati-halfsize.png)
 
 > *"Internationale solidariteit en wereldwijd protest is niets nieuws. Van de
-Europese revoluties van 1848, door de omwentelingen van 1917-18 na de Russische Revolutie, naar de bliksemflitsen van verzet bijna overal in 1968, strijd heeft altijd in staat geweest om te communiceren en elkaar wereldwijd inspireren. Maar wat misschien uniek is voor onze tijd is de snelheid en gemak waarmee we kunnen communiceren tussen worstelingen en het feit dat de globalisering ertoe heeft geleid dat veel mensen in zeer uiteenlopende omstandigheden leven culturen over de hele wereld delen nu een gemeenschappelijke vijand"*
-- Doe of sterven, Issue 8, 1999
+> Europese revoluties van 1848, via de omwentelingen van 1917-18 na de
+> Russische Revolutie, tot de flitsen van verzet bijna overal in 1968, de
+> strijd is altijd in staat geweest om te communiceren en elkaar wereldwijd
+> inspireren. Maar wat misschien uniek is voor onze tijd is de snelheid en het
+> gemak waarmee we kunnen communiceren tussen onze strijd en het feit dat de
+> globalisering ertoe heeft geleid dat veel mensen die in zeer uiteenlopende
+> culturen leven over de hele wereld nu een gemeenschappelijke vijand delen"*
+> – Do or Die, Issue 8, 1999
 
 > *"Ons verzet is net zo transnationaal als het kapitaal"*
-- Slogan van de wereldwijde actiedag tegen het kapitalisme, 18 juni 1999
+> – Slogan van de wereldwijde actiedag tegen het kapitalisme, 18 juni 1999
 
-Naarmate de economie steeds meer transnationaal wordt, neemt ook het verzet tege de verwoestende sociale en ecologische gevolgen ervan.
-Internationale weerstand betekent samenkomen van verschillende worstelingen en culturen om elkaar te ontmoeten, te delen ideeën en ervaringen, en acties coördineren.
-Grensoverschrijdende culturen betekent op deze manier communiceren over taalbarrières heen, en taal is over macht.
+Naarmate de economie steeds meer transnationaal wordt, wordt ook het verzet
+tegen de verwoestende sociale en ecologische gevolgen ervan dat.
+Internationaal verzet betekent samenkomen van verschillende strijdbewegingen en culturen om elkaar te ontmoeten, ideeën en ervaringen te delen en acties te coördineren. Grenzen en culturen overschrijden betekent op deze manier ook het communiceren over taalbarrières heen, en taal gaat over macht.
 
-Veel internationale bijeenkomsten vinden plaats in het meer 'internationale' talen zoals Engels, Spaans, Russisch of Frans.
-Veel mensen spreken Deze talen, maar dat komt omdat ze een lange geschiedenis van imperialisme hebben: zij werden onder dwang en in veel gevallen op brute wijze opgelegd aan mensen uit vele landen verschillende culturen, die lokale talen verslinden en cultuur uitroeien diversiteit.
-Ze kunnen ons helpen te communiceren, maar zijn vaak niet van mensen.
-de eerste taal, en mensen die aan een vreemde taal deelnemen kunnen onzeker zijn als ze alles goed begrepen hebben, of als ze geen vertrouwen hebben zich goed uit te drukken.
-Gebeurtenissen worden vaak gedomineerd door mensen die voel je op je gemak met de meerderheidstaal.
-Dus, moedertaalsprekers van koloniale talen (met name Engels) hebben de geschiedenis gedomineerd en zij onze vergaderingen blijven domineren.
+Veel internationale bijeenkomsten worden in meer 'internationale' talen gehouden zoals Engels, Spaans, Russisch of Frans.
+Veel mensen spreken deze talen, maar dat komt omdat ze een lange geschiedenis van imperialisme hebben: zij werden onder dwang en in veel gevallen op brute wijze opgelegd aan mensen uit veel verschillende culturen, verslonden lokale talen en roeiden culturele diversiteit uit. Ze kunnen ons helpen te communiceren, maar zijn vaak niet de moedertaal van mensen. Mensen die in een vreemde taal deelnemen kunnen onzeker zijn of ze alles goed begrepen hebben of missen vertrouwen dat ze zich goed kunnen uitdrukken. Dus, moedertaalsprekers van imperialistische talen (voornamelijk Engels) hebben in het verleden gedomineerd en blijven onze bijeenkomsten overheersen.
 
-Als we ons inzetten voor diversiteit, participatie van het volk of consensus bij de besluitvorming moeten we het bewustzijn van deze machtsdynamiek en -processen vergroten van insluiting en uitsluiting.
-Vergroten van de gelijkheid van onze communicatie en het creëren van ruimte voor sprekers van andere talen is een belangrijk politiek thema vechten.
-Een waardevol instrument om dit aan te pakken is het bieden van vertolking.
-tussen talen zodat iedereen kan communiceren in een taal die zij zijn zich prettig voelen.
+Als we streven naar diversiteit, basisparticipatie of consensus bij besluitvorming moeten we het bewustzijn vergroten van deze machtsdynamiek en bijhorende processen van inclusie en uitsluiting. Het vergroten van de gelijkheid bij onze communicatie en het scheppen van ruimte voor sprekers van andere talen is een belangrijke politiek strijd. Eén waardevol instrument om dit aan te pakken is het aanbieden van vertolking tussen talen zodat iedereen kan communiceren in een taal waarbij mensen zich prettig voelen.
 
-Tolken tussen twee talen is een kunst die zo oud is als talen zichzelf en vereist geen technologie.
-Echter, voor het interpreteren als praktisch in grotere vergaderingen in meerdere talen moet het gelijktijdig zijn.
-Gelijktijdige meertalige tolken kunnen niet zonder technologie.
+Tolken tussen twee talen is een kunst die zo oud is als talen zelf en vereist geen technologie. Maar, om praktisch te zijn bij grotere meetings met meerdere talen, moet het simultaan zijn. Meerdere talen simultaan tolken kan niet zonder technologie.
 
 ## Een geschiedenis van alternatieve tolktechnologieën
 
-De eerste poging om technologie te gebruiken om dit soort tolken te vergemakkelijken lijkt bij de Neurenbergprocessen na de Tweede Wereldoorlog te zijn geweest, met behulp van een systeem gebaseerd op de telefoon [^1].
-Sindsdien is de technologie, meestal gebaseerd op het gebied van infraroodtransmissie, samen met internationale organisaties ontwikkeld zoals de VN en de EU.
-Het is nu zeer geavanceerd, maar extreem duur en buiten bereik van de meeste activistische ruimtes en sociale bewegingen.
-Zelfs als een gebeurtenis zich kan veroorloven om een aantal apparatuur te huren, de kosten worden al snel astronomisch als u wilt op elke schaal werken.
+De eerste poging om technologie te gebruiken om dit soort tolken mogelijk te maken was bij de Neurenbergprocessen na de Tweede Wereldoorlog, met behulp van een systeem gebaseerd op de telefoon [^1]. Sindsdien is de technologie, meestal gebaseerd op infraroodtransmissie, verder ontwikkeld bij internationale organisaties zoals de VN en de EU. Ondertussen is het zeer geavanceerde technologie, maar extreem duur en buiten bereik voor de meeste activistische vrijplaatsen en sociale bewegingen. Zelfs als een event het zich kan veroorloven om apparatuur te huren, lopen de kosten al snel torenhoog, zelfs op kleine schaal.
 
-De Europese en mondiale sociale forums (ESF en WSF) die plaatsvonden tussen 2001 en 2010 waren internationale evenementen op grote schaal, met tot 100.000 deelnemers en honderden parallelle vergaderingen per dag.
-Aanvankelijk, de vertolking was zeer beperkt, vanwege de kosten, maar sommige mensen snel zich bewust van het belang van talen voor het politieke proces.
-Babels, a netwerk van vrijwillige tolken, werd geboren.
+De Europese en mondiale sociale forums (ESF en WSF) die plaatsvonden tussen 2001 en 2010 waren internationale evenementen op grote schaal, met tot 100.000 deelnemers en honderden parallelle vergaderingen per dag. Aanvankelijk was vertolking zeer beperkt, vanwege de kosten, maar sommige mensen waren zich al snel bewust van het belang van taal in het politieke proces. Babels, een netwerk van vrijwillige tolken, was geboren.
 
-Tolken en tolken technologie werd onderdeel van het politieke proces.
-Tolken is het gemakkelijkst in grote plenaire vergaderingen, waar een paar mensen spreken en vooral gewoon luisteren.
-Participatief organiseren vereist werken in het klein groepen, waar meer mensen de mogelijkheid hebben om een bijdrage te leveren, maar dit de benodigde tolkdiensten vermenigvuldigt, zodat beslissingen over interpreteren heeft invloed op de werkdynamiek van een evenement.
-De prohibitieve kosten van commerciële technologie en tolken de beschikbare middelen beperken, en daar is niet zoiets als een zuiver technische keuze.
-Zelfs als er geld te betalen is voor de dienst is het eenmalig: je geeft het aan een commercieel bedrijf en het is weg.
-Het alternatief is "Doe het zelf", investeren in mensen en uitrusting en aldus vergroting van de capaciteit en de autonomie van de bewegingen.
+Tolken en tolktechnologie werden onderdeel van het politieke proces. Tolken is het gemakkelijkst in grote plenaire vergaderingen, waar maar een paar mensen spreken en de meesten vooral luisteren. Bij participatief organiseren moet er in kleine groepen gewerkt worden, zodat meer mensen de kans hebben om input te leveren, maar dit verveelvoudigt het aantal vereiste tolken. Daarom hebben beslissingen over tolken een directe invloed op de dynamiek een evenement. De buitensporige kosten van commerciële technologie en tolken beperken de beschikbare hulpmiddelen en er is niet zoiets als een zuiver technische keuze. Zelfs als er budget voor zulke diensten is, is het eenmalig: je geeft het aan een commercieel bedrijf en het is weg. Het alternatief is "Do it Yourself", investeren in mensen en materieel en op die manier de mogelijkheden en de autonomie van de sociale bewegingen vergroten.
 
 In het kader van het ESF 2003 in Parijs hebben meer dan 1000 vrijwilligers deelgenomen aan het vertolking, en elke plenaire vergadering en workshop vond plaats in verschillende talen.
 De gebruikte technologie was echter commercieel en de kosten waren astronomisch.
