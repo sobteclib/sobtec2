@@ -1,4 +1,4 @@
-# Technologische soevereiniteit: Machines weer leren liefhebben
+# Technologische soevereiniteit: Hoe kunnen we terug leren houden van machines?
 
 ***Alex Haché***
 
