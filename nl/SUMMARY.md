@@ -10,11 +10,12 @@
  * [Digital Governance: Er was eens...](content/04gamification.md)
  * [Het behoud van Technologische Soevereiniteit : Het geval Internet Relay Chat](content/05irc.md)
  * [Van hacklabs tot tech-coöperatieven](content/06cooperatives.md) 
- * [From appropriate technologies to re-appropriated technologies](content/07rats.md)
+ * [Van geschikte technologieën tot toegeëigende technologieën](content/07rats.md)
+
 
 ## Deel 2: initiatieven van Technologische Sovereiniteit
 
- * [A seed sprouts when it is sown in fertile soil](content/08rizomatica.md)
+ * [Een zaadje ontspruit wanneer het op vruchtbare grond wordt gezaaid](content/08rizomatica.md)
  * [COATI: Simultaneous interpreting using radio frequencies](content/09coati.md)
  * [Klokkenluiden: Een tweesnijdend zwaard](content/10leaks.md)
  * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/11leap.md)
