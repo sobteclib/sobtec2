@@ -4,7 +4,7 @@
 
 ![](../../contrib/gfx/illustrations/rhyzomatica-halfsize.png)
 
-This is the story of the autonomous and community cell phone network of the
+				This is the story of the autonomous and community cell phone network of the
 native peoples of Oaxaca, a techno-seed that inhabits a communal ecosystem; an
 ethical-political bridge between the hacker community of the free-software
 movement and the communities of indigenous peoples in Oaxaca, in the
