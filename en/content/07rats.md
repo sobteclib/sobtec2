@@ -259,7 +259,7 @@ In **water**, the Hippo Water Roller [^18], enables more water to be carried
 with less effort.  The Rain Water Harvester requires an appropriate storage
 method, particularly in dry areas, and the Cloud Collector is excellent for
 areas where rain is scarce.  In Water Treatment, high standards must be
-applied when water must be purified before use.  Ground water could be could
+applied when water must be purified before use.  Ground water could
 be clean enough, depending on the depth and the distance from sources of
 contamination such as latrines; rain water can be clean if the area where it
 falls is free of waste.  Nevertheless, it is advisable to treat it to remove
