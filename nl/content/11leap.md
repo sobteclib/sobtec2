@@ -7,25 +7,14 @@
 
 ![](../../bijdrage/gfx/illustraties/leap-halfsize.png)
 
-Versleuteling is de toepassing van wiskunde om ervoor te zorgen dat onze informatie is
-Alleen* toegankelijk voor de personen of machines met wie we besluiten het te delen.
-Versleuteling heeft een lange geschiedenis.  Protocollen voor het verzenden van versleutelde informatie
-zonder vooraf met de andere partij een geheim te hebben afgesproken (voor
-ontcijferen van versleutelde gegevens) bestaat al ongeveer 35 jaar.  De
-landmark Pretty Good Privacy-programma, vaak afgekort als PGP, sterk gemaakt
-encryptie van e-mail met garanties voor vertrouwelijkheid, authenticatie en
-integriteit op grote schaal beschikbaar voor gebruikers en ontwikkelaars in 1991 [^0].
+Encryptie is de toepassing van wiskunde om te verzekeren dat onze informatie enkel* toegankelijk is voor de personen of machines met wie we besluiten het te delen. Encryptie heeft een lange geschiedenis. Protocollen voor het verzenden van geëncrypteerde informatie, zonder eerst een sleutel overeen te komen om de data te decrypteren, bestaat al ongeveer 35 jaar. Het mijlpaal-programma Pretty Good Privacy, vaak afgekort als PGP, maakte sterke encryptie van e-mail met garanties voor vertrouwelijkheid, authenticatie en integriteit op grote schaal beschikbaar voor gebruikers en ontwikkelaars in 1991 [^0].
 
 De relatieve populariteit van PGP en de daaropvolgende standaardisatie is vaak
 afgeschilderd als een overwinning voor de cypherpunks (cryptografie activisten) tijdens de
-Eerste Crypto oorlogen [^1].  Dus, wat zijn de kwesties die nog steeds voorkomen dat de
-Aanvaarding van e-mailversleuteling door de kritische en grote massa?  Waarom kon niet
-Greenwald, de gerespecteerde journalist, versleutelde een e-mail wanneer er contact met hem werd opgenomen door
-zijn bron Snowden, de analist die voor de NSA werkt [^2]?
+Eerste Crypto oorlogen [^1].  Dus, wat zijn de problemen die voorkomen dat e-mailversleuteling nog steeds niet door de kritische en grote massa wordt aanvaard?  Waarom kon Greenwald, de gerespecteerde journalist, een e-mail niet versleutelen wanneer er contact met hem werd opgenomen door zijn bron Snowden, de analist die voor de NSA werkte [^2]?
 
 Om dat te beantwoorden, moeten we eerst kijken naar de architectuur van internet
-diensten, dan de economie van het toezicht, en ten slotte een aantal historische
-bruikbaarheidsgebreken.
+diensten, dan de economie van de surveillance, en ten slotte een aantal historische gebreken in de bruikbaarheid.
 
 ## E-mail in tijden van surveillance kapitalisme
 
@@ -33,119 +22,65 @@ E-mail is een open, gefedereerd protocol dat is gerecentraliseerd door grote
 dienstverleners.  Deze ondernemingen maken gebruik van schaalvoordelen die leiden tot
 de commoditisatie van e-mail.  Negatieve externaliteiten van de commoditisering
 van e-mail omvatten de wapenwedloop die evolueerde om de spamindustrie te verhinderen van
-het verzenden van een grote hoeveelheid ongevraagde en vaak frauduleuze e-mail naar gebruikers.
+het verzenden van een grote hoeveelheid ongevraagde en vaak frauduleuze e-mails naar gebruikers.
 
-In de begindagen van het internet kon iedereen een e-mailprovider runnen.  De
-De afgelopen tien jaar is het aantal e-mail echter drastisch gedaald.
-leveranciers.  Niet alleen weinig individuen en collectieven hebben hun eigen e-mail
-servers, maar steeds minder mensen weten dat dit zelfs mogelijk is.
-E-mail is een ander voorbeeld geworden van technologie die "gewoon geacht wordt te zijn
-daar".  De boodschap lijkt te zijn dat vitale infrastructuur niet iets is.
-dat je voor de lol rennen.  Iets vergelijkbaars gebeurt met Instant Messaging
+In de begindagen van het internet kon iedereen een e-mailprovider runnen.  De afgelopen tien jaar is het aantal e-mailproviders echter drastisch gedaald. Niet alleen zijn er weinig individuen en collectieven die hun eigen e-mail servers hebben, maar steeds minder mensen weten dat dit zelfs mogelijk is. E-mail is een ander voorbeeld geworden van technologie die geacht wordt "er gewoon te zijn". De boodschap lijkt te zijn dat vitale infrastructuur niet iets is dat je voor de lol beheert.  Iets vergelijkbaars gebeurt met Instant Messaging
 [^3].
 
-De strijd om open, gefedereerde architecturen verliezen betekent ook de controle verliezen
-over de communicatie-infrastructuren die we gebruiken.  De toename van monopolistisch
-praktijken leiden tot een gebrek aan interoperabiliteit tussen aanbieders dat een
-toegangsbelemmering voor nieuwe e-mailproviders.
+De strijd verliezen voor open, gefedereerde architecturen, betekent ook de controle verliezen
+over de communicatie-infrastructuren die we gebruiken. De toename van monopolistische
+praktijken leidt tot een gebrek aan interoperabiliteit tussen aanbieders, zodat de toegang wordt belemmert voor nieuwe e-mailproviders.
 
 Monocultuur is een noodzaak voor gecentraliseerde controle: het betekent dat een
-tegenstander heeft alleen de medewerking van een enkele speler nodig om de
-particuliere communicatie van miljoenen.  E-mail gaat niet alleen over berichten: vandaag
-het is een van de laatste technologische verdedigingslinies op het internet voor
-privacybewuste en gelokaliseerde alternatieven voor Identiteitsbepaling.  Legitiem
-aanbieders van e-maildiensten kunnen er nog steeds voor kiezen om hun gebruikers anonimiteit of
-pseudonimiteit, weigeren hun gegevens op te sporen of te verkopen, enz.
+tegenstander enkel de medewerking nodig heeft van een enkele speler om de privé communicatie van miljoenen te compromitteren.  E-mail gaat niet alleen over berichten: vandaag is het een van de laatste technologische verdedigingslinies op het internet voor
+privacybewuste en gelokaliseerde alternatieven voor Identiteitsbepaling.  Legitieme
+aanbieders van e-maildiensten kunnen er nog steeds voor kiezen om anonimiteit of pseudonimiteit toe te staan bij de gebruikers, het opsporen of verkopen van gegevens te weigeren, enz.
 
-We zien steeds vaker hoe mobiele apparaten in plaats van e-mailaccounts zijn
-die nodig zijn voor de opstartcommunicatie met uw contacten.  De telefoon heeft
-in veel landen de toegangspoort worden tot de ommuurde tuinen van Facebook [^4].  De
-advocaat en privacybeschermer Lawrence Lessig waarschuwde dat de Big Regulatory
-De lus is aan het sluiten tussen de industrie en de staat [^5], een grote prestatie voor degenen die
-"vermoeide reuzen van vlees en staal" die we niet gewend waren te vrezen.
+We zien steeds vaker hoe mobiele apparaten in plaats van e-mailaccounts nodig zijn om de communicatie met uw contacten op te starten.  De telefoon is in veel landen de toegangspoort geworden tot de ommuurde tuinen van Facebook [^4].  De
+advocaat en privacybeschermer Lawrence Lessig waarschuwde dat de Big Regulatory Loop tussen de industrie en de staat aan het sluiten is [^5], een grote prestatie voor die "vermoeide reuzen van vlees en staal" die we niet gewend waren te vrezen.
 
-Overheden en bedrijven wedijveren naar de inzet van alomtegenwoordige
-toezicht.  Wanneer grote mogendheden zoveel moeite investeren in het eroderen van de
-de fundamentele rechten van individuen en gemeenschappen om te beslissen over de reikwijdte van
-hun communicatie, bouw en gebruik van privacy-instrumenten moreel wordt
-van groot belang.  Het recht om te fluisteren is een onherroepelijk en fundamenteel recht dat
-met geweld wordt afgenomen.  De criminalisering en verdwijning ervan heeft een
-een diepgaande invloed op ons vermogen om onze mensenrechten uit te oefenen en de democratie vorm te geven
-samenlevingen.
+Overheden en bedrijven wedijveren voor de inzet van alomtegenwoordige toezicht. Wanneer grote mogendheden zoveel moeite investeren in het eroderen van de fundamentele rechten van individuen en gemeenschappen om te beslissen over de reikwijdte van
+hun communicatie, wordt de bouw en het gebruik van privacy-instrumenten moreel van groot belang. Het recht om te fluisteren is een onherroepelijk en fundamenteel recht dat met geweld wordt afgenomen.  De criminalisering en verdwijning ervan heeft een
+een diepgaande invloed op ons vermogen om onze mensenrechten uit te oefenen en de democratische samenleving vorm te geven.
 
 ## We slaagden er niet in om mensen in staat te stellen te versleutelen
 
 Strategisch gezien kan e-mail tegenwoordig een vreemde keuze lijken, in een steeds veranderende wereld.
 technologisch landschap dat meer en meer naar mobiele toepassingen leunt,
 en waar de meeste gebruikers hun eerste ervaring al op het internet hadden
-gemedieerd door de Grote Silo's.  E-mail wordt vaak bekritiseerd als verouderd
-technologie, omdat de architectuur het moeilijk maakt om berichten te versleutelen in een
-manier waarop dat verbergt wie aan wie schrijft over wat.
+gemedieerd door de Grote Silo's.  E-mail wordt vaak bekritiseerd als verouderde
+technologie, omdat de architectuur het moeilijk maakt om berichten te versleutelen op een
+manier die verbergt wie aan wie schrijft over wat.
 
 Zelfs als interessantere en aanvalsbestendige technologieën verschijnen in de
-toekomstige [^6], zal e-mail blijven rond op zijn minst voor een tijdje.  E-mail is de
-asynchroon medium dat we hebben en dat beschermd moet worden.  Miljoenen
-e-mails worden nog steeds dagelijks verzonden zonder versleuteling, en e-mails met ongecontroleerde
-Senders worden nog steeds gebruikt voor verwoestende phishing of ransomware-aanvallen.
+toekomst [^6], zal e-mail op zijn minst nog voor een tijdje blijven.  E-mail is het asynchrone medium dat we hebben en dat beschermd moet worden.  Miljoenen e-mails worden nog steeds dagelijks verzonden zonder versleuteling, en e-mails met ongecontroleerde afzenders worden nog steeds gebruikt voor verwoestende phishing of ransomware-aanvallen.
 
-Het is moeilijk te beoordelen of het slechts een fundamenteel bruikbaarheidsprobleem is dat
-waar we mee te maken hebben, of als we juist te maken hebben met een algemeen verlies van
-interesse in: 1. e-mail als hulpmiddel; 2. privacy en veiligheid op het internet
-3. een combinatie van beide.
+Het is moeilijk te beoordelen of het slechts een fundamenteel bruikbaarheidsprobleem is waar we mee te maken hebben, of dat we juist te maken hebben met een algemeen verlies van interesse in: 1. e-mail als hulpmiddel; 2. privacy en veiligheid op het internet; of 3. een combinatie van beide.
 
 Opslag op commercieel niveau is goedkoop, en aanbieders die afhankelijk zijn van de exploitatie
-van silo gegevens en metadata kan het zich veroorloven om het weg te geven "gratis".  Het is duidelijk
-dat deze aanbieders geen echte prikkel tot versleuteling hebben, omdat het
-zou hun inkomstenstromen ondermijnen.  Zelfs providers die versleuteling ondersteunen
-profiteren van de verkeersanalyse.
+van silo gegevens en metadata kunnen het zich veroorloven om het "gratis" weg te geven.  Het is duidelijk
+dat deze aanbieders geen echte aansporing tot versleuteling hebben, omdat het hun inkomstenstromen zou ondermijnen. Zelfs providers die versleuteling ondersteunen profiteren van de verkeersanalyse.
 
-Aangetoond is dat gebruikers bereid zijn extra kosten te betalen voor diensten of
-apps die hun privacy [^7] respecteren, maar toch privacybewuste e-mailproviders hebben
-te concurreren met de grote marktspelers die schaalvoordelen benutten om
-bieden een basislijn van de 15 GB "gratis" opslag, hoge normen van betrouwbaarheid,
-snelheid enz.  Met andere woorden, er zijn veel kritische gebruikers die zouden kunnen
-bij te dragen aan de kosten van privacybewuste e-mailproviders, maar bruikbaarheid en
-de operationele kosten maken het zeer moeilijk om te concurreren met de
-gevestigde monopolies.
+Er wordt aangetoond dat gebruikers bereid zijn om extra kosten te betalen voor diensten of apps die hun privacy [^7] respecteren, maar privacybewuste e-mailproviders moeten concurreren met de grote marktspelers die schaalvoordelen benutten om een grondlijn van 15 GB "gratis" opslag aan te bieden, hoge normen van betrouwbaarheid, snelheid enz. Met andere woorden, er zijn veel kritische gebruikers die zouden kunnen bijdragen aan de kosten van privacybewuste e-mailproviders, maar bruikbaarheid en de operationele kosten maken het zeer moeilijk om te concurreren met de gevestigde monopolies.
 
-In die zin moet elke serieuze poging om alternatieven aan te reiken, gericht zijn op
-duurzaamheid van technopolitieke projecten zoals privacybewuste e-mail
-leveranciers.
+In die zin moet elke serieuze poging om alternatieven aan te reiken, gericht zijn op duurzaamheid van technopolitieke projecten zoals privacybewuste e-mail leveranciers.
 
 ## Het is ook een probleem met gereedschap voor nerds
 
-De 'scratch your jech'-houding van de Vrije Softwaregemeenschap is gewoon niet
-nog meer knippen voor massale adoptie.  Zelfbeheersing en kwaliteit zijn de sleutel tot
-een duurzame gemeenschap in stand houden rond aangenaam, bruikbaar en effectief
+De 'scratch your itch'-houding van de Vrije Softwaregemeenschap is niet meer genoeg voor massale adoptie.  Zelfdiscipline en kwaliteit zijn de sleutel om een duurzame gemeenschap in stand houden rond aangename, bruikbare en effectieve
 software.
 
-Gezien de kolossale omvang van de middelen die het kapitaal heeft geïnvesteerd in de
-cybernetische controle van de massa's, huidige verwachtingen van de gebruiker over bruikbaarheid
-hoog zijn.  Interactie met digitale tools vereist slechts een zeer klein
-hoeveelheid cognitieve inspanning.  Nieuwe technologieën die te veel conventies trotseren
-(Visuele taal en beste praktijken zoals gemeenschappelijke metaforen, vastgesteld)
-interfaces, kenmerken zoals synchronisatie van meerdere apparaten, eerste ontwerp van een mobiele telefoon, enz.
-belemmeringen op te werpen tegen de goedkeuring ervan.  De eeuwige vraag van gebruikers aan
-ontwikkelaars van bekende "muur"- of "soortgelijke" functies in nieuwe technologieën
-toont aan dat arbitraire tekenen genormaliseerd zijn.
+Gezien de kolossale omvang van de middelen die het Kapitaal heeft geïnvesteerd in de
+cybernetische controle van de massa's, zijn de huidige verwachtingen van de gebruiker over bruikbaarheid
+hoog.  Interactie met digitale tools mogen slechts een zeer kleine hoeveelheid cognitieve inspanning vragen. Nieuwe technologieën die te veel conventies trotseren (visuele taal en 'best practices' zoals gemeenschappelijke metaforen, gevestigde interfaces, features zoals de synchronisatie van meerdere apparaten, mobile first design, etc.) zetten barrières op tegen de adoptatie ervan. De eeuwige vraag van gebruikers aan ontwikkelaars voor de bekende "wall"- of "like" functies in nieuwe technologieën toont aan dat de arbitraire tekenen genormaliseerd zijn.
 
-Dit neemt niet weg dat een simplistische aanpak ten koste van een onherroepelijke verhulling van de complexiteit
-van de gebruiker is niet de enige beschikbare optie - en het werkt vaak averechts.  Een
-zou kunnen dromen van een interface die alledaagse taken eenvoudig maakt, maar gebruikers in staat stelt
-verdere mogelijkheden te verkennen naarmate zij meer te weten komen.
+Niettemin, oversimplificatie, om de complexiteit onherroepelijk voor de gebruiker te verhullen, is niet de enige beschikbare optie - en het werkt vaak averechts. Men zou kunnen dromen van een interface die alledaagse taken eenvoudig maakt, maar gebruikers in staat stelt verdere mogelijkheden te verkennen naarmate zij meer te weten komen.
 
-Nerd-gedreven ontwikkeling verschuift ook de focus wanneer een nieuwe glanzende technologie
+Nerd-gedreven ontwikkeling verschuift ook de focus wanneer een nieuwe blinkende technologie
 tevoorschijn komt.  Dat zou deels kunnen verklaren waarom sommige technologiestapels gewoon wegkwijnen
-en rotten.  We moeten excellentie cultiveren, zelfs in stukken technologie die
-niet de opwinding geassocieerd met nieuwe ontwikkelingen.  Als we crypto willen
-om buiten het techie getto halfbakken en onbeheerde gereedschappen te verspreiden die
-onbruikbaar zijn, moet worden opgegeven.  Arrogantie over wat gebruikers moeten weten of
-doen voordat het vervullen van de meest fundamentele taak moet worden gehouden onder controle.
+en rotten.  We moeten excellentie cultiveren, zelfs in stukken technologie die niet zo opwindend zijn als waarmee we nieuwe ontwikkelingen associëren. Als we willen dat crypto ook buiten de tech getto wordt verspreid, moeten halfbakken en onbeheerde tools die onbruikbaar zijn worden opgegeven. Arrogantie over wat gebruikers moeten weten of doen voordat de meest fundamentele taak wordt bereikt, moet onder controle worden gehouden.
 
-Een voorbeeld van gebroken technologie is het Web of Trust systeem dat wordt gebruikt voor het identificeren van de
-sleutels die aan een bepaald e-mailadres zijn gekoppeld.  Didactische pogingen om haar te verklaren
-de noodzaak van veilige versleutelingspraktijken in de loop der jaren is gefaald, misschien
-omdat het was gebaseerd op gebroken veronderstellingen vanaf het begin [^8].
+Een voorbeeld van gebroken technologie is het Web of Trust systeem dat wordt gebruikt om sleutels te identificeren die aan een bepaald e-mailadres zijn gekoppeld.  Didactische pogingen om te verklaren dat ze de noodzaak voor veilige versleutelingspraktijken zijn, zijn in de loop der jaren gefaald, misschien omdat het sinds het begin al gebaseerd was op gebroken veronderstellingen [^8].
 
 ## Op zoek naar mogelijke oplossingen
 
