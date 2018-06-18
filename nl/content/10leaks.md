@@ -1,8 +1,6 @@
-10leaks.html (vanaf titel t.e.m. referenties):
-    
-#Klokkenluiden
+# Klokkenluiden
 
-##Een tweesnijdend zwaard
+## Een tweesnijdend zwaard
 
 ![](../../contrib/gfx/illustrations/whistleblowing-halfsize.png)
 
@@ -19,8 +17,9 @@ Een dergelijke maatschappij zou de macht van de huidige gevestigde instituties j
 Transparantie voor De Staat (of voor &#x201C;wie genoeg macht heeft om onze realiteit vorm te geven&#x201D;) en privacy voor de rest van ons? Dit zou kunnen werken als een aardige vereenvoudiging, maar dan moeten we deze scheiding in al onze politieke acties respecteren en nooit of te nimmer private informatie van medeburgers blootleggen.
                                     
 Ik werkte bij het globaleaks.org team aan de creatie van hun software platform. Onze droom was om een &#x201C;mobiele wikileaks&#x201D; te creëren die op elke stad, media en publieke onderneming losgelaten zou worden. Witteboordencriminaliteit en ander zakelijk wangedrag kunnen ten slotte niet gedetecteerd worden, noch begrepen zonder een insider. Mijn ervaring komt voort uit het inzetten ervan in verschillende groepen met verschillende behoeften. Vertrekkend vanuit het onderstaande verzonnen verhaal, zullen we zien hoe digitale klokkenluiding jouw politieke acties kan versterken en waar je rekening mee moet houden voor het plannen van een lekinitiatief.
-                                    
-##Er was eens ...
+
+## Er was eens ...
+
 Er was eens een rivier die zwaar verontreinigd werd. In de omgeving is een faciliteit werkzaam en het is duidelijk dat zij chemisch afval dumpen. Er zijn regels, periodieke controles, regelgevingen – maar aan het eind van de rit worden flora en fauna vergiftigd. Iemand vanbinnenuit moet er meer over weten, maar kent niemand die er werkt.
 
 Jouw team ontwerpt een campagne en verzoekt om bronnen, maar er ontstaat kritiek omdat jouw Wordpress blog om de lekken te ontvangen niet erg veilig is. Daarom heb je een gepast platform opgericht (SecureDrop of GlobaLeaks [^5]) dat de anonimiteit van de bron kan garanderen en de uitgewisselde informatie kan encrypteren. Zelfs een inbeslagname van de server kan de veiligheid van de bronnen, noch jouw actieve onderzoek compromitteren. Dit is een 'privacy by design' opstelling. Maar, ondanks de platformkeuze weet je dat jouw initiatief een gevestigde macht doet schudden en je vreest voor vergelding. Je ontwikkelt verzachtende omstandigheden, gebaseerd op verdeelde verantwoordelijkheden onder een grotere groep, bestaande uit milieurecht advocaten, lokale journalisten en een of andere buitenlandse analist die de lekken ook ontvangt. Op deze manier, als iemand wordt tegengehouden, blijft het initiatief draaien. Echter, ondanks al deze beveiligingsmaatregelen hebben jullie na twee maanden nog geen enkel lek ontvangen.
@@ -31,7 +30,7 @@ Dit is nog maar het begin en wanneer het eerste artikel is gepubliceerd, weet je
 
 Dit voorbeeld kan in verschillende contexten plaatsvinden waarin misbruik gebeurt. Maar laten we eerst kijken of al deze uitkomsten van lekken positief en correctief zijn, of dat ze zelf ook schade kunnen toebrengen?
 
-##Praktische stappen
+## Praktische stappen
 
 Stel, je hebt het geluk een anoniem document te ontvangen waarin beschreven staat hoe een lobbyist plant om invloed uit te oefenen op een nieuwe beleid rond milieubehoud. De eerste drang zou kunnen zijn om het meteen te publiceren. Laat burgers hun eigen mening ontwikkelen en controleren of de informatie in het document overeenstemt met hun eigen kennis. Sommige lezers zouden het ermee eens kunnen zijn, het ontkennen of nieuwe informatie integreren in de originele bron.
 
@@ -43,10 +42,9 @@ Vertrouwen is de sleutel omdat een lek misschien niet tot verandering leidt. Het
 
 Lekken zijn informatie die je misschien als betrouwbare tools voor transparantie gebruikt. Ze kunnen ook legitieme onderzoeks tools zijn voor de burgermaatschappij. Resultaten kunnen leiden tot wetenschappelijke of politieke processen. Verandering is niet iets dat door technologie geïmplementeerd kan worden. Bovenop de technisch gedefinieerde eigenschappen, moet je je politieke en ethische waarden implementeren.
 
+## Processen van campagnes die aangedreven worden door het klokkenluiden
 
-##Processen van campagnes die aangedreven worden door het klokkenluiden
 De beste validatiemethode die we tot nu toe gezien hebben is onafhankelijk onderzoek. Als het onderzoek nog tot niets heeft geleid, dan moet het lek als niet bevestigd worden beschouwd. Je zal wellicht ook interactie met de bron moeten hebben om beginsporen te krijgen. Gelukkig zijn er platformen die bronnen op de hoogte houden om hun bijdrage te bevestigen, om updates te verzoeken of vragen te beantwoorden die tijdens het onderzoek naar voren komen. Aan de ene kant kan je meer details vragen, aan de andere kant moet je nog steeds de bewijzen evalueren, omdat je niet enkel maar op de bron kan vertrouwen. Lekken publiceren zonder de agenda en de motivaties van de bron te begrijpen kan betekenen dat je erdoor geïnstrumentaliseerd wordt. Hou in het achterhoofd dat lekken in het verleden vaak gebruikt werd om lastercampagnes te bewerkstelligen.
-
 
 Betrouwbare partners hebben onder de ontvangers helpt het initiatief ook enorm. Het zorgt ervoor dat de revisie, bronnenmanagement en reikwijdte niet alleen door een groep gedaan moeten worden, maar gedeeld worden onder partners met lokale advocaten, journalisten, beleidsmakers en onderzoekers. Jouw groep moet dan onderzochte en gevalideerde lekken naar verhalen transformeren. Gepassioneerde en begrijpelijke verhalen die mensen engageren en de massa mobiliseren. Denk aan het proces dat op de Edward Snowden lekken wordt toegepast, waar nu gedurende drie jaar constante journalistieke revisies en graduele publicaties uit voort komen.
 
@@ -54,8 +52,7 @@ Een sleutelfactor voor een succesvolle campagne is om gefocust te blijven op een
 
 Het is nuttig om zo veel mogelijk te meten wat er gebeurt. Hou het evenement bij en monitor de aanwezigheid van sociale media om te begrijpen hoe de campagne kan verbeterd worden; gebaseerd op de voorgaande resultaten. Door deze metingen te delen, help je andere soortgelijke initiatieven. Wees niet bang van jouw vijand en blijf open data bouwen over hoe jouw organisatie werkt. Schrijf de mensen niet aan, maar de nummers. Concentreer je op de resultaten, behaalde doelen en statistieken.
 
-
-##Gevaarlijke wegen waar je voorzichtig moet zijn
+## Gevaarlijke wegen waar je voorzichtig moet zijn
 
 Een initiatief heeft een tijdsvenster waarin het bestaat, het moet definiëren welk doel het wil bereiken, welke de volgende mijlpaal is en hoe het tot dusver verloopt. Niet onderhouden initiatieven kunnen toekomstige potentiële bronnen vewarren. Als je activiteit stopt, maak dat dan zeer duidelijk omdat niets zo oppervlakkig en zorgwekkend is dan een klokkenluidersinitiatief dat tips accepteert, maar er niet in slaagt om ze te publiceren.
 
@@ -75,6 +72,7 @@ Concluderend, geloof ik dat klokkenluiden zich kan richten op en goed gebruik ma
 Over de hele wereld zijn interessante experimenten door gemeenschappen gecreëerd. Sinds 2012, houdt het GlobaLeaks team een lijst bij [^8], maar enkele van de meest opvallende zijn de bijdragen verzameld door WildLeaks, een platform tegen dierenstroperij [^9] en de Italiaanse Investigative Reporting Project Italy die bewijzen verzamelt van openbare functionarissen die hun Couch-surfende gasten verkrachten [^10]. Ik haal dit aan omdat er gewoon zo veel corruptiezaken zijn. Het Spaanse X-Net [^11] is erin geslaagd om de complexiteit van bankroete bankiers en de staat te bewijzen en maakten er een theaterstuk van. PubLeaks, met de participatie van de grootste Nederlandse media, maakte een boek met alle onthullingen die ze in de laatste vier jaar hebben ontvangen, en MexicoLeaks [^12}, was blijkbaar zo beangstigend dat journalisten al ontslagen werden, nog voordat de lekken begonnen te stromen. En nu is het aan jou. Wat is de doos van Pandora die jij wil openen?
 
 ## Referenties
+
 [^1]: The most inspiring whistleblower of the last years perhaps? https://en.wikipedia.org/wiki/Chelsea_Manning
 
 [^2]: https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
