@@ -1,7 +1,9 @@
 # Technologische Souvereiniteit, Vol. 2
 
-We hebben dringen nood aan andere technologiëen, betere dan waar we momenteel over beschikken en "Informatie en Communicatie technologie" wordt genoemd. Dit boek behandeld de psychologishe, sociale, politieke, ecologische en economische kost daarvan en relateert tegelijkertijd met de ervaring die restulteert door te streven naar Technologische Souvereiniteit.
-De auteurs brengen laten ons andere manieren zien van verlangen, ontwerp, produceren en onderhoud van technologische ervaringen en initiatieven ter ontwikkeling van vrijheid, autonomie en sociale rechtvaardigheid en bieden tegelijkertijd een inkijk in de creatie van een autonoom GSM-netwerk, simultaanvertaling netwerken, whistleblower platformen, beveilgingsgereedschappen, souvereine algoritmen, ethische server en geschiktere technologiën en nog veel meer. 
+We hebben dringend nood aan andere technologiëen, betere dan waar we momenteel over beschikken en onder de naam "Informatie en Communicatie technologie" bekend zijn.
+Dit boek bericht over de psychologische, sociale, politieke, ecologische en economische gevolgen van de huidige situatie en verhaalt tegelijkertijd over de ervaringen die zijn opgedaan door te streven naar Technologische Souvereiniteit.
+De auteurs laten ons andere zien waar het verlangen naar het ontwerpen, produceren en onderhouden van sovereine technologiëen toe leid.
+Denk hierbij aan ervaringen en initiatieven ter bevordering van vrijheid, autonomie en sociale rechtvaardigheid, die tegelijkertijd berichten over de creatie van een autonoom GSM-netwerk, netwerken van simultaanvertalers, whistleblower platformen, beveilgingsgereedschappen, souvereine algoritmen, ethische servers, geschiktere technologiën en nog veel meer. 
 De teksten zijn geschreven door Alex Haché, Benjamin Cadon, COATI, Carolina, Kali Kaneko, Loreto Bravo, Maxigas en Margarita Padilla.
 
 ## Uitgaven
