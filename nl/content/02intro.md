@@ -1,212 +1,368 @@
-# Technologische soevereiniteit: Hoe kunnen we terug leren houden van machines?
+Technologische soevereiniteit om de machines weer lief te hebben
 
 ***Alex Haché***
 
 ![](../../contrib/gfx/illustrations/intro-halfsize.png)
 
-> De grote fluwelen bal voldoet aan de behoeften van een buurt of gemeenschap:
-> Het is roze en erg leuk, maar het heeft geen genade. De mensen denken dat de bal
-> ziet het kwaad niet, en dat zij veilig zullen zijn, maar het weet heel goed. Het
-> Uitgevonden. De bal rolt tijdens het rollen. Het heeft het uitgevonden. [^1]
+> De grote fluwelen bal beantwoordt aan de behoeften van een buurt of
+> een gemeenschap: ze is roze en komt zeer aardig over, maar ze is genadeloos. 
+> De mensen denken dat de bal de slechten niet zal herkennen en dat ze gered 
+> zullen worden, maar ze weten zelf heel goed dat het een verzinsel is.
+> De bal rolt voort met donderend geraas. Ze hebben haar zelf uitgevonden. [^1]
 
-Science fiction verhalen bouwen mogelijke futures, *multiverses*, en over het algemeen bouwen ze voort op wat (nog) niet is gebeurd.
-Telkens een "activist stelt zich de wereld voor waarvoor ze vechten: een wereld zonder geweld, zonder kapitalisme, zonder racisme, zonder seksisme, zonder gevangenissen, enz. het ontwikkelen van een speculatieve fictie" [^2].
-Narratives die ons verenigen in onze kringen van affiniteiten en weerstand.
-Narratives die ons in staat stellen om aan te vallen "de machine" [^3] en start er een uittocht in.
-Onze capaciteit gebruiken om speculeren over nieuwe, utopische werelden is een voorstel om samen opnieuw na te denken *Evil_elektronica, kwaad_internet, kwaad_mobiel 'telefoons, kwaad_satellieten*.
+*Science fiction*-verhalen spelen met dat wat zou kunnen zijn in de toekomst, 
+ze vullen verschillende *multiversa* en het gaat meestal over dat wat (nog) niet is.
+Telkens wanneer een "activist zich de wereld verbeeldt waarvoor hij strijd: 
+een wereld zonder geweld, kapitalisme, racisme, seksisme, gevangenissen, enz. 
+ontstaat er speculatieve vorm van fictie"[^2].
+Verhalen die ons in ons eigen leven sterken in kringen van gelijkgestemden en verzet.
+Die ons in staat stellen om "de machine" [^3] aan te pakken en manieren te 
+zoeken om zich een weg naar buiten te banen. Die horizonten bieden die het 
+mogelijk maken om ons nieuwe, utopische werelden te leren voorstellen 
+en om alternatieven te vinden voor *evil_electronica* *evil_internet*, 
+*evil_smartphones*, *evil_satellieten*.
 
-Reuzenballen van roze fluweel die je niet langer kunt negeren.
-Het ontdekken van nieuwe vormen, het benoemen ervan, het dromen van andere, mogelijke technologieën.
-Technologisch de soevereiniteit neemt toe omdat het tegelijkertijd verlangen, speculatieve fictie en alternatieve realiteiten.
+Dat soort grote roze fluwelen ballen kan je niet langer negeren.
+Nieuwe vormen zoeken, dingen opnieuw leren benoemen, het dromen van 
+andere mogelijke vormen van technologie.  Technologische Soeveriniteit komt hier te 
+hulp daar het invulling bied aan verlangen, speculatieve fictie in zich draagt 
+en alternatieve werkelijkheid ademt. Alles in een.
 
-Een 45-jarige vader en zijn 20-jarige zoon.
-Ze lijken een goede relatie.
-De zoon vraagt zijn vader om hem te filmen met zijn mobiele 'telefoon', iets doen in de zee.
-Een keer, twee keer, drie keer, vier keer.
-Zijn vader kan het niet en de zoon is geduldig, maar verbaasd over zijn incompetentie.
-Plotseling explodeert de vader.
-Het strand is stil.
+Een vader van 45 met een zoon van 20.  Ze lijken goed overeen te komen. De
+zoon vraagt zijn vader om hem te filmen met zijn mobiele telefoon terwijl hij in 
+de zee wat poseert.  Een, twee, drie, vier keer. Zijn vader krijgt het niet voor elkaar,
+zijn zoon is geduldig en verrast door zijn gestuntel. Plotseling, schiet de vader 
+in een colére. Het strand verstild, buiten de branding.
 
-Ze schreeuwen over het verbreken van vertrouwensrelaties, afschuw en angst voor
-Facebook en mobiele 'telefoons.
-De zoon belooft zijn vader beter te begeleiden, zodat hij niet langer onbekwaam zal zijn, zal hij als een vreemdeling worden, die met allen typt tien vingers.
-Analoge generaties met specifieke neurale takken, experimenten en kennis in drie dimensies.
-Dit gesprek maakte me je alleen voelen.
-Ik wilde meedoen.
-Ik zou willen dat deze explosies van woede gebeurde vaker.
-Ik wil meer mensen zien bewapend met bowlingballen die de iphonen in elke *appelwinkel* [^4].
+Het gesprek gaat voort over de afbraak van de relaties van
+wederzijds vertrouwen, de afschuw en walging voor smartphones en Facebook.
+De zoon belooft zijn vader beter te begeleiden zodat hij zich niet langer zo 
+onbeholpen hoeft te voelen, maar zal hij zal tegelijkertijd moeten accepteren 
+dat deze vader de vreemdeling is die tienvingerig blind kan typen. Die analoge 
+generatie met inbruik geraakte cerebrale hersendelen, die zich in het experiment 
+en vergaring kennis de weg wisten in de drie dimensies. Als omstander op dat strand
+voelde ik me plots zo eenzaam. Ik had me in het gesprek willen mengen. 
+Vanuit het diepste van mijn hart zou ik vaker zulke uitbarstingen willen meemaken 
+zoals op die dag. Zoals die mens die gewapend met een jeu-de-boule-bal, 
+een *apple store* binnenging om daar iphones te vernietigden [^4].
 
-We zouden andere technologieën moeten hebben, iets beters dan wat we vandaag de dag noemen "Informatie- en communicatietechnologie (ICT).
-Een mobiele telefoon is een computer, de computer is al verouderde, donkere gescreende tabletten, horloges verbonden met het internet dat u tellen terwijl je loopt, menstrueren en neuken.
-Apparaten bevolkt door *apps* en "services" die ons onderschatten.
-"Lang leven kwaad, lang levend kapitaal!  *La bruja avería* [^5] als de incarnatie van de Cassandra syndroom [^6].
+Er is echt nood om over andere technologieën te kunnen beschikken, iets 
+beters dan wat we nu hebben dat we vandaag de dag "informatie- en 
+communicatietechnologieën" (ICT) noemen. Desktop PC's en laptops, zijn ingehaald 
+door de tot smartphone vervelde GSM, tablets die altijd aan staan ook in 
+standby modus, continu met internet verbonden smartwatches die melden of 
+je wel genoeg wandelt, menstrueert en neukt. Die apparaten worden ingezet via 
+apps en "diensten" om ons te onderwerpen. Zeker gaan zien: "Lang leve het 
+kwaad, lang leve de kapitaal". - *La bruja Avería* [^5] 
+(nvdv: De dolgedraaide Heks) als de recentere incarnatie van Cassandra. [^6]
 
-We moeten de confrontatie aangaan met gesprekken die neigen naar een nulbegrip van hoe een toekomst koelen waarin machines hun eigenheid hebben bereikt zou [^7] zijn.
-We moeten strijden tegen de argumenten die in onze gemeenschappen naar voren worden gebracht en collectieven; door vrienden; in onze netwerken van vertrouwen; en in parken, eetzalen en scholen; in sociale diensten en ziekenhuizen: "Het is zo praktisch en comfortabel", "er is geen alternatief", "ik heb niets te verbergen" en "wat maakt het uit of zij ons in de gaten houden/beheersen? Alles is een ramp sowieso".
+We moeten de confrontatie durven aangaan daar waar tijdens gesprekken blijk 
+wordt gegeven van een minimaal besef over het toekomstkomstbeeld waar machines 
+de singulariteit hebben bereikt. [^7] 
+We moeten strijden tegen de drogredenen die de ronde doen in onze gemeenschappen 
+en collectieven; met vrienden; in vertrouwensnetwerken, in parken, kantines en scholen; 
+in buurt- en ziekenhuizen: "Het is allemaal zo praktisch en comfortabel", "Er is 
+geen alternatief", "Ik heb niets te verbergen" en "Wat maakt het uit als 
+ze ons controleren/in de gaten houden, het is toch een grote puinhoop".
 
-Onze gemeenschappelijke ruimten worden gevoed door een gebrek aan originaliteit, geboren uit de neoliberale verhalen die alle nieuwe, commerciële verhalen vergezellen technologie, aangezien zij onze geest en onze verlangens koloniseren.
+Onze gemeenschappelijk ruimtes worden voortdurend met ideeën volgestort met een 
+grenzeloos gebrek aan originaliteit, die haar oorsprong vindt in neoliberale
+narratieven die de nieuwe commerciële technologie vergezelen met als doel onze 
+gedachten en verlangens te koloniseren.
 
-We moeten het hier en nu veel meer hebben over het psychologische, sociale, de politieke, ecologische en economische kosten van deze technologieën.
-Niet over de vrijheid om *selfies* te nemen in de Google, Amazon [^8], Facebook, Microsoft en Apple winkelcentra en upload nog een foto naar een *instasheet* account; maar over repressie, controle, bewaking en kwantificering, en discretie van leven en middelen.
-Om dit gesprek te voeren hebben we een beroep doen op degenen onder u die uitgebuit worden, gek geworden zijn, tot zelfmoord gedreven zijn [^9], of in de grensgebieden of in de speciale economische zones worden gedood, voeder voor een dystopisch mondiaal technologisch ecosysteem.
+We moeten het echt veel meer hebben over de psychologische,
+sociale, politieke, ecologische en economische gevolgen van deze technologieën.
+Nee, het gaat hier niet over de vrijheid om *selfies* te posten op de datasilos 
+van Google, Amazon [^8], Facebook, Microsoft en Apple en vergeet niet er ook 
+nog even eentje naar je *instashit* account te uploaden; We moeten het hebben over 
+repressie, controle, surveillance, quantificatie en discreditering van ons 
+leven en onze middelen.
+Om dit gesprek verder te voeren doen we een beroep op iedereen die wordt uitgebuit,
+tot waanzin wordt gedreven, zelfmoord overweegt [^9], stierf als gevolg 
+van femicide of door borderline, deze speciale economische 
+zones voor een wereldwijd dystopisch technologisch ecosysteem voeden.
 
 * * *
 
-De Technologische Soevereiniteit (TS) die we willen is er een die ontwerpt, ontwikkelt, verspreidt en droomt technologieën die welzijn en welzijn bieden leven, die niet bestendigen of meer onrecht creëren.
-Het creëert haar eigen versie van de ethische en politieke revolutie van de voedselsoevereiniteit, dat streeft naar de productie en consumptie van eerlijk en lokaal voedsel.
-We kunnen lering te trekken uit deze analogie, en voedselsoevereiniteit -v- technologische soevereiniteit was waar we het in het eerste deel over hadden.
+De wenselijke vorm van Technologische Soeveriniteit (TS) is er een die
+technologieën ontwerpt, ontwikkelt, distribueert en droomt van
+welzijn en een goed leven. Niet technologieën die onrecht in stand houden
+of de creatie ervan bevorderd. TS bouwt zijn eigen versie van de ethische 
+en politieke revolutie de streeft naar voedselsoevereiniteit, 
+waar het produceren en consumeren van eerlijke, duurzame en lokaal 
+geteelde producten voorop staat.
+We kunnen lering trekken uit deze analogie: voedselsoevereiniteit versus 
+technologische soevereiniteit, dat in het eerste volume al ter sprake kwam.
 
-In dit dossier blijven we voorbeelden geven van TS, begrepen als een speculatieve fictie die wordt toegepast en wordt gesitueerd om sociale en politieke effecten te creëren
-veranderen.
-De verschillende bijdragen brengen de bestaande inherente spanningen met zich mee tussen autonomie en soevereiniteit, bijdrage en duurzaamheid, toe-eigening door kapitalisme -v- evoluerend, gepast en feministisch technologieën.
+In dit dossier blijven we voorbeelden geven van de TS, die begrepen 
+moet worden als speculatieve fictie om sociale en politieke
+verandering teweeg te brengen.
+De verschillende bijdragen leggen spanningen bloot tussen autonomie 
+en soevereiniteit, tussen actieve bijdrage en duurzaamheid, toe-eigening 
+door kapitalisme vs. langzaam veranderende, toeggeëigende en 
+feministisch technologieën.
 
-Onderweg zijn we twee belangrijke bijdragen kwijtgeraakt.
+Twee belangrijke bijdragen het niet evenwel gehaald.
 
-Een artikel over de ex-centrische zelforganisatie van gezondheid, de De dekolonisatie van ons lichaam en het veld van experimenten rond technologieën op het gebied van gezondheid, seksualiteit en zorg: TS kan niet alleen software en hardware, moet het ook *wetware* zijn als een ruimte voor weerstand [^10] tegen het farmaceutisch-industriële rijk.
+Een artikel handelde over een excentrieke vorm van self-organisatie
+rond gezondheidszorg, de dekolonisatie van ons lichaam en het gebied
+waar het experiment rond gezondheid, sexualiteit en zorg wordt aangegaan:
+TS kan niet alleen maar over software en hardware gaan, ook de *wetware* 
+moet in deze ruimte betrokken worden om het verzet [^10] tegen de 
+farma-industrie aan te vatten.
 
-We wilden ook ingaan op de weinig bekende geschiedenis van een aantal visionairs van TS in meer diepgang.
-Vanuit nieuwsgierigheid en rebellie bezien het internet plaatsen hebben doen bereiken waar het niet thuishoorde te horen, om de apartheidsstaat trotseren, de clandestiene gemeenschappen versterken en laten zien dat zij is het mogelijk om mooie technologieën te creëren, aangepast aan hun omgeving.
-Voja Antonic [^11] (Joegoslavië), Roberto Verzola [^12] (Filippijnen), Onno Purb [^13] (Indonesië) en Tim Jenkin [^14] (Zuid-Afrika) zijn zeer geweest genereus in het delen van hun context, motivaties en inspiraties met ons.
-Zij hebben ons laten zien dat TS bestaat uit vele lagen, affiliaties en verbeeldingen.
+We wilden ook nog de minder bekende geschiedenis van een aantal visionairen
+van TS verder uit diepen, die door hun nieuwsgierigheid en tegendraadsheid
+het Internet op onverwachte plaatsen hebben laten opduiken, de apartheidsstaat
+hebben geholpen af te breken, versterking boden aan clandestine gemeenschappen,
+en die hebben aangetoond dat het mogelijk is mooie technologiën te introduceren,
+aangepast aan hun omgeving.
+Voja Antonic [^11] (Joegslavië), Roberto Verzola [^12] (Fillipijnen), Onno
+Purb [^13] (Indonesië) en Tim Jenkin [^14] (Zuid-Afrika) zijn erg gul
+geweest door hun kennis uit hun context, motivaties en inspiratie met ons te delen.
+Zij hebben ons getoond dat TS uit zeer veel lagen, persoonlijke verbindingen 
+en vormen van verbeelding bestaat.
 
-In termen van hoe het TS panorama is geëvolueerd sinds het laatste boek, we Het volgende wordt gemarkeerd:
+Sinds de publicatie van het vorige boek is er in het veld vanalles bijgekomen,
+hetgeen we hieronder kort de revue laten passeren:
 
-Tegenwoordig gebruikt iedereen open-sourcecode, waaronder Fortune 500-bedrijven, overheden, grote softwarebedrijven en start-ups.
-Delen in plaats van delen het bouwen van eigen code, bleek goedkoper, makkelijker en meer efficiënt.
-Deze toegenomen vraag legt een extra druk op degenen die deze infrastructuur, maar omdat deze gemeenschappen niet goed zichtbaar zijn, de de rest van de wereld is traag op te merken.
-De meesten van ons nemen het openen van een software aanvraag voor vanzelfsprekend, de manier waarop we de lichten voor vanzelfsprekend aandoen.
-We denken niet na over het menselijk kapitaal dat nodig is om dat te realiseren.
-In geconfronteerd met een ongekende vraag, de kosten van het niet ondersteunen van onze digitale de infrastructuur is legio.
+Tegenwoordig maakt iedereen gebruik van open source software, waaronder 
+ook gekende bedrijven die in *Fortune 500*-lijst staan, maar ook overheden, 
+grote software bedrijven en startups. 
+Code delen in plaats van het bouwen van proprietaire 
+software, blijkt goedkoper, gemakkelijker en efficiënter.
+De meeste mensen nemen het opstarten van software net zo voor lief,
+zoals we 's-avonds het licht aansteken, maar staan doorgaans veel minder 
+stil bij wat er allemaal voor menselijke kapitaal bij komt kijken om 
+zoiets mogelijk te maken.
 
-Dit onderzoek, getiteld *Roads and Bridges* [^15], benadrukt hoe groot bedrijven profiteren van de digital commons en geven weinig of geen niets terug in ruil.
+Het onderzoek, getiteld *Roads and Bridges*[^16], belicht hoe
+grote bedrijven profiteren van de digitale commons zonder
+daar iets of zeer weinig voor terug te geven.
 
-In het vorige boek hebben we al aangegeven dat het deel uitmaken van de Vrije software/open-sourcewereld was niet genoeg om TS te maken.
-Evenzo zijn een deel van TS betekent niet noodzakelijk dat alle deelnemers werken samen bevrijdingstechnologieën te ontwikkelen.
-TS initiatieven op het gebied van handel, ontwikkeling en dienstverlening moeten verder worden ontwikkeld, rechtvaardigere en duurzamere gemeenschappen, waarin alle deelnemers weten hoe ze moeten handelen werken met diversiteit en inclusie, en met begrip voor voorrechten en vermogensdynamiek.
+In het vorige deel hadden we al aangegeven dat om deel uit te maken van 
+de wereld van de vrije/open-sourcesoftware het ontoereikend is om 
+TS te maken.
+Het betekent ook dat deel uitmaken van de TS niet noodzakelijk betekent dat 
+alle betrokkenen ook samenwerken aan de ontwikkeling van bevrijdende technologieën.
+TS initiatieven moeten voortbouwen aan meer rechtvaardige en duurzaam vormgegeven
+gemeenschappen, waar iedereen om kan gaan met diversiteit en inclusie, en bewust 
+is van haar privileges en machtspositie.
 
-*De kokosrevolutie [^16] en de ecologie van vrijheid* volgens Murray Bookchin herinnert ons eraan dat toegeëigende technologieën zijn degenen die zijn ontwikkeld in een gemeenschap die het niveau, of de graad, van de technologieën het kiest behoeften en houdt rekening met de ontwikkelingsprocessen en -methoden om vooruitgang te boeken in de richting van bevrijdende technologieën.
+De film De Kokosrevolutie[^17] en het boek "De ecologie van de vrijheid", van *Murray
+Bookchin* herinneren ons er beide aan dat het zeer goed mogelijk is de keuze voor 
+geschikte technologieën door de gemeenschap zelf worden ontwikkeld en die daardoor 
+ook zelf het niveau of de kwaliteit kunnen bepalen die zij nodig acht en rekening 
+kan houden met de manier van aanpak, om naar deze bevrijdende technologieën toe te werken.
 
-Met deze ambities belichten we nieuwe contexten waarin het concept van TS populair worden.
-De vereniging Framasoft in Frankrijk heeft bijvoorbeeld een ambitieus actieplan ontwikkeld om *de-googlize* [^17] op het internet te zetten, en hun boek *Digitaal: terugnemen van controle* [^18] heeft betrekking op weerstandspraktijken die soevereiniteit, autonomie en nieuwe vormen van samenwerking combineren.
-In Catalonië zijn er Technologische Soevereiniteit congressen [^19], de Mobiel Congres van Antwerpen* [^20] en het Sociaal Mobiel Congres* [^21].
-Deze de evenementen vergroten de bewustwording en creëren actienetwerken voor de ontwikkeling van technologieën gebaseerd op verschillende paradigma's.
-Het concept van de handelsgarantie is ook overgenomen door een aantal overheidsinstellingen die verband houden met aan de "rebellengemeenten" [^22].
-Bevordering van hybride burgerlijk leven formaten die meer ondersteuning bieden voor TS zouden alarmbellen kunnen doen rinkelen, maar het zou kunnen zijn een oproep tot viering.
+Met deze ambities in het achterhoofd, belichten we nieuwe contexten waarin het 
+ST-concept populair is geworden. In Frankrijk bijvoorbeeld, de vereniging
+Framasoft werkt daar een ambitieus plan uit om je op het internet te
+*De-Googlize*n [^18] en het boek *Numérique : reprendre le contrôl controle*[^19] 
+dat de organisatie uitbracht richt zich op verzetspraktijken 
+die soevereiniteit, autonomie combineren en nieuwe vormen van samenwerking belichten.
+In Catalonië zijn er al enkele congressen gehouden rond
+Technologische Soevereiniteit [^20], het *Anti Mobiel Congres*[^21] 
+en het *Sociaal Mobiel Congres*[^22].
+Allemaal initiatieven die zich richten op bewustwording en het opzetten van 
+actieve netwerken om de ontwikkeling van technologiën die zich baseren
+op andere paradigma's vooruit te helpen.
 
-Stelt u zich eens voor dat er overheidsgeld zou worden vrijgemaakt om onze digitale infrastructuur te onderhouden.
-en bijvoorbeeld alternatieven aanbieden voor Google-services van niet-commerciële aard perspectief, waarbij gegevens decentraal worden gehost in architecturen die het recht op privacy en encryptie standaard op te nemen in hun ontwerp.
-Dit zou een actielijn kunnen zijn waarbij het openbaar bestuur en het maatschappelijk middenveld de samenleving elkaar wederzijds zou kunnen ondersteunen.
+Ook is het concept van TS inmiddels door sommige publiek instellingen overgenomen,
+zoals bijvoorbeeld in relatie met "opstandige steden" [^23]. 
+Het stimuleren van een hybride van publiek-burgelijke combinaties die meer draagvlak 
+bieden voor de TS-initiatieven zouden een alarmbel kunnen doen rinkelen bij de 
+zittende macht maar ook aanleiding kunnen geven tot positieve geluiden.
 
-Daarom moeten we de kleine en middelgrote gemeenschappen meer steun bieden.
-die passende technologieën en technologieën voor de handel in emissierechten ontwikkelen, zodat zij kunnen blijven technologieën aan te reiken aan de gemeenschappen die deze nodig hebben.
-Technologieën zijn net zo mooi en uniek als veelkleurige vlinders.
-Een krachtig voorbeeld daarvan is het werk van *Atelier Paysan* [^23] ("de werkplaats van de landbouwer"), een netwerk van landbouwers die jarenlang machines hebben ontworpen om de grond te bewerken en de velden, het uitwisselen van hun ontwerpen en kennis.
+Stelt u zich eens voor dat er overheidsgeld wordt vrijmaakt om onze
+digitale infrastructuren te onderhouden en dat er bijvoorbeeld diensten
+werden aangeboden als alternatief voor de diensten van Google met een 
+niet-commercieel oogmerk, dat data wordt gehost op gedecentraliseerde basis
+opgezet binnen architecturen die het recht op privacy en encryptie centraal 
+stellen.
+Dit zou een piste kunnen zijn waar de openbare overheid en de burger de handen 
+ineen zouden kunnen slaan en elkaar ondersteuning zouden kunnen bieden.
 
-Om deze allianties te laten functioneren, moeten de instellingen in ieder geval het volgende verliezen de minachting die zij voelen voor kleine initiatieven voor de ontwikkeling van basisonderwijs.
-Naar TS te verwezenlijken, moeten we een beroep doen op alle niveaus: het micro- en het middenniveau en de macro.
+Op zoiets te bereiken is er meer steun nodig voor kleine en middelgrote ondernemingen om
+gemeenschappen die geschikte technologieën en TS helpen ontwikkelen, en die ze
+ter beschikking kunnen stellen aan de gemeenschappen die daar nood aan hebben.
+Prachtige en unieke technologieën als veelkleurig geschakeerde vlindervleugels.
+Een krachtig voorbeeld stelt het werk ontwikkeld door Atelier Paysan[^24] 
+('de boerenwerkplaats') een netwerk van landbouwers dat al vele jaren machines 
+ontwerpt om het land te bewerken, en dat de ontwerpen en opgedane kennis uitwisselt.
 
-De toekomst ziet er niet goed uit en daarom geloven wij dat TS ons te helpen het individualisme tegen te gaan dat door het wereldwijde kapitalisme wordt aangemoedigd.
+Om tot een goede werking van deze partnerschappen te komen zouden de instellingen 
+er goed aan doen hun laatdunkendheid voor dit soort grass-roots initiatieven 
+die TS ontwikkelen best eens mogen laten varen.
+Om TS te bereiken zullen we alle niveaus mee in bad moeten krijgen:
+het kleine, het middelgrote en het grote.
 
-Niemand mag zich alleen voelen.
-Niemand mag het gevoel hebben dat hij er alleen doorheen gaat.
-Vrienden zijn bang, angsten nemen toe en de ruimte voor vrijheid is krimpen.
-Tegelijkertijd komen niet-verbonden mensen samen in een koude, grijze plaats, ter ondersteuning van een initiatief voor lokale informatica.
-Ze willen begrijpen wat er aan de hand is, ga bij ons zitten om over technologieën te praten, deel hun praktijken, formuleren hun vragen, exorceren hun angsten.
-Dit gebeurt op veel plaatsen.
+De toekomst ziet er niet zo goed uit en daarom geloven we dat de TS ons 
+kan helpen om een antwoord te bieden aan het individualisme dat wordt 
+veroorzaakt door het mondiaal kapitalisme.
 
-Er komen steeds meer berichten binnen waarin wordt opgeroepen om voorbij te komen verbonden gewelddadigheden.
-Ze hebben mijn webpagina verwijderd, de inhoud afgekeurd, lastiggevallen, beledigd, gechanteerd...
-De aanvallen zijn onophoudelijk, saai, gevaarlijk, creatief.
-Er is geen vrijheid van meningsuiting meer op de internet, alleen het niveau van voorrecht als het gaat om het kunnen schreeuwen van de hardst.
+Niemand zou zich eenzaam moeten hoeven voelen.
+Laat niemand het gevoel hebben dat hij of zij er alleen voorstaat.
+Vrienden zijn terughoudend en angsten worden verder aangewakkerd, vrije ruimtes 
+worden verder ingeperkt.
+Tegelijkertijd komen mensen die elkaar nauwelijk kennen samen op een 
+grauwe en koude plek, ter ondersteuning van een initiatief waar we het hebben 
+over meer nabije vormen van het infomatietechnologische.
+Ze willen samen beter begrijpen wat er aan de hand is, de koppen bijeensteken en 
+praten over hun manier van werken, elkaar bijstaan om concrete vragen te 
+formuleren, hun angsten te leren opgeven. Dit soort initiatieven vinden plaats 
+op meer dan een plek op deze wereld.
 
-Dat zeiden we een paar maanden geleden tegen elkaar toen ik een ontmoeting had met een aantal dierbaren vrienden om na te denken over hoe de kwestie van aangepaste technologieën te benaderen samen, als een resonerende echo van die utopische horizon waar we naartoe willen te lopen.
-We willen nog steeds naar die plaats gaan waar ze onbekend spreken talen, vocabulaires die niet bestaan, grammatica's die niet in elkaar passen.
+Er is een dringend nood aan andere manieren te vinden langs het onderliggende geweld.
+Mijn website ligt er uit, haar inhoud gecensureerd, ik werd lastig gevallen, beledigd,
+ gechanteerd ....
+Dit soort aanvallen zijn alomtegenwoordig, laaghartig, gevaarlijk, uitgekookt.
+Op het internet bestaat er geen vrijheid van meningsuiting meer, er resten slechts 
+enkele gelaagde vormen van privilege die met elkaar wedijveren over wie er het 
+hardst van leer kan trekken.
 
-o in staat zijn om fenomenen te benoemen die nog niet bij ons zijn, maar die wel een voorliefde hebben voor ons, en soms, transfigure ons.
-Onze verhalen worden speculatieve fictie, het genereren van ideeën en memes die door tijd en ruimte reizen om een een alternatief technologisch ecosysteem, waarin we niet onze grondrechten: vrijheid, privacy, veiligheid, communicatie, informatie, expressie, samenwerking, solidariteit, liefde.
+Over dit alles hebben we met enkele vrienden een paar maanden geleden 
+samengezeten om wegen te vinden van waaruit de kwesties omtrent geschikte 
+technologieën gezamenlijk kunnen worden aangepakt, om van daaruit te komen 
+tot een sterk signaal aan de utopische horizon te ontsteken dat aangeeft 
+waar we naartoe willen. We willen samen op weg naar daar waar onbekende 
+talen worden gesproken, onbestaande vocabulaires bestaan en verknipte 
+grammatica zich bevindt.
 
-*"Een self-fulfilling prophecy is een voorspelling die, eenmaal gemaakt, op zichzelf staat, de oorzaak van de verwezenlijking ervan."*
+Om in staat te zijn deze onbekende fenomenen te leren benoemen, die ons 
+vervormen en ons vervormen.
+Onze verhalen verworden zo tot speculatieve fictie, die weer een bron
+vormen voor nieuwe ideeën en memes die niet aan tijd een ruimte gebonden 
+zijn en tot een alternatief technologisch ecosysteem kunnen uitgroeien, 
+waar we onze fundamentele rechten niet hoeven op te offeren:
+vrijheid, privacy, veiligheid, communicatie, informatie, expressie, 
+samenwerking, solidariteit, liefde.
 
-Ze voeden ons met dystopische futures: nieuws, series, films en boeken uit het samenleving van het spektakel.
-Deze doorboren ons en verlammen ons, we zien alleen maar wazig beelden van gadget-technologie.
-De shitty toekomst is nu, wat betekent dat wij geloven dat de enige manier die voor ons openstaat, is door onze vrijheden op te offeren om een technologische machine die tot ons spreekt van innovatie, creativiteit en participatie om hun vermogen te verbeteren om ons te kwantificeren en ons om te vormen tot uniek eenheden, delen van sociale groepen binnen patronen die niemand begrijpt meer.
-De gesloten algoritmen die binnen merkgebonden zwarte dozen verwerken zijn het aantonen van hun groeiende vermogen om invloed op ons uit te oefenen.
+"Een self-fullfilling prophecy is een voorspelling die dat van zodra ze 
+is uitgesproken, de voorgestelde werkelijk vanzelf helpt uitkomen."
 
-Dystopia is gemakkelijk.
-Zijn perversiteit ligt in zijn gebrek aan verbeelding, en zijn mogelijkheden om cultuur en toekomstvoorstellingen te creëren op basis van negatieve lussen: meer discriminatie, meer machine singulariteit, meer onrechtvaardigheid op basis van algoritmen, de nieuwe *wapens van wiskundevernietiging* [^24].
-Dystopie sluit ons af in een grote kringloop van cynisme en de overtuiging dat technologieën zijn wat ze zijn en dat we niets kunnen doen om anderen te hebben.  Deze verhalen zijn self-fulfilling prophesies en het is meer dan bewezen dat als we een beroep doen op de Terminator [^25] op het einde zal hij komen.
+Ze overladen ons met dystopische toekomstbeelden: nieuws, series, films, boeken van
+de spektakelmaatschappij. Ze kwetsen en verlammen ons, wat rest zijn een paar
+vervagende beelden van hi-tech gadgets. *The future is now*, impliceert dat 
+wij dienen te geloven dat de enige weg die voor ons open ligt er een is van 
+opoffering van onze vrijheden die de machine moet voeden die ons vanalles 
+wijsmaakt over innovatie, creativiteit en participatie ter versterking van 
+haar vermogen om ons beter te kunnen kwantificeren en ons tot atomaire 
+figuurtjes te reduceren, deel van ondoorzichtige sociale groepen.
+Voor de openbaarheid afgeschermde algoritmen die draaien in propriëtaire 
+zwarte dozen en geven ons in toenemende mate ons doen en laten beïnvloeden.
 
-Het internet sterft, het *wereldwijde web* krimpt.
-In mijn zelfverhogende utopische fictie er zijn werelden die weer met elkaar in verbinding staan dankzij het elektromagnetische spectrum, golven die om ons heen trillen en deel uitmaken van het gemeengoed.
-Mensen herdenken de technologische infrastructuren die ze nodig hebben, zij ontwikkelen ze, controleren ze, testen ze, onderhouden ze, transformeren ze en hen te verbeteren.
+Dystopia, het is echt niet moeilijk te bereiken. Haar perversiteit schuilt 
+in het gebrek aan verbeelding en het potentieel om cultuur en toekomstbeelden 
+te construeren op basis van negatieve *spiraal*: meer discriminatie, meer 
+singulariteit voor machines, meer onrechtvaardigheid op basis van in 
+algoritmen, dit zijn nieuwe *weapons of math destruction* [^25]. 
+Dystopia dwingt ons in een gigantisch keurslijf van cynisme en het geloof 
+dat technologieën zijn wat ze zijn en we kunnen uitrichten of worden verondersteld
+om er andere voor in de plaats te stellen.
+Dit zijn de narratieven met de kwaliteit van de self-fullfilling prophecy 
+en het is meer dan eens bewezen dat als we Terminator[^26] ter hulp roepen dat 
+hij uiteindelijk zeker zal langskomen.
 
-Ik word 's ochtends wakker, de *smartphone* slaapt niet meer aan mijn zijde, bijna geen wifi door mijn huis.
-Het koffiezetapparaat en de koelkast zijn vrij van het *internet van dingen*, ze niet verbinden met Starfucks + Monosanto om mijn gegevens van de consument te verzenden.  Op de tafel is een tablet ingebouwd om levenslang meegaan.
-Al mijn apparaten zijn standaard versleuteld en komen van een lokale fabriek een paar kilometer verderop.
+Het internet is stervende, het *world wide web* is verworden tot een smalle
+steeg. In mijn self-fullfilling prophecy fictie ontwerp ik werelden die opnieuw 
+met elkaar verbonden zijn via het elektromagnetische spectrum, radiogolven 
+die om ons heen trillen die deel zijn deel van de commons. Mensen herdenken 
+infrastructuur die ze zelf nodig hebben, en die zij vervolgens autonoom 
+ontwikkelen, controleren, testen, onderhouden, transformeren en verbeteren.
 
-Enkele jaren geleden hebben sommige *biohackers* het gebruik van bacteriën en sporen populair gemaakt elementen voor de opslag van digitale informatie.
-De wet van Moore is overtreden.
-Gepland Veroudering werd verboden.
-De cycli van oorlog, honger en onrecht door de winning van mineralen en de massaproductie van technologieën, verdween geleidelijk.
-Op school hebben we versleutelingscodes gegenereerd: in het basisonderwijs School die verouderde technologieën zoals GPG gebruikt, en later processen gebaseerd op de analyse van onze geluidsafdruk bij een orgasme.
+Als ik ontwaak ligt er intussen geen smartphone meer naast mijn hoofdkussen.
+Geen Wifi-netwerk radioruis meer in mijn huis. Het koffiezetapparaat en de
+koelkast zijn vakkundig ontkoppeld van het *Internet of things* en zijn niet 
+langer in staat om Starfucks of Monosanto te informeren over mijn 
+consumptiegedrag.
+Het blad van de tafel (nvdv: een spaans taalgrapje tafelblad/tablet) is hier 
+gemaakt om een leven lang mee te gaan.
+Al mijn apparaten zijn hier standaard versleuteld en komen uit een fabriek
+van een paar kilometer verderop.
 
-I can configure my own algorithmic agent so my data will only be shared with who I wish it to be shared with.
-The friends of my friends make up a network of networks of trust and affinity; between us we often meet to share our ideas, resources and needs.
-I activate my wind, light and water capturers in order to generate all the energy I can.
-This lifestyle frequently requires my presence away from the screen; I am not always connected.
-There are no longer technophobes and technophiles, because no one gives technology that much importance any more.
-It has gone back to the place it should never have left.
+Een tijdje geleden hebben enkele *biohackers* het gebruik van bacteriën 
+en schimmelsporen gepopulariseerd om digitale informatie in op te slaan. 
+De wetmatigheid van Moore werd intussen failliet verklaard. 
+Planned obsolescence illegaal.
+De cyclus van oorlog, honger en onrecht als gevolg van de winning van minerale 
+grondstoffen en van massaproductie van allerlei technologieën is structureel 
+op zijn retour geraakt.
+Op de lagere school hebben we gisteren zelf nieuwe versleutelingscodes 
+gegenereerd met behulp van verouderde technologieën zoals GPG, en 
+volgende week gaan we die codes verbeteren behulp van geluidsbewerkingssoftware 
+die als input audiofragmenten gebruikt die werden gepuurd uit persoonlijke
+orgasmogrammen.
 
-There are so many worlds left to be created.
-To bring down the alien capitalism we must imagine futures that are not dystopian, futures where playing at creating our appropriated technologies is something common and happily mundane.
+Mijn persoonlijke software agent heb ik zodanig ingesteld dat ik alleen 
+nog informatie deel met degene waar ik in geïnteresseerd ben. Ik en mijn 
+vrienden en vrienden van mijn vrienden vormen samen een eigen netwerk 
+van netwerken gebaseerd op vertrouwen en affiniteit; we wisselen 
+regelmatig ongehinderd van gedachten: ideeën, dingen, verlangens.
+Ik tap intussen zelf zoveel mogelijk energiebronnen af via wind, zon en water 
+als ik nodig heb. Daardoor ben ik natuurlijk ook regelmatig niet achter 
+mijn beeldscherm te vinden, permanent online zijn ligt moeilijk. Sorry!
+Het verschil tussen technofobe en technofiele mensen is intussen ook danig 
+afgenomen, omdat iedereen veel minder waarde hecht aan technologische 
+verworvenheden dan voorheen.
+Het beest is teruggedrongen naar waar het nooit uit zou hebben mogen
+ontsnappen.
 
-[^1]: Speculative fiction workshop on feminist technologies, organised by Cooptecniques during the 2017 edition of *Hack the Earth* in Calafou (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
+Ja, er zijn zo nog wel tientallen zinvolle werelden te bedenken om het 
+ons ten gronde richtende kapitalisme van haar macht te ontdoen. 
+Zelf denk ik denk dat het zinvoller is om toekomstbeelden naar voren te 
+schuiven die niet dystopisch zijn. Beelden die benadrukken dat het de 
+normaalste zaak van de wereld is om te spelen met technologieën dient 
+om ons als mensheid verder te brengen.
 
-[^2]: *Octavia's Brood: Science Fiction Stories from Social Justice Movements*, Walidah Imarisha, adrienne maree brown, editors.
+[^1]: Workshop over speculatief feministische technologieën, georganiseerd door Cooptecniques tijdens de editie 2017 van *Hack the Earth* in Calafou: http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/
 
-[^3]: *Sal de la maquina. Superar la adicción a las nuevas tecnologías*, Sergio Legaz, author and Miguel Brieva, artist and member of the editorial council of *Libros en acción*.
+[^2]: Walidah Imarisha en adrienne maree brown, et al.: *Octavia's Brood: Science Fiction Stories van Social Justice Movements*.
 
-[^4]: https://www.youtube.com/watch?v=vNWAFApQDIc
+[^3] Sergio Legaz auteur en Miguel Brieva cartoonist en lid van de redactieraad van *Books in actie*: *Machinezout: Het overwinnen van verslaving aan nieuwe technologieën*.
 
-[^5]: Translators Note: La Bruja Avería (“The breakdown witch”) is a character from the 1980s Spanish children's TV show *La Bola de Cristal* (The Crystal Ball) which contained frequent puns abour electronics and anticapitalist slogans.
+[^4]: https://www.youtube.com/watch?v=FByRr0hSeQM
 
-[^6]: https://www.youtube.com/watch?v=0jFpPN2xmSI
+[^5]: La Bruja Avería (vrij vertaald: de doorgedraaide heks) is een personage uit het kinderprogramma La bola de cristal dat in de jaren tachtig werd uitgezonden door Televisión Española.
 
-[^7]: https://es.wikipedia.org/wiki/Singularidad_tecnol%C3%B3gica
+[^6]: https://www.youtube.com/watch?v=0jFppPN2xmSI (unreachable)
 
-[^8]: Amazonians speak about .amazon, https://bestbits.net/amazon/
+[^7]: https://nl.wikipedia.org/wiki/Technologische_singulariteit
 
-[^9]: Foxconn, The Machine is Your Lord and Your Master, https://agone.org/centmillesignes/lamachineesttonseigneurettonmaitre/
+[^8]: Amazonianen verzetten zich tegen het claimen van het .amazon tld door Amazon TM: https://bestbits.net/amazon/
 
-[^10]: https://gynepunk.hotglue.me/
+[^9]: Foxconn: De machine is uw heer en uw meester: https://agone.org/centmillesignes/lamachineesttonseigneurettonmaitre/ Zie verder: https://goodelectronics.org/jenny-chan-reviews-ten-years-struggles-foxconn/
 
-[^11]: https://en.wikipedia.org/wiki/Voja_Antoni%C4%87,     https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou, https://hackaday.io/projects/hacker/65061, https://twitter.com/voja_antonic?lang=es, 
+[^10]: Gynepunk: https://gynepunk.hotglue.me/ [ES] & http://hackteria.org/wiki/GynePUNK [EN]
 
-[^12]: https://rverzola.wordpress.com, https://wiki.p2pfoundation.net/Roberto_Verzola
+[^11]: Voja Antonić: https://en.wikipedia.org/wiki/Voja_Antonic  https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou - https://hackaday.io/projects/hacker/65061 - https://twitter.com/voja_antonic?lang=en
 
-[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html • https://twitter.com/onnowpurbo •  https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's that?
+[^12]: Roberto Verzola: https://rverzola.wordpress.com/ - https://wiki.p2pfoundation.net/Roberto_Verzola
 
-[^14]: Tim Jenkin: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula,* 1995.
-*The Vula Connection*, documentary film about the story of Operation Vula, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A • Escape from Pretoria Prison: https://www.youtube.com/watch?v=0WyeAaYjlxE
+[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html - https://twitter.com/onnowpurbo - Wokbolik, wat is dat? https://www.youtube.com/watch?v=b_7c_XDmySw
 
-[^15]: Nadia Eghbal: *Road and Bridges – The Unseen Labor Behind Our Digital Infrastructure*, Ford Foundation, 2016: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
+[^14]: Tim Jenkin: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula, 1995*.  *De Vula Connection*, documentaire, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A .  *Vlucht uit Pretoria* https://www.youtube.com/watch?v=0WyeAaYjlxE
 
-[^16]: https://en.wikipedia.org/wiki/The_Coconut_Revolution
+[^16]: Nadia Eghbal: *Road and Bridges - De onzichtbare arbeid achter onze digitale infrastructuur*, Ford Foundation, 2016: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 
-[^17]: https://degooglisons-internet.org
+[^17]: https://en.wikipedia.org/wiki/The_Coconut_Revolution
 
-[^18]: https://framabook.org/docs/NRC/Numerique_ReprendreLeControle_CC-By_impress.pdf
+[^18]: https://degooglisons-internet.org
 
-[^19]: http://sobtec.cat/
+[^19]: https://framabook.org/docs/NRC/Numerique_ReprendreLeControle_CC-By_impress.pdf
 
-[^20]: http://antimwc.alscarrers.org/
+[^20]: http://sobtec.cat/
 
-[^21]: http://www.setem.org/blog/cat/catalunya/mobile-social-congress-2017-28-de-febrer-i-1-de-marc
+[^21]: http://antimwc.alscarrers.org/
 
-[^22]: https://bits.city/
+[^22]: http://www.setem.org/blog/cat/catalunya/mobile-social-congress-2017-28-de-febrer-i-1-de-marc
 
-[^23]: http://latelierpaysan.org/Plans-et-Tutoriels
+[^23]: https://bits.city/
 
-[^24]: Cathy O'Neil: *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016.
+[^24]: http://latelierpaysan.org/Plans-et-Tutoriels
 
-[^25]: http://terminatorstudies.org/map/
+[^25]: Cathy O'Neil: *Weapons of math distruction: Hoe Big Data de Ongelijkheid vergroot en de Democratie bedreigt*, 2016.
+
+[^26]: http://terminatorstudies.org/map/
+
+
