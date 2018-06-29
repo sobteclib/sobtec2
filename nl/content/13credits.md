@@ -10,14 +10,14 @@
 
  * ***Engels***: Kate Wilson
  * ***Frans***: Bruno Lakmeche, Lunar
- * ***Nederlands***: Kel, Ivom, Winston, Patrice Riemens, Lara 
+ * ***Nederlands***: Kel, Ivom, Winston, Ptrc, Lara, Kwadro
  * ***Spaans***: Ana A. Romero, Djaván Adler, Germán
 
 **Redactie**:
 
  * ***Engels***: Maxigas
  * ***Frans***: Viviana Varin
- * ***Nederlands***: Kel 
+ * ***Nederlands***: Kel en Ivom
  * ***Spaans***: Spideralex en Ana Lanita
 
 **Redactie**, ***Spaans***, “Technological Sovereignty: Learning to love machines again”:
