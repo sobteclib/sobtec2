@@ -77,10 +77,10 @@ van Google, Amazon [^8], Facebook, Microsoft en Apple en vergeet niet er ook
 nog even eentje naar je *instashit* account te uploaden; We moeten het hebben over 
 repressie, controle, surveillance, quantificatie en discreditering van ons 
 leven en onze middelen.
-Om dit gesprek verder te voeren doen we een beroep op iedereen die wordt uitgebuit,
-tot waanzin wordt gedreven, zelfmoord overweegt [^9], stierf als gevolg 
-van femicide of door borderline, deze speciale economische 
-zones voor een wereldwijd dystopisch technologisch ecosysteem voeden.
+Om dit gesprek verder te voeren doen we een beroep op iedereen die wordt 
+uitgebuit, tot waanzin wordt gedreven, zelfmoord overweegt [^9], stierf als gevolg 
+van femicide in industriële grenslanden, of in speciale economische 
+zones [^10] die een wereldwijd dystopisch technologisch ecosysteem voeden.
 
 * * *
 
@@ -108,7 +108,7 @@ Een artikel handelde over een excentrieke vorm van self-organisatie
 rond gezondheidszorg, de dekolonisatie van ons lichaam en het gebied
 waar het experiment rond gezondheid, sexualiteit en zorg wordt aangegaan:
 TS kan niet alleen maar over software en hardware gaan, ook de *wetware* 
-moet in deze ruimte betrokken worden om het verzet [^10] tegen de 
+moet in deze ruimte betrokken worden om het verzet [^11] tegen de 
 farma-industrie aan te vatten.
 
 We wilden ook nog de minder bekende geschiedenis van een aantal visionairen
@@ -117,8 +117,8 @@ het Internet op onverwachte plaatsen hebben laten opduiken, de apartheidsstaat
 hebben geholpen af te breken, versterking boden aan clandestine gemeenschappen,
 en die hebben aangetoond dat het mogelijk is mooie technologiën te introduceren,
 aangepast aan hun omgeving.
-Voja Antonic [^11] (Joegslavië), Roberto Verzola [^12] (Fillipijnen), Onno
-Purb [^13] (Indonesië) en Tim Jenkin [^14] (Zuid-Afrika) zijn erg gul
+Voja Antonic [^12] (Joegslavië), Roberto Verzola [^13] (Fillipijnen), Onno
+Purb [^14] (Indonesië) en Tim Jenkin [^15] (Zuid-Afrika) zijn erg gul
 geweest door hun kennis uit hun context, motivaties en inspiratie met ons te delen.
 Zij hebben ons getoond dat TS uit zeer veel lagen, persoonlijke verbindingen 
 en vormen van verbeelding bestaat.
@@ -333,15 +333,17 @@ om ons als mensheid verder te brengen.
 
 [^9]: Foxconn: De machine is uw heer en uw meester: https://agone.org/centmillesignes/lamachineesttonseigneurettonmaitre/ Zie verder: https://goodelectronics.org/jenny-chan-reviews-ten-years-struggles-foxconn/
 
-[^10]: Gynepunk: https://gynepunk.hotglue.me/ [ES] & http://hackteria.org/wiki/GynePUNK [EN]
+[^10]: Speciale Economische Zone: https://nl.wikipedia.org/wiki/Speciale_Economische_Zone
 
-[^11]: Voja Antonić: https://en.wikipedia.org/wiki/Voja_Antonic  https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou - https://hackaday.io/projects/hacker/65061 - https://twitter.com/voja_antonic?lang=en
+[^11]: Gynepunk: https://gynepunk.hotglue.me/ [ES] & http://hackteria.org/wiki/GynePUNK [EN]
 
-[^12]: Roberto Verzola: https://rverzola.wordpress.com/ - https://wiki.p2pfoundation.net/Roberto_Verzola
+[^12]: Voja Antonić: https://en.wikipedia.org/wiki/Voja_Antonic  https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou - https://hackaday.io/projects/hacker/65061 - https://twitter.com/voja_antonic?lang=en
 
-[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html - https://twitter.com/onnowpurbo - Wokbolik, wat is dat? https://www.youtube.com/watch?v=b_7c_XDmySw
+[^13]: Roberto Verzola: https://rverzola.wordpress.com/ - https://wiki.p2pfoundation.net/Roberto_Verzola
 
-[^14]: Tim Jenkin: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula, 1995*.  *De Vula Connection*, documentaire, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A .  *Vlucht uit Pretoria* https://www.youtube.com/watch?v=0WyeAaYjlxE
+[^14]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html - https://twitter.com/onnowpurbo - Wokbolik, wat is dat? https://www.youtube.com/watch?v=b_7c_XDmySw
+
+[^15]: Tim Jenkin: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula, 1995*.  *De Vula Connection*, documentaire, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A .  *Vlucht uit Pretoria* https://www.youtube.com/watch?v=0WyeAaYjlxE
 
 [^16]: Nadia Eghbal: *Road and Bridges - De onzichtbare arbeid achter onze digitale infrastructuur*, Ford Foundation, 2016: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 
@@ -364,5 +366,4 @@ om ons als mensheid verder te brengen.
 [^25]: Cathy O'Neil: *Weapons of math distruction: Hoe Big Data de Ongelijkheid vergroot en de Democratie bedreigt*, 2016.
 
 [^26]: http://terminatorstudies.org/map/
-
 
