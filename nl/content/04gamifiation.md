@@ -66,7 +66,7 @@ En iedereen werd op deze wijze afgericht en leefde daarna nog lang en gelukkig
 Dit verhaal bevat de belangrijkste elementen van 'gamificatie', dit is een 
 van de manieren om een digitaal systeem van bestuur in de samenleving te implementeren. Het grondprincipe is simpel: alles wat als probleem beschreven kan worden, wordt in een spel 
 ('game') omgezet, of liever gezegd, in een spelschema. Het herhalen van correct bevonden handelingen wordt aangemoedigd en beloond met 
-punten, prijzen, en een stijging in rang in score-tabellen. Vanuit reguleringsperspectief gezien komt gamificatie neer op het belonen van het naleven van regels, in plaats van de overtreding hiervan te bestraffen. Aan de grondslag hiervan ligt een complete en positive normativiteit zonder ethische dimensie, omdat de waarde van bepaald gedrag, zijn axiologie, gedetermineerd wordt door het systeem, en niet door de persoonlijke en collectieve reflectie op de actie. Gamificatie is de belichaming van de prestatiemaatschappij [1].
+punten, prijzen, en een stijging in rang in score-tabellen. Vanuit reguleringsperspectief gezien komt gamificatie neer op het belonen van het naleven van regels, in plaats van de overtreding hiervan te bestraffen. Aan de grondslag hiervan ligt een complete en positive normativiteit zonder ethische dimensie, omdat de waarde van bepaald gedrag, zijn axiologie, gedetermineerd wordt door het systeem, en niet door de persoonlijke en collectieve reflectie op de actie. Gamificatie is de belichaming van de prestatiemaatschappij [^1].
 
 Klantenbinding door middel van loyalty programma's en andere mechanismen zijn van alle tijden. Echter, de 
 alomtegenwoordigheid van interactieve digitale connectiviteit opent een nieuw scala aan instrumenten om de massa in het gareel te houdeh. De cognitieve delegatie aan apparaten wordt een uitbesteding van de organisatie van ons maatschappelijke leven aan deze apparaten. De geautomatiseerde procedures worden verfijnd aan de hand van het gebruik van het personlijke digitale gereedschap door mensen. Deelnemen aan het samen inrichten van 
@@ -215,7 +215,7 @@ uren duurde maar slechts minuten leken, kan je de pijn voelen. Geef me
 de game terug, al is het voor even, even maar, het was zo mooi! Het is een heerlijke vervreemding van het lichaam. Het tijdsverloop is zodoende een 
 doorslaggevende maatstaf om de verschillende typen interactie te 
 onderscheiden. Als wij niet in staat zijn om het verloop van de tijd waar te 
-nemen, dan zitten we waarschijnlijk in de 'flow' fase [2] van een procedurele immersie. Wij leven dan in een cyclus van 
+nemen, dan zitten we waarschijnlijk in de 'flow' fase [^2] van een procedurele immersie. Wij leven dan in een cyclus van 
 interactie in het heden, die extreem verslavend is en waar wij nooit uit zouden willen 
 komen. Als daarentegen de tijd lineair wordt waargenomen, met 
 ervaringsmomenten die wij die wij bewust meemaken, die wij ook kunnen 
@@ -244,7 +244,7 @@ onderzoek hiernaar is maar net begonnen.
 
 Veel videogames worden ontworpen volgens de straffe regels van het 
 behaviourisme, met name 'Skinner's box game', benoemd naar de 
-bedenker, de Amerikaanse psycholoog Burrhus Frederic Skinner [3] die in 
+bedenker, de Amerikaanse psycholoog Burrhus Frederic Skinner [^3] die in 
 de jaren dertig van de vorige eeuw proeven deed met ratten en duiven. 
 Skinner ontdekte zodoende het fenomeen 'operatieve conditionering' 
 (doeltreffende/effectieve conditionering): een bepaalde gedraging wordt beter gestimuleerd, ook 
