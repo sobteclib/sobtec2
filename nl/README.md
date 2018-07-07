@@ -17,7 +17,6 @@ De teksten zijn geschreven door Alex Haché, Benjamin Cadon, COATI, Carolina, Ka
 
 * [Origineel](https://sobtec.gitbooks.io/sobtec2/content/or/)
 * [Engels](https://sobtec.gitbooks.io/sobtec2/content/en/)
-* Nederland
+* Nederlands
 * [Spaans](https://sobtec.gitbooks.io/sobtec2/content/es/)
 * [Frans](https://sobtec.gitbooks.io/sobtec2/content/fr/)
-
