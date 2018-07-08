@@ -13,7 +13,7 @@
  * [Van geschikte technologieën tot toegeëigende technologieën](content/07rats.md)
 
 
-## Deel 2: initiatieven van Technologische Sovereiniteit
+## Deel 2: initiatieven van Technologische Soevereiniteit
 
  * [Een zaadje ontspruit wanneer het op vruchtbare grond wordt gezaaid](content/08rizomatica.md)
  * [COATI: Simultaneous interpreting using radio frequencies](content/09coati.md)

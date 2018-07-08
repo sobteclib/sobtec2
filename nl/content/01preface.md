@@ -6,9 +6,9 @@
 
 ## Wat is technologische soevereiniteit?
 
-Beste lezers, we zouden het hier graag hebben over technologische soevereiniteit, een concept dat misschien nog weinig voor jouw betekent.
+Beste lezers, ik zou het hier graag hebben over technologische soevereiniteit, een concept dat misschien nog weinig voor je betekent.
 
-Wikipedia zegt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent in staat te zijn om te zelfstandig te beslissen, de macht te hebben om wetten te maken zonder dat die te worden opgelegd door anderen. Het is onmogelijk om soevereiniteit te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definiëert de kwestie van soevereiniteit, wat het is en wat het zal worden, en op elk moment, wie soeverein is.
+Wikipedia stelt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent in staat zijn om zelfstandig te beslissen, de macht te hebben om wetten te maken zonder dat die worden opgelegd door anderen. Het is onmogelijk om soevereiniteit te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definiëert de kwestie van soevereiniteit, wat is en wat zal worden, en op elk moment, wie soeverein is.
 
 Als we de soevereiniteitskwestie overhevelen naar de technologieën, dan wordt de vraag die we willen bespreken: wie heeft de macht om hierover beslissingen te nemen? Over hun ontwikkeling, over hun gebruik, over toegang en over distributie, over aanbod en consumptie, over het prestige dat ze hebben en hun vermogen om ons te boeien ...
 
