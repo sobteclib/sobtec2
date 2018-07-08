@@ -106,7 +106,7 @@ and their manual operations with automated machines.  In 1987, on seeing that
 the number of orders placed by Peterffy was surprisingly high, those in charge
 of the markets sent an inspector, who, where he expected to find a room filled
 with white men shouting and sweating, found nothing more than an IBM computer
-connected to a singe official Nasdaq terminal [^10].  So it was that in 1987,
+connected to a single official Nasdaq terminal [^10].  So it was that in 1987,
 algorithms were launched onto the financial markets.
 
 These days, algo-trading is everywhere, and the serene, algorithmic blinking
