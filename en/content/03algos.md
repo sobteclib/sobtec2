@@ -1,4 +1,4 @@
-# Code is political, algorithms are weapons of math destruction [^1]
+# Code is political, algorithms are weapons of math destruction [^0]
 
 ***Benjamin Cadon***
 
@@ -395,7 +395,7 @@ https://www.washingtonpost.com/news/worldviews/wp/2013/04/23/syrian-hackersclaim
 
 [^18] https://www.ethereum.org/
 
-[^19] https://en.wikipedia.org/wiki/The_DAO_%28organization%29
+[^19] https://en.wikipedia.org/wiki/The_DAO_(organization)
 
 [^20] Primavera De Filippi: “Ethereum: Freenet or Skynet?”. Berkman Center, 2014. https://cyber.harvard.edu/events/luncheon/2014/04/difilippi
 
