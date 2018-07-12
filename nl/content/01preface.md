@@ -124,5 +124,5 @@ En als je niet weet waar u moet beginnen, vraag dan om hulp. Naast alle mensen d
 
 We hebben deze publicatie uitgegeven met de bedoeling dieper in te gaan op de diversiteit en rijkdom en de huidige situatie van technologische soevereiniteit in de wereld, om het potentieel en de moeilijkheden waarmee we te maken hebben te presenteren.
 
-We hopen dat je het interessant vindt en dat je het kritisch leest en ons helpt om het te verbeteren en te distribueren.
+We hopen dat je het interessant vindt en dat je het kritisch leest en ons helpt om het te verbeteren en te verspreiden.
 
