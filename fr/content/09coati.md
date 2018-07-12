@@ -303,7 +303,7 @@ comme il se doit.
 Nous avons accumulé une grande expérience pour pousser les limites de ce
 qui peut être fait pour rompre avec les formats de réunion classiques,
 et ce, même dans des situations extrêmes. En 2016, pour la deuxième
-rencontre de Nyeleni Europe, à Cluj-Napoca (Roumanie),, nous avons fait
+rencontre de Nyeleni Europe, à Cluj-Napoca (Roumanie), nous avons fait
 en sorte que des interprètes et du matériel aux méthodes de
 participation expérimentales puissent fonctionner pour plus de 400
 participants dans plus de 9 langues. Nous sommes actuellement en train
