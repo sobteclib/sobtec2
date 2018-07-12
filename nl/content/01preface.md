@@ -10,7 +10,7 @@ Beste lezers, we willen het graag hebben over technologische soevereiniteit, een
 
 Wikipedia zegt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent beslissingsbevoegdheid hebben, de macht om wetgeving te maken zonder deze van een ander te ontvangen. Het zegt ook dat het onmogelijk is om dit concept te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definieert de kwestie van soevereiniteit, wat het is en wat het zal worden, en op elk moment, wie soeverein is.
 
-Als we de soevereiniteitskwestie overhevelen naar de technologieën, dan wordt de vraag die we willen bespreken: wie heeft de macht om hierover beslissingen te nemen? Over hun ontwikkeling, over hun gebruik, over toegang en over distributie, over aanbod en consumptie, over het prestige dat ze hebben en hun vermogen om ons te boeien ...
+Als we de soevereiniteitskwestie overhevelen naar de technologieën, dan wordt de vraag die we willen bespreken: wie heeft de macht om hierover beslissingen te nemen? Over het ontwikkelen ervan, over het gebruik, over toegang en over distributie, over aanbod en consumptie, over het prestige dat ze hebben en hun vermogen om ons te boeien ...
 
 Ik denk dat er met machtsvragen geen eenvoudige antwoorden zijn. Toch zijn er wenselijke en gewenste horizonten. Met deze publicatie hopen we even te pauzeren en na te denken over de technologische horizon die we uitstippelen, kritisch te oordelen en vooral onze ideeën te delen.
 
