@@ -101,29 +101,16 @@ Ze voeden ons met dystopische toekomstbeelden: nieuws, series, films, boeken van
 
 De dystopie is gemakkelijk en zijn perversiteit ligt in zijn gebrek aan verbeeldingskracht, evenals  zijn potentieel om cultuur en voorstellingen van die negatieve toekomst te creëren: een toekomst van meer discriminatie, meer robotisering, meer onrechtvaardigheid op basis algoritmen, deze nieuwe *wapens van math destruction*[^24]. De dystopie sluit ons in een sierlijke loop van cynisme en geloof dat technologieën zijn wat ze zijn en dat we ze niet kunnen veranderen.  Het zijn self-fulfilling prophecies en het is meer dan bewezen dat als we op het einde een beroep zouden doen op de Terminator [^25], hij zal opdagen.
 
-Het internet sterft, het *wereldwijde web* krimpt.
-In mijn zelfverhogende utopische fictie er zijn werelden die weer met elkaar in verbinding staan dankzij het elektromagnetische spectrum, golven die om ons heen trillen en deel uitmaken van het gemeengoed.
-Mensen herdenken de technologische infrastructuren die ze nodig hebben, zij ontwikkelen ze, controleren ze, testen ze, onderhouden ze, transformeren ze en hen te verbeteren.
+Het internet sterft, het *wereldwijde web* krimpt. In mijn zelf-profetische utopische fictie bevinden zich werelden die het elektromagnetische spectrum zich weer met elkaar verbinden, golven die om ons heen trillen en deel uitmaken van de commons. Mensen herdenken de technologische infrastructuren die ze nodig hebben, ze ontwikkelen ze, controleren ze, testen ze, onderhouden ze, transformeren ze en verbeteren ze.
 
-Ik word 's ochtends wakker, de *smartphone* slaapt niet meer aan mijn zijde, bijna geen wifi door mijn huis.
-Het koffiezetapparaat en de koelkast zijn vrij van het *internet van dingen*, ze niet verbinden met Starfucks + Monosanto om mijn gegevens van de consument te verzenden.  Op de tafel is een tablet ingebouwd om levenslang meegaan.
-Al mijn apparaten zijn standaard versleuteld en komen van een lokale fabriek een paar kilometer verderop.
+Ik word 's morgens wakker, de smartphone ligt niet meer naast me, er zijn bijna geen wifi-golven die door mijn huis lopen. Het koffiezetapparaat en de koelkast zijn vrij van het internet van dingen*, ze maken niet langer verbinding met Starfucks + Monosanto om mijn verbruiksgegevens te verzenden. Op de tafel ligt een tablet die  gemaakt is om een leven lang mee te gaan. Alle apparaten zijn standaard versleuteld en komen van een lokale fabriek op een paar kilometers verderop.
 
-Enkele jaren geleden hebben sommige *biohackers* het gebruik van bacteriën en sporen populair gemaakt elementen voor de opslag van digitale informatie.
-De wet van Moore is overtreden.
-Gepland Veroudering werd verboden.
-De cycli van oorlog, honger en onrecht door de winning van mineralen en de massaproductie van technologieën, verdween geleidelijk.
-Op school hebben we versleutelingscodes gegenereerd: in het basisonderwijs School die verouderde technologieën zoals GPG gebruikt, en later processen gebaseerd op de analyse van onze geluidsafdruk bij een orgasme.
+Enkele jaren geleden populariseerden sommige biohackers het gebruik van bacteriën en sporenelementen voor het opslaan van digitale informatie. De wet van Moore was verbroken. Geplande veroudering werd illegaal gemaakt. De cycli van oorlog, honger en onrecht ontstaan door de winning van mineralen en de massaproductie van technologieën, verdwenen geleidelijk. Op school genereren we coderingssleutels: op de basisschool gebruiken we verouderde technologieën zoals GPG, later gebruiken we processen op basis van de analyse van onze geluidsafdruk bij een orgasme.
 
-I can configure my own algorithmic agent so my data will only be shared with who I wish it to be shared with.
-The friends of my friends make up a network of networks of trust and affinity; between us we often meet to share our ideas, resources and needs.
-I activate my wind, light and water capturers in order to generate all the energy I can.
-This lifestyle frequently requires my presence away from the screen; I am not always connected.
-There are no longer technophobes and technophiles, because no one gives technology that much importance any more.
-It has gone back to the place it should never have left.
+Ik kan mijn eigen algoritmische agent configureren, zodat ik alleen mijn gegevens deel met wie ik wil. De vrienden van mijn vrienden vormen een netwerk van netwerken van vertrouwen en affiniteiten; ideeën, middelen en behoeften komen vaker aan bod. Ik activeer mijn wind-, licht- en waterontvangers om alle schone energie te genereren die ik kan. Deze levensstijl vereist mijn frequente aanwezigheid buiten het scherm; Ik ben niet altijd verbonden. Er zijn geen technofoben meer of technolofilie, omdat niemand te veel waarde hecht aan technologieën. Technologie heeft terug de plek ingenomen die ze altijd heeft gehad.
 
-There are so many worlds left to be created.
-To bring down the alien capitalism we must imagine futures that are not dystopian, futures where playing at creating our appropriated technologies is something common and happily mundane.
+Er zijn nog zoveel werelden te creëren. Om het vervreemdende kapitalisme naar beneden te halen, moeten we ons toekomstbeelden voorstellen die niet  dystopische zijn, toekomstbeelden waarbij we onze toegeëigende technologieën zelf creeëren iets dagdagelijks is en gelukkig iets banaals is geworden.
+
 
 [^1]: Speculative fiction workshop on feminist technologies, organised by Cooptecniques during the 2017 edition of *Hack the Earth* in Calafou (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
 
