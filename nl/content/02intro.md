@@ -67,9 +67,7 @@ Tegenwoordig maakt iedereen gebruik van open source, waaronder een aantal bedrij
 
 Dit onderzoek, getiteld *Roads and Bridges* [^15], bestudeerd hoe grote bedrijven profiteren van de digitale commons en weinig of niets teruggeven.
 
-In het vorige boek hebben we al aangegeven dat het deel uitmaken van de Vrije software/open-sourcewereld was niet genoeg om TS te maken.
-Evenzo zijn een deel van TS betekent niet noodzakelijk dat alle deelnemers werken samen bevrijdingstechnologieën te ontwikkelen.
-TS initiatieven op het gebied van handel, ontwikkeling en dienstverlening moeten verder worden ontwikkeld, rechtvaardigere en duurzamere gemeenschappen, waarin alle deelnemers weten hoe ze moeten handelen werken met diversiteit en inclusie, en met begrip voor voorrechten en vermogensdynamiek.
+In het vorige boek hebben we aangegeven dat deel uitmaken van de vrije software / open-source wereld niet genoeg was om TS te maken. Zo betekent deelname aan TS ook niet dat alle deelnemers samenwerken om bevrijdende technologieën te ontwikkelen. TS-initiatieven moeten meer rechtvaardige en duurzame gemeenschappen opbouwen, waar alle deelnemers weten hoe ze moeten werken met diversiteit, inclusie en met privileges en machtsdynamiek.
 
 *De kokosrevolutie [^16] en de ecologie van vrijheid* volgens Murray Bookchin herinnert ons eraan dat toegeëigende technologieën zijn degenen die zijn ontwikkeld in een gemeenschap die het niveau, of de graad, van de technologieën het kiest behoeften en houdt rekening met de ontwikkelingsprocessen en -methoden om vooruitgang te boeken in de richting van bevrijdende technologieën.
 
