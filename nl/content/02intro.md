@@ -1,4 +1,4 @@
-# Technologische soevereiniteit: Machines weer leren liefhebben
+# Technologische soevereiniteit: Opnieuw leren houden van machines
 
 ***Alex Haché***
 
@@ -90,22 +90,16 @@ Niemand zou zich alleen moeten voelen. Niemand zou het gevoel moeten hebben dat 
 
 Er komen steeds meer berichten binnen van mensen die op zoek zijn naar manieren om online agressie aan te pakken. Ze hebben mijn webpagina verwijderd, de inhoud gecensureerd, lastiggevallen, beledigd, gechanteerd ... De aanvallen zijn onophoudelijk, saai, gevaarlijk, creatief. Er is geen vrijheid van meningsuiting meer op internet. Er zijn alleen niveaus van privileges als het gaat om wie het het hardst mag roepen.
 
-Dat zeiden we een paar maanden geleden tegen elkaar toen ik een ontmoeting had met een aantal dierbaren vrienden om na te denken over hoe de kwestie van aangepaste technologieën te benaderen samen, als een resonerende echo van die utopische horizon waar we naartoe willen te lopen.
-We willen nog steeds naar die plaats gaan waar ze onbekend spreken talen, vocabulaires die niet bestaan, grammatica's die niet in elkaar passen.
+Dit alles, zeiden we een paar maanden geleden tegen elkaar toen ik samen met een paar dierbare vrienden  nadacht over hoe we het probleem van toegeëigende technologieën kunnen benaderen, als een weergalmende echo van die utopische horizon waarnaar we willen lopen. We willen nog steeds naar die plek gaan waar ze onbekende talen spreken, vocabulaires die niet bestaan, grammatica's die niet bij elkaar passen.
 
-o in staat zijn om fenomenen te benoemen die nog niet bij ons zijn, maar die wel een voorliefde hebben voor ons, en soms, transfigure ons.
-Onze verhalen worden speculatieve fictie, het genereren van ideeën en memes die door tijd en ruimte reizen om een een alternatief technologisch ecosysteem, waarin we niet onze grondrechten: vrijheid, privacy, veiligheid, communicatie, informatie, expressie, samenwerking, solidariteit, liefde.
+Om die fenomenen die nog niet onder ons zijn te benoemen, maar die ons alvast vooraf zijn en die ons vaak overstijgen. Onze verhalen worden speculatieve fictie, en deze genereren ideeën en memes die door tijd / ruimte reizen om een alternatief technologisch ecosysteem te worden waarin we onze fundamentele rechten niet hoeven op te offeren: vrijheid, privacy, veiligheid, communicatie, informatie, expressie, samenwerking, solidariteit, liefde.
 
-*"Een self-fulfilling prophecy is een voorspelling die, eenmaal gemaakt, op zichzelf staat, de oorzaak van de verwezenlijking ervan."*
 
-Ze voeden ons met dystopische futures: nieuws, series, films en boeken uit het samenleving van het spektakel.
-Deze doorboren ons en verlammen ons, we zien alleen maar wazig beelden van gadget-technologie.
-De shitty toekomst is nu, wat betekent dat wij geloven dat de enige manier die voor ons openstaat, is door onze vrijheden op te offeren om een technologische machine die tot ons spreekt van innovatie, creativiteit en participatie om hun vermogen te verbeteren om ons te kwantificeren en ons om te vormen tot uniek eenheden, delen van sociale groepen binnen patronen die niemand begrijpt meer.
-De gesloten algoritmen die binnen merkgebonden zwarte dozen verwerken zijn het aantonen van hun groeiende vermogen om invloed op ons uit te oefenen.
+*"Een self-fulfilling prophecy is een voorspelling die, eenmaal gemaakt, op zichzelf de oorzaak is van de verwezenlijking ervan."*
 
-Dystopia is gemakkelijk.
-Zijn perversiteit ligt in zijn gebrek aan verbeelding, en zijn mogelijkheden om cultuur en toekomstvoorstellingen te creëren op basis van negatieve lussen: meer discriminatie, meer machine singulariteit, meer onrechtvaardigheid op basis van algoritmen, de nieuwe *wapens van wiskundevernietiging* [^24].
-Dystopie sluit ons af in een grote kringloop van cynisme en de overtuiging dat technologieën zijn wat ze zijn en dat we niets kunnen doen om anderen te hebben.  Deze verhalen zijn self-fulfilling prophesies en het is meer dan bewezen dat als we een beroep doen op de Terminator [^25] op het einde zal hij komen.
+Ze voeden ons met dystopische toekomstbeelden: nieuws, series, films, boeken van de spektakelmaatschappij. Deze kruisen ons en verlammen ons, we zien alleen wazige beelden van gadgettechnologieën. De context van die shitty toekomst is nu. Het betekent dat we geloven dat er maar één weg is. De weg waar we onze vrijheden moeten opofferen om  een technologische machine te voeden die het heeft over innovatie, creativiteit en participatie maar haar macht vergroot om ons te kwantificeren, te atomiseren in te delen in sociale groepen binnen patronen die niemand nog begrijpt. Gesloten algoritmen verwerkt in eigen zwarte dozen tonen steeds meer hun vermogen om ons te beïnvloeden.
+
+De dystopie is gemakkelijk en zijn perversiteit ligt in zijn gebrek aan verbeeldingskracht, evenals  zijn potentieel om cultuur en voorstellingen van die negatieve toekomst te creëren: een toekomst van meer discriminatie, meer robotisering, meer onrechtvaardigheid op basis algoritmen, deze nieuwe *wapens van math destruction*[^24]. De dystopie sluit ons in een sierlijke loop van cynisme en geloof dat technologieën zijn wat ze zijn en dat we ze niet kunnen veranderen.  Het zijn self-fulfilling prophecies en het is meer dan bewezen dat als we op het einde een beroep zouden doen op de Terminator [^25], hij zal opdagen.
 
 Het internet sterft, het *wereldwijde web* krimpt.
 In mijn zelfverhogende utopische fictie er zijn werelden die weer met elkaar in verbinding staan dankzij het elektromagnetische spectrum, golven die om ons heen trillen en deel uitmaken van het gemeengoed.
