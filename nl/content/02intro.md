@@ -109,7 +109,7 @@ Enkele jaren geleden populariseerden sommige biohackers het gebruik van bacteri�
 
 Ik kan mijn eigen algoritmische agent configureren, zodat ik alleen mijn gegevens deel met wie ik wil. De vrienden van mijn vrienden vormen een netwerk van netwerken van vertrouwen en affiniteiten; ideeën, middelen en behoeften komen vaker aan bod. Ik activeer mijn wind-, licht- en waterontvangers om alle schone energie te genereren die ik kan. Deze levensstijl vereist mijn frequente aanwezigheid buiten het scherm; Ik ben niet altijd verbonden. Er zijn geen technofoben meer of technolofilie, omdat niemand te veel waarde hecht aan technologieën. Technologie heeft terug de plek ingenomen die ze altijd heeft gehad.
 
-Er zijn nog zoveel werelden te creëren. Om het vervreemdende kapitalisme naar beneden te halen, moeten we ons toekomstbeelden voorstellen die niet  dystopische zijn, toekomstbeelden waarbij we onze toegeëigende technologieën zelf creeëren iets dagdagelijks is en gelukkig iets banaals is geworden.
+Er zijn nog zoveel werelden te creëren. Om het vervreemdende kapitalisme te verslaan, moeten we ons toekomstbeelden voorstellen die niet  dystopische zijn, toekomstbeelden waarbij het zelf creeëren van toegeëigende technologieën iets dagdagelijks en gelukkig iets banaals is geworden.
 
 
 [^1]: Speculative fiction workshop on feminist technologies, organised by Cooptecniques during the 2017 edition of *Hack the Earth* in Calafou (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
