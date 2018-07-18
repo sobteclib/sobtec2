@@ -59,21 +59,13 @@ Onderweg zijn we twee belangrijke bijdragen kwijtgeraakt.
 
 Een artikel over het excentrische zelfmanagement van gezondheid, de dekolonisatie van lichamen en de technologische experimenten op het gebied van gezondheid, seksualiteit en zorg: ST kan niet zomaar software of hardware zijn, maar het moet ook wetware zijn als ruimte van weerstand [^10] tegen het farmaceutisch-medisch-industrieel imperium.
 
-We wilden ook ingaan op de weinig bekende geschiedenis van een aantal visionairs van TS in meer diepgang.
-Vanuit nieuwsgierigheid en rebellie bezien het internet plaatsen hebben doen bereiken waar het niet thuishoorde te horen, om de apartheidsstaat trotseren, de clandestiene gemeenschappen versterken en laten zien dat zij is het mogelijk om mooie technologieën te creëren, aangepast aan hun omgeving.
-Voja Antonic [^11] (Joegoslavië), Roberto Verzola [^12] (Filippijnen), Onno Purb [^13] (Indonesië) en Tim Jenkin [^14] (Zuid-Afrika) zijn zeer geweest genereus in het delen van hun context, motivaties en inspiraties met ons.
-Zij hebben ons laten zien dat TS bestaat uit vele lagen, affiliaties en verbeeldingen.
+We wilden ook ingaan op de weinig bekende geschiedenis van verschillende TS-visionairen. Uit nieuwsgierigheid en rebellie zijn ze erin geslaagd om internet te krijgen waar het niet gewenst was, om de apartheidstaat aan te vallen door clandestiene communicatie te versterken, om te laten zien dat prachtige technologieën kunnen worden gecreëerd en aangepast worden aan hun omgeving
 
-In termen van hoe het TS panorama is geëvolueerd sinds het laatste boek, we Het volgende wordt gemarkeerd:
+Voja Antonic [^11] (Joegoslavië), Roberto Verzola [^12] (Filippijnen), Onno Purb [^13] (Indonesië) en Tim Jenkin [^14] (Zuid-Afrika) zijn zeer vrijgevig geweest met ons in het delen van hun context, motivaties en inspiraties met ons. Deze hebben ons laten zien dat TS is samengesteld uit verschillend lagen, afiliaties en denkbeelden.
 
-Tegenwoordig gebruikt iedereen open-sourcecode, waaronder Fortune 500-bedrijven, overheden, grote softwarebedrijven en start-ups.
-Delen in plaats van delen het bouwen van eigen code, bleek goedkoper, makkelijker en meer efficiënt.
-Deze toegenomen vraag legt een extra druk op degenen die deze infrastructuur, maar omdat deze gemeenschappen niet goed zichtbaar zijn, de de rest van de wereld is traag op te merken.
-De meesten van ons nemen het openen van een software aanvraag voor vanzelfsprekend, de manier waarop we de lichten voor vanzelfsprekend aandoen.
-We denken niet na over het menselijk kapitaal dat nodig is om dat te realiseren.
-In geconfronteerd met een ongekende vraag, de kosten van het niet ondersteunen van onze digitale de infrastructuur is legio.
+Tegenwoordig maakt iedereen gebruik van open source, waaronder een aantal bedrijven die zijn opgenomen in de Fortune 500, overheden, grote softwarebedrijven en start-ups. Delen, in plaats van het maken van eigen code, is goedkoper, gemakkelijker en efficiënter.  De meesten onder ons vinden het openen een softwaretoepassing vanzelfsprekend, net zoals we het vanzelfsprekend vinden dat de lichten aangaan. We denken niet na over het menselijk kapitaal dat nodig is om dit te laten gebeuren. de kosten van het niet ondersteunen van onze digitale infrastructuur is enorm.
 
-Dit onderzoek, getiteld *Roads and Bridges* [^15], benadrukt hoe groot bedrijven profiteren van de digital commons en geven weinig of geen niets terug in ruil.
+Dit onderzoek, getiteld *Roads and Bridges* [^15], bestudeerd hoe grote bedrijven profiteren van de digitale commons en weinig of niets teruggeven.
 
 In het vorige boek hebben we al aangegeven dat het deel uitmaken van de Vrije software/open-sourcewereld was niet genoeg om TS te maken.
 Evenzo zijn een deel van TS betekent niet noodzakelijk dat alle deelnemers werken samen bevrijdingstechnologieën te ontwikkelen.
