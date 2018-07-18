@@ -24,23 +24,23 @@ Ze lijken een goede relatie te hebben.
 De zoon vraagt aan zijn vader om hem te filmen met zijn mobiele 'telefoon', terwijl hij iets in de zee doet.
 Eerste poging, tweede, derde, vierde keer.
 Het lukt de vader niet. De zoon blijft geduldig maar is verbaasd over zijn incompetentie.
-Plotseling haalt de vader heftig uit.
+Plotseling haalt de barst de vader uit.
 Het strand is stil.
 Ze roepen tegen elkaar over het wegvallen van vertrouwensrelaties, afkeer en angst voor 
 mobiele telefoons en Facebook.
 De zoon belooft zijn vader beter te begeleiden, zodat hij ook daar in bekwaam wordt. Hij zal van hem een alien maken die met zijn tien vingers kan typen.
-Analoge generaties met specifieke neurale takken, experimenten en kennis in drie dimensies.
+Bij analoge generaties met specifiek hersenvertakkingen, gebeurt het experimenten en leren op drie dimensies.
 Dit gesprek maakte me je alleen voelen.
 Ik wilde meedoen.
-Ik zou willen dat deze explosies van woede gebeurde vaker.
-Ik wil meer mensen zien bewapend met bowlingballen die de iphonen in elke *appelwinkel* [^4].
+Door het gesprek voelde ik me eenzaam. Ik wilde naar binnen en wou dat dit soort uitbarstingen van boosheid vaker voorkwamen. Ik wou dat meer mensen met petanqueballen de iPhones van alle Apple Stores kapotmaakten. [^4].
 
-We zouden andere technologieën moeten hebben, iets beters dan wat we vandaag de dag noemen "Informatie- en communicatietechnologie (ICT).
-Een mobiele telefoon is een computer, de computer is al verouderde, donkere gescreende tabletten, horloges verbonden met het internet dat u tellen terwijl je loopt, menstrueren en neuken.
+We zouden andere technologieën moeten hebben, iets beters dan wat we vandaag de dag "Informatie- en communicatietechnologie (ICT) noemen.
+Een mobiele telefoon is een computer, de computer is al verouderde, tabletten met donkere scheremen, horloges verbonden met het internet die uw stappen tellen terwijl je loopt, menstrueert en neukt.
 Apparaten bevolkt door *apps* en "services" die ons onderschatten.
-"Lang leven kwaad, lang levend kapitaal!  *La bruja avería* [^5] als de incarnatie van de Cassandra syndroom [^6].
+"Lang leven het kwaad, lang levend het kapitaal! *De slechte tekenfilmheks* [^5] als de incarnatie van het Cassandra syndroom [^6].
 
-We moeten de confrontatie aangaan met gesprekken die neigen naar een nulbegrip van hoe een toekomst koelen waarin machines hun eigenheid hebben bereikt zou [^7] zijn.
+We moeten gesprekken durven aangaan die uitgaan een nulbegrip van hoe een beangstigende toekomst eruit zou zien waar machines hun eigenheid hebben bereikt [^7].
+
 We moeten strijden tegen de argumenten die in onze gemeenschappen naar voren worden gebracht en collectieven; door vrienden; in onze netwerken van vertrouwen; en in parken, eetzalen en scholen; in sociale diensten en ziekenhuizen: "Het is zo praktisch en comfortabel", "er is geen alternatief", "ik heb niets te verbergen" en "wat maakt het uit of zij ons in de gaten houden/beheersen? Alles is een ramp sowieso".
 
 Onze gemeenschappelijke ruimten worden gevoed door een gebrek aan originaliteit, geboren uit de neoliberale verhalen die alle nieuwe, commerciële verhalen vergezellen technologie, aangezien zij onze geest en onze verlangens koloniseren.
