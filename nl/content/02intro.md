@@ -6,30 +6,29 @@
 
 > De grote fluwelen bal voldoet aan de behoeften van een buurt of gemeenschap:
 > Het is roze en erg leuk, maar het heeft geen genade. De mensen denken dat de bal
-> ziet het kwaad niet, en dat zij veilig zullen zijn, maar het weet heel goed. Het
-> Uitgevonden. De bal rolt tijdens het rollen. Het heeft het uitgevonden. [^1]
+> het kwaad niet ziet, en dat zij veilig zullen zijn, maar ze weet het heel goed. Ze heeft
+> het Uitgevonden. De bal rolt met veel gerommel. Ze heeft het uitgevonden. [^1]
 
-Science fiction verhalen bouwen mogelijke futures, *multiverses*, en over het algemeen bouwen ze voort op wat (nog) niet is gebeurd.
-Telkens een "activist stelt zich de wereld voor waarvoor ze vechten: een wereld zonder geweld, zonder kapitalisme, zonder racisme, zonder seksisme, zonder gevangenissen, enz. het ontwikkelen van een speculatieve fictie" [^2].
-Narratives die ons verenigen in onze kringen van affiniteiten en weerstand.
-Narratives die ons in staat stellen om aan te vallen "de machine" [^3] en start er een uittocht in.
-Onze capaciteit gebruiken om speculeren over nieuwe, utopische werelden is een voorstel om samen opnieuw na te denken *Evil_elektronica, kwaad_internet, kwaad_mobiel 'telefoons, kwaad_satellieten*.
+Science fiction verhalen bouwen aan die mogelijke toekomst, *multiversen*, en over het algemeen bouwen ze voort op wat (nog) niet is gebeurd.
+Telkens een "activist zich een wereld voorstelt waarvoor die wil strijden: een wereld zonder geweld, zonder kapitalisme, zonder racisme, zonder seksisme, zonder gevangenissen, enz. zorgt dat voor de ontwikkelen van een speculatieve fictie" [^2].
+Narratieven die ons verenigen in onze kringen van affiniteiten en weerstand.
+Narratieven die ons in staat stellen om "de machine" [^3] aan te vallen en er een uitweg in te zoeken.
+Het gebruiken van ons vermogen om op een utopische manier over nieuwe werelden te speculeren, is een voorstel om ook samen na te denken over de ‘kwaadaardig’ electronica, -internet, -mobiel telefoons en -satellieten*.
 
 Reuzenballen van roze fluweel die je niet langer kunt negeren.
 Het ontdekken van nieuwe vormen, het benoemen ervan, het dromen van andere, mogelijke technologieën.
-Technologisch de soevereiniteit neemt toe omdat het tegelijkertijd verlangen, speculatieve fictie en alternatieve realiteiten.
+Technologische soevereiniteit gaat vooruit omdat het tegelijkertijd verlangen, speculatieve fictie en alternatieve realiteiten vormt.
 
 Een 45-jarige vader en zijn 20-jarige zoon.
-Ze lijken een goede relatie.
-De zoon vraagt zijn vader om hem te filmen met zijn mobiele 'telefoon', iets doen in de zee.
-Een keer, twee keer, drie keer, vier keer.
-Zijn vader kan het niet en de zoon is geduldig, maar verbaasd over zijn incompetentie.
-Plotseling explodeert de vader.
+Ze lijken een goede relatie te hebben.
+De zoon vraagt aan zijn vader om hem te filmen met zijn mobiele 'telefoon', terwijl hij iets in de zee doet.
+Eerste poging, tweede, derde, vierde keer.
+Het lukt de vader niet. De zoon blijft geduldig maar is verbaasd over zijn incompetentie.
+Plotseling haalt de vader heftig uit.
 Het strand is stil.
-
-Ze schreeuwen over het verbreken van vertrouwensrelaties, afschuw en angst voor
-Facebook en mobiele 'telefoons.
-De zoon belooft zijn vader beter te begeleiden, zodat hij niet langer onbekwaam zal zijn, zal hij als een vreemdeling worden, die met allen typt tien vingers.
+Ze roepen tegen elkaar over het wegvallen van vertrouwensrelaties, afkeer en angst voor 
+mobiele telefoons en Facebook.
+De zoon belooft zijn vader beter te begeleiden, zodat hij ook daar in bekwaam wordt. Hij zal van hem een alien maken die met zijn tien vingers kan typen.
 Analoge generaties met specifieke neurale takken, experimenten en kennis in drie dimensies.
 Dit gesprek maakte me je alleen voelen.
 Ik wilde meedoen.
