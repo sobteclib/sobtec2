@@ -74,7 +74,7 @@ In het vorige boek hebben we aangegeven dat deel uitmaken van de vrije software 
 
 Met deze ambities benadrukken we nieuwe contexten waarin het concept van TS populair is geworden. De Framasoft-organisatie in Frankrijk heeft bijvoorbeeld een ambitieus actieplan ontwikkeld om het internet te *de-googlizen* [^17], en hun boek *Digitaal: terugnemen van controle* [^18] over verzetspraktijken die soevereiniteit, autonomie en nieuwe vormen van samenwerking combineren. 
 
-In Catalonië zijn er technologiDsche soevereiniteitscongressen [^19], het Anti Mobile Congress * [^20]  en het Sociaal Mobiel Congres* [^21]. Deze evenementen vergroten het bewustzijn en creëren actienetwerken om technologieën te ontwikkelen op basis van verschillende paradigma's.
+In Catalonië zijn er technologische soevereiniteitscongressen [^19], het Anti Mobile Congress* [^20]  en het Sociaal Mobiel Congres* [^21]. Deze evenementen vergroten het bewustzijn en creëren actienetwerken om technologieën te ontwikkelen op basis van verschillende paradigma's.
 
 Het TS-concept is ook overgenomen door een aantal openbare instellingen zoals ”opstandige gemeenteraden" [^22] (Spanje). Het bevorderen van hybride vormen van maatschappelijk middenveld die meer steun bieden aan ST-initiatieven kan ofwel de alarmbellen doen rinkelen of aanleiding geven tot vreugde.
 
@@ -88,10 +88,7 @@ De toekomst ziet er niet goed uit en daarom geloven we dat TS ons kan helpen het
 
 Niemand zou zich alleen moeten voelen. Niemand zou het gevoel moeten hebben dat ze er alleen doorheen gaan. Vrienden zijn bang, de angsten nemen toe en de ruimte voor vrijheid krimpt. Tegelijkertijd komen niet-verbonden mensen samen in een koude, grijze ruimte, ter ondersteuning van een initiatief voor lokaal computergebruik. Ze willen begrijpen wat er gebeurt, en praten met ons over technologieën, delen hun praktijken, formuleren hun vragen, en laten hun angsten varen. Dit gebeurt op veel plaatsen.
 
-Er komen steeds meer berichten binnen waarin wordt opgeroepen om voorbij te komen verbonden gewelddadigheden.
-Ze hebben mijn webpagina verwijderd, de inhoud afgekeurd, lastiggevallen, beledigd, gechanteerd...
-De aanvallen zijn onophoudelijk, saai, gevaarlijk, creatief.
-Er is geen vrijheid van meningsuiting meer op de internet, alleen het niveau van voorrecht als het gaat om het kunnen schreeuwen van de hardst.
+Er komen steeds meer berichten binnen van mensen die op zoek zijn naar manieren om online agressie aan te pakken. Ze hebben mijn webpagina verwijderd, de inhoud gecensureerd, lastiggevallen, beledigd, gechanteerd ... De aanvallen zijn onophoudelijk, saai, gevaarlijk, creatief. Er is geen vrijheid van meningsuiting meer op internet. Er zijn alleen niveaus van privileges als het gaat om wie het het hardst mag roepen.
 
 Dat zeiden we een paar maanden geleden tegen elkaar toen ik een ontmoeting had met een aantal dierbaren vrienden om na te denken over hoe de kwestie van aangepaste technologieën te benaderen samen, als een resonerende echo van die utopische horizon waar we naartoe willen te lopen.
 We willen nog steeds naar die plaats gaan waar ze onbekend spreken talen, vocabulaires die niet bestaan, grammatica's die niet in elkaar passen.
