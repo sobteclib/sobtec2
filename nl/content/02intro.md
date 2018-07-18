@@ -41,27 +41,23 @@ Apparaten bevolkt door *apps* en "services" die ons onderschatten.
 
 We moeten gesprekken durven aangaan die uitgaan een nulbegrip van hoe een beangstigende toekomst eruit zou zien waar machines hun eigenheid hebben bereikt [^7].
 
-We moeten strijden tegen de argumenten die in onze gemeenschappen naar voren worden gebracht en collectieven; door vrienden; in onze netwerken van vertrouwen; en in parken, eetzalen en scholen; in sociale diensten en ziekenhuizen: "Het is zo praktisch en comfortabel", "er is geen alternatief", "ik heb niets te verbergen" en "wat maakt het uit of zij ons in de gaten houden/beheersen? Alles is een ramp sowieso".
+We moeten de argumenten counteren die naar voren worden gebracht in onze gemeenschappen en collectieven; door vrienden; in onze netwerken van vertrouwen; en in parken, eetzalen en scholen; in sociale voorzieningen en ziekenhuizen. Argumenten als: ”het is toch zo praktisch en comfortabel", "er is geen alternatief", "ik heb niets te verbergen" en "wat doet het ertoe als ze ons in de controleren? Alles is toch al om zeep ".
 
-Onze gemeenschappelijke ruimten worden gevoed door een gebrek aan originaliteit, geboren uit de neoliberale verhalen die alle nieuwe, commerciële verhalen vergezellen technologie, aangezien zij onze geest en onze verlangens koloniseren.
+Ons collectief bewustzijn wordt gevoed door het gebrek aan originaliteit. Oorzaak is het neoliberaal discours bij elke nieuwe commerciële technologie die onze geesten en verlangens inpalmen. 
 
-We moeten het hier en nu veel meer hebben over het psychologische, sociale, de politieke, ecologische en economische kosten van deze technologieën.
-Niet over de vrijheid om *selfies* te nemen in de Google, Amazon [^8], Facebook, Microsoft en Apple winkelcentra en upload nog een foto naar een *instasheet* account; maar over repressie, controle, bewaking en kwantificering, en discretie van leven en middelen.
-Om dit gesprek te voeren hebben we een beroep doen op degenen onder u die uitgebuit worden, gek geworden zijn, tot zelfmoord gedreven zijn [^9], of in de grensgebieden of in de speciale economische zones worden gedood, voeder voor een dystopisch mondiaal technologisch ecosysteem.
+We moeten het hier en nu veel meer hebben over de psychologische, sociale, de politieke, ecologische en economische kosten van deze technologieën.
+Niet over de vrijheid om *selfies* te nemen in de Google, Amazon [^8], Facebook, Microsoft en Apple winkelcentra en nog maar eens uploaden van een foto op een *instasheet* account; maar over repressie, controle, bewaking en kwantificering, en discretisering van het leven en het inkomen.
+Om dit gesprek te voeren roepen we diegenen onder jullie op die worden uitgebuit, gek worden gemaakt, tot zelfmoord worden gedreven [^9], of vermoord worden in de femicides in grensgebieden of in de speciale economische zones, om een globaal dystopisch technologisch ecosysteem te voeden.
 
 * * *
 
-De Technologische Soevereiniteit (TS) die we willen is er een die ontwerpt, ontwikkelt, verspreidt en droomt technologieën die welzijn en welzijn bieden leven, die niet bestendigen of meer onrecht creëren.
-Het creëert haar eigen versie van de ethische en politieke revolutie van de voedselsoevereiniteit, dat streeft naar de productie en consumptie van eerlijk en lokaal voedsel.
-We kunnen lering te trekken uit deze analogie, en voedselsoevereiniteit -v- technologische soevereiniteit was waar we het in het eerste deel over hadden.
+De technologische soevereiniteit (TS) die we willen, is er een die technologieën ontwerpt, ontwikkelt, verspreid en droomt die welzijn en welvaart bieden, die niet meer onrechtvaardigheid creëren of in stand houden. Het is zoals de ethische en politieke revolutie in de beweging voor voedselsouvereiniteit die streeft naar de productie en consumptie van eerlijke en lokale gerechten. Wat we kunnen leren van deze analogie van voedselsoevereiniteit versus technologische soevereiniteit is waar we het in het eerste deel over hebben gehad.
 
-In dit dossier blijven we voorbeelden geven van TS, begrepen als een speculatieve fictie die wordt toegepast en wordt gesitueerd om sociale en politieke effecten te creëren
-veranderen.
-De verschillende bijdragen brengen de bestaande inherente spanningen met zich mee tussen autonomie en soevereiniteit, bijdrage en duurzaamheid, toe-eigening door kapitalisme -v- evoluerend, gepast en feministisch technologieën.
+In dit dossier blijven we voorbeelden van TS presenteren die worden begrepen als speculatieve fictie om sociale en politieke verandering te genereren. De verschillende bijdragen tonen de inherente spanningen die bestaan tussen autonomie en soevereiniteit, bijdrage en duurzaamheid, toe-eigening door kapitalisme vs. nieuwe feministische technologieën.
 
 Onderweg zijn we twee belangrijke bijdragen kwijtgeraakt.
 
-Een artikel over de ex-centrische zelforganisatie van gezondheid, de De dekolonisatie van ons lichaam en het veld van experimenten rond technologieën op het gebied van gezondheid, seksualiteit en zorg: TS kan niet alleen software en hardware, moet het ook *wetware* zijn als een ruimte voor weerstand [^10] tegen het farmaceutisch-industriële rijk.
+Een artikel over het excentrische zelfmanagement van gezondheid, de dekolonisatie van lichamen en de technologische experimenten op het gebied van gezondheid, seksualiteit en zorg: ST kan niet zomaar software of hardware zijn, maar het moet ook wetware zijn als ruimte van weerstand [^10] tegen het farmaceutisch-medisch-industrieel imperium.
 
 We wilden ook ingaan op de weinig bekende geschiedenis van een aantal visionairs van TS in meer diepgang.
 Vanuit nieuwsgierigheid en rebellie bezien het internet plaatsen hebben doen bereiken waar het niet thuishoorde te horen, om de apartheidsstaat trotseren, de clandestiene gemeenschappen versterken en laten zien dat zij is het mogelijk om mooie technologieën te creëren, aangepast aan hun omgeving.
