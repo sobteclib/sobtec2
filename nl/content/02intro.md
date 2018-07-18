@@ -69,35 +69,24 @@ Dit onderzoek, getiteld *Roads and Bridges* [^15], bestudeerd hoe grote bedrijve
 
 In het vorige boek hebben we aangegeven dat deel uitmaken van de vrije software / open-source wereld niet genoeg was om TS te maken. Zo betekent deelname aan TS ook niet dat alle deelnemers samenwerken om bevrijdende technologieën te ontwikkelen. TS-initiatieven moeten meer rechtvaardige en duurzame gemeenschappen opbouwen, waar alle deelnemers weten hoe ze moeten werken met diversiteit, inclusie en met privileges en machtsdynamiek.
 
-*De kokosrevolutie [^16] en de ecologie van vrijheid* volgens Murray Bookchin herinnert ons eraan dat toegeëigende technologieën zijn degenen die zijn ontwikkeld in een gemeenschap die het niveau, of de graad, van de technologieën het kiest behoeften en houdt rekening met de ontwikkelingsprocessen en -methoden om vooruitgang te boeken in de richting van bevrijdende technologieën.
+*De kokosrevolutie [^16] en de ecologie van vrijheid* volgens Murray Bookchin herinneren ons eraan dat toegeëigende technologieën diegene zijn die ontwikkeld worden in een gemeenschap die het niveau, of de graad, kiest van de technologieën die ze nodig heeft, en die rekening houdt met de ontwikkelingsprocessen en manieren om dingen te doen, om zo verder te gaan in de richting van bevrijdende technologieën
 
-Met deze ambities belichten we nieuwe contexten waarin het concept van TS populair worden.
-De vereniging Framasoft in Frankrijk heeft bijvoorbeeld een ambitieus actieplan ontwikkeld om *de-googlize* [^17] op het internet te zetten, en hun boek *Digitaal: terugnemen van controle* [^18] heeft betrekking op weerstandspraktijken die soevereiniteit, autonomie en nieuwe vormen van samenwerking combineren.
-In Catalonië zijn er Technologische Soevereiniteit congressen [^19], de Mobiel Congres van Antwerpen* [^20] en het Sociaal Mobiel Congres* [^21].
-Deze de evenementen vergroten de bewustwording en creëren actienetwerken voor de ontwikkeling van technologieën gebaseerd op verschillende paradigma's.
-Het concept van de handelsgarantie is ook overgenomen door een aantal overheidsinstellingen die verband houden met aan de "rebellengemeenten" [^22].
-Bevordering van hybride burgerlijk leven formaten die meer ondersteuning bieden voor TS zouden alarmbellen kunnen doen rinkelen, maar het zou kunnen zijn een oproep tot viering.
 
-Stelt u zich eens voor dat er overheidsgeld zou worden vrijgemaakt om onze digitale infrastructuur te onderhouden.
-en bijvoorbeeld alternatieven aanbieden voor Google-services van niet-commerciële aard perspectief, waarbij gegevens decentraal worden gehost in architecturen die het recht op privacy en encryptie standaard op te nemen in hun ontwerp.
-Dit zou een actielijn kunnen zijn waarbij het openbaar bestuur en het maatschappelijk middenveld de samenleving elkaar wederzijds zou kunnen ondersteunen.
+Met deze ambities benadrukken we nieuwe contexten waarin het concept van TS populair is geworden. De Framasoft-organisatie in Frankrijk heeft bijvoorbeeld een ambitieus actieplan ontwikkeld om het internet te *de-googlizen* [^17], en hun boek *Digitaal: terugnemen van controle* [^18] over verzetspraktijken die soevereiniteit, autonomie en nieuwe vormen van samenwerking combineren. 
 
-Daarom moeten we de kleine en middelgrote gemeenschappen meer steun bieden.
-die passende technologieën en technologieën voor de handel in emissierechten ontwikkelen, zodat zij kunnen blijven technologieën aan te reiken aan de gemeenschappen die deze nodig hebben.
-Technologieën zijn net zo mooi en uniek als veelkleurige vlinders.
-Een krachtig voorbeeld daarvan is het werk van *Atelier Paysan* [^23] ("de werkplaats van de landbouwer"), een netwerk van landbouwers die jarenlang machines hebben ontworpen om de grond te bewerken en de velden, het uitwisselen van hun ontwerpen en kennis.
+In Catalonië zijn er technologiDsche soevereiniteitscongressen [^19], het Anti Mobile Congress * [^20]  en het Sociaal Mobiel Congres* [^21]. Deze evenementen vergroten het bewustzijn en creëren actienetwerken om technologieën te ontwikkelen op basis van verschillende paradigma's.
 
-Om deze allianties te laten functioneren, moeten de instellingen in ieder geval het volgende verliezen de minachting die zij voelen voor kleine initiatieven voor de ontwikkeling van basisonderwijs.
-Naar TS te verwezenlijken, moeten we een beroep doen op alle niveaus: het micro- en het middenniveau en de macro.
+Het TS-concept is ook overgenomen door een aantal openbare instellingen zoals ”opstandige gemeenteraden" [^22] (Spanje). Het bevorderen van hybride vormen van maatschappelijk middenveld die meer steun bieden aan ST-initiatieven kan ofwel de alarmbellen doen rinkelen of aanleiding geven tot vreugde.
 
-De toekomst ziet er niet goed uit en daarom geloven wij dat TS ons te helpen het individualisme tegen te gaan dat door het wereldwijde kapitalisme wordt aangemoedigd.
+Stelt u zich eens voor dat er overheidsgeld zou worden vrijgemaakt om onze digitale infrastructuur te onderhouden en bijvoorbeeld alternatieven aanbieden voor Google-services van niet-commerciële aard, waarbij gegevens decentraal worden gehost in systemen die het recht op privacy en encryptie standaard opnemen in hun ontwerp. Dit zou een gemeenschappelijk actiepunt kunnen zijn waarbij het openbaar bestuur en het maatschappelijk middenveld elkaar wederzijds zou kunnen ondersteunen.
 
-Niemand mag zich alleen voelen.
-Niemand mag het gevoel hebben dat hij er alleen doorheen gaat.
-Vrienden zijn bang, angsten nemen toe en de ruimte voor vrijheid is krimpen.
-Tegelijkertijd komen niet-verbonden mensen samen in een koude, grijze plaats, ter ondersteuning van een initiatief voor lokale informatica.
-Ze willen begrijpen wat er aan de hand is, ga bij ons zitten om over technologieën te praten, deel hun praktijken, formuleren hun vragen, exorceren hun angsten.
-Dit gebeurt op veel plaatsen.
+Daarvoor moeten we meer steun bieden aan de kleine en middelgrote gemeenschappen die de geëigende technologieën en TS ontwikkelen, zodat ze technologieën kunnen blijven leveren aan de gemeenschappen die ze nodig hebben. Technologieën die zo mooi en uniek zijn als veelkleurige vlinders. Een krachtig voorbeeld daarvan is het werk van *Atelier Paysan* [^23] ("de werkplaats van de landbouwer"), een netwerk van boeren die jarenlang machines hebben ontworpen om het land en de. velden te bewerken en hun ontwerpen en kennis uitwisselen..
+
+Hoe dan ook, om deze allianties te laten functioneren, moeten de instellingen de minachting achterwege laten die ze voelen voor kleine initiatieven die basis TS ontwikkelen. Om TS te bereiken, moeten we een beroep doen op alle niveaus: de micro, de middenmoot en de macro.
+
+De toekomst ziet er niet goed uit en daarom geloven we dat TS ons kan helpen het individualisme tegen te gaan dat wordt aangemoedigd door het wereldwijde kapitalisme.
+
+Niemand zou zich alleen moeten voelen. Niemand zou het gevoel moeten hebben dat ze er alleen doorheen gaan. Vrienden zijn bang, de angsten nemen toe en de ruimte voor vrijheid krimpt. Tegelijkertijd komen niet-verbonden mensen samen in een koude, grijze ruimte, ter ondersteuning van een initiatief voor lokaal computergebruik. Ze willen begrijpen wat er gebeurt, en praten met ons over technologieën, delen hun praktijken, formuleren hun vragen, en laten hun angsten varen. Dit gebeurt op veel plaatsen.
 
 Er komen steeds meer berichten binnen waarin wordt opgeroepen om voorbij te komen verbonden gewelddadigheden.
 Ze hebben mijn webpagina verwijderd, de inhoud afgekeurd, lastiggevallen, beledigd, gechanteerd...
