@@ -1,10 +1,10 @@
 # Technologische Soevereiniteit, deel 2
 
  * [Dankwoord](content/00dedication.md)
- * [Voorwoord: Technologische Sovereiniteit - Waar hebben we het over?](content/01preface.md)
- * [Inleiding: Technologische Sovereiniteit - Hoe kunnen we terug leren houden van machines?](content/02intro.md)
+ * [Voorwoord: Technologische Soevereiniteit - Waar hebben we het over?](content/01preface.md)
+ * [Inleiding: Technologische Soevereiniteit - Hoe kunnen we terug leren houden van machines?](content/02intro.md)
 
-## Deel 1: De karakterisering van initiatieven van Technologische Sovereiniteit
+## Deel 1: De karakterisering van initiatieven van Technologische Soevereiniteit
 
  * [Code is political, algorithms are weapons of math destruction](content/03algos.md)
  * [Digital Governance: Er was eens...](content/04gamification.md)
@@ -13,7 +13,7 @@
  * [Van geschikte technologieën tot toegeëigende technologieën](content/07rats.md)
 
 
-## Deel 2: initiatieven van Technologische Sovereiniteit
+## Deel 2: initiatieven van Technologische Soevereiniteit
 
  * [Een zaadje ontspruit wanneer het op vruchtbare grond wordt gezaaid](content/08rizomatica.md)
  * [COATI: Simultaneous interpreting using radio frequencies](content/09coati.md)
