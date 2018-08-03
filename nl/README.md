@@ -2,8 +2,8 @@
 
 We hebben *dringend* nood aan andere technologiëen, betere dan waar we momenteel over beschikken en onder de naam "Informatie en Communicatie technologie" bekend zijn.
 Dit boek bericht over de psychologische, sociale, politieke, ecologische en economische gevolgen van de huidige situatie en verhaalt tegelijkertijd over de ervaringen die zijn opgedaan door te streven naar Technologische Soevereiniteit.
-De auteurs laten ons onder andere zien waar het verlangen naar het ontwerpen, produceren en onderhouden van soevereine technologiëen toe leid.
-Denk hierbij aan ervaringen en initiatieven ter bevordering van vrijheid, autonomie en sociale rechtvaardigheid, die tegelijkertijd berichten over de creatie van een autonoom GSM-netwerk, netwerken van simultaanvertalers, whistleblower platformen, beveilgingsgereedschappen, soevereine algoritmen, ethische servers, geschiktere technologiën en nog veel meer. 
+De auteurs laten ons onder andere zien waar het verlangen naar het ontwerpen, produceren en onderhouden van soevereine technologiëen toe leidt.
+Denk hierbij aan ervaringen en initiatieven ter bevordering van vrijheid, autonomie en sociale rechtvaardigheid, die tegelijkertijd berichten over de creatie van een autonoom GSM-netwerk, netwerken van simultaanvertalers, whistleblower platformen, beveiligingsgereedschappen, soevereine algoritmen, ethische servers, geschiktere technologieën en nog veel meer. 
 De teksten zijn geschreven door Alex Haché, Benjamin Cadon, COATI, Carolina, Kali Kaneko, Loreto Bravo, Maxigas en Margarita Padilla.
 
 ## Uitgaven
