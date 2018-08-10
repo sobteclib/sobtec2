@@ -24,7 +24,7 @@
 
  * Ale Fernandez
 
-Duizendmaal dank aan alle auters voor hun geduld en fantastisch werk:
+Duizendmaal dank aan alle auteurs voor hun geduld en fantastisch werk:
 
  * Alex Hache
  * Benjamin Cadon
@@ -39,7 +39,7 @@ Duizendmaal dank aan alle auters voor hun geduld en fantastisch werk:
  * Margarita Padilla
  * Maxigas
 
-Voor alle ondersteuning, aanmoedigingen, inspratie 
+Voor alle ondersteuning, aanmoedigingen, inspiratie 
 en om te zorgen dat het er uiteindelijk van kwam,
 veel dank aan: 
 
