@@ -8,15 +8,15 @@
 
 Beste lezers, ik zou het hier graag hebben over technologische soevereiniteit, een concept dat misschien nog weinig voor je betekent.
 
-Wikipedia stelt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent in staat zijn om zelfstandig te beslissen, de macht te hebben om wetten te maken zonder dat die worden opgelegd door anderen. Het is onmogelijk om soevereiniteit te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definiëert de kwestie van soevereiniteit, wat is en wat zal worden, en op elk moment, wie soeverein is.
+Wikipedia stelt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent in staat zijn om zelfstandig te beslissen, de macht te hebben om wetten te maken zonder dat die worden opgelegd door anderen. Het is onmogelijk om soevereiniteit te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definieert de kwestie van soevereiniteit, wat is en wat zal worden, en op elk moment, wie soeverein is.
 
 Als we de soevereiniteitskwestie overhevelen naar de technologieën, dan wordt de vraag die we willen bespreken: wie heeft de macht om hierover beslissingen te nemen? Over de ontwikkeling, over het gebruik, over toegang en over distributie, over aanbod en consumptie, over het prestige dat ze hebben en hun vermogen om ons te boeien ...
 
-Ik denk dat er aangaande de vraag rodn machts geen eenvoudige antwoorden zijn te geven. Toch zijn er wenselijke en gewenste horizonten. Met deze publicatie hopen we even te pauzeren en na te denken over de technologische horizon die we uitstippelen, kritisch te oordelen en vooral onze ideeën te delen.
+Ik denk dat er aangaande de vraag rond macht geen eenvoudige antwoorden zijn te geven. Toch zijn er wenselijke en gewenste horizonten. Met deze publicatie hopen we even te pauzeren en na te denken over de technologische horizon die we uitstippelen, kritisch te oordelen en vooral onze ideeën te delen.
 
 In informele gesprekken over technologieën zeggen vrienden vaak dingen als "dat begrijp ik gewoon niet", "daar ben ik niet zo goed in"... Dus probeer ik de focus te verleggen naar een ander, meer politiek terrein. Ik ben er vast van overtuigd dat wat een enkeling wel of niet weet, niet echt zo'n belangrijk onderdeel is van een algemene benadering van technologieën.
 
-Deze verschuiving wordt reeds op andere gebieden toegepast. Ik hoef bijvoorbeeld persoonlijk geen chemie te kennn om te "weten" dat de lucht vervuild is. Ik zeg "weten" tussen aanhalingstekens omdat ik het niet echt weet, in de wetenschappelijke zin van het woord, omdat ik nog nooit zelf een analyse van de luchtverontreiniging heb uitgevoerd. Ik "ken" het echter wel in sociale termen, omdat veel groepen en individuen die ik vertrouw mij dat hebben verteld. Voor mij is de overtuiging dat de lucht vervuild is, een sociale waarheid.
+Deze verschuiving wordt reeds op andere gebieden toegepast. Ik hoef bijvoorbeeld persoonlijk geen chemie te kennen om te "weten" dat de lucht vervuild is. Ik zeg "weten" tussen aanhalingstekens omdat ik het niet echt weet, in de wetenschappelijke zin van het woord, omdat ik nog nooit zelf een analyse van de luchtverontreiniging heb uitgevoerd. Ik "ken" het echter wel in sociale termen, omdat veel groepen en individuen die ik vertrouw mij dat hebben verteld. Voor mij is de overtuiging dat de lucht vervuild is, een sociale waarheid.
 
 Iets soortgelijks komt voor bij biologische voeding. Ik hoef niet naar elke biologische producent te gaan om een chemische analyse uit te voeren van de voedingswaarde van hun producten. Er is een keten van vertrouwen, een circuit dat maakt dat wat ik persoonlijk wel of niet weet irrelevant is. Ik baseer mijn ideeën op wat deze gedeelde kennis als sociale waarheid presenteert.
 
@@ -68,7 +68,7 @@ Net zoals het menselijk lichaam het genetisch leven beschermt (het "eerste" leve
 
 Net zoals het menselijk lichaam, met zijn wonderbaarlijke complexiteit, een indrukwekkend avontuur is dat een periode van duizenden miljoenen jaren overspant. Het begon toen een klein membraan een genetische boodschap begon te beschermen in de meest veranderlijke omgevingen. Zo wordt technologie ontwikkeld en wordt ze complexer om die andere vitale boodschap te beschermen die is ontstaan uit de mens: de culturele boodschap.
 
-Technologie, van vuur of vuursteen tot de monumentale constructies die we overal gebruiken, bijna zonder het te merken, vormt het de ker van de cultuur. Zonder technologie zou er geen cultuur zijn.
+Technologie, van vuur of vuursteen tot de monumentale constructies die we overal gebruiken, bijna zonder het te merken, vormt de kern van de cultuur. Zonder technologie zou er geen cultuur zijn.
 
 De relatie met technologie is paradoxaal. Het stelt je in staat om meer dingen te doen (autonomie), maar je kan niet zonder (afhankelijkheid).
 
@@ -100,9 +100,9 @@ Niemand leeft in absolute technologische soevereiniteit. Soevereiniteit is een w
 
 Er zijn veel dingen die je kunt doen. Natuurlijk zou je meer vrije software kunnen gebruiken. In deze publicatie vindt u veel voorstellen voor gratis programma's die perfect functioneren. Je kunt ook actief deelnemen aan een community. Maar er zijn nog veel meer dingen die je kunt doen:
 
-Als je je zorgen maakt over uw technologische praktijken, deel ze dan, bespreek ze, laat ze circuleren. Technologische praktijken zijn geen individuele kwesties. Ze hebben een sociale dimensie die we aan de orde moeten stellen. Technologieën zouden op de collectieve agenda moeten staan, net als gezondheid, werk of politieke participatie. We moeten het over technologieën hebben.
+Als je je zorgen maakt over jouw technologische praktijken, deel ze dan, bespreek ze, laat ze circuleren. Technologische praktijken zijn geen individuele kwesties. Ze hebben een sociale dimensie die we aan de orde moeten stellen. Technologieën zouden op de collectieve agenda moeten staan, net als gezondheid, werk of politieke participatie. We moeten het over technologieën hebben.
 
-Als je deel uitmaakt van een groep, ga er dan niet vanuit dat alle leden bereid zijn om gebruik te maken van alle computerprogramma's of internetdiensten die u gebruikt. Als ik deel uitmaak van een groep en iemand stelt zonder enige discussie voor om een Skype of een Hangout te hebben, realiseer ik me dat degene die het voorstelt niet heeft overwogen dat er mensen zouden kunnen zijn die geen Skype- of Gmail-account willen openen. 
+Als je deel uitmaakt van een groep, ga er dan niet van uit dat alle leden bereid zijn om gebruik te maken van alle computerprogramma's of internetdiensten die jij gebruikt. Als ik deel uitmaak van een groep en iemand stelt zonder enige discussie voor om een Skype of een Hangout te hebben, realiseer ik me dat degene die het voorstelt niet heeft overwogen dat er mensen zouden kunnen zijn die geen Skype- of Gmail-account willen openen. 
 
 Het is alsof we vegetariërs willen dwingen om vlees te eten omdat het comfortabeler (of goedkoper of wat dan ook) is om één bord te maken volgens de criteria van de absolute meerderheid. Dat zou toch onaanvaardbaar zijn? Nou, op dezelfde manier kan iemand weigeren om gebruik te maken van (of gebruikt te worden door) bepaalde diensten. Dat is hun goed recht. De keuze van de te gebruiken technologieën is niet alleen praktisch, maar ook ethisch.
 
@@ -112,7 +112,7 @@ Als je de macht hebt om contracten af te sluiten (zoals voor de website van je v
 
 In dit boek vind je een hoofdstuk gewijd aan de coöperaties die sociale en solidaire economieën combineren met technologische soevereiniteit. Deze coöperaties zijn gegroepeerd in netwerken van de sociale economie of lokale sociale markten. De groeperingen hebben websites waar je coöperatieve bedrijven kunt vinden om je werk aan te pakken.
 
-Als je activiteiten kunt programmeren (binnen je vereniging, sociaal centrum, ...), organiseer dan bewustmakingsgesprekken, workshops of trainingen over technologische soevereiniteit. Dit is een oprdracht zonder einde, een continu proces, want niemand wordt geboren met deze kennis. Als je niet weet wie deze lezingen of workshops zou kunnen geven, vraag het dan aan de coöperaties. Ze zullen weten wie het kan. Zoals we al hebben gezegd, moeten we het hebben over technologieën.
+Als je activiteiten kunt programmeren (binnen je vereniging, sociaal centrum, ...), organiseer dan bewustmakingsgesprekken, workshops of trainingen over technologische soevereiniteit. Dit is een opdracht zonder einde, een continu proces, want niemand wordt geboren met deze kennis. Als je niet weet wie deze lezingen of workshops zou kunnen geven, vraag het dan aan de coöperaties. Ze zullen weten wie het kan. Zoals we al hebben gezegd, moeten we het hebben over technologieën.
 
 Als je aanzien of invloed hebt, maak dan van technologische soevereiniteit een relevante kwestie op politieke en inhoudelijk relevante agenda's. Zoniet, lees dan over de kwestie in de technologiebijdragen van de kranten. Praat met mensen over wat je hebt gelezen. Maak er een probleem van. Zoek kritische en reflecterende perspectieven. Het gaat er niet om de ultieme trend op de markt na te jagen, maar om op de hoogte te blijven van de vele politieke en maatschappelijke debatten over technologische soevereiniteit.
 
@@ -120,7 +120,7 @@ Als je de energie of het vermogen hebt om leiding te geven, stimuleer dan de vor
 
 Als je een vrouw bent, zoek dan andere vrouwen op om samen vragen te stellen over hoe genderconstructies ons scheiden van actieve, creatieve en leidinggevende relaties met technologieën. De actieve aanwezigheid van vrouwen in de opbouw van technologische soevereiniteit is schaars. Daar is nog veel werk aan de winkel. In dit boek vindt u enkele verwijzingen bij de vrouwen die een aantal van de hoofdstukken hebben geschreven.
 
-En als je niet weet waar u moet beginnen, vraag dan om hulp. Naast alle mensen die je persoonlijk kent, kunnen we tegenwoordig ook in contact komen met mensen die we niet kennen. Als je een video ziet die je interesseert of een artikel waar je dieper op in zou willen gaan, kan je waarschijnlijk een mail naar de auteur sturen. Zelfs als we elkaar niet kennen, kunnen we elkaar helpen.
+En als je niet weet waar je moet beginnen, vraag dan om hulp. Naast alle mensen die je persoonlijk kent, kan je tegenwoordig ook in contact komen met mensen die je niet kent. Als je een video ziet die je interesseert of een artikel waar je dieper op in zou willen gaan, kan je waarschijnlijk een mail naar de auteur sturen. Zelfs als we elkaar niet kennen, kunnen we elkaar helpen.
 
 We hebben deze publicatie uitgegeven met de bedoeling dieper in te gaan op de diversiteit en rijkdom en de huidige situatie van technologische soevereiniteit in de wereld, om het potentieel en de moeilijkheden waarmee we te maken hebben te presenteren.
 

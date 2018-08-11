@@ -1,5 +1,5 @@
 
-# Code is politiek, algorithmen zijn de 'weapons of math destruction' [^1]
+# Code is politiek, algoritmen zijn de 'weapons of math destruction' [^1]
 
 ***Benjamin Cadon***
 
@@ -16,26 +16,26 @@ En toch, ze automatiseren oplossingen voor een hele resem aan complexe problemen
 
 ## Een bestiarium [^3] van algoritmen
 
-Het is niet exact geweten waarmee ze gevoederd en evenmin is er weinig bekend over wat hun rol is een samenleving van geïnformatiseerde mensen.
+Het is niet exact geweten waarmee ze gevoederd worden en evenmin is er weinig bekend over wat hun rol is in een samenleving van geïnformatiseerde mensen.
 Zij zijn niet ontstaan uit een elektrische vonk op de bodem van een zwavelhoudende zee van data.
 Hun stamouders zijn mensen die de code schrijven dat een programma vormt dat een politiek en sociaal project in zich draagt dat wordt gedicteerd door publieke of particuliere sponsors.
 
 Algoritmen zijn als zodanig nooit "neutraal" of onpartijdig.
-Ze zijn gericht op het uitvoeren van taken de die aan hen zijn toegewezen, gewoonlijk door westerse mannen uit de hogere klassen, gebonden kapitalische beginselen.
+Ze zijn gericht op het uitvoeren van taken die aan hen zijn toegewezen, gewoonlijk door westerse mannen uit de hogere klassen, gebonden aan kapitalische beginselen.
 
-Het is hier ook belangrijk te vermelden dat een domme algoritmes die gevoed worden met veel goede data meer succes zullen boeken dan de beroemde kunstmatige intelligentie, ook al deze categorie in staat om scherper uit de hoek te komen.
+Het is hier ook belangrijk te vermelden dat domme algoritmes die gevoed worden met veel goede data, meer succes zullen boeken dan de beroemde kunstmatige intelligentie, ook al is deze categorie in staat om scherper uit de hoek te komen.
 Laten we bekende vormen niet vergeten te citeren uit de Amerikaanse echelons, de GAFAM (Google, Apple, Facebook, Amazon en Microsoft) of BATX, hun alter-ego's die zich ophouden aan de andere kant van de Stille Oceaan (de Chinese reuzen: Baidu, Alibaba, Tencent en Xiaomi).
-Hun metabolisme is gebaseerd op het verzamelen, met onze hulp, van gigantische hoeveelheden gegevens over onze onooglijkste handelingen en gebaren, onze dagelijkse activiteiten aangevuld met gegevens van een grote aantalen mobiele apps en onderling verbonden substructuren die ons leven zouden moeten vergemakkelijken.
+Hun metabolisme is gebaseerd op het verzamelen, met onze hulp, van gigantische hoeveelheden gegevens over onze onooglijkste handelingen en gebaren, onze dagelijkse activiteiten, aangevuld met gegevens van grote aantallen mobiele apps en onderling verbonden substructuren die ons leven zouden moeten vergemakkelijken.
 
 ### Algoritmen die onze persoonlijke gegevens vreten
 
-De resulterende algoritmen zijn polymorf.  Ze zijn verder uitgegroeid, observeren en bespioneren ons intussen van op afstand en verzamelen minitieus alles over onze online activiteiten en plaatsen die we het meest regelmatig bezoeken.
+De resulterende algoritmen zijn polymorf. Ze zijn verder uitgegroeid, observeren en bespioneren ons intussen van op afstand en verzamelen minitieus alles over onze online activiteiten en plaatsen die we het meest regelmatig bezoeken.
 Zij zijn intussen over deze interacties uitgestegen om beter te kunnen bepalen wie
 het meest autoriteit heeft, zonder rekening te houden met de logica van volksstemmingen en ordeningen op basis van feitelijke verdienste.
 
 Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analyseerden de kwaliteit en frequentie van onze onderlinge uitwisselingen om onze reputatie te beoordelen en onze affiniteiten te achterhalen.
 
-Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen, om in staat te zijn on ons daarmee te kunnen manipuleren.
+Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen, om in staat te zijn om ons daarmee te kunnen manipuleren.
 
 | | **Aan één zijde** | **Above** | **Within** | **Beneden** |
 | --- | --- | --- | ---| --- |
@@ -48,12 +48,11 @@ Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste v
 *Volgens Domenique Cardon in "À quoi rêvent les algorithmes".* [^4]
 
 Deze verschillende generaties van algoritmen leven nog steeds naast elkaar, en zijn goed herkenbaar in die zin dat ze ons zeer efficiënt ten dienste staan via allerlei diensten.
-Ze proberen ons "digitaal dividend" [^5] ten gelde te maken doordat ze ons bestaan discreet opdelen en van daaruit in staat is het in de fijnst mogelijke plakjes te versnijden, en op basis daarvan de mogelijk verschaft is al deze informatie die van nu zou kunnen zijn te extraheren [^6].
+Ze proberen ons "digitaal dividend" [^5] ten gelde te maken doordat ze ons bestaan discreet opdelen en van daaruit in staat zijn het in de fijnst mogelijke plakjes te versnijden, en op basis daarvan de mogelijkheid verschaffen om alle informatie met geldwaarde te extraheren [^6].
 
-Elke staat kweekt een angstaanjagende mensenetende reus (verder oger) die werkt in de surveillance.
-De belangen van deze oger vermengen zich vaak met die van haar vrienden de commerciële ogers, die met goedkeuring op schaamteloze wijze haar winkels overvalt [^7].
-Zijn onverzadigbare eetlust leidt het tot het stalken op plaatsen met de meeste dataverkeer.
-Het wordt verondersteld dat je in een hooiberg een terrorist moet kunnen vinden, hoewel het vaak lijdt aan bijziendheid en obesitas, en het blijkt een efficiënter middel bij het stelen van politieke en industriële geheimen dan om slechteriken voor te zijn voordat ze tot actie overgaan.
+Elke staat kweekt een angstaanjagende boeman die bij de inspectie werkt. De belangen van deze boeman vermengen zich vaak met die van haar vrienden de commerciële boemannen, die met goedkeuring op schaamteloze wijze haar winkels overvalt [^7].
+Zijn onverzadigbare eetlust leidt tot het stalken op plaatsen met de meeste dataverkeer.
+De boeman wordt verondersteld een terrorist in een hooiberg te kunnen vinden, maar lijdt vaak eerder aan bijziendheid en obesitas en blijkt een efficiënter middel bij het stelen van politieke en industriële geheimen dan om slechteriken voor te zijn voordat ze tot actie overgaan.
 
 ### Algoritmen die publieke data vreten
 
