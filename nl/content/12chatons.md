@@ -108,8 +108,8 @@ Na bespreking en eventueel een paar suggesties kan een gewone meerderheidsstemmi
 
 Een of meer leden kunnen zich echter het recht voorbehouden om de terugtrekking van een ander lid te verzoeken, op voorwaarde dat:
 
-    - het voorstel gesteund wordt op basis van overtuigende argumenten die onder alle leden worden verspreid;
-    - er ingestemd wordt met een collectieve stemming, al dan niet na een tegensprekelijk debat.
+- het voorstel gesteund wordt op basis van overtuigende argumenten die onder alle leden worden verspreid;
+- er ingestemd wordt met een collectieve stemming, al dan niet na een tegensprekelijk debat.
 
 In het besef dat het niet mogelijk is de naleving van alle punten van het CHATONS-handvest te garanderen zonder afbreuk te doen aan de vertrouwelijkheid van de persoonsgegevens, zal de collegiale toetsing **de facto** onvolmaakt zijn. Het collectief is dus vooral gebaseerd op het vertrouwen en de welwillendheid die leden onder elkaar hebben.
 
@@ -122,11 +122,11 @@ Elk lid, hierna "KITTEN" genoemd, verbindt zich ertoe het charter na te leven me
 
 **Transparantie, non-discriminatie en bescherming van persoonsgegevens**
 
-    Eerlijkheid is het sleutelwoord van deze verbintenissen, die tot doel hebben de betrouwbaarheid van de voorgestelde diensten vast te stellen en het vertrouwen van de gebruikers te vergroten. De Algemene Gebruiksvoorwaarden dienen volkomen duidelijk en toegankelijk te zijn en mogen niet in strijd zijn met het CHATONS-Carter.
+Eerlijkheid is het sleutelwoord van deze verbintenissen, die tot doel hebben de betrouwbaarheid van de voorgestelde diensten vast te stellen en het vertrouwen van de gebruikers te vergroten. De Algemene Gebruiksvoorwaarden dienen volkomen duidelijk en toegankelijk te zijn en mogen niet in strijd zijn met het CHATONS-Carter.
 
-    De host moet een transparant beleid voeren voor het beheer van gebruikersaccounts, zonder discriminatie, ongeacht of de toegang gratis of tegen betaling is. Het moet de jurisdictie van het betrokken land eerbiedigen.
+De host moet een transparant beleid voeren voor het beheer van gebruikersaccounts, zonder discriminatie, ongeacht of de toegang gratis of tegen betaling is. Het moet de jurisdictie van het betrokken land eerbiedigen.
 
-    De host verbindt zich ertoe alle gebruikers toe te staan hun persoonlijke gegevens, al dan niet versleuteld, te herstellen, behalve in het geval van bepaalde diensten gebaseerd op de tijdelijke overdracht van versleutelde persoonlijke gegevens. 
+De host verbindt zich ertoe alle gebruikers toe te staan hun persoonlijke gegevens, al dan niet versleuteld, te herstellen, behalve in het geval van bepaalde diensten gebaseerd op de tijdelijke overdracht van versleutelde persoonlijke gegevens. 
 
 **Openheid, economie, bescherming**
 
@@ -191,7 +191,7 @@ Met onze vereelte handen, als ruwe boeren in de computerwereld, willen we zoveel
 
 [^9]: https://chatons.org/charte-et-manifeste
 
-[^10]: https://fr.wikipedia.org/wiki/ADSL
+[^10]: https://nl.wikipedia.org/wiki/ADSL
 
 [^11]: http://arn-fai.net/
 
@@ -199,6 +199,6 @@ Met onze vereelte handen, als ruwe boeren in de computerwereld, willen we zoveel
 
 [^13]: http://www.passerelleco.info/article.php?id_artikel=103
 
-[^14]: https://fr.wikipedia.org/wiki/R%C3%A9priv_seau_priv%C3%A9_virtuel
+[^14]: https://nl.wikipedia.org/wiki/Virtueel_Particulier_Netwerk
 
 
