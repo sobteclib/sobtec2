@@ -6,13 +6,13 @@
 
 ## Inleiding
 
-In de afgelopen jaren is het internetgebruik gecentraliseerd bij een extreem klein aantal online serviceproviders, de belichaming van het inmiddels bekende GAFAM (Google Apple Facebook Amazon Microsoft). Deze concentratie, die volledig in strijd is met de oorsprong van het gedecentraliseerde en gedistribueerde Internet [^1], heeft Tim Berners Lee, de schepper van het web, ertoe aangezet voorstellen voor de toekomst te formuleren.[^2] Waarom zouden we ons dan zorgen maken? Eenvoudigweg omdat gegevens, en in het bijzonder onze persoonlijke gegevens, de economische brandstof zijn van deze grote spelers en een dergelijke accumulatie van informatie over ons hen enorme macht geeft, waardoor we veranderd zijn in "producten" door hun "gratis" diensten. De vragen rond deze vragen zijn uiteindelijk veelvoudig en complex: algemeen toezicht, kunstmatige intelligentie gevoed door "big data", het einde van anonimiteit en privacy, vrijheid van meningsuiting en toegang tot ingeperkte informatie, censuur of verlies van gegevens na de sluiting van een dienst, ... Gelukkig heeft een groep hardcore Galliërs zich verzameld rond de vereniging Framasoft [^3] en zich moedig ertoe verbonden om Internet [^4] te "de-googlen" en dit initiatief te verspreiden zodat we de controle kunneen "herwinnen". [^5]
+In de afgelopen jaren heeft er een centralisering plaatsgevonden van het internetgebruik door een extreem klein aantal online serviceproviders, de belichaming van het inmiddels bekende GAFAM (Google Apple Facebook Amazon Microsoft). Deze concentratie, die volledig in strijd is met de oorsprong van het gedecentraliseerde en gedistribueerde Internet [^1], heeft Tim Berners Lee, de schepper van het web, ertoe aangezet voorstellen voor de toekomst te formuleren.[^2] Waarom zouden we ons dan zorgen maken? Eenvoudigweg omdat gegevens, en in het bijzonder onze persoonlijke gegevens, de economische brandstof zijn van deze grote spelers en een dergelijke accumulatie van informatie over ons hen enorme macht geeft, waardoor we veranderd zijn in "producten" in ruil voor hun "gratis" diensten. De vragen die deze situatie oproept zijn veelvoudig en complex: algemeen toezicht, kunstmatige intelligentie gevoed door "big data", het einde van anonimiteit en privacy, vrijheid van meningsuiting en toegang tot ingeperkte informatie, censuur of verlies van gegevens na de sluiting van een dienst, ... Gelukkig heeft een groep hardcore Galliërs zich verzameld rond de vereniging Framasoft [^3] en zich moedig ertoe verbonden om het Internet [^4] te "de-googlen" en dit initiatief te verspreiden zodat we de controle kunnen "herwinnen". [^5]
 
 ## De gevaren
 
 ### Spionage
 
-Onder het voorwendsel van "een betere gebruikerservaring" wordt ons gedrag op het internet voortdurend bespioneerd. Deze informatie kan worden gebruikt om gerichte reclame weer te geven. Maar de onthullingen van Edward Snowden toonden ook aan dat internetreuzen werden gedwongen om deze gegevens (soms zeer privé: e-mails uitgewisseld op GMail, foto's gedeeld op Facebook, Skype gesprekken, geolocatie van telefoons, enz.) door te spelen aan overheidsdiensten. Onder het voorwendsel van terrorismebestrijding kunnen staten nu veel meer informatie verkrijgen dan een "Big Brother" ooit had durven dromen.
+Onder het valse voorwendsel van "een betere gebruikerservaring" wordt ons gedrag op het internet voortdurend bespioneerd. Deze informatie kan worden gebruikt om gerichte reclame weer te geven. Maar de onthullingen van Edward Snowden toonden ook aan dat internetreuzen werden gedwongen om deze gegevens (soms zeer privé: e-mails uitgewisseld op GMail, foto's gedeeld op Facebook, Skype gesprekken, geolocatie van telefoons, enz.) door te spelen aan overheidsdiensten. Onder het voorwendsel van terrorismebestrijding kunnen staten nu veel meer informatie verkrijgen dan een "Big Brother" ooit had durven dromen.
 
 ### Privacy
 
@@ -20,13 +20,13 @@ Onze gegevens zijn een verlengstuk van onszelf. Ze kunnen aangeven waar we zijn,
 
 Een enkel gegeven hoeft op zich niet per se gevoelig te zijn. Maar de combinatie ervan kan dat zeker wel zijn (als je bijvoorbeeld allerlei zaken opgezocht hebt rond kanker en vervolgens een levensverzekering aanvraagt).
 
-In een wereld waarin alles digitaal wordt (lezen, tv kijken, telefoneren, muziek beluisteren, met vrienden rondhangen op sociale netwerken, ...), is ons privéleven een essentieel element van wat ons uniek maakt. Als iemand met slechte  bedoelingen toegang krijgt tot jouw smartphone, dan kan die binnen enkele minuten genoeg over je te weten komen om jou ernstige schade te berokkenen Hij kan je identiteit misbruiken op Facebook, bedrijfsinformatie ontvreemden, aankopen doen zonder jouw toestemming, enz.
+In een wereld waarin alles digitaal wordt (lezen, tv kijken, telefoneren, muziek beluisteren, met vrienden rondhangen op sociale netwerken, ...), is ons privéleven een essentieel element van wat ons uniek maakt. Als iemand met slechte  bedoelingen toegang krijgt tot jouw smartphone, dan kan die binnen enkele minuten genoeg over je te weten komen om jou ernstige schade te berokkenen. Hij of zijn kan je identiteit misbruiken op Facebook, bedrijfsinformatie ontvreemden, aankopen doen zonder jouw toestemming, enz.
 
 ### Centralisatie
 
 De belangrijkste spelers op het internet zijn echte octopussen geworden. Facebook is eigenaar van WhatsApp en Instagram, Google van Youtube en Waze, Microsoft distribueert Skype, enz.
 
-Deze concentratie van spelers brengt verschillende problemen met zich mee. Wat gebeurt er als Facebook de boeken dicht doet? Hoe kan ik zoeken als Google crasht? We worden geleidelijk afhankelijk van diensten die door een beperkt aantal actoren worden verleend. Apple (iPhone), Google (Android) en Microsoft (Windows Phone) bijvoorbeeld hebben bijna de hele markt van besturingssystemen voor smartphones in handen.
+Deze concentratie van spelers brengt verschillende problemen met zich mee. Wat gebeurt er als Facebook de boeken toe doet? Hoe kan ik zoeken als Google crasht? We worden geleidelijk afhankelijk van diensten die door een beperkt aantal actoren worden verleend. Apple (iPhone), Google (Android) en Microsoft (Windows Phone) bijvoorbeeld hebben bijna de hele markt van besturingssystemen voor smartphones in handen.
 
 Bovendien staat de omvang van deze spelers innovatie in de weg: het is moeilijk om een start-up op te starten als je moet opboksen tegen Apple of Google (beide bedrijven staan respectievelijk op één en twee genoteerd op de beurs).
 
@@ -58,7 +58,7 @@ Om ervoor te zorgen dat het internet trouw blijft aan de grondbeginselen die tot
 
 Framasoft zet zich in om alleen software te gebruiken met "open" broncode en pleit voor een internet dat opgebouwd is rond de principes van delen en onafhankelijkheid.
 
-Uitbuiting, surveillance, censuur en toe-eigening van gegevens zijn waarden die Framasot weigert, ten gunste van transparantie (eerlijkheid), het duidelijk vermelden van de gebruiksvoorwaarden van diensten en het weigeren van discriminatie.
+Uitbuiting, surveillance, censuur en toe-eigening van gegevens zijn waarden die Framasoft weigert, ten gunste van transparantie (eerlijkheid), het duidelijk vermelden van de gebruiksvoorwaarden van diensten en het weigeren van discriminatie.
 
 Framasoft verbindt zich er dan ook toe de gegevens van gebruikers van haar diensten niet te exploiteren en een open en eerlijk web te promoten.
 
@@ -89,7 +89,7 @@ Framasoft zet zich ook in om self-hosting en interoperabiliteit te faciliteren, 
 
 Geconfronteerd met het succes van zijn "Degoogle Internet" campagne, heeft Framasoft het aantal gebruikers van zijn online diensten zien stijgen, samen met de werkbelasting om ze te onderhouden en te ondersteunen en nieuwe diensten aan te bieden. De vereniging, geleid door vijf vaste leden, leeft voornamelijk van giften en wil niet groeien en op 'menselijke' schaal blijven.
 
-Om deze dynamiek uit te breiden en de decentralisatie van diensten aan te moedigen, lanceerde Framasoft het C.H.A.T.O.N.S. initiatief. [^8] (Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires) om verschillende structuren en initiatieven samen te brengen die diensten, gegevens en inhoud op hun eigen manier hosten, met respect voor een gemeenschappelijk manifest en een charter [^9]. Deze twee documenten worden gezamenlijk opgesteld en gewijzigd door de leden van het collectief. Op die manier kan rekening gehouden worden met de evolutie van de verschillende structuren en de sociale, technische en juridische omgeving van datahosting in Frankrijk.
+Om deze dynamiek uit te breiden en de decentralisatie van diensten aan te moedigen, lanceerde Framasoft het C.H.A.T.O.N.S. initiatief [^8] (Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires) om verschillende structuren en initiatieven samen te brengen die diensten, gegevens en inhoud op hun eigen manier hosten, met respect voor een gemeenschappelijk manifest en een charter [^9]. Deze twee documenten worden gezamenlijk opgesteld en gewijzigd door de leden van het collectief. Op die manier kan rekening gehouden worden met de evolutie van de verschillende structuren en de sociale, technische en juridische omgeving van datahosting in Frankrijk.
 
 
 ### Algemeen beleid
@@ -136,7 +136,7 @@ Het gebruik van open formaten is verplicht, in ieder geval voor alle gegevens di
 
 Leden van CHATONS verbinden zich ertoe de open licenties te respecteren voor de software die zij gebruiken (met inbegrip van het vermelden van deze licenties en het verwijzen naar de bronnen).
 
-In ethisch opzicht is sponsoring acceptabel, net als mecenaat, donaties of een businessmodel dat bestaat uit late betalen voor bepaalde functies of zelfs voor de hele dienst. Het businessmodel van elk CHATONS-lid moet duidelijk gemaakt worden op een speciale pagina die voor gebruikers gemakkelijk te raadplegen en te begrijpen is. Het spreekt voor zich dat de economische aspecten van de activiteiten van een CHATONS-lid strikt in overeenstemming moeten zijn met de wetgeving van het land in kwestie.
+In ethisch opzicht is sponsoring acceptabel, net als mecenaat, donaties of een businessmodel dat bestaat uit het laten betalen voor bepaalde functies of zelfs voor de hele dienst. Het businessmodel van elk CHATONS-lid moet duidelijk gemaakt worden op een speciale pagina die voor gebruikers gemakkelijk te raadplegen en te begrijpen is. Het spreekt voor zich dat de economische aspecten van de activiteiten van een CHATONS-lid strikt in overeenstemming moeten zijn met de wetgeving van het land in kwestie.
 
 Reclame van reclamebureaus wordt echter niet aanvaard. Evenmin mag er gebruik worden gemaakt van persoonsgegevens, mag de gebruikersactiviteit niet gemonitord worden behalve voor juridische en statistische doeleinden, mogen de gebruikersadressen niet voor andere dan administratieve of technische doeleinden worden gebruikt. Statistische hulpmiddelen moeten gratis zijn en voldoen aan de voorwaarden van het Collectief.
 
