@@ -1,4 +1,4 @@
-# Een zaadje ontspruit wanneer het op vruchtbare grond wordt gezaaid.
+#Een zaadje ontspruit wanneer het op vruchtbare grond wordt gezaaid.
 
 ***Loreto Bravo***
 
