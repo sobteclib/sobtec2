@@ -13,6 +13,7 @@ Nos merecemos otras tecnologías, algo mejor que lo que hoy en día llamamos «T
 
 * [Original](https://sobtec.gitbooks.io/sobtec2/content/or/)
 * [Inglés](https://sobtec.gitbooks.io/sobtec2/content/en/)
+* [Dutch](https://sobtec.gitbooks.io/sobtec2/content/nl/)
 * Castellano
 * [Francés](https://sobtec.gitbooks.io/sobtec2/content/fr/)
 

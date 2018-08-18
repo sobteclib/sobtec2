@@ -13,6 +13,7 @@ We deserve to have other technologies, something better than what we nowadays ca
 
 * [Original](https://sobtec.gitbooks.io/sobtec2/content/or/)
 * English
+* [Dutch](https://sobtec.gitbooks.io/sobtec2/content/nl/)
 * [Spanish](https://sobtec.gitbooks.io/sobtec2/content/es/)
 * [French](https://sobtec.gitbooks.io/sobtec2/content/fr/)
 
