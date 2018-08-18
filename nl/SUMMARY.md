@@ -6,7 +6,7 @@
 
 ## Deel 1: De karakterisering van initiatieven van Technologische Soevereiniteit
 
- * [Code is political, algorithms are weapons of math destruction](content/03algos.md)
+ * [Code is politiek, algoritmen zijn de 'weapons of math destruction'](content/03algos.md) 
  * [Digital Governance: Er was eens...](content/04gamification.md)
  * [Het behoud van Technologische Soevereiniteit : Het geval Internet Relay Chat](content/05irc.md)
  * [Van hacklabs tot tech-coöperatieven](content/06cooperatives.md) 
@@ -18,7 +18,7 @@
  * [Een zaadje ontspruit wanneer het op vruchtbare grond wordt gezaaid](content/08rizomatica.md)
  * [COATI: Simultaneous interpreting using radio frequencies](content/09coati.md)
  * [Klokkenluiden: Een tweesnijdend zwaard](content/10leaks.md)
- * [Encrypting mails with usable tools: The mass adoption of encryption technologies](content/11leap.md)
+ * [Versleutelen van mails met bruikbare tools](content/11leap.md)
  * [Let's develop peasant computing, let's breed “kittens”](content/12chatons.md)
 
 ## Credits
