@@ -1,4 +1,3 @@
-
 # Code is politiek, algoritmen zijn de 'weapons of math destruction' [^1]
 
 ***Benjamin Cadon***

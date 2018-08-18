@@ -1,5 +1,4 @@
-﻿
-# Van hacklabs tot tech-coöperatieven 
+﻿# Van hacklabs tot tech-coöperatieven 
 
 ***Carolina***
 

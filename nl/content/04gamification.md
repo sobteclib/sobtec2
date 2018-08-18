@@ -1,6 +1,6 @@
 ﻿# Digitaal bestuur
 
-**Ippolita**
+***Ippolita***
 
 ![](../../contrib/gfx/illustrations/digital-governance-halfsize.png)
 
