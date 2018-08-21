@@ -4,7 +4,7 @@
 
 ***Kali Kaneko****
 
-![](../../bijdrage/gfx/illustraties/leap-halfsize.png)
+![](../../contrib/gfx/illustrations/leap-halfsize.png)
 
 Encryptie is de toepassing van wiskunde om te verzekeren dat onze informatie enkel* toegankelijk is voor de personen of machines met wie we het willen delen. Encryptie heeft een lange geschiedenis. Protocollen voor het verzenden van versleutelde informatie, zonder eerst een sleutel overeen te komen om de data te decrypteren, bestaat al ongeveer 35 jaar. Het mijlpaal-programma Pretty Good Privacy, vaak afgekort als PGP, maakte sterke encryptie van e-mail met garanties voor vertrouwelijkheid, authenticatie en integriteit op grote schaal beschikbaar voor gebruikers en ontwikkelaars in 1991 [^0].
 
@@ -163,32 +163,3 @@ Hou u goed! Ik kijk ernaar uit om beveiligd van u te lezen in de intertubes.
 [^18]: https://modernpgp.org/
 
 [^19]: https://autocrypt.readthedocs.io/
-
-[^8]: https://github.com/micahflee/trollwot
-
-[^9]: https://downloads.leap.se/publications/cans2016.pdf
-
-[^10]: https://mailpile.is
-
-[^11]: https://tankredhase.com/2015/12/01/whiteout-post-mortem/index.html
-
-[^12]: https://mailvelope.com
- 
-[^13]: https://roundcube.net/news/2016/05/22/roundcube-webmail-1.2.0-released
-
-[^14]: https://github.com/OpenTechFund/secure-email
-
-[^15]: https://openpgp.org/
-
-[^16]: https://pixelated-project.org/
-
-[^17]: https://panoramix-project.eu/
-
-[^18]: https://modernpgp.org/
-
-[^19]: https://autocrypt.readthedocs.io/
-
-
-
-
-
