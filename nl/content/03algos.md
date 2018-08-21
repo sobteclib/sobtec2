@@ -36,9 +36,9 @@ Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analysee
 
 Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen, om in staat te zijn om ons daarmee te kunnen manipuleren.
 
-| | **Aan één zijde** | **Above** | **Within** | **Beneden** |
+| | **Aan één zijde** | **Van bovena** | **Van binnenuit** | **Beneden** |
 | --- | --- | --- | ---| --- |
-**Example** | Audience measurement, Google Analytics, reclame tabs | Google PageRank, Digg, Wikipedia | Aantal vrienden op Facebook, Retweets op Twitter, notities en opinies | Aanbevelingen op Amazon, behaviour based advertising |
+|**Voorbeeld** | Audience measurement, Google Analytics, reclame tabs | Google PageRank, Digg, Wikipedia | Aantal vrienden op Facebook, Retweets op Twitter, notities en opinies | Aanbevelingen op Amazon, behaviour based advertising |
 | **Data** | Bezoeken | Relaties | Likes | Tracking |
 | **Populatie** | Representatieve steekproeven | Stemmentelling, gemeenschappen | Sociale netwerken, affiniteiten, declaratief | Impliciete individuele gedragingen |
 | **Berekeningstype** | Vote | Classificatie naar verdienste | Benchmark | Machineeducatie |
@@ -158,14 +158,13 @@ We kunnen ons getroosten met het participatieve debat dat in Frankrijk plaatsvin
 ## soevereine algoritmische utopieën
 
 Dus, hoe gaan we van een algoritmisch monster dat we leidzaam moeten ondergaan de omslag maken naar een huisdier dat we brokjes voederen?
-FIXME: Laten we een paar regenwormen composteren om de biotechnologische consequenties die de mensheid en technologie aanzet in harmonie met silicium te leven.
+Laten we een paar regenwormen composteren om de biotechnologische consequenties die de mensheid en technologie aanzet in harmonie met silicium te leven.
 Hoe kunnen we ons lot weer in eigen handen nemen, onze mentale autonomie terug veroveren, onze technologische soevereiniteit, die vandaag de dag wordt aangedreven door algoritmen in de ruimte van sociale controle?
 
 Code is een politiek objectief, die deze "numerieke" wereld vullen met algo-bots die onze realiteit binnendringen.
 Deze politieke objecten, kunnen we daarom te lijf gaan met klassieke wapens: via militante actie, lobbyen en bewustmakinings campagnes gericht op de politieke macht, inspanningen leveren om regelgeving te beïnvloeden en te op te roepen tot een verdiepen van regulerende processen en het actief waarderen van initiatieven die bijdragen aan autonomie en geluk voor gehele mensheid.
 Even belangrijk is het om te eisen meer nadruk te leggen op de rol voor het maatschappelijk middenveld bij de regulering van en normen voor het internet, en het vastleggen van normen voor netwerktechnologie [^42], waarbij de vorm op basis van grondwetsartikelen van een land kan worden genomen als voorbeeld.
 
-FIXME
 Op individueel niveau is het zonder enige twijfel noodzakelijk om te "ont-googlen" van de Internet [^43].
 Dit betekent, zoals de vereniging Framasoft voorstelt, steun te verlenen aan het hosten van autonome, transparante, open, neutrale en op solidariteit gebaseerde diensten (zie bijvoorbeeld het KITTENS initiatief [^44]), of self-hosting [^45] in een eenvoudige miniserver.
 Het is ook mogelijk om je communicatie te camoufleren met end-to-endencryptie, hoewel dat niet altijd bruikbaar en mogelijk is om in te zetten (PGP en e-mails); en afhankelijk van de situatie kunnen er zijn middelen om ruis te veroorzaken, in een poging om de "echte" gegevens te verstoppen binnen fictieve maar geloofwaardige gegevens, waar een vriendelijk algoritme in overvloed voor kan zorgen.
@@ -201,8 +200,8 @@ In ieders broekzak, zouden persoonlijke AI's symbiotisch kunnen worden, in luist
 
 [^9] Cathy O’Neil: *Weapons of Math Destruction: Hoe Big Data de ongelijkheid vergroot en een bedreiging is voor de Democratie*. Crown, 2016.
 
-FIXME
 [^10] Enkele dagen later besefte hij dat de opdrachten moetsen komen via het toetsenbord van de terminal en gaf hij Peterfly een week om zich af te sluiten van IBM. In die tijd nam Peterffy ingenieurs in dienst om een camera te bouwen die het scherm kon aflezen en de informatie naar de IBM hersenen te sturen waar elektromagnetische handen de orders konden opnemen en doorsturen naar de aansluiting via het toetsenbord.  
+
 [^11] Sluipschutter in Mahwah: Antropologie, marktstructuur & de aard van
     beurzen. https://sniperinmahwah.wordpress.com/
 
