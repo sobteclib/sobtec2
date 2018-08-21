@@ -22,7 +22,7 @@ Iets soortgelijks komt voor bij biologische voeding. Ik hoef niet naar elke biol
 
 Mijn horizon op het gebied van technologische soevereiniteit bestaat evenmin uit zelfvoorzienende individuen die elk detail van hun apparaten en de programma's op hun computer of mobiele telefoon beheren. Het is geen technologisch individualisme (zoals ik het begrijp, weet, ik blijf zeggen ...). Ik geloof niet dat het onderwerp van technologische soevereiniteit het individu is (je kent hem wel, die jonge, knappe, intelligente, succesvolle, blanke man ... vooral, omdat hij niet bestaat).
 
-# Waar gebeurt het
+## Waar gebeurt het
 
 Net als alle andere soevereiniteit wordt technologische soevereiniteit in gemeenschappen gemaakt.
 
@@ -60,7 +60,7 @@ Hoewel mannen bijvoorbeeld nooit zullen bevallen, is hun waardering van een vrou
 
 Dus naast alle praktische dingen die u kunt doen, kan uw standpunt de gemeenschappen sterker maken, en op die manier draagt u al bij.
 
-# Waarom is dit belangrijk?
+## Waarom is dit belangrijk?
 
 Volgens Antonio Rodríquez de las Heras is technologie voor een cultuur wat het lichaam is voor het leven.
 
@@ -76,7 +76,7 @@ U bent afhankelijk van degenen die het ontwikkelen en distribueren, van hun busi
 
 Daarom is het zo belangrijk om de collectieve vraag open te houden over welke technologische horizonten we willen en hoe we die aan het opbouwen zijn.
 
-# Hoe waarderen
+## Hoe waarderen
 
 In de piek van de financiële crisis en in een cultuur van verplichte ondernemingen, begon de technologische industrie, waar de macht van gemeenschappen nog aanwezig was, gebruik te maken van participatieve infrastructuren om te profiteren van collectieve intelligentie en marktwaarde te verkrijgen.
 
@@ -94,7 +94,7 @@ Als we het echter over de technologie-industrie hebben, is vrijheid slechts een 
 
 Het opslaan van een foto in de cloud, om een eenvoudig voorbeeld te geven, brengt milieu- en sociale kosten met zich mee, aangezien er om de foto te bewaren continu een server moet zijn waarvan de "motoren" elektrische energie verbruiken, enz. Die server behoort misschien toe aan een bedrijf dat geen belasting betaalt op de plaats waar de persoon die de foto heeft bewaard woont. En dus waarde onttrekt zonder bij te dragen aan de commons, enz. Alles kost iets. Daarom moeten we dit soort "gratis" misschien beschouwen als indirecte kosten die ergens anders op verhaald worden.
 
-# Wat kunt u doen
+## Wat kunt u doen
 
 Niemand leeft in absolute technologische soevereiniteit. Soevereiniteit is een weg die we moeten bewandelen. We kunnen echter niet accepteren dat we niets doen, omdat we niet alles kunnen doen.
 
