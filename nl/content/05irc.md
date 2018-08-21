@@ -1,8 +1,7 @@
 # Het behoud van technologische soevereiniteit 
+Het speciale geval van Internet Relay Chat
 
-## Internet Relay Chat
-
-![](../../contrib/gfx/illustraties/irc-halfsize.png)
+![](../../contrib/gfx/illustrations/irc-halfsize.png)
 
 ***Maxigas***
 
@@ -18,8 +17,7 @@ De evaluatie van 'kritiek & recuperatie' in technologische levenscycli kan op la
 
 
 
-Internet Relay Chat
-===================
+## Internet Relay Chat
 
 **Internet Relay Chat is een vrij eenvoudig en toch flexibel protocol dat geschikt is voor directe uitwisseling van tekstberichten.** Het werd voor het eerst geïmplementeerd in 1988, goed en wel een jaar voor het *World Wide Web*.
 IRC bereikte het hoogtepunt van haar populariteit als algemeen bruikbaar sociaal medium tijdens de eerste Golfoorlog en de belegering van Sarajevo (1992-1996). In die tijd vervulde IRC al verschillende functies die later door andere gespecialiseerde programma's en platformen werden overgenomen, zoals daar zijn dating, vrienden volgen of online bestandsuitwisseling. *Naarmate er steeds meer mensen online kwamen en 'de markt' de boel tegen de eeuwwisseling over begon te nemen, geraakte IRC geleidelijk aan uit de bredere belangstelling*
@@ -30,8 +28,7 @@ Ofschoon de eerste aangehaalde groep altijd op IRC heeft gezeten (FLOSS), zijn d
 
 Momenteel bieden populaire sociale netwerkenplatformen, zoals Facebook en Twitter, vergelijkbare functies en je zou verwachten dat die eigenlijk meer voor de hand zouden liggen. *Ook al komt IRC ouderwets over, zou ik willen stellen dat de keuze voor IRC, een kritische praktijk is die de gebruiker vanuit empirische oogpunt laat ontsnappen aan de valkuilen van de commerciële platformen en vanuit analytische standpunt de monopolies van de huidige sociale media in de kijker zet.*
 
-Recuperatie
-===========
+##Recuperatie
 
 *Kritiek & recuperatie in technologische levenscycli* kan je beschouwen als een proces van de integratie van maatschappelijke eisen in het kapitalistische systeem. Nieuwe technologieën zijn soms het antwoord op een verlangen naar een betere samenleving en vormen zo kritiek op de bestaande omstandigheden. Alhoewel dergelijke behoeften doorgaans stap voor stap worden meegenomen, wordt dezelfde technologie tegelijkertijd vaak voortijdig gemanipuleerd om zich te schikken naar de twee belangrijkste eisen van het kapitalisme. *Het bewaren van sociale vrede dat zich vertaald in onderdrukking, discriminatie en surveillance en het verhogen van uitbuiting via kapitaalaccumulatie*. Het doordrukken van deze twee eisen zet vaak een rem op de oorspronkelijk maatschappelijke behoeften die uitgingen van de specifieke technologie.
 
@@ -41,8 +38,7 @@ Commodificatie vindt plaats wanneer iets op een bepaald moment als product wordt
 <!-- Samengevat: *critique* stelt een sociaal probleem aan de orde als een vraag.  Recuperatie* is de implementatie van de vraag, maar in dezelfde beweging ook de transformatie van de technologische context op een manier die de kritiek neutraliseert.  De voorwaarden waaraan de uitvoering van de vraag paradoxaal genoeg moet voldoen zijn (a) het handhaven van de *sociale vrede* (repressie) terwijl (b) het verhogen van de *exploitatie* (kapitaalopbouw).  Accommodatie* is een aspect of wijze van recuperatie die vaak voorkomt in technologische cycli.  Het doelwit van de goederenbeweging zijn *authentieke* goederen die zich buiten de markt bevinden en die in het goederenverkeer worden geïntegreerd.  Angst* is het bijproduct van commodificatie als het emotionele spoor als gevolg van geweld, inherent aan het kapitalisme.-->
 
 
-Geschiedenis
-============
+##Geschiedenis
 
 **Recuperatie als historische logica kan je aan het werk zien in een breed scala van technologieën, van de geschiedenis van chat tot de ontwikkeling van de personal computer.**
 
@@ -79,18 +75,15 @@ Nog even ter herinnering, de twee bepalende kenmerken van een gezonde *menselijk
 
 Meer precies gesteld, noch chat (Latzko-Toth 2010), noch personal computing (Levy 1984) waren "uitvindingen" die zijn ontsproten vanuit een goed idee, dat gelijk werden omgezet en aangeprezen als handelswaar. Beide uitvindingen kregen pas voet aan de grond op de markt na een relatief lange periode waarin sprake was van eerder excentrieke enthousiastelingen die deze ontwikkelingen in gang hebben gezet. Daarbij gingen die vaak ook nog eens tegen de sociale normen en bestaande wet- en regelgeving in. De maatschappij eigende zich deze technologieën langzaam toe om ze uiteindelijk te gebruiken om de samenleving in het gareel te houden.
 
-Backlogs
-========
+##Backlogs
 
 **Logs zijn registraties in tekstvorm van gebeurtenissen en interacties, gaande van het inloggen bij één of andere dienst, het starten van een gesprek of het klikken op de verzendknop.**
 
-Als een beperking van de interactie tussen mens & computer
-----------------------------------------------------------
+###Als een beperking van de interactie tussen mens & computer
 
 *IRC onderscheid zich van veel andere chat-software in de zin dat gebruikers alleen gesprekken kunnen volgen zolang ze zijn aangemeld.* Indien een bepaalde gebruiker offline is, is het onmogelijk om hem of haar te contacteren. Omgekeerd ook, wanneer een gebruiker terug aanmeldt op het kanaal, heeft hij of zij geen enkel idee wat er gezegd is geweest terwijl hij of zij offline was. Door de flexibiliteit van het medium zijn er voor dit gebrek aan backlogs zeker oplossingen. Maar het fundamentele feit blijft dat de oplossing van dit probleem buiten het toepassingsgebied van het IRC-protocol valt. Netwerkbeheerders zouden het probleem kunnen oplossen als zij dat zouden willen, maar in de praktijk blijven gebruikers doorgaans in de kou.
 
-Als klassieke verworvenheid
----------------------------
+###Als klassieke verworvenheid
 
 Toen IRC werd geïntroduceerd (1988), was het gebrek aan backlogs niet eigen aan IRC. De backlogs waren ook afwezig in verscheidene andere chat softwares. Tegen het einde van het decennium werd het echter een bijzondere eigenschap.
 **Het gebrek aan backlogs maakte het mogelijk om op te schalen met de enorme toename van internetgebruikers *waardoor het als een op zichzelf staand massamedium uit kon uitgroeien*.**
@@ -113,8 +106,7 @@ IRC-netwerken worden niet overheerst door de machtige exploten van het bedrijfsl
 
 Het is een model waarbij de server vanuit de gemeenschap wordt beheerd. Deze houdt de verbinding naar het internet in stand en grijpt in bij calamiteiten en/of onregelmatigheden. Daarnaast onderhoudt het ook de open/vrije software. Het komt misschien allemaal wat achterhaald over.  Zeker in de de huidige trend binnen de activistische arena waarbij men geloof dat je de wereld alleen nog kan veranderen door entrepreneur te worden met een "duurzaam" en goed doortimmerd businessplan onder de arm. Maar het draaien van de infrastructuur als een common werkt voor IRC nog steeds zoals het deed in de jaren negentig. Het geeft de gebruikers de mogelijkheid het medium te begrijpen en te bestuderen. De mogelijkheid om informatie te delen en samen te werken: een essentiële voorwaarde voor het stimuleren van *technologische soevereiniteit*.
 
-Als moderne verworvenheid
--------------------------
+###Als moderne verworvenheid
 
 **Dezelfde eigenschap die IRC in de jaren 1990 in staat stelde een massamedium te worden *is anno 2010 de reden dat het niet meer als mainstream geldt* **. Gebruikers die een een kanaal binnenkomen, een vraag stellen en vervolgens gefrustreerd afhaken omdat ze binnen de 20 minuten geen antwoord hebben gekregen, is daar een goed voorbeeld van. Deze *bezoekers* zijn in tijden van mobiele connectiviteit niet meer in staat om hun IRC-client meerdere uren lang achtereen open te houden, zoals de eigenaars van desktop computers daar wel in slaagden, of ook de doorzetters van vandaag die een vaste verbinding houden door gebruik te maken van een server die nooit uit staat.
 
@@ -129,8 +121,7 @@ Via drie cycli zijn de eigenschappen en de kwaliteiten intussen verschoven naar 
 In het licht van deze ontwikkelingen, het ontbreken van backlogs - dat surveillance technisch ingewikkeld maakt - zijn we intussen in een andere situatie verzeild geraakt: het behoud van *technologische soevereiniteit* van gebruikersgroepen is nog steeds mogelijk, maar alleen voor hen die er voldoende tijd en energie in willen steken.
 
 
-Conclusies
-==========
+##Conclusies
 
 **Het blijkt dat technische tekortkomingen positieve sociale gevolgen kunnen hebben**. Dezelfde beperking - het ontbreken van backlogs - die IRC in de jaren negentig tot massamedia heeft laten uitgroeien, verhinderde het in de jaren 2010 om als een massamedium in beeld te blijven. Die tekortkoming levert ook technische problemen op voor datamining en surveillance. Hierdoor is het niet tot een complete recuperatie gekomen. Voor de gebruikers die graag zelf de technologie in handen houden speelt IRC nog steeds een belangrijke rol. Voor dan in de media-ecologie van het Internet wordt dit medium nog steeds gebruikt als dagdagelijks informeel communicatieplatform voor peer-productiegemeenschappen.
 
@@ -141,8 +132,7 @@ Deze relatief geavanceerde gebruikersgroepen waarderen de eenvoud, flexibiliteit
 Het hedendaags gebruik van IRC berust op eigenschappen en patronen van het medium die in de jaren negentig de normaalste zaak van de wereld waren en sindsdien zijn gerecupereerd door meer kapitalistische media. Van daaruit bekeken zou je het als een *tijdmachine* kunnen zien die het verleden in technologisch en politiek opzicht terug in het heden brengt, met verrassende gevolgen. [^8]
 
 
-Bibliografie
-============
+##Bibliografie
 
 Antonić, Voja. 2014. "Voja Antonic in Calafou." Een voordracht in Calafou.  <https://calafou.org/en/content/voja-antonic-calafou>.
 
