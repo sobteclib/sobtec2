@@ -36,12 +36,12 @@ Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analysee
 
 Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen, om in staat te zijn om ons daarmee te kunnen manipuleren.
 
-| | **Aan één zijde** | **Van bovena** | **Van binnenuit** | **Beneden** |
+| | **Langs een kant** | **Van bovenaf** | **Van binnenuit** | **Beneden** |
 | --- | --- | --- | ---| --- |
-|**Voorbeeld** | Audience measurement, Google Analytics, reclame tabs | Google PageRank, Digg, Wikipedia | Aantal vrienden op Facebook, Retweets op Twitter, notities en opinies | Aanbevelingen op Amazon, behaviour based advertising |
+|**Voorbeeld** | Audience measurement, Google Analytics, reclame tabs | Google PageRank, Digg, Wikipedia | Aantal vrienden op Facebook, Retweets op Twitter, notities en opinies | Aanbevelingen op Amazon, gedragsgebaseerd adverteren |
 | **Data** | Bezoeken | Relaties | Likes | Tracking |
 | **Populatie** | Representatieve steekproeven | Stemmentelling, gemeenschappen | Sociale netwerken, affiniteiten, declaratief | Impliciete individuele gedragingen |
-| **Berekeningstype** | Vote | Classificatie naar verdienste | Benchmark | Machineeducatie |
+| **Berekeningstype** | Stemresultaten | Classificatie naar verdienste | Benchmark | Machine-learning |
 | **Principe** | Populariteit | Autoriteit | Reputatie | Voorspelling |
 
 *Volgens Domenique Cardon in "À quoi rêvent les algorithmes".* [^4]
