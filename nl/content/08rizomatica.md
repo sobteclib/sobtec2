@@ -15,12 +15,8 @@ Ik herinner me dat nog maar vijf jaar geleden, toen we het hadden over het creë
 Elk verhaal is een reis in tijd en ruimte, en het begin van dit verhaal is een groot uithangbord dat leest:
 
 * In deze gemeenschap bestaat geen privé-eigendom.
-
 * De aan- en verkoop van gemeenschapsgronden is VERBODEN.
-
 * Ondertekend door het Commissariaat van Gemeenschappelijke Goederen van Ixtlan de Juárez.
-
-<!-- \[FOTO\] -->
 
 ## De historische achtergrond van Oaxaca [^1], de inheemse volkeren en "communaliteit".
 
@@ -111,11 +107,9 @@ Voor de inheemse volkeren van Oaxaca, houdt het begrip soevereiniteit direct ver
 
 Tot voor 1992 werd het recht van de inheemse bevolking om zich te organiseren volgens hun eigen "gebruiken en gewoonten" door de Mexicaanse staat niet erkend. In 1994 werd de neozapatista-beweging gelanceerd als politieke beweging, en daarmee werd het marxistische idee van de nationale revolutie ondergraven. Maar gingen ze voor een revolutie voor autonomie waar de eisen voor zelfbestuur door de inheemse bevolking van Zuidoost-Mexico werden erkend. Het creatieve gebruik van communicatietechnologieën speelde een belangrijke rol in dat proces. Om het idee van autonomie beter te begrijpen, keren we nog even terug naar het begin van dit verhaal, naar ons welkomstbordje: 
 
-	In deze gemeenschap bestaat geen privé-eigendom.
-
-	De aan- en verkoop van gemeenschapsgronden is VERBODEN.
-
-	Ondertekend door het Commissariaat van Gemeenschappelijke Goederen van Ixtlan de Juárez.
+* In deze gemeenschap bestaat geen privé-eigendom.
+* De aan- en verkoop van gemeenschapsgronden is VERBODEN.
+* Ondertekend door het Commissariaat van Gemeenschappelijke Goederen van Ixtlan de Juárez.
 
 Dit is geen verklaring van soevereiniteit, maar van autonomie. Hier is de macht niet gebaseerd op de soevereiniteit van het volk. Macht vindt hier zijn oorsprong vanuit het grondgebied waartoe men behoord, het collectieve, waar geen plaats is voor particulier eigendom en waar technologieën een rol spelen in de versterking van die autonomie. Dat is het enige mandaat dat de gemeenschapsvergadering moet respecteren en verdedigen.
 
@@ -131,7 +125,7 @@ We zijn op een goed moment aanbeland om een dialoog aan te gaan tussen technolog
 
 [^2]: https://es.wikipedia.org/wiki/Sistema_de_usos_y_costumbres
 
-[^3]: https://es.wikipedia.org/wiki/Sistema_global_para_las_comunicaciones_m%C3%B3viles
+[^3]: https://nl.wikipedia.org/wiki/Gsm_(communicatie)
 
 [^4]: https://nl.wikipedia.org/wiki/Volksassemblee_van_de_Volkeren_van_Oaxaca
 

@@ -159,7 +159,8 @@ Daarom is het noodzakelijk uit te gaan van lokale behoeften, in een gedecentrali
 Als er een grotere beheersstructuur op nationaal niveau is ontstaan, zal het de behoeften van deze kernen van onderaf tot een geheel smeden.
 Arme landen en mensen moeten beseffen dat zij de potentie hebben om hun eigen stem te verheffen en de verantwoordelijkheid hebben om ervoor te zorgen dat hun invloed wordt gerespecteerd in hun economische en sociale ontwikkeling in een wereld waarin we afhankelijk zijn van elkaar.
 
-[^0]: Er is een langere versie van deze tekst beschikbaar in het spaans: http://elleflane.colectivizaciones.org/wp-content/uploads/2017/02/Tecnologias_reapropiadas2017.pdf
+[^0]: Er is een langere versie van deze tekst beschikbaar in het spaans: 
+http://elleflane.colectivizaciones.org/wp-content/uploads/2017/02/Tecnologias_reapropiadas2017.pdf
 
 [^1]: Appropriate technology: https://en.wikipedia.org/wiki/Appropriate_technology
 
@@ -189,7 +190,8 @@ Arme landen en mensen moeten beseffen dat zij de potentie hebben om hun eigen st
 
 [^16]: Legacy Foundation: http://www.legacyfound.org/
 
-[^17]: Pot-in-pot ijskast: https://web.archive.org/web/20140330233813/http://www.mienergiagratis.com/energias/mucho-mas/mas-proyectos/item/66-p000028.html
+[^17]: Pot-in-pot ijskast: https://web.archive.org/web/20140330233813/
+http://www.mienergiagratis.com/energias/mucho-mas/mas-proyectos/item/66-p000028.html
 
 [^18]: Hippo Water Roller: http://www.hipporoller.org/ 
 
