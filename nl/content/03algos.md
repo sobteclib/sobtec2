@@ -36,12 +36,12 @@ Daarna, in de derde fase, kwamen ze onze digitale intimiteit binnen, en analysee
 
 Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste verlangens te voorspellen, om in staat te zijn om ons daarmee te kunnen manipuleren.
 
-| | **Aan één zijde** | **Van bovena** | **Van binnenuit** | **Beneden** |
+| | **Langs een kant** | **Van bovenaf** | **Van binnenuit** | **Beneden** |
 | --- | --- | --- | ---| --- |
-|**Voorbeeld** | Audience measurement, Google Analytics, reclame tabs | Google PageRank, Digg, Wikipedia | Aantal vrienden op Facebook, Retweets op Twitter, notities en opinies | Aanbevelingen op Amazon, behaviour based advertising |
+|**Voorbeeld** | Audience measurement, Google Analytics, reclame tabs | Google PageRank, Digg, Wikipedia | Aantal vrienden op Facebook, Retweets op Twitter, notities en opinies | Aanbevelingen op Amazon, gedragsgebaseerd adverteren |
 | **Data** | Bezoeken | Relaties | Likes | Tracking |
 | **Populatie** | Representatieve steekproeven | Stemmentelling, gemeenschappen | Sociale netwerken, affiniteiten, declaratief | Impliciete individuele gedragingen |
-| **Berekeningstype** | Vote | Classificatie naar verdienste | Benchmark | Machineeducatie |
+| **Berekeningstype** | Stemresultaten | Classificatie naar verdienste | Benchmark | Machine-learning |
 | **Principe** | Populariteit | Autoriteit | Reputatie | Voorspelling |
 
 *Volgens Domenique Cardon in "À quoi rêvent les algorithmes".* [^4]
@@ -155,7 +155,7 @@ Het gaat er echter niet om transparantie te eisen voor de code van de algoritmen
 Aangezien deze niet beperkt zijn tot commerciële communicatie, is het noodzakelijk om beroep te doen op de wet als dwangmiddel [^39].
 We kunnen ons getroosten met het participatieve debat dat in Frankrijk plaatsvindt over het "De wet van de digitale republiek" dat heeft geleid tot een verplichting tot transparantie met betrekking tot alle algoritmen die gebruikt worden door de ordediensten [^40], of zelfs het "TransAlgo"-initiatief van INRIA [^41], dat streeft naar verantwoordingsplicht en transparantie van informatierobots.
 
-## soevereine algoritmische utopieën
+## Soevereine algoritmische utopieën
 
 Dus, hoe gaan we van een algoritmisch monster dat we leidzaam moeten ondergaan de omslag maken naar een huisdier dat we brokjes voederen?
 Laten we een paar regenwormen composteren om de biotechnologische consequenties die de mensheid en technologie aanzet in harmonie met silicium te leven.

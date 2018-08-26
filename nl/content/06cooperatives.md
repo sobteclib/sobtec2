@@ -122,9 +122,9 @@ Ik zal eerder genoemde dimensies opnieuw samenvatten met behulp van een SWOT-ana
 
 Coöperaties kunnen bouwen aan nieuwe autonome zones en tegelijkertijd reageren op alerlei uitdagingen:
 
-	* Economie: hoe geef je vorm aan een economie van de commons, sociaal en ondersteunend?
-	* Zelforganisatie: hoe kan je duurzaam blijven bestaan op de lange termijn, terwijl je onbetwistbare waarheden zoals, consensus, horizontaliteit, participatie, leiderschap in vraag in vraag stelt?
-	* **Technologische vrijheid**: hoe kun je strijden voor gratis software, digitale rechten, open kennis en copyleft?
+ * Economie: hoe geef je vorm aan een economie van de commons, sociaal en ondersteunend?
+ * Zelforganisatie: hoe kan je duurzaam blijven bestaan op de lange termijn, terwijl je onbetwistbare waarheden zoals, consensus, horizontaliteit, participatie, leiderschap in vraag in vraag stelt?
+ * **Technologische vrijheid**: hoe kun je strijden voor gratis software, digitale rechten, open kennis en copyleft?
 
 Naarmate de tijd voort schrijdt, blijven tech-coöperaties binnen een klein speelveld, gestoeld op sterke persoonlijke relaties, die cruciaal zijn voor het opbouwen van vertrouwen en het aangaan van nieuwe uitdagingen, maar dat kan ook een beperkende factor worden wanneer er behoefte is aan schaalvergroting.
 Bovendien, de precaire en onzekere economische situatie maakt het moeilijk om nieuwe mensen te betrekken. Er is echter altijd een moment waarop het project groeit en de vraag is of het team ook moet uitbreiden... of niet ?
