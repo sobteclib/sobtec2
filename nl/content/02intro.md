@@ -67,7 +67,7 @@ Het onderzoek, getiteld *Roads and Bridges* [^15], bestudeerd hoe grote bedrijve
 
 In het vorige boek hebben we aangegeven dat deel uitmaken van de vrije software / open-source wereld niet genoeg was om TS te maken. Zo betekent deelname aan TS ook niet dat alle deelnemers samenwerken om bevrijdende technologieën te ontwikkelen. TS-initiatieven moeten meer rechtvaardige en duurzame gemeenschappen opbouwen, waar alle deelnemers weten hoe ze moeten omgaan met diversiteit, inclusie en met privileges en machtsdynamiek.
 
-*De kokosrevolutie* [^16] en de *ecologie van vrijheid* volgens Murray Bookchin herinneren ons eraan dat toegeëigende technologieën diegene zijn die ontwikkeld worden in een gemeenschap die het niveau, of de graad, kiest van de technologieën die ze nodig heeft, en die rekening houdt met de ontwikkelingsprocessen en manieren om dingen te doen, om zo verder te gaan in de richting van bevrijdende technologieën
+*De kokosrevolutie* [^16] en de *Ecologie van Vrijheid* van Murray Bookchin herinneren ons eraan dat toegeëigende technologieën diegene zijn die ontwikkeld worden in een gemeenschap die het niveau, of de graad, kiest van de technologieën die ze nodig heeft, en die rekening houdt met de ontwikkelingsprocessen en manieren om dingen te doen, om zo verder te gaan in de richting van bevrijdende technologieën
 
 Met deze ambities benadrukken we nieuwe contexten waarin het concept van TS populair is geworden. De Framasoft-organisatie in Frankrijk heeft bijvoorbeeld een ambitieus actieplan ontwikkeld om het internet te *de-googlizen* [^17], en hun boek *Digitaal: terugnemen van controle* [^18] over verzetspraktijken die soevereiniteit, autonomie en nieuwe vormen van samenwerking combineren. 
 
@@ -109,7 +109,7 @@ Ik kan mijn eigen algoritmische agent zodanig configureren, waardoor ik mijn geg
 En zo zijn er nog zoveel werelden te creëren. Om het vervreemdende kapitalisme te verslaan, moeten we ons toekomstbeelden leren voorstellen die niet dystopische zijn, toekomstbeelden waarbij het zelf creeëren van toegeëigende technologieën iets dagdagelijks en hopelijk iets banaals zal zijn.
 
 
-[^1]: Speculative fiction workshop on feminist technologies, organised by Cooptecniques during the 2017 edition of *Hack the Earth* in Calafou (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
+[^1]: Speculative fictie workshop over feministische technologie, georganiseerd door Cooptecniques tijdens *Hack the Earth* in Calafou in 2017 (http://cooptecniques.net/taller-de-escritura-especulativa-tecnologias-feministas/)
 
 [^2]: Octavia's Brood: *Science Fiction Stories from Social Justice Movements*, Walidah Imarisha, adrienne maree brown, editors.
 
@@ -129,14 +129,14 @@ En zo zijn er nog zoveel werelden te creëren. Om het vervreemdende kapitalisme 
 
 [^10]: https://gynepunk.hotglue.me/
 
-[^11]: https://en.wikipedia.org/wiki/Voja_Antoni%C4%87,     https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou, https://hackaday.io/projects/hacker/65061, https://twitter.com/voja_antonic?lang=es, 
+[^11]: https://en.wikipedia.org/wiki/Voja_Antoni%C4%87, https://archive.org/details/20140418VojaAntonicTalkHackTheBiblioCalafou, https://hackaday.io/projects/hacker/65061, https://twitter.com/voja_antonic 
 
 [^12]: https://rverzola.wordpress.com, https://wiki.p2pfoundation.net/Roberto_Verzola
 
-[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html • https://twitter.com/onnowpurbo •  https://www.youtube.com/watch?v=b_7c_XDmySw - Wokbolik, what's that?
+[^13]: http://www.eldiario.es/hojaderouter/internet/Onno_W-_Purbo-wokbolic-wajanbolic-internet-wifi_0_520048966.html, https://twitter.com/onnowpurbo, https://www.youtube.com/watch?v=b_7c_XDmySw, Wokbolik, what's that?
 
 [^14]: Tim Jenkin: *Talking to Vula: The Story of the Secret Underground Communications Network of Operation Vula,* 1995.
-*The Vula Connection*, documentary film about the story of Operation Vula, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A • Escape from Pretoria Prison: https://www.youtube.com/watch?v=0WyeAaYjlxE
+*The Vula Connection*, documentary film about the story of Operation Vula, 2014: https://www.youtube.com/watch?v=zSOTVfNe54A , Escape from Pretoria Prison: https://www.youtube.com/watch?v=0WyeAaYjlxE
 
 [^15]: Nadia Eghbal: *Road and Bridges – The Unseen Labor Behind Our Digital Infrastructure*, Ford Foundation, 2016: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 
