@@ -18,17 +18,17 @@ De manager veranderde in een spelleider en zijn mensen plaatsten overal vuilnisb
 de lancering aan van een fantastisch vuilophaal spelletje. Iedereen kon meedoen: je hoeft alleen de regels van afvalsortering te volgen en dan kan je geweldige prijzen winnen. Prompt deed iedereen in de stad mee en men had reuze pret.
 
 Het plan werkte zo goed dat de stad na enkele maanden er pico bello uitzag. Maar nu ging er van alles 
-mis in het verkeer. Wild parkeren, onveilige wegen - en er was geen geld beschikbaar om het aan te pakken. De stadsmanager kreeg ook voor dit probleem carte blanche, en mocht deze en andere probleemgebieden aanpakken. 
+mis in het verkeer. Wild parkeren, onveilige wegen - en er was geen geld beschikbaar om het aan te pakken. De stads-manager kreeg ook voor dit probleem carte blanche, en mocht deze en andere probleemgebieden aanpakken. 
 
-Hij liet alle burgers registreren met naam en adres op zijn eigen sociale media platform. Op dit platform gaven de burgers woord voor woord aan wat ze aan het doen waren, wat hun vrienden en kennissen aan het doen waren, en de mensen om hen heen. Hoe meer details werden gedeeld, hoe meer bonuspunten en credits de burgers verdienden.
+Hij liet alle burgers registreren met naam en adres op zijn eigen sociale media platform. Op dit platform gaven de burgers woord voor woord aan wat ze aan het doen waren, wat hun vrienden en kennissen aan het doen waren, en de mensen om hen heen. Hoe meer details werden gedeeld, hoe meer bonuspunten en credit's de burgers verdienden.
 
-Deze en allerlei andere handelingen opende de deur naar speciale privileges; spelers die uitblonken konden in rang stijgen en door hun nieuwe status, speciale beloningen verdienen. Een uitgekiend systeem maakte het mogelijk om de verdiende credits om te zetten in digitaal geld. Dat werd dan beheerd op rekeningen die gerund worden door de verschillende banken van de stadsmanager. 
+Deze en allerlei andere handelingen opende de deur naar speciale privileges; spelers die uitblonken konden in rang stijgen en door hun nieuwe status, speciale beloningen verdienen. Een uitgekiend systeem maakte het mogelijk om de verdiende credit's om te zetten in digitaal geld. Dat werd dan beheerd op rekeningen die gerund worden door de verschillende banken van de stads-manager. 
 
-De lijst van onrechtmatige handelingen werd voortdurend bijgewerkt. Het aangeven van een overtreding door je buurman leverde bijvoorbeeld drie minuten gratis boodschappen doen op, bij een van de supermarkten van de stadsmanager. En je kon zelfs vijf minuten verdienen als het om een eerste foutmelding ging. 
+De lijst van onrechtmatige handelingen werd voortdurend bijgewerkt. Het aangeven van een overtreding door je buurman leverde bijvoorbeeld drie minuten gratis boodschappen doen op, bij een van de supermarkten van de stads-manager. En je kon zelfs vijf minuten verdienen als het om een eerste foutmelding ging. 
 
-Er ontstonden discussiegroepen over hoe je snel in rang kan stijgen en hoe je jouw persoonlijke zichtbaarheid kon maximaliseren. Het digitaal geld verving algauw het gewoon geld in de stad. Elke interactie kon in digitale eenheden worden uitgedrukt en verhandeld, en bij elke transactie verdiende de stadsmanager via zijn banken een kleien commissie.
+Er ontstonden discussiegroepen over hoe je snel in rang kan stijgen en hoe je jouw persoonlijke zichtbaarheid kon maximaliseren. Het digitaal geld verving algauw het gewoon geld in de stad. Elke interactie kon in digitale eenheden worden uitgedrukt en verhandeld, en bij elke transactie verdiende de stads-manager via zijn banken een kleien commissie.
 
-Het stadsbestuur werd opgeheven. In de plaats kwam er een 'technisch bestuur' van de stadsmanager, dat gerund werd als een privé bedrijf. Dit resulteerde in een forse besparing van tijds, geld en energie. Algauw werd de stad een model voor de hele wereld. Professionals kwamen van heinde en verre om het 'wonder' te bestuderen. 
+Het stadsbestuur werd opgeheven. In de plaats kwam er een 'technisch bestuur' van de stads-manager, dat gerund werd als een privé bedrijf. Dit resulteerde in een forse besparing van tijds, geld en energie. Algauw werd de stad een model voor de hele wereld. Professionals kwamen van heinde en verre om het 'wonder' te bestuderen. 
 
 Iedereen was het erover eens, dit is de echte hemel op aarde en het belangrijkste kenmerk van het systeem is dat denken en kiezen overbodig waren geworden. Doordat het fantastisch stelsel van meldingen de spelers voortdurend informeerde over de volgende stappen die zij moesten zetten om hun reputatie verder te verbeteren. 
 
@@ -38,9 +38,9 @@ En iedereen werd op deze wijze afgericht en leefde daarna nog lang en gelukkig
 
 ## Gamificatie
 
-Dit verhaal bevat de belangrijkste elementen van 'gamificatie', dit is een van de manieren om een digitaal systeem van bestuur in de samenleving te implementeren. Het grondprincipe is simpel: alles wat als probleem beschreven kan worden, wordt in een spel ('game') omgezet, of liever gezegd, in een spelschema. Het herhalen van correct bevonden handelingen wordt aangemoedigd en beloond met punten, prijzen, en een stijging in rang in score-tabellen. 
+Dit verhaal bevat de belangrijkste elementen van Gamificatie', dit is een van de manieren om een digitaal systeem van bestuur in de samenleving te implementeren. Het grondprincipe is simpel: alles wat als probleem beschreven kan worden, wordt in een spel ('game') omgezet, of liever gezegd, in een spel-schema. Het herhalen van correct bevonden handelingen wordt aangemoedigd en beloond met punten, prijzen, en een stijging in rang in score-tabellen. 
 
-Vanuit het reguleringsperspectief gezien komt gamificatie neer op het belonen van de naleving van regels, in plaats van de overtreding hiervan te bestraffen. Aan de grondslag hiervan ligt een complete en positieve normering zonder ethische dimensie. Omdat de intrinsieke waarde van een bepaald gedrag, gedetermineerd wordt door het systeem, en niet door de persoonlijke en collectieve reflectie op de actie. Game-ificatie is de belichaming van de prestatiemaatschappij [^1].
+Vanuit het reguleringsperspectief gezien komt gamificatie neer op het belonen van de naleving van regels, in plaats van de overtreding hiervan te bestraffen. Aan de grondslag hiervan ligt een complete en positieve normering zonder ethische dimensie. Omdat de intrinsieke waarde van een bepaald gedrag, gedetermineerd wordt door het systeem, en niet door de persoonlijke en collectieve reflectie op de actie. Gamificatie is de belichaming van de prestatiemaatschappij [^1].
 
 Klantenbinding door middel van loyaliteitsprogramma's en andere mechanismen zijn van alle tijden. De 
 alomtegenwoordigheid van interactieve digitale connectiviteit opent echter een nieuw scala aan instrumenten om de massa te manipuleren. Daarmee verwordt de cognitieve overdracht aan apparaten tot een uitbesteding van de organisatie van ons maatschappelijke leven aan deze apparaten. De geautomatiseerde procedures worden verfijnd door te profiteren van hoe gebruikers hun persoonlijke digitale hulpmiddelen aanwenden. Deelname aan de opbouw van gedeelde werelden is een gedragstraining geworden.
@@ -129,11 +129,11 @@ Interactie met digitale media bestaat niet per se louter uit zelf-training, oefe
 
 Daarom streven we sterk naar en pleiten we voor een bewuste en evenwichtige afwisseling tussen verschillende vormen van intelligentie en geheugen. Goed voor onszelf zorgen begint met het waarnemen van de eigen persoonlijke handelingen en het luisteren naar het zelf. Het doel hiervan is om te bepalen welk tempo het best bij ons past en zelf onze eigen regels op te stellen. Wij moeten onze eigen interactieve 'liturgie' creëren!
 
-## Van zelfverdediging naar een sociale hackerspedagogie
+## Van zelfverdediging naar een sociale hackers-pedagogie
 
 Wij willen het spel, het plezier om samen te spelen, niet opgeven. Wij denken zelfs dat leren door te spelen een van de beste manieren is om echt ervaring op te bouwen, en ons deze eigen te maken. 'Hands on' (zoals hackers dat noemen), voor de lol om met machines te klooien, en dan om dit samen te doen! Deze bezigheid in de eerste persoon, en de plezierige interactie (een beetje eros is nooit weg!) is de voorwaarde voor geluk van een hacker die met technologisch gereedschap aan het spelen is.
 
-Wij hebben tijdens onze zogenaamde 'degamification' werkgroepen een simpele methode ontwikkeld om te komen tot een gezellige leeromgeving, waar we kunne spelen met machines die we leuk vinden. Maar om dat te doen moeten wij eerst van de automatismen af die ons tot radertjes van de commerciële megabedrijven reduceren. Voor ons betekent digitale zelfverdediging allereerst ophouden met telkens weer ingaan op stimuli van de game-ificatie. We moeten dus beginne met bewust onze gewoontes te veranderen.
+Wij hebben tijdens onze zogenaamde 'degamification' werkgroepen een simpele methode ontwikkeld om te komen tot een gezellige leeromgeving, waar we kunnen spelen met machines die we leuk vinden. Maar om dat te doen moeten wij eerst van de automatismen af die ons tot radertjes van de commerciële megabedrijven reduceren. Voor ons betekent digitale zelfverdediging allereerst ophouden met telkens weer ingaan op stimuli van de game-ificatie. We moeten dus beginne met bewust onze gewoontes te veranderen.
 
 Het is niet mogelijk om een beschrijving te geven van een 'typische' workshop zoals wij die geven, omdat alle groepen die mee deden radicaal verschillend waren, evenals de situatie waarin die bijeenkomsten plaatsvonden. Daarnaast kwamen er vaak persoonlijke problemen naar boven - en het is cruciaal om deze binnen de beschermde omgeving van de groep te houden, ver van de publiciteit. Daarom kiezen wij voor een abstract verslag van de basisstappen die we nemen. Het is een beetje zoals een verhaal dat op verschillende manieren verteld wordt.
 

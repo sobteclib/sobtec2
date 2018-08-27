@@ -80,7 +80,7 @@ Internetintelligentie moet gebaseerd zijn op elke netwerkspeler in een peer-to-p
 
 Om gelijkheid voor iedereen te waarborgen, zowel voor burgers als voor ondernemers, moeten monopolies niet alleen worden vermeden, maar moet ook worden voorkomen dat persoonlijke of openbare gegevens worden gemonopoliseerd.
 
-Door via tutorials uit te leggen hoe de gratis oplossingen die een rechtvaardiger internet mogelijk maken, kunnen worden verveelvoudigd, vergemakkelijkt Framasoft het verspreiden van de code en diversifieert het de gebruiksmogelijkheden.
+Door via tutorials uit te leggen hoe de gratis oplossingen die een rechtvaardiger internet mogelijk maken, kunnen worden verveelvoudigd, vergemakkelijkt Framasoft het verspreiden van de code en diversifieerd het de gebruiksmogelijkheden.
 
 Framasoft zet zich ook in om self-hosting en interoperabiliteit te faciliteren, zodat gebruikers niet "opgesloten" raken.
 
@@ -167,7 +167,7 @@ Het ondertekenen van een lokaal CHATONS-initiatief begint met het samenbrengen v
 Dat vereist het opzetten van een juridische entiteit (in dit geval een collegiale vereniging [^13] zonder president of hoofdkantoor), een bankrekening openen, een openingsevenement organiseren om geld in te zamelen, inhoud creëren om mensen bewust te maken en workshops opzetten voor een breed publiek, afspraken maken over de gebruikte technologieën en de diensten die aangeboden worden, beslissen of de welkomstpagina van de website in http of https moet staan, de nodige communicatie- en documentatietools creëren; de installatie en het beheer van de servers organiseren; ervoor zorgen dat het handvest wordt nageleefd door de nodige waarborgen in te bouwen, momenten en communicatiekanalen voorstellen om de vragen van de gebruikers te beantwoorden, ...
 
 
-Het hoofddoel van AMPIRO is het aanbieden van een persoonlijke clouddienst (gebaseerd op NextCloud) die het mogelijk maakt om bestanden, contacten en kalenders gratis op te slaan, met de mogelijkheid om meer opslagruimte te verkrijgen door lid te worden van de vereniging. Het enthousiasme van het collectief stopt daar niet bij. Er kan een VPN (Virtual Private Network [^14]) aangeboden worden, of er kan gewerkt worden aan end-to-end encryptie, zodat we de gegevens die ons worden vertrouwd niet kunnen lezen, met de bedoeling om diensten te kunnen aanbieden aan lokale verenigingen of om cooperatieve projecten op het gebied van IT te begeleiden.
+Het hoofddoel van AMPIRO is het aanbieden van een persoonlijke clouddienst (gebaseerd op NextCloud) die het mogelijk maakt om bestanden, contacten en kalenders gratis op te slaan, met de mogelijkheid om meer opslagruimte te verkrijgen door lid te worden van de vereniging. Het enthousiasme van het collectief stopt daar niet bij. Er kan een VPN (Virtual Private Network [^14]) aangeboden worden, of er kan gewerkt worden aan end-to-end encryptie, zodat we de gegevens die ons worden vertrouwd niet kunnen lezen, met de bedoeling om diensten te kunnen aanbieden aan lokale verenigingen of om coöperatieve projecten op het gebied van IT te begeleiden.
 
 
 Met onze vereelte handen, als ruwe boeren in de computerwereld, willen we zoveel mogelijk zaden planten in de hoofden van onze medemens, zodat kleine pixelachtige "chatons" kunnen rondlopen op vrije en boomrijke wegen. 

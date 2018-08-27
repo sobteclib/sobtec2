@@ -5,7 +5,7 @@
 ![](../../contrib/gfx/illustrations/tecnoaprop-halfsize.png)
 
 
-De verhoogde investeringen in kennis gerelateerd aan technologische ontwikkeling toont aan dat veel technologie die we tegenwoordig gebruiken commerciële producten zijn. Verwerven en overdracht van technologische kennis is niet langer een informeel proces van de commons.  Maar ze zijn onderworpen aan de wetten en belangen van de markt, zoals patenten en intellectuele-eigendomrechten. Het wordt daarom meestal ontwikkeld door grote bedrijven en natiestaten. Het resultaat is buitensporige automatisering, die een verplichte menselijke verplaatsing met zich brengt. Hulpbronnen worden verspilt en gebruikers worden afhankelijk maakt door afnemende sociale kennis over technologieën.
+De verhoogde investeringen in kennis gerelateerd aan technologische ontwikkeling toont aan dat veel technologie die we tegenwoordig gebruiken commerciële producten zijn. Verwerven en overdracht van technologische kennis is niet langer een informeel proces van de commons.  Maar ze zijn onderworpen aan de wetten en belangen van de markt, zoals patenten en intellectuele eigendomrechten. Het wordt daarom meestal ontwikkeld door grote bedrijven en natiestaten. Het resultaat is buitensporige automatisering, die een verplichte menselijke verplaatsing met zich brengt. Hulpbronnen worden verspilt en gebruikers worden afhankelijk maakt door afnemende sociale kennis over technologieën.
 
 Het ontbreken van wetenschappelijke en technologische capaciteiten, het gebrek aan economische omstandigheden die innovatie zouden kunnen aanmoedigen en onvoldoende kennis van technologieën, zorgen voor economische veranderingen in de realiteit en prioriteiten van landen. De onevenwichtigheid van de handel in kennis schept een groot verschil tussen landen en individuen. Ze benadeelt diegenen die netto-importeurs van technologie zijn - lees consumenten - in de relatie tot de economische uitwisseling. 
 De mate van afhankelijkheid en ongelijkheid in ontwikkeling wordt duidelijk wanneer de belangrijkste bron van technologie van een land zich in het buitenland bevindt. En wanneer er geen lokale capaciteit is voor het genereren en aanpassen van de eigen technologie. De invoer van technologieën is op zichzelf niet noodzakelijk een nadeel (alle landen doen daar aan mee). Het probleem is de afwezigheid van een correct beleid van overdracht van de bijbehorende kennis en de afhankelijkheden die daar het gevolg van zijn.
@@ -25,7 +25,7 @@ De term "geschikt", die een synoniem is voor "adequaat", kan tot verwarring leid
 
 Intermediaire technologieën kunnen ook geschikt zijn. Ze zijn over het algemeen veel goedkoper dan de huidige technologie, en worden gebouwd met behulp van materialen en kennis die lokaal beschikbaar zijn. Ze zijn gemakkelijk te kopen en te gebruiken door mensen met weinig toegang tot middelen. Ze kunnen de productie verhogen en tegelijkertijd sociale ontwrichting tot een minimum beperken.
 
-"Slow Design" [^25] is gericht op een holistische ontwerp die rekening houdt met het breedste scala van materiële en sociale factoren, met inbegrip van korte- en langetermijneffecten. In "Slow Design, een theorie over duurzaam leven" ontwikkelt Alistair Fuad-Lucas duurzaam design, waarbij sociaal-culturele, milieu- en individuele noden met elkaar in evenwicht worden gebracht. Het concept wordt toegepast op ervaringen, processen, diensten en organisaties. Het is een weg naar de dematerialisatie die nodig is voor duurzaamheid op lange termijn. Het streeft naar menselijk welzijn en positieve synergiën tussen de elementen van een systeem, waarbij diversiteit en regionalisme worden gerespecteerd.
+"Slow Design" [^25] is gericht op een holistische ontwerp die rekening houdt met het breedste scala van materiële en sociale factoren, met inbegrip van korte- en langetermijneffecten. In "Slow Design, een theorie over duurzaam leven" ontwikkelt Alistair Fuad-Lucas duurzaam design, waarbij sociaal-culturele, milieu- en individuele noden met elkaar in evenwicht worden gebracht. Het concept wordt toegepast op ervaringen, processen, diensten en organisaties. Het is een weg naar de dematerialisatie die nodig is voor duurzaamheid op lange termijn. Het streeft naar menselijk welzijn en positieve synergieën tussen de elementen van een systeem, waarbij diversiteit en regionalisme worden gerespecteerd.
 
 Het toe-eigenen van technologieën brengt met zich mee dat we de technologieën die we nodig hebben vanuit een politiek standpunt moeten herdenken. Het betekent niet alleen technologie in het centrum van het leven plaatsen maar ook op het kruispunt waar ook andere disciplines zoals ethiek, sociale problemen of milieu te vinden zijn. 
 Het doel is ze allemaal in een geheel te integreren, met het oog op het behoud en de verdediging van het leven tegen de onderdrukkende macht. Technologie centraal stellen, betekent niet noodzakelijk een digitale wereld zoals de huidige, vol afhankelijkheden, frustraties en banden die het evenwicht tussen de machtigen en de onderdrukten verstoren.
@@ -45,7 +45,7 @@ We hebben technologieën nodig die welzijn, schoonheid en gemeenschap creëren.
 
 In de afgelopen 10 jaar heb ik geprobeerd de theorie in de praktijk te brengen. Ik heb mijn manieren aangepast en veranderd. Ik heb protocollen en gratis licenties gecreëerd die onze toegeëigende technologieën verdedigen. Ik heb geprobeerd om collectieve workshops te organiseren waar mensen ervaringen en vaardigheden uitwisselen. Workshops die hebben geleid tot productieve activiteiten die basisbehoeften dekken en de gemeenschappen verrijken.
 
-Ik heb een bestaande marktniche ontdekt voor toegeëigende technologieën. Een voorbeeld: "om productief en duurzaam te zijn, zou een producent van biologische walnoten of amandelen over gereedschap moeten beschikken dat groter is dan een notenkraker en kleiner dan een industriële machine die duizenden euro's kost. Daartussen is de plaats waar toegeëigende technologieën de ruimte kan innemen, aangepaast aan de gebruiker en omgeving.
+Ik heb een bestaande marktniche ontdekt voor toegeëigende technologieën. Een voorbeeld: "om productief en duurzaam te zijn, zou een producent van biologische walnoten of amandelen over gereedschap moeten beschikken dat groter is dan een notenkraker en kleiner dan een industriële machine die duizenden euro's kost. Daartussen is de plaats waar toegeëigende technologieën de ruimte kan innemen, aangepast aan de gebruiker en omgeving.
 
 De samenleving in het algemeen en de meerderheid van de sociale bewegingen hebben technologie, wetenschap of technologische soevereiniteit niet verdedigd als een sociale praktijk, voor het individu of het collectief. Het debat is gemarginaliseerd en beetje bij beetje worden nieuwe technologieën geïntroduceerd in ons dagelijks leven. We worden daardoor afhankelijker en onze vrijheden worden belemmerd. Gelukkig is er altijd een minderheidsgroep die dit terugdraait of in vraag stelt.
 
@@ -79,23 +79,23 @@ Technologie en wetenschap, aangewend als instrumenten van macht werken vooral vo
 Dus toegeëigende technologieën moeten meer zijn dan louter technologische objecten of wetenschap op zich, ze zouden ook de reeks relaties moeten regelen die rond die objecten ontstaan.
 Kunnen toegeëigende technologieën worden gecreëerd in een workshop die volledig berust op patriarchale manieren en attitudes? Ik denk van niet. Het zou geen steek houden.
 
-Het is hoog tijd om technologie een centrale plaats te geven in het leven, te spreken van hijskranen en afzuigsystemen, zoals we zouden spreken over keukenrecepten. Dat is wat Jineology doet [^33], het scheidt het object niet van het subject, het mengt ze in een gezonde relatie, het beschouwd ze niet als iets externs, maar als iets fluïde is, iets dat altijd verbeterd kan worden.
+Het is hoog tijd om technologie een centrale plaats te geven in het leven, te spreken van hijskranen en afzuigsystemen, zoals we zouden spreken over keukenrecepten. Dat is wat Jineology doet [^33], het scheidt het object niet van het subject, het mengt ze in een gezonde relatie, het beschouwd ze niet als iets van externe oorsprong, maar als iets fluïde is, iets dat altijd verbeterd kan worden.
 
 Een andere nuance van toegeëigende technologieën ligt in de manier waarop ze worden toegepast. Als we een vergelijking maken met het dagelijks leven, kunnen we eenvoudig ons bed opmaken, of we kunnen de dekens uit het raam hangen, ze in de zon laten luchten en de matras borstelen om kreuken te verwijderen.
 Achter al deze stappen zitten technieken om ons leven te verbeteren.
 Een ander voorbeeld is het gebruik van hydraterende crème.
-Het is één ding om gewoon met je hand grove kloders in bewegingen op je huid te smeren, en een heel andere manier is om het voorzichtig aan te brengen met kleine subtiele bewegingen.
+Het is één ding om gewoon met je hand grove klodders in bewegingen op je huid te smeren, en een heel andere manier is om het voorzichtig aan te brengen met kleine subtiele bewegingen.
 De effecten zijn veel groter.
 
 Het geldt eigenlijk voor alles.
 Achter alles zit techniek en wetenschap verscholen.
 Het aanleren en overnemen van deze kleine gewoonten is niet zo moeilijk.
-Om technologie die ons leven verbeterd te integreren en ons eigen te maken, is het niet alleen nodig om het gedachtenloos te doen, maar ook om te begrijpen waarom we het op die manier doen ...
+Om technologie die ons leven verbeterd te integreren en ons eigen te maken, is het niet alleen nodig om het gedachteloos te doen, maar ook om te begrijpen waarom we het op die manier doen ...
 
 ## Een overzicht van enkele toegeëigende technologieën
 
 In **de bouw** is er een grote verscheidenheid aan technieken: Adobe bakstenen, Super Adobe zandzakken, klinkerstenen en maiskolf isolatie onder andere. Allen zijn gemaakt met lokale materialen die relatief goedkoop zijn.
-"Architecture for Humanity" [^10] volgt strict de principes met toegeëigende technologieën en richt zich op mensen die getroffen zijn door natuurrampen.
+"Architecture for Humanity" [^10] volgt strikt de principes met toegeëigende technologieën en richt zich op mensen die getroffen zijn door natuurrampen.
 
 Wat **energie** betreft beschrijft de term "Soft Energy" [^12] van Amory Lovins hernieuwbare en geschikte energieën.
 Deze worden meestal geïntroduceerd in afgelegen gemeenschappen en plaatsen met lage energievereisten.
@@ -111,7 +111,7 @@ Bij de **bereiding van voedingsmiddelen** worden intermediaire technologieën ge
 
 Als het gaat over **koeling** is de "Pot-in-pot ijskast" [^17] een Afrikaanse uitvinding waarmee je dingen veel langer koel kan bewaren zonder elektriciteit. Dit is een enorme hulp voor de families die het gebruiken. Bijvoorbeeld: de meisjes die verse schaaldieren op de markt verkopen, kunnen de schelpdieren in de pot-in-pot achterlaten terwijl ze eerst naar school gaan om later in de dag naar de markt gaan.
 
-Op het gebied van **water** heb je de Hippo Water Roller [^18], waarmee je meer water met minder inspanning vervoert. De Rain Water Harvester vereist een geschikte opslagmethode, vooral in droge gebieden en de Cloud Collector is uitstekend voor gebieden waar regenwater schaars is. Bij waterzuivering worden hoge eisen gesteld aan de zuiverhied van water vóór hergebruik. Grondwater is vaak schoon genoeg, maar wel afhankelijk van de diepte en de afstand van bronnen van verontreiniging zoals toiletten; regenwater is ook schoon vooropgesteld dat daar waar het valt de grond niet verontreinigd is.
+Op het gebied van **water** heb je de Hippo Water Roller [^18], waarmee je meer water met minder inspanning vervoert. De Rain Water Harvester vereist een geschikte opslagmethode, vooral in droge gebieden en de Cloud Collector is uitstekend voor gebieden waar regenwater schaars is. Bij waterzuivering worden hoge eisen gesteld aan de zuiverheid van water vóór hergebruik. Grondwater is vaak schoon genoeg, maar wel afhankelijk van de diepte en de afstand van bronnen van verontreiniging zoals toiletten; regenwater is ook schoon vooropgesteld dat daar waar het valt de grond niet verontreinigd is.
 Toch is het raadzaam om water altijd te zuiveren waar mogelijk om mogelijke besmetting uit te sluiten.
 De belangrijkste processen zijn: filtreren, biofilm, sedimentatie, warmte , UV-licht en chemische desinfectie met chloor.
 
@@ -119,7 +119,7 @@ Filters gebaseerd op zeer fijn zand leveren prima zuiver water en je komt ze teg
 Gemalen plantenzaden van *Moringa oleifera* of *Strychnos potatorum* kunnen gebruikt worden als stollingsmiddel.
 Zo kan het vuil in het water gemakkelijk worden verwijderd via sedimentatie en filtratie.
 Keramische filters, gemaakt van klei gemengd met een organisch materiaal zoals koffie, zijn dan weer in zwang in veel huizen in Zuid-Amerika.
-En dan de LifeStraw [^19], een klein apparaat waarmee je direct kleine hoeveelheden vuil water kan reininigen.
+En dan de LifeStraw [^19], een klein apparaat waarmee je direct kleine hoeveelheden vuil water kan reinigen.
 Verder zijn doekfilters of zonne-desinfectie (UV) op kleine schaal nuttig en daar zijn weinig potten of flessen voor nodig.
 
 Wat betreft **toegankelijkheid tot het publieke domein** biedt de Whirlwind rolstoel [^23] een geschikt mobiel alternatief voor mensen die niet in de mogelijkheid zijn om een rolstoel te kopen.
@@ -132,14 +132,14 @@ Ecologische sanitair verwerkt menselijk uitwerpselen om zowel de menselijke gezo
 Hierbij wordt water gebruikt voor het wassen van handen (en anus), terwijl voedingsstoffen worden gerecycled om de nood aan kunstmest te verminderen.
 
 In de **gezondheidszorg** is een kweeksysteem dat eind jaren negentig werd gecreëerd om een goedkope manier om microbiologische monsters te maken.
-Er zijn een aantal toegeëigende technologieën zeer bruikbaar voor intiatieven die de volksgezondheid ten goede komen, met name voor het gebruik van schoon water in sanitaire voorzieningen.
+Er zijn een aantal toegeëigende technologieën zeer bruikbaar voor initiatieven die de volksgezondheid ten goede komen, met name voor het gebruik van schoon water in sanitaire voorzieningen.
 
 Tot slot is er op het gebied van **informatie- en communicatietechnologieën** de 2B [^15] en de Simputer [^6] computers gericht op ontwikkelingslanden, met als belangrijkste voordeel, de lage kosten, stofbestendigheid, betrouwbaarheid en ondersteuning van de lokale taal.
 ILDIS OnDisc [^7] verdeelt CD's en DVD's in gebieden zonder een betrouwbare internetverbinding of bij het ontbreken van toereikende budgetten.
 Wind-up [^8] van Jhai Foundation bevorderd autonomie van radio-, computer- en communicatiesystemen.
 Mobiele telefoons kunnen ook als toegeëigende technologieën fungeren op plaatsen waar commerciële aanbieders niet kunnen of niet willen zorgen voor een brede dekking.
 Loband [^9], ontwikkeld door Aidworld, stript alle bandbreedte-intensieve inhoud van het internetverkeer en zet webpagina's om naar eenvoudige tekst.
-Hieroor beperkt het de nood aan hoge transmissiesnelheid bij trage verbindingen. 
+Hierdoor beperkt het de nood aan hoge transmissiesnelheid bij trage verbindingen. 
 
 
 ## Conclusie
