@@ -188,7 +188,7 @@ In ieders broekzak, zouden persoonlijke AI's symbiotisch kunnen worden, in luist
 
 [^3]: https://nl.wikipedia.org/wiki/Bestiarium
 
-[^4] :Dominique Cardon: *A quoi rêvent les algorithmes. Nos vies à l’heure: Nos vies à l’heure des big data*. Le Seuil, 2015.
+[^4]: Dominique Cardon: *A quoi rêvent les algorithmes. Nos vies à l’heure: Nos vies à l’heure des big data*. Le Seuil, 2015.
 
 [^5]: Evgenij Morozov en Pascale Haas: *Le mirage numérique: Gieten une politique du Big Data*. Les Prairies Ordinaires, 2015.
 
