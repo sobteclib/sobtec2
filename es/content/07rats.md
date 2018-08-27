@@ -384,7 +384,7 @@ interdependiente.
 
 [^2]: E.F. Schumacher: *Small is beautiful*.
 
-[^5]: 2B1: http://en.wikipedia.org/wiki/2B1_conference\
+[^5]: 2B1: http://en.wikipedia.org/wiki/2B1_conference
 
 [^6]: Simputer: http://en.wikipedia.org/wiki/Simputer
 
