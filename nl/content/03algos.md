@@ -181,103 +181,103 @@ Even deze flauwe uitstap buiten beschouwing gelaten, is het misschien ook nodig 
 Deze proxy zou Eliza [^49], mijn strikt persoonlijke AI, gemakkelijk kunnen hosten. Zij zich voedt met mijn activiteiten en voorkeuren om mij te helpen mijn gegevens beter te delen en inhoud, waarbij deze informatie deels anoniem en belangeloos aan publieke instanties wordt verstrekt, en anders versleuteld of gecamoufleerd wordt verstuurd om met mijn vrienden te helpen ontsnappen, die er niet in slagen om zich van de commerciële sociale netwerken te ontdoen.
 In ieders broekzak, zouden persoonlijke AI's symbiotisch kunnen worden, in luisterend naar hun meesters, om de mensheid micro-ficties te vertellen op politiek en cultureel gebied, met als doel het bouwen van harmonieuze realiteiten, waar algoritmen, de mens, de natuur en de anorganische wereld vreedzaam kunnen samenleven.
 
-[^1] Deze titel verwijst naar het boek van Cathy O’Neil: *Weapons of Math Destruction*:
+[^1]: Deze titel verwijst naar het boek van Cathy O’Neil: *Weapons of Math Destruction*:
      Hoe Big Data de ongelijkheid vergroot en een bedreiging is voor de Democratie*. Crown, 2016.
 
-[^2] In deze futuristische roman van Isaac Asimov hebben de Verenigde Staten zich omgevormd tot een "elektronische democratie", waarbij de computer Multivac één enkele persoon selecteert om een aantal vragen te beantwoorden. Multivac zal dan op basis van de antwoorden en andere gegevens bepalen wat de uitslag van een verkiezing zou zijn, zodat de noodzaak dat er daadwerkelijk verkiezingen moeten worden gehouden kan vervallen. https://en.wikipedia.org/wiki/Franchise_%28short_story%29
+[^2]: In deze futuristische roman van Isaac Asimov hebben de Verenigde Staten zich omgevormd tot een "elektronische democratie", waarbij de computer Multivac één enkele persoon selecteert om een aantal vragen te beantwoorden. Multivac zal dan op basis van de antwoorden en andere gegevens bepalen wat de uitslag van een verkiezing zou zijn, zodat de noodzaak dat er daadwerkelijk verkiezingen moeten worden gehouden kan vervallen. https://en.wikipedia.org/wiki/Franchise_%28short_story%29
 
-[^3] https://nl.wikipedia.org/wiki/Bestiarium
+[^3]: https://nl.wikipedia.org/wiki/Bestiarium
 
-[^4] Dominique Cardon: *A quoi rêvent les algorithmes. Nos vies à l’heure: Nos vies à l’heure des big data*. Le Seuil, 2015.
+[^4] :Dominique Cardon: *A quoi rêvent les algorithmes. Nos vies à l’heure: Nos vies à l’heure des big data*. Le Seuil, 2015.
 
-[^5] Evgenij Morozov en Pascale Haas: *Le mirage numérique: Gieten une politique du Big Data*. Les Prairies Ordinaires, 2015.
+[^5]: Evgenij Morozov en Pascale Haas: *Le mirage numérique: Gieten une politique du Big Data*. Les Prairies Ordinaires, 2015.
 
-[^6] http://centenaire-shannon.cnrs.fr/chapter/la-theorie-de-information
+[^6]: http://centenaire-shannon.cnrs.fr/chapter/la-theorie-de-information
 
-[^7] https://nl.wikipedia.org/wiki/PRISM
+[^7]: https://nl.wikipedia.org/wiki/PRISM
 
-[^8] Terry Gilliam: Brasil (1985). http://www.imdb.com/title/tt0088846/
+[^8]: Terry Gilliam: Brasil (1985). http://www.imdb.com/title/tt0088846/
 
-[^9] Cathy O’Neil: *Weapons of Math Destruction: Hoe Big Data de ongelijkheid vergroot en een bedreiging is voor de Democratie*. Crown, 2016.
+[^9]: Cathy O’Neil: *Weapons of Math Destruction: Hoe Big Data de ongelijkheid vergroot en een bedreiging is voor de Democratie*. Crown, 2016.
 
-[^10] Enkele dagen later besefte hij dat de opdrachten moesten komen via het toetsenbord van de terminal en gaf hij Peterffy een week om zich af te sluiten van IBM. In die tijd nam Peterffy ingenieurs in dienst om een camera te bouwen die het scherm kon aflezen en de informatie naar de IBM hersenen te sturen waar elektromagnetische handen de orders konden opnemen en doorsturen naar de aansluiting via het toetsenbord.  
+[^10]: Enkele dagen later besefte hij dat de opdrachten moesten komen via het toetsenbord van de terminal en gaf hij Peterffy een week om zich af te sluiten van IBM. In die tijd nam Peterffy ingenieurs in dienst om een camera te bouwen die het scherm kon aflezen en de informatie naar de IBM hersenen te sturen waar elektromagnetische handen de orders konden opnemen en doorsturen naar de aansluiting via het toetsenbord.  
 
-[^11] Sluipschutter in Mahwah: Antropologie, marktstructuur & de aard van
+[^11]: Sluipschutter in Mahwah: Antropologie, marktstructuur & de aard van
     beurzen. https://sniperinmahwah.wordpress.com/
 
-[^12] De Flash Crash van 6 mei 2010 geanalyseerd door Nanex: http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html en https://www.youtube.com/watch?v=E1xqSZy9_4I
+[^12]: De Flash Crash van 6 mei 2010 geanalyseerd door Nanex: http://www.nanex.net/20100506/FlashCrashAnalysis_Intro.html en https://www.youtube.com/watch?v=E1xqSZy9_4I
 
-[^13] Laumonier Alexandre: *5/6*. Zones Sensibles edities, 2014. 
+[^13]: Laumonier Alexandre: *5/6*. Zones Sensibles edities, 2014. 
     http://www.zonessensibles.org/livres/6-5/ 
  
-[^14] https://www.washingtonpost.com/news/worldviews/wp/2013/04/23/syrian-hackersclaim-ap-hack-that-tipped-stock-market-by-136-billion-is-it-terrorism/ 
+[^14]: https://www.washingtonpost.com/news/worldviews/wp/2013/04/23/syrian-hackersclaim-ap-hack-that-tipped-stock-market-by-136-billion-is-it-terrorism/ 
  
-[^15] Dit schepsel is zo duur (een enkele transactie vereist zo veel elektriciteit als een gemiddeld Amerikaans huis verbruikt in anderhalve dag), dat het is voornamelijk in China gevestigd en verloopt momenteel zeer traag.  http://motherboard.vice.com/read/bitcoin-is-unsustainable 
+[^15]: Dit schepsel is zo duur (een enkele transactie vereist zo veel elektriciteit als een gemiddeld Amerikaans huis verbruikt in anderhalve dag), dat het is voornamelijk in China gevestigd en verloopt momenteel zeer traag.  http://motherboard.vice.com/read/bitcoin-is-unsustainable 
  
-[^16] https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-thetheory.html 
+[^16]: https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-thetheory.html 
  
-[^17] Kapitalisatie en dagelijkse bewegingen van crypto-valuta's: http://coinmarketcap.com/ 
+[^17]: Kapitalisatie en dagelijkse bewegingen van crypto-valuta's: http://coinmarketcap.com/ 
  
-[^18] https://www.ethereum.org/ 
+[^18]: https://www.ethereum.org/ 
  
-[^19] https://en.wikipedia.org/wiki/The_DAO_(organization)
+[^19]: https://en.wikipedia.org/wiki/The_DAO_(organization)
 
-[^20] Primavera De Filippi: "Ethereum: Freenet of Skynet?". Berkman Center, 2014. https://cyber.harvard.edu/events/luncheon/2014/04/difilippi 
+[^20]: Primavera De Filippi: "Ethereum: Freenet of Skynet?". Berkman Center, 2014. https://cyber.harvard.edu/events/luncheon/2014/04/difilippi 
  
-[^21] http://www.theverge.com/2016/12/30/14128870/foxconn-robots-automation-appleiphone-china-manufacturing 
+[^21]: http://www.theverge.com/2016/12/30/14128870/foxconn-robots-automation-appleiphone-china-manufacturing 
  
-[^22] https://www.washingtonpost.com/news/innovations/wp/2016/05/16/meet-ross-thenewly-hired-legal-robot/ 
-[^23] Bernard Stiegler: *La Société automatique. L'avenir du travail.* Fayard, 2015. 
+[^22]: https://www.washingtonpost.com/news/innovations/wp/2016/05/16/meet-ross-thenewly-hired-legal-robot/ 
+[^23]: Bernard Stiegler: *La Société automatique. L'avenir du travail.* Fayard, 2015. 
 http://www.philomag.com/les-livres/fiche-de-lecture/la-societe-automatique-1lavenir-du-travail-11454 
  
-[^24] https://www.google.com/recaptcha/intro/index.html 
+[^24]: https://www.google.com/recaptcha/intro/index.html 
 
-[^25] https://nl.wikipedia.org/wiki/Turingtest
+[^25]: https://nl.wikipedia.org/wiki/Turingtest
 
-[^26] http://www.bizjournals.com/boston/blog/techflash/2015/01/massachusettswomans-lawsuit-accuses-google-of.html
+[^26]: http://www.bizjournals.com/boston/blog/techflash/2015/01/massachusettswomans-lawsuit-accuses-google-of.html
 
-[^27] https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf
+[^27]: https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf
 
-[^28] A 61-million-person experiment in social influence and political mobilization: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
+[^28]: A 61-million-person experiment in social influence and political mobilization: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
 
-[^29] https://nl.wikipedia.org/wiki/Technologische_singulariteit
+[^29]: https://nl.wikipedia.org/wiki/Technologische_singulariteit
 
-[^30] Antoinette Rouvroy and Thomas Berns: “Gouvernementalité algorithmique et perspectives d'émancipation: Le disparate comme condition d'individuation par la relation?”. Politics of algorithms.  Web-metrics.  *RESEAUX*, Vol.31, n.177, pp. 163-196 (2013). http://works.bepress.com/antoinette_rouvroy/47/
+[^30]: Antoinette Rouvroy and Thomas Berns: “Gouvernementalité algorithmique et perspectives d'émancipation: Le disparate comme condition d'individuation par la relation?”. Politics of algorithms.  Web-metrics.  *RESEAUX*, Vol.31, n.177, pp. 163-196 (2013). http://works.bepress.com/antoinette_rouvroy/47/
 
-[^31] ifapa.me is a collective dedicated to research and subvert the effects of mathematization and quantification of daily life in necrocapitalist societies: http://www.ifapa.me/
+[^31]: ifapa.me is a collective dedicated to research and subvert the effects of mathematization and quantification of daily life in necrocapitalist societies: http://www.ifapa.me/
 
-[^32] https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racialbias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973c5efb7ccfb0d_story.html?utm_term=.b7f5ab5df1f9
+[^32]: https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racialbias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973c5efb7ccfb0d_story.html?utm_term=.b7f5ab5df1f9
 
-[^33] http://www.genderit.org/feminist-talk/algorithmic-discrimination-andfeminist-politics
+[^33]: http://www.genderit.org/feminist-talk/algorithmic-discrimination-andfeminist-politics
 
-[^34] https://nl.wikipedia.org/wiki/Drie_wetten_van_de_robotica
+[^34]: https://nl.wikipedia.org/wiki/Drie_wetten_van_de_robotica
 
-[^35] http://internetactu.blog.lemonde.fr/2017/01/21/peut-on-armer-la-transparencede-linformation/
+[^35]: http://internetactu.blog.lemonde.fr/2017/01/21/peut-on-armer-la-transparencede-linformation/
 
-[^36] Documentary “Le secret des 7 soeurs”: http://secretdes7soeurs.blogspot.fr/
+[^36]: Documentary “Le secret des 7 soeurs”: http://secretdes7soeurs.blogspot.fr/
 
-[^37] http://www.fatml.org/resources/principles-for-accountable-algorithms
+[^37]: http://www.fatml.org/resources/principles-for-accountable-algorithms
 
-[^38] http://www.lemonde.fr/pixels/article/2016/09/28/intelligence-artificielleles-geants-du-web-lancent-un-partenariat-sur-l-ethique_5005123_4408996.html
+[^38]: http://www.lemonde.fr/pixels/article/2016/09/28/intelligence-artificielleles-geants-du-web-lancent-un-partenariat-sur-l-ethique_5005123_4408996.html
 
-[^39] http://www.internetactu.net/2016/03/16/algorithmes-et-responsabilites/
+[^39]: http://www.internetactu.net/2016/03/16/algorithmes-et-responsabilites/
 
-[^40] https://www.service-public.fr/particuliers/actualites/A11502
+[^40]: https://www.service-public.fr/particuliers/actualites/A11502
 
-[^41] https://www-direction.inria.fr/actualite/actualites-inria/transalgo
+[^41]: https://www-direction.inria.fr/actualite/actualites-inria/transalgo
 
-[^42] The Internet Engineering Task Force (IETF): http://www.ietf.org/
+[^42]: The Internet Engineering Task Force (IETF): http://www.ietf.org/
 
-[^43] http://degooglisons-internet.org/
+[^43]: http://degooglisons-internet.org/
 
-[^44] http://chatons.org/
+[^44]: http://chatons.org/
 
-[^45] http://yunohost.org/
+[^45]:http://yunohost.org/
 
-[^46] https://cvdazzle.com/
+[^46]: https://cvdazzle.com/
 
-[^47] http://www.lemonde.fr/pixels/article/2016/10/19/inquietudes-autour-de-lareconnaissance-faciale-aux-etats-unis_5016364_4408996.html
+[^47]: http://www.lemonde.fr/pixels/article/2016/10/19/inquietudes-autour-de-lareconnaissance-faciale-aux-etats-unis_5016364_4408996.html
 
-[^48] https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbotgets-a-crash-course-in-racism-from-twitter
+[^48]: https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbotgets-a-crash-course-in-racism-from-twitter
 
-[^49] http://elizagen.org
+[^49]: http://elizagen.org
