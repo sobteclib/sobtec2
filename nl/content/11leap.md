@@ -33,7 +33,7 @@ Overheden en bedrijven wedijveren voor de inzet van alomtegenwoordige toezicht. 
 
 Strategisch gezien lijkt e-mail tegenwoordig een vreemde keuze, in een steeds veranderend technologisch landschap dat steeds meer leunt op mobiele applicaties en waar de meeste gebruikers hun eerste ervaring op het internet reeds hadden via de Grote Silos. E-mail wordt vaak bekritiseerd als een verouderde technologie, omdat de architectuur het moeilijk maakt om berichten te versleutelen op een manier die verbergt wie aan wie schrijft en waarover.
 
-Zelfs als interessantere en aanvalsbestendige technologieën verschijnen in de toekomst [^6], zal e-mail op zijn minst nog voor een tijdje blijven.  E-mail is het asynchrone medium dat we hebben en dat beschermd moet worden.  Miljoenen e-mails worden nog steeds dagelijks verzonden zonder versleuteling, en e-mails met ongecontroleerde afzenders worden nog steeds gebruikt voor verwoestende phishing of malware-aanvallen.
+Zelfs als interessantere en aanvals-resistentere technologieën verschijnen in de toekomst [^6], zal e-mail op zijn minst nog voor een tijdje blijven.  E-mail is het asynchrone medium dat we hebben en dat beschermd moet worden.  Miljoenen e-mails worden nog steeds dagelijks verzonden zonder versleuteling, en e-mails met ongecontroleerde afzenders worden nog steeds gebruikt voor verwoestende phishing of malware-aanvallen.
 
 Het is moeilijk in te schatten of dit van fundamenteel belang is voor het probleem met de bruikbaarheid waarmee we te maken hebben, of dat we integendeel een algemeen verlies van interesse hebben in: 1. e-mail als een hulpmiddel; 2. privacy en veiligheid in online communicatie; of 3. een combinatie van beiden.
 
@@ -41,7 +41,7 @@ Opslag op commercieel niveau is goedkoop, en aanbieders die afhankelijk zijn van
 
 Er wordt aangetoond dat gebruikers bereid zijn om extra kosten te betalen voor diensten of apps die hun privacy [^7] respecteren, maar privacybewuste e-mailaanbieders moeten concurreren met de grote marktspelers die schaalvoordelen benutten om standaard als basis 15 GB "gratis" opslag aan te bieden, hoge betrouwbaarheid, snelheid enz. Met andere woorden, er zijn veel kritische gebruikers die zouden kunnen bijdragen aan de kosten van privacybewuste e-mailaanbieders, maar bruikbaarheid en de operationele kosten maken het zeer moeilijk om te concurreren met de gevestigde monopolies.
 
-In die zin moet elke serieuze poging om alternatieven aan te reiken, gericht zijn op duurzaamheid van technopolitieke projecten zoals privacybewuste e-mail aanbieders.
+In die zin moet elke serieuze poging om alternatieven aan te reiken, gericht zijn op duurzaamheid van techpolitieke projecten zoals privacybewuste e-mail aanbieders.
 
 
 ## Het is ook een probleem met gereedschap voor nerds
@@ -67,7 +67,7 @@ In het post-Snowden-tijdperk zijn veel projecten tot bloei gekomen.  Ik noem er 
 LEAP streeft ernaar versleutelde e-maildiensten te ontwikkelen die gemakkelijk te implementeren zijn en
 clients die eenvoudig te gebruiken zijn [^9].  LEAP implementeert opportunistische e-mailencryptie met een transparant proces dat slechts weinig cognitieve inspanning van de gebruikers vergt en lage onderhoudskosten voor de aanbieders. LEAP software kan veel gedecentraliseerde aanbieders in staat stellen om de e-mailvoorzieningen in te voeren door de verlaging van de technische en economische kosten.
 
-Aan de serverzijde is het LEAP-platform een verzameling aanvullende softwarepakketten en recepten om het onderhoud van LEAP-diensten te automatiseren. Het doel is om het voor sysadmins zo pijnloos mogelijk te maken om veilige communicatiediensten in te zetten en te onderhouden, alsmede om aanbieders te helpen bij het beheer van registratie en facturering.
+Aan de serverkant is het LEAP-platform een verzameling aanvullende softwarepakketten en recepten om het onderhoud van LEAP-diensten te automatiseren. Het doel is om het voor sysadmins zo pijnloos mogelijk te maken om veilige communicatiediensten in te zetten en te onderhouden, alsmede om aanbieders te helpen bij het beheer van registratie en facturering.
 
 Aan de gebruikerszijde draait de Bitmask-toepassing op de achtergrond.  Het treedt op als een proxy voor dezelfde e-mailprogramma's waarmee gebruikers reeds vertrouwd zijn. Als alternatief is er een andere interface beschikbaar die in de browser draait (via een aangepaste versie van Pixelated [^16].  Bitmask vindt de relevante coderingssleutels voor e-mailadressen automatisch, en werkt op verschillende toestellen. Alle gegevens (inclusief de versleutelingsdatabase en de e-mail zelf) zijn end-to-end versleuteld, wat betekent dat dienstverleners geen toegang hebben tot de inhoud. Als onderdeel van het Panoramix-project [^17], zullen anonieme routemogelijkheden toegevoegd worden als bescherming tegen dataverkeersanalyse. Om op die manier meer privacy te bieden.
 
@@ -87,7 +87,7 @@ Door de implementatie van deze voorgestelde standaard kunnen Memory Hole-compati
 
 Het [Autocrypt-project]() ontwikkelt e-mailencryptie die gemakkelijk genoeg is voor massaal gebruik, ook al kan het niet even veilig zijn als traditionele e-mailversleuteling.
 
-Het project wordt aangestuurd door een diverse groep van mail app ontwikkelaars, hackers en onderzoekers die bereid zijn een nieuwe aanpak te volgen, te leren van fouten uit het verleden en daarmee de algemene acceptatie van versleutelde e-mail te verhogen. Sommige populaire software zoals K9 (mobiele e-mail app), Enigmail (encryptie plugin voor de Thunderbird postlezer) of Mailpile (een webinterface voor e-mail) ondersteunen dit protocol reeds.
+Het project wordt aangestuurd door een diverse groep van mail app ontwikkelaars, hackers en onderzoekers die bereid zijn een nieuwe aanpak te volgen, te leren van fouten uit het verleden en daarmee de algemene acceptatie van versleutelde e-mail te verhogen. Sommige populaire software zoals K9 (mobiele e-mail app), Enigmail (encryptie plugin voor de Thunderbird desktop e-mailclient) of Mailpile (een webinterface voor e-mail) ondersteunen dit protocol reeds.
 
 Autocrypt maakt gebruik van regelmatige e-mailberichten om informatie uit te wisselen om latere berichten te versleutelen. Het voegt metadata toe aan de e-mail die de versleutelingscodes van de gebruikers en de relevante versleutelingscodes opslaat, alsook de voorkeuren over het versleutelingsgedrag.
 
@@ -96,7 +96,7 @@ Autocrypt maakt gebruik van regelmatige e-mailberichten om informatie uit te wis
 
 Een webmailinterface biedt een intuïtieve gebruikerservaring.  Het werkt in de browser die op elke desktopcomputer beschikbaar is. In-browser apps brengen beveiligingsproblemen met zich mee (oncontroleerbare uitvoering van code, geheime opslag met een zeer wijd aanvalsoppervlak, enz.), maar het verlaagt ook drastisch de barrière naar aanvaarding.
 
-Mailpile [^10] is een zelf gehoste e-mailservice.  Zijn gebruikersinterface maakt gebruik van breed ondersteunde webstandaarden zoals HTML5 en JavaScript. De interface maakt verbinding met een backend dat typisch op een lokaal toestel draait, maar ook op een server kan draaien.  Het ondersteunt end-to-end encryptie via de traditionele OpenPGP-standaard. De interface legt de nadruk op zoeken en taggen, waardoor het een beetje lijkt op de populaire Gmail web inferface en zich daarmee onderscheidt van de meeste andere gratis software e-mailprogramma's.  Het initiatief Mailpile is veelbelovend als moderne platformoverkoepelende mailclient, vooral sinds de Mozilla Stichting haar steun aan de ontwikkeling van haar belangrijkste alternatieve programma, de Thunderbird desktop e-maillezer, heeft gestaakt.
+Mailpile [^10] is een zelf gehoste e-mailservice.  Zijn gebruikersinterface maakt gebruik van breed ondersteunde webstandaarden zoals HTML5 en JavaScript. De interface maakt verbinding met een backend dat typisch op een lokaal toestel draait, maar ook op een server kan draaien.  Het ondersteunt end-to-end encryptie via de traditionele OpenPGP-standaard. De interface legt de nadruk op zoeken en taggen, waardoor het een beetje lijkt op de populaire Gmail web inferface en zich daarmee onderscheidt van de meeste andere gratis software e-mailprogramma's.  Het initiatief Mailpile is veelbelovend als moderne platformoverkoepelende mailclient, vooral sinds de Mozilla Stichting haar steun aan de ontwikkeling van haar belangrijkste alternatieve programma, de Thunderbird desktop e-mailclient, heeft gestaakt.
 
 Een andere interessante open-system webmail benadering was Whiteout, die in 2015 sloot met meer dan 10.000 gebruikers. Hun open-sourcesoftware implementeert interoperabele protocollen. In hun postmortembrief deelden zij een aantal berekeningen over hoe een levensvatbare markt van versleutelde messaging apps er zou kunnen uitzien [^11]. Alhoewel de les misschien wel is dat een start-up niet geschikt is om het surveillanceprobleem aan te pakken.
 

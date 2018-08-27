@@ -10,7 +10,7 @@ Beste lezers, ik zou het hier graag hebben over technologische soevereiniteit, e
 
 Wikipedia stelt dat "soevereiniteit" de hoogste politieke macht is. Soeverein zijn betekent in staat zijn om zelfstandig te beslissen, de macht te hebben om wetten te maken zonder dat die worden opgelegd door anderen. Het is onmogelijk om soevereiniteit te begrijpen zonder rekening te houden met de strijd om de macht: de geschiedenis definieert de kwestie van soevereiniteit, wat is en wat zal worden, en op elk moment, wie soeverein is.
 
-Als we de soevereiniteitskwestie overhevelen naar de technologieën, dan wordt de vraag die we willen bespreken: wie heeft de macht om hierover beslissingen te nemen? Over de ontwikkeling, over het gebruik, over toegang en over distributie, over aanbod en consumptie, over het prestige dat ze hebben en hun vermogen om ons te boeien ...
+Als we de kwestie van soevereiniteit overhevelen naar de technologieën, dan wordt de vraag die we willen bespreken: wie heeft de macht om hierover beslissingen te nemen? Over de ontwikkeling, over het gebruik, over toegang en over distributie, over aanbod en consumptie, over het prestige dat ze hebben en hun vermogen om ons te boeien ...
 
 Ik denk dat er aangaande de vraag rond macht geen eenvoudige antwoorden zijn te geven. Toch zijn er wenselijke en gewenste horizonten. Met deze publicatie hopen we even te pauzeren en na te denken over de technologische horizon die we uitstippelen, kritisch te oordelen en vooral onze ideeën te delen.
 
@@ -32,17 +32,17 @@ Zoals bij elke symbolische constructie zijn gemeenschappen niet iets wat je met 
 
 Dit betekent dat in dezelfde situatie een gemeenschap heel reëel en actief kan zijn voor sommige mensen, maar totaal onzichtbaar voor anderen. Dit is een reëel probleem, want als je niet ziet waar gemeenschappen lopen, loop je het risico ze te vertrappelen. Hoewel de technologische industrie er vaak niet naar streeft om gemeenschappen te vertrappelen, maar om ze te controleren.
 
-Voor degenen onder ons die vechten voor technologische soevereiniteit, zijn gemeenschappen een tastbare realiteit. Ze zijn er, we zien ze en we voelen ze. Hoewel technologie meestal in verband gebracht wordt met consumentisme, elitisme, luxegoederen en geïsoleerd individualisme, is dit slechts de visie van de industrie en de markt. Een markt die de consument wil isoleren en verbluffen.
+Voor degenen onder ons die vechten voor technologische soevereiniteit, zijn gemeenschappen een tastbare realiteit. Ze zijn er, we zien ze en we voelen ze. Hoewel technologie meestal in verband gebracht wordt met consumentisme, elites, luxegoederen en geïsoleerd individualisme, is dit slechts de visie van de industrie en de markt. Een markt die de consument wil isoleren en verbluffen.
 
 Alle technologie is ontwikkeld in de gemeenschap. Deze gemeenschappen kunnen min of meer autonoom zijn, of min of meer gecontroleerd worden door bedrijven. De strijd om soevereiniteit gaat over deze gemeenschappen. Niemand bedenkt, bouwt of codeert alleen omdat het gewoonweg onmogelijk zou zijn.
 
 Het uitgangspunt van een gemeenschap die soeverein wil zijn, is dat alle kennis moet worden gedeeld, en alle individuele ontwikkelingen moeten worden teruggegeven aan de commons. Kennis groeit door samenwerking. Intelligentie is collectief en het privatiseren van kennis is het doden van de gemeenschap. De gemeenschap staat borg voor de vrijheid, dat wil zeggen voor de soevereiniteit.
 
-De relatie tussen gemeenschappen en kennis heeft een lange geschiedenis en is niet voortgekomen uit nieuwe technologieën. In een cultuur waarin vrouwen bijvoorbeeld verantwoordelijk zijn voor de bevalling van andere vrouwen, wordt het behoud en de overdracht van kennis over de geboorte van fundamenteel belang voor de reproductie van het leven. Dit betekent dat er een min of meer geformaliseerde gemeenschap van vroedvrouwen zal ontstaan, of anders gezegd gemeenschapsbanden tussen vroedvrouwen die betrekking hebben op het behoud van praktijkkennis. 
+De relatie tussen gemeenschappen en kennis heeft een lange geschiedenis en is niet voortgekomen uit nieuwe technologieën. In een cultuur waarin vrouwen bijvoorbeeld verantwoordelijk zijn voor de bevalling van andere vrouwen, wordt het behoud en de overdracht van kennis over de geboorte van fundamenteel belang voor de reproductie van het leven. Dit betekent dat er een min of meer geformaliseerde gemeenschap van vroedvrouwen zal ontstaan, of anders gezegd gemeenschapszin tussen vroedvrouwen die betrekking hebben op het behoud van praktijkkennis. 
 
 De dominante macht kan deze gemeenschap (deze soevereiniteit) vernietigen als ze dat wil, namelijk door de kennis die deze gemeenschap gemeen heeft te "ruïneren", waardoor ze nutteloos, belachelijk of achterhaald lijkt. Dit gebeurt doorgaans via een beleid dat deze kennis "verschuift" naar ziekenhuizen en in de handen van de conventionele geneeskunde. Als vrouwen in het ziekenhuis bevallen, worden ze door artsen bezocht en wordt de gemeenschap van vrouwen verzwakt of verdwijnt ze helemaal (ze verliest haar soevereiniteit).
 
-De gemeenschap, in haar meest radicale vorm, is, kort gezegd, autonoom, zelforganiserend, zelfregulerend en staat garant voor soevereiniteit. Als je een gemeenschap hebt, zul je vrijheid en soevereiniteit hebben. Of zelfs nog verder: alleen binnen gemeenschappen kunnen we vrije en soevereine volken zijn.
+De gemeenschap, in haar meest radicale vorm, is, kort gezegd, autonoom, zelf-organiserend, zelfregulerend en staat garant voor soevereiniteit. Als je een gemeenschap hebt, zul je vrijheid en soevereiniteit hebben. Of zelfs nog verder: alleen binnen gemeenschappen kunnen we vrije en soevereine volken zijn.
 
 Ik hoor je zeggen "ach, arme ik, ik heb niet de tijd of het geld, ik begrijp de technologie niet, en ik heb al duizenden andere problemen in mijn leven ... hoe kan ik dan lid worden van een gemeenschap om technologieën te maken?".
 
@@ -82,7 +82,7 @@ In de piek van de financiële crisis en in een cultuur van verplichte ondernemin
 
 Dit marktaanbod houdt zich voortdurend bezig met andere vormen van samenwerking, in een broeihaard van nieuwe tendensen die de episodes markeren in de strijd om technologische soevereiniteit.
 
-De technologie-industrie wil haar voorkeuren opdringen. Zij wil dat u zich zonder vragen aan haar producten en diensten houdt.
+De technologie-industrie wil haar voorkeuren opdringen. Zij wil dat u zich zonder vragen overgeeft aan haar producten en diensten.
 
 Daarom stel ik voor dat u bij uw technologische keuzes rekening houdt met het volgende:
 
@@ -106,7 +106,7 @@ Als je deel uitmaakt van een groep, ga er dan niet van uit dat alle leden bereid
 
 Het is alsof we vegetariërs willen dwingen om vlees te eten omdat het comfortabeler (of goedkoper of wat dan ook) is om één bord te maken volgens de criteria van de absolute meerderheid. Dat zou toch onaanvaardbaar zijn? Nou, op dezelfde manier kan iemand weigeren om gebruik te maken van (of gebruikt te worden door) bepaalde diensten. Dat is hun goed recht. De keuze van de te gebruiken technologieën is niet alleen praktisch, maar ook ethisch.
 
-Als je een opvoeder bent, breng dan de waarden van vrije software over. Waarom zouden we pirateren op wat gemeenschappen ons al bieden en wat we vrij kunnen delen? Vrije software is de software die de waarden van de gemeenschap uitdraagt en verdedigt. Als we openbaar onderwijs willen omdat het gemeengoed is, moeten we dan niet eisen dat openbare scholen gebruik maken van vrije softwareprogramma's, zonder licentiekosten en privatiseringsmechanismen? Openbaar is niet hetzelfde als gratis.
+Als je een opvoeder bent, breng dan de waarden van vrije software over. Waarom zouden we illegaal software copiëren normaal moeten vinden terwijkl daar er gemeenschappen zijn die ons vergelijkbare software aanbieden die we vrij kunnen delen? Vrije software is de software die de waarden van de gemeenschap uitdraagt en verdedigt. Als we openbaar onderwijs willen omdat het gemeengoed is, moeten we dan niet eisen dat openbare scholen gebruik maken van vrije softwareprogramma's, zonder licentiekosten en privatiseringsmechanismen? Openbaar is niet hetzelfde als gratis.
 
 Als je de macht hebt om contracten af te sluiten (zoals voor de website van je vereniging), zoek dan naar bedrijven in de sociale economie die bijdragen aan de gemeenschappen. Stort het geld dat je uitgeeft aan technologieën in de communautaire sociale circuits. 
 
@@ -116,9 +116,9 @@ Als je activiteiten kunt programmeren (binnen je vereniging, sociaal centrum, ..
 
 Als je aanzien of invloed hebt, maak dan van technologische soevereiniteit een relevante kwestie op politieke en inhoudelijk relevante agenda's. Zoniet, lees dan over de kwestie in de technologiebijdragen van de kranten. Praat met mensen over wat je hebt gelezen. Maak er een probleem van. Zoek kritische en reflecterende perspectieven. Het gaat er niet om de ultieme trend op de markt na te jagen, maar om op de hoogte te blijven van de vele politieke en maatschappelijke debatten over technologische soevereiniteit.
 
-Als je de energie of het vermogen hebt om leiding te geven, stimuleer dan de vorming van groepen om met dingen te prutsen, kennis uit te wisselen en gezamenlijk van technologie te genieten. Technologieën zijn ook een bron van geluk en plezier. Er zijn groepen die elkaar ontmoeten om elektronisch speelgoed of klein witgoed te repareren. Anderen ontmoeten elkaar om te naaien met vrije hardwarecomponenten (elektronica). Anderen doen aan creatief programmeren... Technologieën zijn niet alleen bedoeld om hard te werken of om mensen te isoleren. Zoals we al eerder hebben gezegd, zijn zij het lichaam van de cultuur. En cultuur is veel meer dan alleen werk.
+Als je de energie of het vermogen hebt om leiding te geven, stimuleer dan de vorming van groepen om met dingen te prutsen, kennis uit te wisselen en gezamenlijk van technologie te genieten. Technologieën zijn ook een bron van geluk en plezier. Er zijn groepen die elkaar ontmoeten om elektronisch speelgoed of klein witgoed te repareren. Anderen ontmoeten elkaar om te naaien met vrije hardware-componenten (elektronica). Anderen doen aan creatief programmeren... Technologieën zijn niet alleen bedoeld om hard te werken of om mensen te isoleren. Zoals we al eerder hebben gezegd, zijn zij het lichaam van de cultuur. En cultuur is veel meer dan alleen werk.
 
-Als je een vrouw bent, zoek dan andere vrouwen op om samen vragen te stellen over hoe genderconstructies ons scheiden van actieve, creatieve en leidinggevende relaties met technologieën. De actieve aanwezigheid van vrouwen in de opbouw van technologische soevereiniteit is schaars. Daar is nog veel werk aan de winkel. In dit boek vindt u enkele verwijzingen bij de vrouwen die een aantal van de hoofdstukken hebben geschreven.
+Als je een vrouw bent, zoek dan andere vrouwen op om samen vragen te stellen over hoe gender-constructies ons scheiden van actieve, creatieve en leidinggevende relaties met technologieën. De actieve aanwezigheid van vrouwen in de opbouw van technologische soevereiniteit is schaars. Daar is nog veel werk aan de winkel. In dit boek vindt u enkele verwijzingen bij de vrouwen die een aantal van de hoofdstukken hebben geschreven.
 
 En als je niet weet waar je moet beginnen, vraag dan om hulp. Naast alle mensen die je persoonlijk kent, kan je tegenwoordig ook in contact komen met mensen die je niet kent. Als je een video ziet die je interesseert of een artikel waar je dieper op in zou willen gaan, kan je waarschijnlijk een mail naar de auteur sturen. Zelfs als we elkaar niet kennen, kunnen we elkaar helpen.
 

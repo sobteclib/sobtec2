@@ -23,7 +23,7 @@ Een ander aspect van de huidige scène bestaat uit initiatieven van de lokale ov
 
 Techcoöperaties zijn te vinden op het grensvlak van beide vorige opties, omdat ze een economisch doel hebben dat gericht is op duurzaamheid en ook op een politieke en sociale benadering van technologie. 
 
-Bovendien is het overgrote deel van hun klanten deel van de tertiaire sector (non-profit gericht zoals NGO's, verenigingen, collectieven), waardoor ze kunnen helpen bij het ontwikkelen van producten op basis van hun specifieke noden en wensen. Voorbeelden zijn [^3] Candela (Amnesty's activisten beheer app), GONG (project / budget manager voor NGO's), Oigame (online petitieplatform), Nolotiro (platform om dingen uit te wisselen), Mecambio (Een oplijsting van alternatieven voor mensen die willen veranderen van financiële instelling, energie- en internetprovider)
+Bovendien is het overgrote deel van hun klanten deel van de tertiaire sector (non-profit gericht zoals NGO's, verenigingen, collectieven), waardoor ze kunnen helpen bij het ontwikkelen van producten op basis van hun specifieke noden en wensen. Voorbeelden zijn [^3] Candela (Amnesty's activisten beheer app), GONG (project / budget manager voor NGO's), Oigame (online petitieplatform), Nolotiro (platform om dingen uit te wisselen), Mecambio (Een opsomming van alternatieven voor mensen die willen veranderen van financiële instelling, energie- en internetprovider)
 
 ## Creëer een coöperatie
 
@@ -64,7 +64,7 @@ Zo kwam Dabne ook in de IT-consulting terecht: Als actieve luisteraars konden we
 
 Coöperaties zijn meestal kwetsbaar. Maar door samen te werken, te bouwen en deel te nemen aan bestaande communities, netwerken te creëren en die te koesteren, kunnen ze hun veerkracht en duurzaamheid in de loop van de tijd versterken.
 
-Via het coöperatien platform (UMCTA) kwamen we in contact met coöperaties die werken rond milieu, agro-ecologie, sociaal werk en sociaal advies die bereid waren om hun langere ervaring en kennis te delen. 
+Via het coöperatieve platform (UMCTA) kwamen we in contact met coöperaties die werken rond milieu, agro-ecologie, sociaal werk en sociaal advies die bereid waren om hun langere ervaring en kennis te delen. 
 Een coöperatie worden was ook bedoeld om tot de community van de sociale en solidaire economie toe te treden [^6].
 Op dat moment werd Coop57-Madrid opgericht, een ethische financiële dienstverleningscoöperatie, met als doel de financiering van projecten uit de sociale en solidaire economie dankzij investeringen van het maatschappelijk middenveld.
 ‘Red de economía alternativa y solidaria’ (REAS) en de sociale markt zijn netwerken voor de productie en distributie van goederen en diensten op basis van de principes van de sociale en solidaire economie. Bij hen vonden we de projecten die zich bezighouden met sociale transformatie, ecologische duurzaamheid, commons, gendergelijkheid, transparantie, participatie, zelforganisatie en interne democratie.
@@ -120,10 +120,10 @@ Ik zal eerder genoemde dimensies opnieuw samenvatten met behulp van een SWOT-ana
 
 ## Enkele open vragen 
 
-Coöperaties kunnen bouwen aan nieuwe autonome zones en tegelijkertijd reageren op alerlei uitdagingen:
+Coöperaties kunnen bouwen aan nieuwe autonome zones en tegelijkertijd reageren op allerlei uitdagingen:
 
  * Economie: hoe geef je vorm aan een economie van de commons, sociaal en ondersteunend?
- * Zelforganisatie: hoe kan je duurzaam blijven bestaan op de lange termijn, terwijl je onbetwistbare waarheden zoals, consensus, horizontaliteit, participatie, leiderschap in vraag in vraag stelt?
+ * Zelforganisatie: hoe kan je duurzaam blijven bestaan op de lange termijn, terwijl je onbetwistbare waarheden zoals, consensus, horizontalisme, participatie, leiderschap in vraag in vraag stelt?
  * **Technologische vrijheid**: hoe kun je strijden voor gratis software, digitale rechten, open kennis en copyleft?
 
 Naarmate de tijd voort schrijdt, blijven tech-coöperaties binnen een klein speelveld, gestoeld op sterke persoonlijke relaties, die cruciaal zijn voor het opbouwen van vertrouwen en het aangaan van nieuwe uitdagingen, maar dat kan ook een beperkende factor worden wanneer er behoefte is aan schaalvergroting.
@@ -138,7 +138,7 @@ Deze uitdagingen geven een inzicht in de toekomst en de creatie van deze autonom
 [^0]: Ter herinnering, vrije technologieën zijn, in een notendop, de technologieën en diensten die gebaseerd zijn op de vrijheid die wordt gegeven door vrije software en zijn filosofie.
 **Vrijheid 0**: de vrijheid om het programma voor welk doel dan ook te gebruiken.
 **Vrijheid 1**: de vrijheid om te bestuderen hoe het programma werkt, en het te veranderen om het te laten doen wat u wenst.
-**Vrijheid 2**: de vrijheid om te herdistribueren en kopieën te maken, zodat u uw buurman kan helpen.
+**Vrijheid 2**: de vrijheid om te her-distribueren en kopieën te maken, zodat u uw buurman kan helpen.
 **Vrijheid 3**: de vrijheid om het programma te verbeteren en uw verbeteringen (en gewijzigde versies in het algemeen) vrij te geven voor het publiek, zodat de hele gemeenschap er baat bij heeft.
 
 [^1]: Rise Up: https://riseup.net/ (USA)
