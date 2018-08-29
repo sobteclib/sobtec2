@@ -41,7 +41,7 @@ Tenslotte, verschuilen ze zich buiten ons zicht om gedetailleerd onze kleinste v
 |**Voorbeeld** | Audience measurement, Google Analytics, reclame tabs | Google PageRank, Digg, Wikipedia | Aantal vrienden op Facebook, Retweets op Twitter, notities en opinies | Aanbevelingen op Amazon, gedragsgebaseerd adverteren |
 | **Data** | Bezoeken | Relaties | Likes | Tracking |
 | **Populatie** | Representatieve steekproeven | Stemmen-telling, gemeenschappen | Sociale netwerken, affiniteiten, declaratief | Impliciete individuele gedragingen |
-| **Berekeningstype** | Stem-resultaten | Classificatie naar verdienste | Benchmark | Machine-learning |
+| **Algoritme** | Stem-resultaten | Classificatie naar verdienste | Benchmark | Machine-learning |
 | **Principe** | Populariteit | Autoriteit | Reputatie | Voorspelling |
 
 *Volgens Domenique Cardon in "À quoi rêvent les algorithmes".* [^4]
@@ -254,7 +254,7 @@ http://www.philomag.com/les-livres/fiche-de-lecture/la-societe-automatique-1lave
 
 [^35]: http://internetactu.blog.lemonde.fr/2017/01/21/peut-on-armer-la-transparencede-linformation/
 
-[^36]: Documentary “Le secret des 7 soeurs”: http://secretdes7soeurs.blogspot.fr/
+[^36]: http://secretdes7soeurs.blogspot.fr/ Documentaire “Le secret des 7 soeurs”
 
 [^37]: http://www.fatml.org/resources/principles-for-accountable-algorithms
 

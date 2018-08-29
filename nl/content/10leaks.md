@@ -78,10 +78,6 @@ Kortom, ik geloof echt dat het klokkenluiden goed gebruik kan maken van de ontev
 Sinds 2012 heeft het GlobaLeaks team wereldwijd verschillende interessante experimenten opgesomd die door verschillende gemeenschappen zijn gecreëerd.[^8] Enkele van de meest opvallende zijn de verzameld bijdragen door WildLeaks, een platform tegen dierenstroperij[^9] en de Italiaanse Investigative Reporting Project Italy die bewijzen verzamelt over ambtenaren die hun Couchsurfende gasten hebben verkracht [^10]. Ik haal dit aan omdat er gewoon zoveel corruptiezaken zijn. Het Spaanse X-Net [^11] is erin geslaagd om de actieve medeplichtigheid van een aantal banken in het bankroet van de Spaanse staat aan te tonen en de besparingen die het tot gevolg heeft. Ze maakten er zelfs een theaterstuk over. PubLeaks, stelde in samenwerking met de grootste Nederlandse media een boek samen met alle onthullingen die ze in de laatste vier jaar hebben ontvangen. En MexicoLeaks [^12], was blijkbaar zo beangstigend dat journalisten al ontslagen werden, nog voordat de lekken begonnen binnen te stromen. En nu is het aan jou. Wat is de doos van Pandora die jij wil openen?
 
 
-
-
-## Referenties
-
 [^1]: De meest inspirerende klokkenluider van de afgelopen jaren misschien? https://en.wikipedia.org/wiki/Chelsea_Manning
 
 [^2]: https://en.wikipedia.org/wiki/William_Binney_(U.S._intelligence_official)
