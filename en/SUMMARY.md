@@ -1,4 +1,4 @@
-# Technologoical Sovereignty, vol. 2.
+# Technological Sovereignty, vol. 2.
 
  * [Dedication](content/00dedication.md)
  * [Preface: Technological Sovereignty – What are we talking about?](content/01preface.md)
