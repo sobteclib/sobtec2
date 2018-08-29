@@ -1,14 +1,41 @@
 #!/bin/bash
 
-# This script processes the markdown (*.md) files 
-# to TeX and creating a printshop-ready book
+###############################################################################
+# This script transforms the available markdown (*.md) files 
+# to TeX creating a printshop-ready book. This is complementary
+# to the gitbooks.sh script output which renders the documents
+# with a digital book-reading experience.
 #
+# On a Debian-based Linux system (ubuntu) you will need to install
+# the following pacakges to succesfully progress to TeX and pdf
+# renderings of the collective work:
+#
+# * pandoc
+# * texlive-extra-utils (for texliveonfly)
+# * texlive-latex-extra and texlive-fonts-extra (for doclicense LaTeX package)
+#
+# N.B.: Please have about 2+ GB diskspace available to install 
+# all the related software
+#
+# For LaTeX you might consider installing some optional packages 
+# related to various languages to get all the chapters, TOC, and other default
+# headings render to langues-specific output:
+# texlive-lang-european (include dutch among other languages)
+# texlive-lang-french
+# texlive-lang-spanish
+# etc. ...
 
-#################################################
-# 1 the markdowns to tex
-# 2 the tex output to a book collated by book.tex
-# param: lang-dir name (defaults to or(iginal))
-# param: language (default to english)
+###############################################################################
+# Render a book for a certain language.
+# "renderbook" transforms the markdowns to TeX by means of pandoc.
+# After that TeX output is collated to a book through 'book.tex'
+#
+# param1: lang-dir name (defaults to or(iginal))
+# param2: language (default to english)
+# Changing the params will have an impact on the chapter, TOC and other
+# parts of the documents which are automatically rendered but change name
+# depending on the language you want.
+#
 function renderbook {
 	DIR=../${1:-or}/content
 	LANGUAGE=${2:-english}
@@ -66,5 +93,5 @@ function manglePandocResults {
 
 #################################################
 #renderbook nl dutch
-renderbook fr french
-#renderbook en english
+#renderbook fr french
+renderbook en english
