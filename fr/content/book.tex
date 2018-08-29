@@ -1,0 +1,54 @@
+\documentclass[a5paper,11pt]{book}
+\input{../../contrib/dtp/preamble}
+
+\input{title}
+
+% % % % % % % % % % % % % % % % % % % % % % % %
+% % % % % % % % % % % % % % % % % % % % % % % %
+% % % % % % % % % % % % % % % % % % % % % % % %
+\begin{document}
+
+\pagestyle{empty}
+\frontmatter
+\begin{center}
+ \hspace{0pt}
+  \vfill
+  \vspace*{0.2\textheight}
+  \input{tex.d/00devoumend}
+  \vfill
+ \hspace{0pt}
+\end{center}
+\pagebreak
+\maketitle
+
+\pagestyle{fancy}
+
+\include{copyright}
+
+\tableofcontents
+
+\chapter{\prefacename}
+\include{tex.d/01preface}
+
+\mainmatter
+\chapter{Introduction}
+ \include{tex.d/02intro}
+
+\chapter{Caractéristiques des initiatives de souveraineté technologique}
+ \include{tex.d/03algos}
+ \include{tex.d/04gamification}
+ \include{tex.d/05irc}
+ \include{tex.d/06cooperatives}
+ \include{tex.d/07rats}
+
+\chapter{Initiatives de souveraineté technologique}
+ \include{tex.d/08rizomatica}
+ \include{tex.d/09coati}
+ \include{tex.d/10leaks}
+ \include{tex.d/11leap}
+ \include{tex.d/12chatons}
+
+\chapter{Credits}
+ \include{tex.d/13credits}
+
+\end{document}
