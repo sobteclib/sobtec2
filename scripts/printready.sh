@@ -87,11 +87,13 @@ function manglePandocResults {
 	sed -i '/begin{longtable}/ i \\\\begin{dummy}\n\\tiny' tex.d/03algos.tex
 	sed -i '/end{longtable}/ a \\\\end{dummy}' tex.d/03algos.tex
 
-	#FIXME: Insert linebreak after every ':' in section heading of tex.d-parts
+	#Insert linebreak after every ':' in section heading of tex.d-parts
 	#that's a '\\'
+	sed -i '0,/: /s//:\\\\/' tex.d/01preface.tex
+	sed -i '0,/: /s//:\\\\/' tex.d/02intro.tex
 }
 
 #################################################
-#renderbook nl dutch
-#renderbook fr french
+renderbook nl dutch
+renderbook fr french
 renderbook en english
