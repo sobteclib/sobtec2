@@ -14,11 +14,13 @@
 
 % headers and footers
 \usepackage{fancyhdr}
-\pagestyle{fancy}
-\renewcommand{\sectionmark}[1]{\markboth{#1}{}} % set the \leftmark
 \fancyhf{} % clear 
-\fancyhead[L]{\leftmark} % 1. sectionname
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}} % set the \leftmark
+%\fancyhead[L]{\leftmark} % 1. sectionname
 \fancyfoot[LE,RO]{\thepage}
+\pagestyle{fancy}
+\fancypagestyle{plain}{\pagestyle{fancy}}
 
 % for tables 
 \usepackage{longtable}
@@ -27,7 +29,7 @@
 \usepackage{graphicx}
 %https://tex.stackexchange.com/questions/39147/scale-image-to-page-width
 %http://texdoc.net/texmf-dist/doc/latex/graphics/grfguide.pdf
-\setkeys{Gin}{width=0.8\textwidth}
+\setkeys{Gin}{width=0.9\textwidth}
 % disable default image captions everywhere
 \usepackage[labelformat=empty]{caption}
 
@@ -67,7 +69,7 @@
 \hypersetup{unicode=false, pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
 
-\usepackage{parskip}
+\usepackage[parfill]{parskip}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}
