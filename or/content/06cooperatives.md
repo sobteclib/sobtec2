@@ -1,5 +1,4 @@
-﻿
-# Hacklabs to technological cooperatives
+﻿# Hacklabs to technological cooperatives
 
 ***Carolina***
 

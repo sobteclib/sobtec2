@@ -1,5 +1,4 @@
 # Cifrar el correo con herramientas usables
-
 ## La adopción masiva de las tecnologías de cifrado
 
 ***Kali Kaneko***

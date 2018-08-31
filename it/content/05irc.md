@@ -1,5 +1,4 @@
 ﻿# Mantenere la sovranitá tecnologica.
-
 ## Il caso di Internet Relay Chat
 
 ![](../../contrib/gfx/illustrations/irc-halfsize.png)

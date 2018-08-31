@@ -1,10 +1,9 @@
 # Klokkenluiden
-
 ## Een tweesnijdend zwaard
 
-![](../../contrib/gfx/illustrations/whistleblowing-halfsize.png)
-
 ***Claudio Agosti***
+
+![](../../contrib/gfx/illustrations/whistleblowing-halfsize.png)
 
 Klokkenluiden is een oude praktijk die al vele namen heeft gekregen en geen ethische grenzen kent. Het kan de schakel zijn tussen een bron en de journalist of tussen een verrader en het leger. In beide gevallen komt voorbehouden informatie in handen terecht van een betrouwbaar geachte persoon, die deze informatie in een actie omzet. Wikileaks en Snowden hebben klokkenluiden met volle kracht terug in de kijker geplaatst en laten zien hoe digitale communicatie het proces kan vereenvoudigen en de integriteit van de communicatie tussen bron en bestemming kan beschermen. Anonimiteit en versleutelde opslagtechnologieën hebben deze revolutionaire omkadering voortgestuwd.
 

@@ -1,5 +1,4 @@
 # Garder la souveraineté technologique
-
 ## Le cas de l'Internet Relay Chat
 
 ***Maxigas***

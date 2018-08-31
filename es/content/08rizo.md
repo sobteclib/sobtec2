@@ -331,30 +331,30 @@ Estamos en un buen momento de entablar un diálogo entre soberanía
 tecnológica y autonomía, entendida tal como se vive en este rincón del
 mundo, entre los pueblos originarios del sureste mexicano.
 
-[^1] https://es.wikipedia.org/wiki/Oaxaca
+[^1]: https://es.wikipedia.org/wiki/Oaxaca
 
-[^2] https://es.wikipedia.org/wiki/Sistema_de_usos_y_costumbres
+[^2]: https://es.wikipedia.org/wiki/Sistema_de_usos_y_costumbres
 
-[^3] https://es.wikipedia.org/wiki/Sistema_global_para_las_comunicaciones_m%C3%B3vile
+[^3]: https://es.wikipedia.org/wiki/Sistema_global_para_las_comunicaciones_m%C3%B3vile
 
-[^4] https://es.wikipedia.org/wiki/Asamblea_Popular_de_los_Pueblos_de_Oaxaca
+[^4]: https://es.wikipedia.org/wiki/Asamblea_Popular_de_los_Pueblos_de_Oaxaca
 
-[^5] Un poquito de tanta verdad: http://www.corrugate.org/un-poquito-de-tanta-verdad.html
+[^5]: Un poquito de tanta verdad: http://www.corrugate.org/un-poquito-de-tanta-verdad.html
 
-[^6] Loreto Bravo. Empresas Comunales de Comunicación: Un camino hacia
+[^6]: Loreto Bravo. Empresas Comunales de Comunicación: Un camino hacia
 la sostenibilidad. *Media Development*, 4/2015 WACC. http://www.waccglobal.org/articles/empresas-comunales-de-comunicacion-un-camino-hacia-la-sostenibilidad
 
-[^7] https://palabraradio.org/nosotras
+[^7]: https://palabraradio.org/nosotras
 
-[^8] Minerva Cuevas: https://es.wikipedia.org/wiki/Minerva_Cuevas
+[^8]: Minerva Cuevas: https://es.wikipedia.org/wiki/Minerva_Cuevas
 
-[^9] Puebla, Guerrero, Tlaxcala, Veracruz y Oaxaca
+[^9]: Puebla, Guerrero, Tlaxcala, Veracruz y Oaxaca
 
-[^10] Lista de poblados que tienen redes de telefonía: Villa Talea de Castro (Sierra Juárez) • Santa María Yaviche (Sierra Juárez) • San Juan Yaee (Sierra Juárez) • San Idelfonso Villa Alta (Sierra Juárez) • San Juan Tabaa (Sierra Juárez) • Sector Cajonos: Santo Domingo Xagacia, San Pablo Yaganiza, San Pedro Cajonos, San Francisco Cajonos, San Miguel Cajonos, San Mateo Cajonos
+[^10]: Lista de poblados que tienen redes de telefonía: Villa Talea de Castro (Sierra Juárez) • Santa María Yaviche (Sierra Juárez) • San Juan Yaee (Sierra Juárez) • San Idelfonso Villa Alta (Sierra Juárez) • San Juan Tabaa (Sierra Juárez) • Sector Cajonos: Santo Domingo Xagacia, San Pablo Yaganiza, San Pedro Cajonos, San Francisco Cajonos, San Miguel Cajonos, San Mateo Cajonos
 (Sierra Juárez) • San Bernardo Mixtepec (Valles Centrales) • Santa María Tlahuitoltepec (Mixe-Alto) • Santa María Alotepec (Mixe-Alto) • San Jerónimo Progreso (Mixteca) • Santiago Ayuquililla (Mixteca) • San Miguel Huautla (Mixteca) • Santa Inés de Zaragosa (Mixteca) • Santos Reyes Tepejillo (Mixteca).
 
-[^11] https://media.wix.com/ugd/68af39_c12ad319bb404b63bd9ab471824231b8.pdf
+[^11]: https://media.wix.com/ugd/68af39_c12ad319bb404b63bd9ab471824231b8.pdf
 
-[^12] http://wiki.rhizomatica.org/
+[^12]: http://wiki.rhizomatica.org/
 
-[^13] https://es.wikipedia.org/wiki/Soberan%C3%ADa_Tecnol%C3%B3gica\#cite_note-1
+[^13]: https://es.wikipedia.org/wiki/Soberan%C3%ADa_Tecnol%C3%B3gica\#cite_note-1

@@ -1,4 +1,4 @@
-# Soberanía tecnológica para volver a querer las máquinas
+# Soberanía tecnológica: para volver a querer las máquinas
 
 ***Alex Haché***
 

@@ -1,10 +1,9 @@
 # Het behoud van technologische soevereiniteit 
-Het speciale geval van Internet Relay Chat
-
-![](../../contrib/gfx/illustrations/irc-halfsize.png)
+## Het speciale geval van Internet Relay Chat
 
 ***Maxigas***
 
+![](../../contrib/gfx/illustrations/irc-halfsize.png)
 
 **Nieuwe technologieën dragen soms kritiek in zich op bestaande omstandigheden, vaak verwaterd hun emanciperende kracht en worden hun belangrijke kenmerken gaandeweg aangepast aan de voorwaarden van het kapitalisme.**
 De historische ontwikkeling van chat software is een schoolvoorbeeld van *kritiek & recuperatie* als ze plaatst tegen de achtergrond van technologische levenscycli. We leren uit een historische beschouwing en het hedendaags gebruik van Internet Relay Chat (IRC), dat verzet tegen historische logica mogelijk was - en *is* - onder bepaalde omstandigheden.

@@ -396,13 +396,13 @@ interdependiente.
 
 [^10]: Arquitectura para la humanidad: http://architectureforhumanity.org/
 
-[^11]: Diseño off-grid: http://www.off-grid.net/energy-design-service-questionnaire-spanish/\
+[^11]: Diseño off-grid: http://www.off-grid.net/energy-design-service-questionnaire-spanish/
 
 [^12]: Soft Energy: http://en.wikipedia.org/wiki/Soft_energy_technology
 
 [^13]: Light Up World Foundation: http://lutw.org/
 
-[^14]: Lámpara de botella segura: http://tecno.sostenibilidad.org\
+[^14]: Lámpara de botella segura: http://tecno.sostenibilidad.org/
 
 [^15]: Briquette: http://en.wikipedia.org/wiki/Biomass_briquettes
 

@@ -1,5 +1,4 @@
 # Whistleblowing
-
 ## Filtrar información sensible, un arma de doble filo
 
 ***Claudio Agosti***
