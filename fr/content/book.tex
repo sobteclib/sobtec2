@@ -8,30 +8,37 @@
 % % % % % % % % % % % % % % % % % % % % % % % %
 \begin{document}
 
-\pagestyle{empty}
 \frontmatter
+\pagestyle{empty}
 \begin{center}
  \hspace{0pt}
   \vfill
   \vspace*{0.2\textheight}
-  \input{tex.d/00devoumend}
+  \input{tex.d/00devoument}
   \vfill
  \hspace{0pt}
 \end{center}
 \pagebreak
+
+%\pagestyle{empty}
 \maketitle
+
+\pagestyle{empty}
+\include{copyright}
 
 \pagestyle{fancy}
 
-\include{copyright}
-
 \tableofcontents
+\thispagestyle{fancy}
+
 
 \chapter{\prefacename}
+\thispagestyle{fancy}
 \include{tex.d/01preface}
 
 \mainmatter
 \chapter{Introduction}
+\thispagestyle{fancy}
  \include{tex.d/02intro}
 
 \chapter{Caractéristiques des initiatives de souveraineté technologique}

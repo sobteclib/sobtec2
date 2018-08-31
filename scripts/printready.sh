@@ -57,7 +57,7 @@ function renderbook {
 		"\def\languagename{$LANGUAGE} \input{book.tex}"
 
 	#Testing
-	#evince book.pdf
+	evince book.pdf
 
 	#Move resulting book to target location
 	mv book.pdf ../../releases/print/sobtec2-$LANGUAGE.pdf
@@ -90,10 +90,12 @@ function manglePandocResults {
 	#Insert linebreak after every ':' in section heading of tex.d-parts
 	#that's a '\\'
 	sed -i '0,/: /s//:\\\\/' tex.d/01preface.tex
+	sed -i '0,/: /s//:\\\\/' tex.d/01prefacio.tex
 	sed -i '0,/: /s//:\\\\/' tex.d/02intro.tex
 }
 
 #################################################
 renderbook nl dutch
-renderbook fr french
-renderbook en english
+#renderbook en english
+#renderbook fr french
+#renderbook es spanish

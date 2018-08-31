@@ -8,8 +8,8 @@
 % % % % % % % % % % % % % % % % % % % % % % % %
 \begin{document}
 
-\pagestyle{empty}
 \frontmatter
+\pagestyle{empty}
 \begin{center}
  \hspace{0pt}
   \vfill
@@ -19,19 +19,26 @@
  \hspace{0pt}
 \end{center}
 \pagebreak
+
+%\pagestyle{empty}
 \maketitle
+
+\pagestyle{empty}
+\include{copyright}
 
 \pagestyle{fancy}
 
-\include{copyright}
-
 \tableofcontents
+\thispagestyle{fancy}
+
 
 \chapter{\prefacename}
+\thispagestyle{fancy}
 \include{tex.d/01preface}
 
 \mainmatter
 \chapter{Inleiding}
+\thispagestyle{fancy}
  \include{tex.d/02intro}
 
 \chapter{De karakterisering van initiatieven van technologische soevereiniteit}
