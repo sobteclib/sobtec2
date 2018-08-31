@@ -1,5 +1,4 @@
 # Keeping technological sovereignty
-
 ## The case of Internet Relay Chat
 
 ![](../../contrib/gfx/illustrations/irc-halfsize.png)

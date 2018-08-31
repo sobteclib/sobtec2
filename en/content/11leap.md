@@ -1,6 +1,4 @@
-﻿
-# Encrypting mails with usable tools
-
+﻿# Encrypting mails with usable tools
 ## The mass adoption of encryption technologies
 
 ***Kali Kaneko***

@@ -1,5 +1,4 @@
 # Mantener la soberanía tecnológica
-
 ## El caso del Internet Relay Chat
 
 ***Maxigas***
@@ -346,8 +345,7 @@ desde entonces. Por eso, el IRC puede ser conceptualizado como una
 *máquina del tiempo* que aporta con consecuencias sorprendentes las
 condiciones tecnológicas y políticas del pasado al presente. [^5]
 
-Bibliografía
-============
+##Bibliografía
 
 Antonić, Voja. 2014. “Voja Antonic in Calafou.” Charla en Calafou.  <https://calafou.org/en/content/voja-antonic-calafou>.
 

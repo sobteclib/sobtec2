@@ -1,5 +1,4 @@
 # Le lancement d'alerte
-
 ## Une arme amicale à double tranchant
 
 ***Claudio Agosti***
