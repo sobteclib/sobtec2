@@ -221,7 +221,7 @@ interpreters together with new activist volunteers in our booths.
 Another important part of changing the political culture has been to raise the
 profile of language diversity among participants in international events.
 Wherever we work we try to give a political and practical introduction to the
-equipment, and provide written guidelines on how to speak in multi-lingual
+equipment, and provide written guidelines on how to speak in multilingual
 meetings [^3].  We encourage people to actively think about the language they
 use.  For example, we ask participants not to speak the majority language
 during the meeting, even if they could, because it marginalises those who have
