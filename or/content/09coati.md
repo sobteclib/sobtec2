@@ -164,7 +164,7 @@ as we went along.  We devoted a lot of time to identifying the causes of
 problems and modifying the equipment, adding small circuits to filter and
 boost signals, and improve the quality of the sound.
 
-The material built by the Greek collective came with no schematics, which was
+The material built by the Greek collective came with no schematics, which has
 made this considerably harder.  Hours of reverse engineering were required
 before we could make modifications.  Now the equipment is almost 10 years old
 and we are beginning to face the challenge of designing and building new,
