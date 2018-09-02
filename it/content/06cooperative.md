@@ -109,7 +109,7 @@ Queste sfide danno una visione chiara di quello che ci aspetta. La creazione di 
 
 0. Promemoria, le tecnologie libere, in breve, sono le tecnologie e i servizi basati sulla libertà data dal software Free/Libero e la sua filosofia. Libertà 0: la libertà di eseguire il programma per qualsiasi scopo. Libertà 1: la libertà di studiare il programma, modificarlo e farne ciò che si desidera. Libertà 2: la libertà di ridistribuire e fare copie in modo da poter aiutare il prossimo. Libertà 3: la libertà di migliorare il programma e di distribuirne pubblicamente i miglioramenti (e versioni modificate in genere), in modo che l'intera comunità  ne benefici. ↩ 
 
-1. Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • BOUM: https://www.boum.org/ (FR) • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA) ↩ 
+1. Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • Systemli: https://www.systemli.org/ (GER) • BOUM: https://www.boum.org/ (FR)  • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA) ↩ 
 
 2. Consul: https://github.com/AyuntamientoMadrid/consul • Decidim: https://github.com/AjuntamentdeBarcelona/decidim ↩ 
 

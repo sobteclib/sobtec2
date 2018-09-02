@@ -263,7 +263,7 @@ understanding work, the commons, sustainability and economy.
 
 [^0]: As a reminder, free technologies, in a nutshell, are the technologies and services based on the freedom given by free/libre software and it’s philosophy.  **Freedom 0**: The freedom to run the program for any purpose.  **Freedom 1**: The freedom to study how the program works, and change it to make it do what you wish.  **Freedom 2**: The freedom to redistribute and make copies so you can help your neighbour.  **Freedom 3**: The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that the whole community benefits.
 
-[^1]: Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • BOUM: https://www.boum.org/ (FR)  • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA)
+[^1]: Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • Systemli: https://www.systemli.org/ (GER) • BOUM: https://www.boum.org/ (FR)  • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA)
 
 [^2]: Consul: https://github.com/AyuntamientoMadrid/consul • Decidim: https://github.com/AjuntamentdeBarcelona/decidim
 

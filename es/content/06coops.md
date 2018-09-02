@@ -298,7 +298,7 @@ pensar el trabajo, el procomún, la sostenibilidad y la economía.
 
 [^0]: Definición de software libre:  **Libertad 0**: La libertad de usar el programa, con cualquier propósito (uso).  **Liberdad 1**: La libertad de estudiar cómo funciona el programa y modificarlo, adaptándolo a las propias necesidades (estudio).  *Liberdad 2**: La libertad de distribuir copias del programa, con lo cual se puede ayudar a otras usuarias (distribución). **Liberdad 3**: La libertad de mejorar el programa y hacer públicas esas mejoras a las demás, de modo que toda la comunidad se beneficie (mejora).
 
-[^1]: Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • BOUM: https://www.boum.org/ (FR)  • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA)
+[^1]: Rise Up: https://riseup.net/ (USA) • Autistici: https://autistici.org/ (ITA) • Free: https://www.free.de/ (GER) • So36: https://so36.net/ (GER) • Systemli: https://www.systemli.org/ (GER) • BOUM: https://www.boum.org/ (FR)  • Nodo50: http://nodo50.org/ (ESP) • Pangea: https://pangea.org/ (ESP) • Immerda: https://www.immerda.ch/ (CH) • Mayfirst/People Link: https://mayfirst.org/ (USA)
 
 [^2]: Consul: https://github.com/AyuntamientoMadrid/consul • Decidim: https://github.com/AjuntamentdeBarcelona/decidim
 

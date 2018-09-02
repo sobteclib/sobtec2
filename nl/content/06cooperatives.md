@@ -145,6 +145,7 @@ Deze uitdagingen geven een inzicht in de toekomst en de creatie van deze autonom
 	- Autistici: https://autistici.org/ (ITA)
 	- Free: https://www.free.de/ (GER)
 	- So36: https://so36.net/ (GER)
+    - Systemli: https://systemli.org/ (GER)
 	- BOUM: https://www.boum.org/ (FR)
 	- Nodo50: http://nodo50.org/ (ESP)
 	- Pangea: https://pangea.org/ (ESP)
