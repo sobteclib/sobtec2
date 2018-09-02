@@ -1,0 +1,61 @@
+\documentclass[a5paper,11pt]{book}
+\input{../../contrib/dtp/preamble}
+
+\input{title}
+
+% % % % % % % % % % % % % % % % % % % % % % % %
+% % % % % % % % % % % % % % % % % % % % % % % %
+% % % % % % % % % % % % % % % % % % % % % % % %
+\begin{document}
+
+\frontmatter
+\pagestyle{empty}
+\begin{center}
+ \hspace{0pt}
+  \vfill
+  \vspace*{0.2\textheight}
+  \input{tex.d/00dedication}
+  \vfill
+ \hspace{0pt}
+\end{center}
+\pagebreak
+
+%\pagestyle{empty}
+\maketitle
+
+\pagestyle{empty}
+\include{copyright}
+
+\pagestyle{fancy}
+
+\tableofcontents
+\thispagestyle{fancy}
+
+
+\chapter{\prefacename}
+\thispagestyle{fancy}
+\include{tex.d/01preface}
+
+\mainmatter
+\chapter{Inleiding}
+\thispagestyle{fancy}
+ \include{tex.d/02intro}
+
+\chapter{De karakterisering van initiatieven van technologische soevereiniteit}
+ \include{tex.d/03algos}
+ \include{tex.d/04gamification}
+ \include{tex.d/05irc}
+ \include{tex.d/06cooperatives}
+ \include{tex.d/07rats}
+
+\chapter{Initiatieven van technologische soevereiniteit}
+ \include{tex.d/08rizomatica}
+ \include{tex.d/09coati}
+ \include{tex.d/10leaks}
+ \include{tex.d/11leap}
+ \include{tex.d/12chatons}
+
+\chapter{Credits}
+ \include{tex.d/13credits}
+
+\end{document}
