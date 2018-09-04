@@ -2,7 +2,7 @@
 
 **Editor:** Spideralex
 
-**Ontwerp en layout:** Ariel Acevedo
+**Ontwerp en layout:** Foockinho
 
 **Git repositories:** Maxigas
 
@@ -10,6 +10,7 @@
 
  * ***Engels***: Kate Wilson
  * ***Frans***: Bruno Lakmeche, Lunar
+ * ***Italiaans***: Ignifugo, Zyev, Swasp, Samba, Largo
  * ***Nederlands***: Kel, Ivom, Winston, Ptrc, Lara, Kwadro
  * ***Spaans***: Ana A. Romero, Djaván Adler, Germán
 

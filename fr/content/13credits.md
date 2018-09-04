@@ -2,27 +2,30 @@
 
 **Édition**: Spideralex
 
-**Graphisme et mise en page**: Ariel Acevedo
+**Graphisme et mise en page**: Foockinho
 
 **Dépôts Git**: Maxigas
 
 **Traductions**:
 
- * ***Français***: Bruno Lakmeche, Lunar
- * ***Espagnol***: Ana A. Romero, Djaván Adler, Germán
  * ***Anglais***: Kate Wilson
+ * ***Dutch***: Kel, Ivom, Winston, Ptrc, Lara, Kwadro
+ * ***Espagnol***: Ana A. Romero, Djaván Adler, Germán
+ * ***Français***: Bruno Lakmeche, Lunar
+ * ***Italiaans***: Ignifugo, Zyev, Swasp, Samba, Largo
 
 **Révisions traductions**:
 
- * ***Français***: Maxigas
- * ***Espagnol***: Viviana Varin
  * ***Anglais***: Spideralex and Ana Lanita
+ * ***Dutch***: Kel en Ivom
+ * ***Espagnol***: Viviana Varin
+ * ***Français***: Maxigas
 
-**Révision**, ***anglais***, “Gouvernance numérique”:
+**Révision**, ***Anglais***, “Gouvernance numérique”:
 
  * Patrice Riemens
 
-**Révision**, ***espagnol***, “Souveraineté technologique pour aimer à nouveau les machines”:
+**Révision**, ***Espagnol***, “Souveraineté technologique pour aimer à nouveau les machines”:
 
  * Ale Fernandez
 
