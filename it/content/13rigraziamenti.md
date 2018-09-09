@@ -2,12 +2,13 @@
 
 **Editor:** Spideralex
 
-**Design e layout:** Ariel Acevedo
+**Design e layout:** Foockinho
 
 **Git repositories:** Maxigas
 
 **Traduzioni**:
 
+ * ***Dutch***: Kel, Ivom, Winston, Ptrc, Lara, Kwadro
  * ***English***: Kate Wilson
  * ***French***: Bruno Lakmeche, Lunar
  * ***Spanish***: Ana A. Romero, Djaván Adler, Germán
@@ -15,6 +16,7 @@
 
 **Copy editing**:
 
+ * ***Dutch***: Kel en Ivom
  * ***English***: Maxigas
  * ***French***: Viviana Varin
  * ***Spanish***: Spideralex and Ana Lanita
