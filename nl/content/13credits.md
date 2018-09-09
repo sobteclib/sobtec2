@@ -59,17 +59,18 @@ Calafou is een coöperatieve die een actieve bijdrage levert aan de commons, doo
 Na een jaar van intensieve voorbereiding zijn we in juli 2011 van start gegaan.
 In de daaropvolgende zes jaar vormde we de ruïnes om tot een leefbaar geheel, zodat we nu bezoekers kunnen verwelkomen, in nieuwe huizen die zijn onder gebracht in een woningcorporatie, en ook voorzien in productiecoöperaties en andere infrastructuren voor de commons.
 
-Momenteel biedt Calafou onderdak aan een aantal initiatieven zoals 
-* open ateliers voor hout, metaal, plastic en textiel;
-* een ambachtelijke brouwerij;
-* een coöperatieve keuken genaamd "The Conquest of Bread";
-* het "Ecosec" project voor de bouw van mobiele droge toiletten;
-* de audioproductie- en opnamestudio "On Air",
-* een workshop voor het maken van poppen en het ontwerpen van sets voor theater,
-* de collectieve ruimte van het hacklab voor het experimenteren en ontwikkelen van vrije digitale technologieën zoals 3D-printing en boekenscanning;
-* onze mediatheek, onze software voor het economisch beheer van het project en lokale webservices om onszelf te organiseren;
-* Anarchaserver, een feministische serverruimte;
-* ons eigen FM-radiostation, etc.
+Momenteel biedt Calafou onderdak aan een aantal initiatieven zoals:
+
+ * open ateliers voor hout, metaal, plastic en textiel
+ * een ambachtelijke brouwerij
+ * een coöperatieve keuken genaamd "The Conquest of Bread"
+ * het "Ecosec" project voor de bouw van mobiele droge toiletten
+ * de audioproductie- en opnamestudio "On Air"
+ * een workshop voor het maken van poppen en het ontwerpen van sets voor theater
+ * de collectieve ruimte van het hacklab voor het experimenteren en ontwikkelen van vrije digitale technologieën zoals 3D-printing en boekenscanning
+ * onze mediatheek, onze software voor het economisch beheer van het project en lokale webservices om onszelf te organiseren
+ * Anarchaserver, een feministische serverruimte
+ * ons eigen FM-radiostation, etc.
 
 Verdere ecologische initiatieven omvatten onder andere de productie van zeep, compost en brood op basis van lokaal gerecyclede materialen, maar ook educatieve activiteiten rond efficiënte kachelbouw, kunststofrecycling en nog veel meer tijdens onze seizoensopen dagen.
 In de afgelopen jaren zijn talrijke evenementen georganiseerd om de technologische soevereiniteit, autonomie en zelfbeheer te bevorderen: Hackmeeting 2012, Hack the Earth, Extrud_me, Backbone409, Hack the Biblio!, TransHackFeministische Convergentie, Verjaardag van de Integrale Coöperatie van Catalonië, Food Sovereignty Network meeting, Desvariart circusfestival.
@@ -87,27 +88,33 @@ Daarom vragen wij al die ons al kent, die ons op een dag hoopt te bezoeken, die 
 ##Hartelijk dank!
 
 Bedankt om dit boek aan te schaffen! De inhoud is samengesteld door veel mensen die in en rond Calafou actief zijn. Alle inkomsten die de verkoop van dit boek genereren komen ten goede aan Calafou.
-* www.calafou.org
+
+ * www.calafou.org
 
 Je kan lid worden van de mailinglist waarop op gezette tijd en stond aankondingen worden verspreid over dit project
-* https://lists.riseup.net/www/subscribe/infocalafou
+
+ * https://lists.riseup.net/www/subscribe/infocalafou
 
 
 ## Links naar de online repositories
 
 Volume 1 and 2 zijn te raadplegen als gitbook via:
-https://www.gitbook.com/@sobtec
+
+* https://www.gitbook.com/@sobtec
 
 Alle vertalingen van Volume 2 zijn beschikbaar via:
+
 * https://sobtec.gitbooks.io/sobtec2/
 * https://hacklabbo.indivia.net/book/sobtec2/
 
 Alle vertalingen van Volume 1 zijn beschikbaar via:
+
 * https://sobtec.gitbooks.io/sobtec1/
 * https://hacklabbo.indivia.net/book/sobtec1/
 
 ##Contactinfo
 Je kan ons bereiken via: sobtech@riseup.net
+
 * GPG ID: 0x8198F0A3
 * Fingerprint: DE05 93F9 8B12 3FEA 476F D5E3 DC97 E95E 8198 F0A3
 
