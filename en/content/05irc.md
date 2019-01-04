@@ -30,7 +30,7 @@ features may result in crucially different technological affordances
 depending on their context of use: this shows that pure techniques
 should never be promoted or rejected in themselves.
 
-##Internet Relay Chat
+## Internet Relay Chat
 
 **Internet Relay Chat is a very basic but very flexible protocol for
 real time written conversations.** It has been first implemented in
@@ -58,7 +58,7 @@ seem retrograde, it is actually a critical technology adoption practice
 that empirically evades, and analytically highlights the pitfalls of
 mainstream social media monopolies.*
 
-##Recuperation
+## Recuperation
 
 *Critique and recuperation in technological cycles* is a process of
 integrating societal demands into the capitalist system. New
@@ -168,13 +168,13 @@ fought for them, often breaking existing laws, regulations and social
 norms. Society then slowly tamed these technologies – and now they are
 used to pacify society itself.
 
-##Backlogs
+## Backlogs
 
 **Logs are consecutive lines of texts that record events and
 interactions, from logging in a service to a piece of conversation
 between hitting the Send button.**
 
-###As a Human-Computer Interaction limitation
+### As a Human-Computer Interaction limitation
 
 *IRC is different from many other chat devices in that users can only
 follow conversations as long as they are logged in.* If a particular
@@ -186,7 +186,7 @@ that solving this problem is out of scope of the IRC protocol. Network
 operators could solve the problem if they wanted, but in practice users
 are – literally – left to their own devices.
 
-###As a classic affordance
+### As a classic affordance
 
 When IRC was conceived (1988), the lack of backlogs was not a
 particularly unique property of IRC. The feature was absent from several
@@ -254,7 +254,7 @@ It allows users to understand and control the media they use to share
 and collaborate: an essential condition for nurturing *technological
 sovereignty*.
 
-###As a modern affordance
+### As a modern affordance
 
 **The same feature that allowed IRC to become a mass media in the 1990s
 actually *prevents its from mainstream adoption in the 2010s***. Users
@@ -291,7 +291,7 @@ user groups, but only those that invested time and energy to hold on to
 it.
 
 <!-- user groups! -->
-###Conclusions
+### Conclusions
 
 **It seems that technical deficiencies can have positive social
 consequences**. The same limitation – the lack of backlogs – that
@@ -324,7 +324,7 @@ can be conceptualised as a *time machine* which brings past
 technological and political conditions to the present, with surprising
 consequences. [^8]
 
-###Bibliography
+### Bibliography
 
 Antonić, Voja. 2014. “Voja Antonic in Calafou.” Talk at Calafou.  https://calafou.org/en/content/voja-antonic-calafou>.
 
