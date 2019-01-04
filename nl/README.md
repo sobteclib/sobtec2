@@ -9,7 +9,7 @@ De teksten zijn geschreven door Alex Haché, Benjamin Cadon, COATI, Carolina, Ka
 ## Uitgaven
 
 * [HTML](https://sobtec.gitbooks.io/sobtec2/content/nl/)
-* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/web/sobtech2-NL-with-covers-web-150dpi-2018-01-10-v2.pdf)
+* [PDF](https://sobtec.gitbooks.io/sobtec2/releases/web/sobtech2-NL-with-covers-web-150dpi-2018-09-10-v2.pdf)
 * [EPUB](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_nl.epub)
 * [MOBI](https://sobtec.gitbooks.io/sobtec2/releases/latest/sobtec2_nl.mobi)
 

@@ -10,18 +10,21 @@
 
  * ***Castellano***: Ana A. Romero, Djaván Adler, Germán
  * ***Francés***: Bruno Lakmeche, Lunar
+ * ***Holandés***: Kel, Ivom, Winston, Ptrc, Lara, Kwadro
  * ***Inglés***: Kate Wilson
+ * ***Italiano***: Ignifugo, Zyev, Swasp, Samba, Largo
 
 **Revisión de traducciones**:
 
  * ***Castellano***: Spideralex and Ana Lanita
  * ***Francés***: Viviana Varin
+ * ***Holandés***: Kel en Ivom
  * ***Inglés***: Maxigas
 
 **Revisión del artículo en inglés “Gobernanza digital”**:
 
  * Patrice Riemens
- 
+
 **Revisión del artículo en castellano “Soberanía tecnológica para volver a querer las máquinas”**:
 
  * Ale Fernandez
