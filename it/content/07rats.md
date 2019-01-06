@@ -1,4 +1,4 @@
-﻿# Da tecnologie appropriate a tecnologie ri-appropriate [^0]
+# Da tecnologie appropriate a tecnologie ri-appropriate [^0]
 
 ***Elleflâne***
 

@@ -1,4 +1,4 @@
-﻿# Whistleblowing
+# Whistleblowing
 ## A double edged sword
 
 ***Claudio Agosti***
