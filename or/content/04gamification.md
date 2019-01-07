@@ -1,4 +1,4 @@
-﻿# Digital governance
+# Digital governance
 
 **Ippolita**
 
