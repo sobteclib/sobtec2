@@ -1,7 +1,7 @@
 # Versleutelen van mails met bruikbare tools
 ## De massale toepassing van versleutelingstechnologieën
 
-***Kali Kaneko****
+***Kali Kaneko***
 
 ![](../../contrib/gfx/illustrations/leap-halfsize.png)
 
