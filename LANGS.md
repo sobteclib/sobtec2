@@ -4,5 +4,5 @@
 * [Castellano](es/)
 * [Français](fr/)
 * [Nederlands](nl/)
-
+* [Italiano](it/)
 
